@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6
+0,HomeTeam,AwayTeam,Full time home goals,Full time away goals,Results,Win Streak,3 Game Streak
+1,Wolves,Man City,1,3,2,1,0
+2,Man City,Leicester,2,5,-3,0,0
+3,Leeds,Man City,1,1,0,0,0
+4,Man City,Arsenal,1,0,1,1,0
+5,West Ham,Man City,1,1,0,0,0
+6,Sheffield United,Man City,0,1,1,1,0
+7,Man City,Liverpool,1,1,0,0,0
+8,Tottenham,Man City,2,0,-2,0,0
+9,Man City,Burnley,5,0,5,1,0
+10,Man City,Fulham,2,0,2,2,0
+11,Man United,Man City,0,0,0,0,0
+12,Man City,West Brom,1,1,0,0,0
+13,Southampton,Man City,0,1,1,1,0
+14,Man City,Newcastle,2,0,2,2,0
+15,Chelsea,Man City,1,3,2,3,1
+16,Man City,Brighton,1,0,1,4,1
+17,Man City,Crystal Palace,4,0,4,5,1
+18,Man City,Aston Villa,2,0,2,6,1
+19,West Brom,Man City,0,5,5,7,1
+20,Man City,Sheffield United,1,0,1,8,1
+21,Burnley,Man City,0,2,2,9,1
+22,Liverpool,Man City,1,4,3,10,1
+23,Man City,Tottenham,3,0,3,11,1
+24,Everton,Man City,1,3,2,12,1
+25,Arsenal,Man City,0,1,1,13,1
+26,Man City,West Ham,2,1,1,14,1
+27,Man City,Wolves,4,1,3,15,1
+28,Man City,Man United,0,2,-2,0,0
+29,Man City,Southampton,5,2,3,1,0
+30,Fulham,Man City,0,3,3,2,0
+31,Leicester,Man City,0,2,2,3,1
+32,Man City,Leeds,1,2,-1,0,0
+33,Aston Villa,Man City,1,2,1,1,0
+34,Crystal Palace,Man City,0,2,2,2,0
+35,Man City,Chelsea,1,2,-1,0,0
+36,Newcastle,Man City,3,4,1,1,0
+37,Brighton,Man City,3,2,-1,0,0
+38,Man City,Everton,5,0,5,1,0
