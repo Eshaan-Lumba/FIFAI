@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6
+0,HomeTeam,AwayTeam,Full time home goals,Full time away goals,Results,Win Streak,3 Game Streak
+1,Chelsea,Burnley,2,3,-1,0,0
+2,Tottenham,Chelsea,1,2,1,1,0
+3,Chelsea,Everton,2,0,2,2,0
+4,Leicester,Chelsea,1,2,1,3,1
+5,Chelsea,Arsenal,0,0,0,0,0
+6,Stoke,Chelsea,0,4,4,1,0
+7,Chelsea,Man City,0,1,-1,0,0
+8,Crystal Palace,Chelsea,2,1,-1,0,0
+9,Chelsea,Watford,4,2,2,1,0
+10,Bournemouth,Chelsea,0,1,1,2,0
+11,Chelsea,Man United,1,0,1,3,1
+12,West Brom,Chelsea,0,4,4,4,1
+13,Liverpool,Chelsea,1,1,0,0,0
+14,Chelsea,Swansea,1,0,1,1,0
+15,Chelsea,Newcastle,3,1,2,2,0
+16,West Ham,Chelsea,1,0,-1,0,0
+17,Huddersfield,Chelsea,1,3,2,1,0
+18,Chelsea,Southampton,1,0,1,2,0
+19,Everton,Chelsea,0,0,0,0,0
+20,Chelsea,Brighton,2,0,2,1,0
+21,Chelsea,Stoke,5,0,5,2,0
+22,Arsenal,Chelsea,2,2,0,0,0
+23,Chelsea,Leicester,0,0,0,0,0
+24,Brighton,Chelsea,0,4,4,1,0
+25,Chelsea,Bournemouth,0,3,-3,0,0
+26,Watford,Chelsea,4,1,-3,0,0
+27,Chelsea,West Brom,3,0,3,1,0
+28,Man United,Chelsea,2,1,-1,0,0
+29,Man City,Chelsea,1,0,-1,0,0
+30,Chelsea,Crystal Palace,2,1,1,1,0
+31,Chelsea,Tottenham,1,3,-2,0,0
+32,Chelsea,West Ham,1,1,0,0,0
+33,Southampton,Chelsea,2,3,1,1,0
+34,Burnley,Chelsea,1,2,1,2,0
+35,Swansea,Chelsea,0,1,1,3,1
+36,Chelsea,Liverpool,1,0,1,4,1
+37,Chelsea,Huddersfield,1,1,0,0,0
+38,Newcastle,Chelsea,3,0,-3,0,0
