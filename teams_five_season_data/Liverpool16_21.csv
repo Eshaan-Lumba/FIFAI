@@ -1,0 +1,192 @@
+,0,1,2,3,4,5,6
+0,HomeTeam,AwayTeam,Full time home goals,Full time away goals,Results,Win Streak,3 Game Streak
+1,Arsenal,Liverpool,3,4,1,1,0
+2,Burnley,Liverpool,2,0,-2,0,0
+3,Tottenham,Liverpool,1,1,0,0,0
+4,Liverpool,Leicester,4,1,3,1,0
+5,Chelsea,Liverpool,1,2,1,2,0
+6,Liverpool,Hull,5,1,4,3,1
+7,Swansea,Liverpool,1,2,1,4,1
+8,Liverpool,Man United,0,0,0,0,0
+9,Liverpool,West Brom,2,1,1,1,0
+10,Crystal Palace,Liverpool,2,4,2,2,0
+11,Liverpool,Watford,6,1,5,3,1
+12,Southampton,Liverpool,0,0,0,0,0
+13,Liverpool,Sunderland,2,0,2,1,0
+14,Bournemouth,Liverpool,4,3,-1,0,0
+15,Liverpool,West Ham,2,2,0,0,0
+16,Middlesbrough,Liverpool,0,3,3,1,0
+17,Everton,Liverpool,0,1,1,2,0
+18,Liverpool,Stoke,4,1,3,3,1
+19,Liverpool,Man City,1,0,1,4,1
+20,Sunderland,Liverpool,2,2,0,0,0
+21,Man United,Liverpool,1,1,0,0,0
+22,Liverpool,Swansea,2,3,-1,0,0
+23,Liverpool,Chelsea,1,1,0,0,0
+24,Hull,Liverpool,2,0,-2,0,0
+25,Liverpool,Tottenham,2,0,2,1,0
+26,Leicester,Liverpool,3,1,-2,0,0
+27,Liverpool,Arsenal,3,1,2,1,0
+28,Liverpool,Burnley,2,1,1,2,0
+29,Man City,Liverpool,1,1,0,0,0
+30,Liverpool,Everton,3,1,2,1,0
+31,Liverpool,Bournemouth,2,2,0,0,0
+32,Stoke,Liverpool,1,2,1,1,0
+33,West Brom,Liverpool,0,1,1,2,0
+34,Liverpool,Crystal Palace,1,2,-1,0,0
+35,Watford,Liverpool,0,1,1,1,0
+36,Liverpool,Southampton,0,0,0,0,0
+37,West Ham,Liverpool,0,4,4,1,0
+38,Liverpool,Middlesbrough,3,0,3,2,0
+39,Watford,Liverpool,3,3,0,0,0
+40,Liverpool,Crystal Palace,1,0,1,1,0
+41,Liverpool,Arsenal,4,0,4,2,0
+42,Man City,Liverpool,5,0,-5,0,0
+43,Liverpool,Burnley,1,1,0,0,0
+44,Leicester,Liverpool,2,3,1,1,0
+45,Newcastle,Liverpool,1,1,0,0,0
+46,Liverpool,Man United,0,0,0,0,0
+47,Tottenham,Liverpool,4,1,-3,0,0
+48,Liverpool,Huddersfield,3,0,3,1,0
+49,West Ham,Liverpool,1,4,3,2,0
+50,Liverpool,Southampton,3,0,3,3,1
+51,Liverpool,Chelsea,1,1,0,0,0
+52,Stoke,Liverpool,0,3,3,1,0
+53,Brighton,Liverpool,1,5,4,2,0
+54,Liverpool,Everton,1,1,0,0,0
+55,Liverpool,West Brom,0,0,0,0,0
+56,Bournemouth,Liverpool,0,4,4,1,0
+57,Arsenal,Liverpool,3,3,0,0,0
+58,Liverpool,Swansea,5,0,5,1,0
+59,Liverpool,Leicester,2,1,1,2,0
+60,Burnley,Liverpool,1,2,1,3,1
+61,Liverpool,Man City,4,3,1,4,1
+62,Swansea,Liverpool,1,0,-1,0,0
+63,Huddersfield,Liverpool,0,3,3,1,0
+64,Liverpool,Tottenham,2,2,0,0,0
+65,Southampton,Liverpool,0,2,2,1,0
+66,Liverpool,West Ham,4,1,3,2,0
+67,Liverpool,Newcastle,2,0,2,3,1
+68,Man United,Liverpool,2,1,-1,0,0
+69,Liverpool,Watford,5,0,5,1,0
+70,Crystal Palace,Liverpool,1,2,1,2,0
+71,Everton,Liverpool,0,0,0,0,0
+72,Liverpool,Bournemouth,3,0,3,1,0
+73,West Brom,Liverpool,2,2,0,0,0
+74,Liverpool,Stoke,0,0,0,0,0
+75,Chelsea,Liverpool,1,0,-1,0,0
+76,Liverpool,Brighton,4,0,4,1,0
+77,Liverpool,West Ham,4,0,4,1,0
+78,Crystal Palace,Liverpool,0,2,2,2,0
+79,Liverpool,Brighton,1,0,1,3,1
+80,Leicester,Liverpool,1,2,1,4,1
+81,Tottenham,Liverpool,1,2,1,5,1
+82,Liverpool,Southampton,3,0,3,6,1
+83,Chelsea,Liverpool,1,1,0,0,0
+84,Liverpool,Man City,0,0,0,0,0
+85,Huddersfield,Liverpool,0,1,1,1,0
+86,Liverpool,Cardiff,4,1,3,2,0
+87,Arsenal,Liverpool,1,1,0,0,0
+88,Liverpool,Fulham,2,0,2,1,0
+89,Watford,Liverpool,0,3,3,2,0
+90,Liverpool,Everton,1,0,1,3,1
+91,Burnley,Liverpool,1,3,2,4,1
+92,Bournemouth,Liverpool,0,4,4,5,1
+93,Liverpool,Man United,3,1,2,6,1
+94,Wolves,Liverpool,0,2,2,7,1
+95,Liverpool,Newcastle,4,0,4,8,1
+96,Liverpool,Arsenal,5,1,4,9,1
+97,Man City,Liverpool,2,1,-1,0,0
+98,Brighton,Liverpool,0,1,1,1,0
+99,Liverpool,Crystal Palace,4,3,1,2,0
+100,Liverpool,Leicester,1,1,0,0,0
+101,West Ham,Liverpool,1,1,0,0,0
+102,Liverpool,Bournemouth,3,0,3,1,0
+103,Man United,Liverpool,0,0,0,0,0
+104,Liverpool,Watford,5,0,5,1,0
+105,Everton,Liverpool,0,0,0,0,0
+106,Liverpool,Burnley,4,2,2,1,0
+107,Fulham,Liverpool,1,2,1,2,0
+108,Liverpool,Tottenham,2,1,1,3,1
+109,Southampton,Liverpool,1,3,2,4,1
+110,Liverpool,Chelsea,2,0,2,5,1
+111,Cardiff,Liverpool,0,2,2,6,1
+112,Liverpool,Huddersfield,5,0,5,7,1
+113,Newcastle,Liverpool,2,3,1,8,1
+114,Liverpool,Wolves,2,0,2,9,1
+115,Liverpool,Norwich,4,1,3,1,0
+116,Southampton,Liverpool,1,2,1,2,0
+117,Liverpool,Arsenal,3,1,2,3,1
+118,Burnley,Liverpool,0,3,3,4,1
+119,Liverpool,Newcastle,3,1,2,5,1
+120,Chelsea,Liverpool,1,2,1,6,1
+121,Sheffield United,Liverpool,0,1,1,7,1
+122,Liverpool,Leicester,2,1,1,8,1
+123,Man United,Liverpool,1,1,0,0,0
+124,Liverpool,Tottenham,2,1,1,1,0
+125,Aston Villa,Liverpool,1,2,1,2,0
+126,Liverpool,Man City,3,1,2,3,1
+127,Crystal Palace,Liverpool,1,2,1,4,1
+128,Liverpool,Brighton,2,1,1,5,1
+129,Liverpool,Everton,5,2,3,6,1
+130,Bournemouth,Liverpool,0,3,3,7,1
+131,Liverpool,Watford,2,0,2,8,1
+132,Leicester,Liverpool,0,4,4,9,1
+133,Liverpool,Wolves,1,0,1,10,1
+134,Liverpool,Sheffield United,2,0,2,11,1
+135,Tottenham,Liverpool,0,1,1,12,1
+136,Liverpool,Man United,2,0,2,13,1
+137,Wolves,Liverpool,1,2,1,14,1
+138,West Ham,Liverpool,0,2,2,15,1
+139,Liverpool,Southampton,4,0,4,16,1
+140,Norwich,Liverpool,0,1,1,17,1
+141,Liverpool,West Ham,3,2,1,18,1
+142,Watford,Liverpool,3,0,-3,0,0
+143,Liverpool,Bournemouth,2,1,1,1,0
+144,Everton,Liverpool,0,0,0,0,0
+145,Liverpool,Crystal Palace,4,0,4,1,0
+146,Man City,Liverpool,4,0,-4,0,0
+147,Liverpool,Aston Villa,2,0,2,1,0
+148,Brighton,Liverpool,1,3,2,2,0
+149,Liverpool,Burnley,1,1,0,0,0
+150,Arsenal,Liverpool,2,1,-1,0,0
+151,Liverpool,Chelsea,5,3,2,1,0
+152,Newcastle,Liverpool,1,3,2,2,0
+153,Liverpool,Leeds,4,3,1,1,0
+154,Chelsea,Liverpool,0,2,2,2,0
+155,Liverpool,Arsenal,3,1,2,3,1
+156,Aston Villa,Liverpool,7,2,-5,0,0
+157,Everton,Liverpool,2,2,0,0,0
+158,Liverpool,Sheffield United,2,1,1,1,0
+159,Liverpool,West Ham,2,1,1,2,0
+160,Man City,Liverpool,1,1,0,0,0
+161,Liverpool,Leicester,3,0,3,1,0
+162,Brighton,Liverpool,1,1,0,0,0
+163,Liverpool,Wolves,4,0,4,1,0
+164,Fulham,Liverpool,1,1,0,0,0
+165,Liverpool,Tottenham,2,1,1,1,0
+166,Crystal Palace,Liverpool,0,7,7,2,0
+167,Liverpool,West Brom,1,1,0,0,0
+168,Newcastle,Liverpool,0,0,0,0,0
+169,Southampton,Liverpool,1,0,-1,0,0
+170,Liverpool,Man United,0,0,0,0,0
+171,Liverpool,Burnley,0,1,-1,0,0
+172,Tottenham,Liverpool,1,3,2,1,0
+173,West Ham,Liverpool,1,3,2,2,0
+174,Liverpool,Brighton,0,1,-1,0,0
+175,Liverpool,Man City,1,4,-3,0,0
+176,Leicester,Liverpool,3,1,-2,0,0
+177,Liverpool,Everton,0,2,-2,0,0
+178,Sheffield United,Liverpool,0,2,2,1,0
+179,Liverpool,Chelsea,0,1,-1,0,0
+180,Liverpool,Fulham,0,1,-1,0,0
+181,Wolves,Liverpool,0,1,1,1,0
+182,Arsenal,Liverpool,0,3,3,2,0
+183,Liverpool,Aston Villa,2,1,1,3,1
+184,Leeds,Liverpool,1,1,0,0,0
+185,Liverpool,Newcastle,1,1,0,0,0
+186,Liverpool,Southampton,2,0,2,1,0
+187,Man United,Liverpool,2,4,2,2,0
+188,West Brom,Liverpool,1,2,1,3,1
+189,Burnley,Liverpool,0,3,3,4,1
+190,Liverpool,Crystal Palace,2,0,2,5,1
