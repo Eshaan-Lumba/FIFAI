@@ -1,0 +1,40 @@
+,0,1,2,3,4,5,6
+0,HomeTeam,AwayTeam,Full time home goals,Full time away goals,Results,Win Streak,3 Game Streak
+1,Chelsea,Burnley,2,3,1,1,0
+2,Burnley,West Brom,0,1,-1,0,0
+3,Tottenham,Burnley,1,1,0,0,0
+4,Burnley,Crystal Palace,1,0,1,1,0
+5,Liverpool,Burnley,1,1,0,0,0
+6,Burnley,Huddersfield,0,0,0,0,0
+7,Everton,Burnley,0,1,1,1,0
+8,Burnley,West Ham,1,1,0,0,0
+9,Man City,Burnley,3,0,-3,0,0
+10,Burnley,Newcastle,1,0,1,1,0
+11,Southampton,Burnley,0,1,1,2,0
+12,Burnley,Swansea,2,0,2,3,1
+13,Burnley,Arsenal,0,1,-1,0,0
+14,Bournemouth,Burnley,1,2,1,1,0
+15,Leicester,Burnley,1,0,-1,0,0
+16,Burnley,Watford,1,0,1,1,0
+17,Burnley,Stoke,1,0,1,2,0
+18,Brighton,Burnley,0,0,0,0,0
+19,Burnley,Tottenham,0,3,-3,0,0
+20,Man United,Burnley,2,2,0,0,0
+21,Huddersfield,Burnley,0,0,0,0,0
+22,Burnley,Liverpool,1,2,-1,0,0
+23,Crystal Palace,Burnley,1,0,-1,0,0
+24,Burnley,Man United,0,1,-1,0,0
+25,Newcastle,Burnley,1,1,0,0,0
+26,Burnley,Man City,1,1,0,0,0
+27,Swansea,Burnley,1,0,-1,0,0
+28,Burnley,Southampton,1,1,0,0,0
+29,Burnley,Everton,2,1,1,1,0
+30,West Ham,Burnley,0,3,3,2,0
+31,West Brom,Burnley,1,2,1,3,1
+32,Watford,Burnley,1,2,1,4,1
+33,Burnley,Leicester,2,1,1,5,1
+34,Burnley,Chelsea,1,2,-1,0,0
+35,Stoke,Burnley,1,1,0,0,0
+36,Burnley,Brighton,0,0,0,0,0
+37,Arsenal,Burnley,5,0,-5,0,0
+38,Burnley,Bournemouth,1,2,-1,0,0
