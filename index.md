@@ -81,5 +81,23 @@ Addressing Hypothesis comments:
 4. We have added links in a consistent format for our introduction and related works draft. 
 5. We briefly discussed the ethical implications of building a successful project in our last paragraph in our initial introduction outline. However, we have now added a more comprehensive discussion on it at the end our current introduction draft.
 
+## Discussion Outline
+
+For our project, we will have a NN model for each team that would predict the result for that team against a random team. By pitting the home team's model against the away team's model, we can predict the result. As we progress, we might change the way we choose to compare the results from the home team model and the away team model. 
+
+We want to test our models not only on the existing dataset, but primarily on the results of the current, 2021-2022 season so that we can have an up-to-date predictive model. 
+
+We will want to calculate the percentage of matches correctly predicted. The higher the number of correct predictions, the more successful our model. 
+
+We aim to at least be on par with the success rate of previous models. Hence, a correct prediction by our models 70%+ of the time will be deemed a success. 
+
+We may also attempt to increase or modify the datapoints fed into our NNs to see if that causes a change in results. We might also implement a couple different types of models (such as a fully connected model). Lastly, we might also simply build one model, instead of having 20 separate ones. We will compare the results from these different models to try and determine the best choice for this kind of problem. 
+
+As an extension, we might also be able to use our model to predict the difference in the goals scored by the home and away team. 
+
+
+
+
+
 
 
