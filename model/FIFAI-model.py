@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: light
 #       format_version: '1.5'
-#       jupytext_version: 1.11.4
+#       jupytext_version: 1.13.1
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -72,7 +72,7 @@ def validate(dataloader, model, criterion, device, epoch, num_epochs, mb):
             print(output)
 
             # - compute loss
-            loss += criterion(torch.flatten(output), Y).item()
+            loss += criterion(output, torch.flatten(output).type(torch.LongTensor)).item()
             # - compute the number of correctly classified examples
             num_correct += (output.argmax(1) == Y).type(torch.float).sum().item()
 
@@ -161,7 +161,7 @@ class Team ():
         # print()
         
         # print("match results (aka targets):")
-        # print(y)
+        print(y)
         
         # final data to train on
         self.X_train = torch.tensor(x, dtype = torch.float).float()
@@ -205,7 +205,7 @@ def main():
     
     # - specifies CrossEntropyLoss as loss criterion
     # - specifies Adam as our optimizer
-    criterion = nn.BCELoss()
+    criterion = nn.CrossEntropyLoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=args.learning_rate)
 
     train(model, criterion, optimizer, train_loader, valid_loader, device, args.num_epochs)
