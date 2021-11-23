@@ -1,192 +1,191 @@
-,0,1,2,3,4,5,6
-0,HomeTeam,AwayTeam,Full time home goals,Full time away goals,Results,Win Streak,3 Game Streak
-1,Everton,Tottenham,1,1,0,0,0
-2,West Brom,Everton,1,2,1,1,0
-3,Everton,Stoke,1,0,1,2,0
-4,Sunderland,Everton,0,3,3,3,1
-5,Everton,Middlesbrough,3,1,2,4,1
-6,Bournemouth,Everton,1,0,-1,0,0
-7,Everton,Crystal Palace,1,1,0,0,0
-8,Man City,Everton,1,1,0,0,0
-9,Burnley,Everton,2,1,-1,0,0
-10,Everton,West Ham,2,0,2,1,0
-11,Chelsea,Everton,5,0,-5,0,0
-12,Everton,Swansea,1,1,0,0,0
-13,Southampton,Everton,1,0,-1,0,0
-14,Everton,Man United,1,1,0,0,0
-15,Watford,Everton,3,2,-1,0,0
-16,Everton,Arsenal,2,1,1,1,0
-17,Everton,Liverpool,0,1,-1,0,0
-18,Leicester,Everton,0,2,2,1,0
-19,Hull,Everton,2,2,0,0,0
-20,Everton,Southampton,3,0,3,1,0
-21,Everton,Man City,4,0,4,2,0
-22,Crystal Palace,Everton,0,1,1,3,1
-23,Stoke,Everton,1,1,0,0,0
-24,Everton,Bournemouth,6,3,3,1,0
-25,Middlesbrough,Everton,0,0,0,0,0
-26,Everton,Sunderland,2,0,2,1,0
-27,Tottenham,Everton,3,2,-1,0,0
-28,Everton,West Brom,3,0,3,1,0
-29,Everton,Hull,4,0,4,2,0
-30,Liverpool,Everton,3,1,-2,0,0
-31,Man United,Everton,1,1,0,0,0
-32,Everton,Leicester,4,2,2,1,0
-33,Everton,Burnley,3,1,2,2,0
-34,West Ham,Everton,0,0,0,0,0
-35,Everton,Chelsea,0,3,-3,0,0
-36,Swansea,Everton,1,0,-1,0,0
-37,Everton,Watford,1,0,1,1,0
-38,Arsenal,Everton,3,1,-2,0,0
-39,Everton,Stoke,1,0,1,1,0
-40,Man City,Everton,1,1,0,0,0
-41,Chelsea,Everton,2,0,-2,0,0
-42,Everton,Tottenham,0,3,-3,0,0
-43,Man United,Everton,4,0,-4,0,0
-44,Everton,Bournemouth,2,1,1,1,0
-45,Everton,Burnley,0,1,-1,0,0
-46,Brighton,Everton,1,1,0,0,0
-47,Everton,Arsenal,2,5,-3,0,0
-48,Leicester,Everton,2,0,-2,0,0
-49,Everton,Watford,3,2,1,1,0
-50,Crystal Palace,Everton,2,2,0,0,0
-51,Southampton,Everton,4,1,-3,0,0
-52,Everton,West Ham,4,0,4,1,0
-53,Everton,Huddersfield,2,0,2,2,0
-54,Liverpool,Everton,1,1,0,0,0
-55,Newcastle,Everton,0,1,1,1,0
-56,Everton,Swansea,3,1,2,2,0
-57,Everton,Chelsea,0,0,0,0,0
-58,West Brom,Everton,0,0,0,0,0
-59,Bournemouth,Everton,2,1,-1,0,0
-60,Everton,Man United,0,2,-2,0,0
-61,Tottenham,Everton,4,0,-4,0,0
-62,Everton,West Brom,1,1,0,0,0
-63,Everton,Leicester,2,1,1,1,0
-64,Arsenal,Everton,5,1,-4,0,0
-65,Everton,Crystal Palace,3,1,2,1,0
-66,Watford,Everton,1,0,-1,0,0
-67,Burnley,Everton,2,1,-1,0,0
-68,Everton,Brighton,2,0,2,1,0
-69,Stoke,Everton,1,2,1,2,0
-70,Everton,Man City,1,3,-2,0,0
-71,Everton,Liverpool,0,0,0,0,0
-72,Swansea,Everton,1,1,0,0,0
-73,Everton,Newcastle,1,0,1,1,0
-74,Huddersfield,Everton,0,2,2,2,0
-75,Everton,Southampton,1,1,0,0,0
-76,West Ham,Everton,3,1,-2,0,0
-77,Wolves,Everton,2,2,0,0,0
-78,Everton,Southampton,2,1,1,1,0
-79,Bournemouth,Everton,2,2,0,0,0
-80,Everton,Huddersfield,1,1,0,0,0
-81,Everton,West Ham,1,3,-2,0,0
-82,Arsenal,Everton,2,0,-2,0,0
-83,Everton,Fulham,3,0,3,1,0
-84,Leicester,Everton,1,2,1,2,0
-85,Everton,Crystal Palace,2,0,2,3,1
-86,Man United,Everton,2,1,-1,0,0
-87,Everton,Brighton,3,1,2,1,0
-88,Chelsea,Everton,0,0,0,0,0
-89,Everton,Cardiff,1,0,1,1,0
-90,Liverpool,Everton,1,0,-1,0,0
-91,Everton,Newcastle,1,1,0,0,0
-92,Everton,Watford,2,2,0,0,0
-93,Man City,Everton,3,1,-2,0,0
-94,Everton,Tottenham,2,6,-4,0,0
-95,Burnley,Everton,1,5,4,1,0
-96,Brighton,Everton,1,0,-1,0,0
-97,Everton,Leicester,0,1,-1,0,0
-98,Everton,Bournemouth,2,0,2,1,0
-99,Southampton,Everton,2,1,-1,0,0
-100,Huddersfield,Everton,0,1,1,1,0
-101,Everton,Wolves,1,3,-2,0,0
-102,Everton,Man City,0,2,-2,0,0
-103,Watford,Everton,1,0,-1,0,0
-104,Cardiff,Everton,0,3,3,1,0
-105,Everton,Liverpool,0,0,0,0,0
-106,Newcastle,Everton,3,2,-1,0,0
-107,Everton,Chelsea,2,0,2,1,0
-108,West Ham,Everton,0,2,2,2,0
-109,Everton,Arsenal,1,0,1,3,1
-110,Fulham,Everton,2,0,-2,0,0
-111,Everton,Man United,4,0,4,1,0
-112,Crystal Palace,Everton,0,0,0,0,0
-113,Everton,Burnley,2,0,2,1,0
-114,Tottenham,Everton,2,2,0,0,0
-115,Crystal Palace,Everton,0,0,0,0,0
-116,Everton,Watford,1,0,1,1,0
-117,Aston Villa,Everton,2,0,-2,0,0
-118,Everton,Wolves,3,2,1,1,0
-119,Bournemouth,Everton,3,1,-2,0,0
-120,Everton,Sheffield United,0,2,-2,0,0
-121,Everton,Man City,1,3,-2,0,0
-122,Burnley,Everton,1,0,-1,0,0
-123,Everton,West Ham,2,0,2,1,0
-124,Brighton,Everton,3,2,-1,0,0
-125,Everton,Tottenham,1,1,0,0,0
-126,Southampton,Everton,1,2,1,1,0
-127,Everton,Norwich,0,2,-2,0,0
-128,Leicester,Everton,2,1,-1,0,0
-129,Liverpool,Everton,5,2,-3,0,0
-130,Everton,Chelsea,3,1,2,1,0
-131,Man United,Everton,1,1,0,0,0
-132,Everton,Arsenal,0,0,0,0,0
-133,Everton,Burnley,1,0,1,1,0
-134,Newcastle,Everton,1,2,1,2,0
-135,Man City,Everton,2,1,-1,0,0
-136,Everton,Brighton,1,0,1,1,0
-137,West Ham,Everton,1,1,0,0,0
-138,Everton,Newcastle,2,2,0,0,0
-139,Watford,Everton,2,3,1,1,0
-140,Everton,Crystal Palace,3,1,2,2,0
-141,Arsenal,Everton,3,2,-1,0,0
-142,Everton,Man United,1,1,0,0,0
-143,Chelsea,Everton,4,0,-4,0,0
-144,Everton,Liverpool,0,0,0,0,0
-145,Norwich,Everton,0,1,1,1,0
-146,Everton,Leicester,2,1,1,2,0
-147,Tottenham,Everton,1,0,-1,0,0
-148,Everton,Southampton,1,1,0,0,0
-149,Wolves,Everton,3,0,-3,0,0
-150,Everton,Aston Villa,1,1,0,0,0
-151,Sheffield United,Everton,0,1,1,1,0
-152,Everton,Bournemouth,1,3,-2,0,0
-153,Tottenham,Everton,0,1,1,1,0
-154,Everton,West Brom,5,2,3,2,0
-155,Crystal Palace,Everton,1,2,1,3,1
-156,Everton,Brighton,4,2,2,4,1
-157,Everton,Liverpool,2,2,0,0,0
-158,Southampton,Everton,2,0,-2,0,0
-159,Newcastle,Everton,2,1,-1,0,0
-160,Everton,Man United,1,3,-2,0,0
-161,Fulham,Everton,2,3,1,1,0
-162,Everton,Leeds,0,1,-1,0,0
-163,Burnley,Everton,1,1,0,0,0
-164,Everton,Chelsea,1,0,1,1,0
-165,Leicester,Everton,0,2,2,2,0
-166,Everton,Arsenal,2,1,1,3,1
-167,Sheffield United,Everton,0,1,1,4,1
-168,Everton,West Ham,0,1,-1,0,0
-169,Wolves,Everton,1,2,1,1,0
-170,Everton,Leicester,1,1,0,0,0
-171,Everton,Newcastle,0,2,-2,0,0
-172,Leeds,Everton,1,2,1,1,0
-173,Man United,Everton,3,3,0,0,0
-174,Everton,Fulham,0,2,-2,0,0
-175,Everton,Man City,1,3,-2,0,0
-176,Liverpool,Everton,0,2,2,1,0
-177,Everton,Southampton,1,0,1,2,0
-178,West Brom,Everton,0,1,1,3,1
-179,Chelsea,Everton,2,0,-2,0,0
-180,Everton,Burnley,1,2,-1,0,0
-181,Everton,Crystal Palace,1,1,0,0,0
-182,Brighton,Everton,0,0,0,0,0
-183,Everton,Tottenham,2,2,0,0,0
-184,Arsenal,Everton,0,1,1,1,0
-185,Everton,Aston Villa,1,2,-1,0,0
-186,West Ham,Everton,0,1,1,1,0
-187,Aston Villa,Everton,0,0,0,0,0
-188,Everton,Sheffield United,0,1,-1,0,0
-189,Everton,Wolves,1,0,1,1,0
-190,Man City,Everton,5,0,-5,0,0
+Opponent,HomeBool,FTHG,FTAG,ScoreDiff,Results,WinStreak,TGS
+Tottenham,1,1,1,0,1,0,0
+West Brom,0,1,2,1,2,1,0
+Stoke,1,1,0,1,2,2,0
+Sunderland,0,0,3,3,2,3,1
+Middlesbrough,1,3,1,2,2,4,1
+Bournemouth,0,1,0,-1,0,0,0
+Crystal Palace,1,1,1,0,1,0,0
+Man City,0,1,1,0,1,0,0
+Burnley,0,2,1,-1,0,0,0
+West Ham,1,2,0,2,2,1,0
+Chelsea,0,5,0,-5,0,0,0
+Swansea,1,1,1,0,1,0,0
+Southampton,0,1,0,-1,0,0,0
+Man United,1,1,1,0,1,0,0
+Watford,0,3,2,-1,0,0,0
+Arsenal,1,2,1,1,2,1,0
+Liverpool,1,0,1,-1,0,0,0
+Leicester,0,0,2,2,2,1,0
+Hull,0,2,2,0,1,0,0
+Southampton,1,3,0,3,2,1,0
+Man City,1,4,0,4,2,2,0
+Crystal Palace,0,0,1,1,2,3,1
+Stoke,0,1,1,0,1,0,0
+Bournemouth,1,6,3,3,2,1,0
+Middlesbrough,0,0,0,0,1,0,0
+Sunderland,1,2,0,2,2,1,0
+Tottenham,0,3,2,-1,0,0,0
+West Brom,1,3,0,3,2,1,0
+Hull,1,4,0,4,2,2,0
+Liverpool,0,3,1,-2,0,0,0
+Man United,0,1,1,0,1,0,0
+Leicester,1,4,2,2,2,1,0
+Burnley,1,3,1,2,2,2,0
+West Ham,0,0,0,0,1,0,0
+Chelsea,1,0,3,-3,0,0,0
+Swansea,0,1,0,-1,0,0,0
+Watford,1,1,0,1,2,1,0
+Arsenal,0,3,1,-2,0,0,0
+Stoke,1,1,0,1,2,1,0
+Man City,0,1,1,0,1,0,0
+Chelsea,0,2,0,-2,0,0,0
+Tottenham,1,0,3,-3,0,0,0
+Man United,0,4,0,-4,0,0,0
+Bournemouth,1,2,1,1,2,1,0
+Burnley,1,0,1,-1,0,0,0
+Brighton,0,1,1,0,1,0,0
+Arsenal,1,2,5,-3,0,0,0
+Leicester,0,2,0,-2,0,0,0
+Watford,1,3,2,1,2,1,0
+Crystal Palace,0,2,2,0,1,0,0
+Southampton,0,4,1,-3,0,0,0
+West Ham,1,4,0,4,2,1,0
+Huddersfield,1,2,0,2,2,2,0
+Liverpool,0,1,1,0,1,0,0
+Newcastle,0,0,1,1,2,1,0
+Swansea,1,3,1,2,2,2,0
+Chelsea,1,0,0,0,1,0,0
+West Brom,0,0,0,0,1,0,0
+Bournemouth,0,2,1,-1,0,0,0
+Man United,1,0,2,-2,0,0,0
+Tottenham,0,4,0,-4,0,0,0
+West Brom,1,1,1,0,1,0,0
+Leicester,1,2,1,1,2,1,0
+Arsenal,0,5,1,-4,0,0,0
+Crystal Palace,1,3,1,2,2,1,0
+Watford,0,1,0,-1,0,0,0
+Burnley,0,2,1,-1,0,0,0
+Brighton,1,2,0,2,2,1,0
+Stoke,0,1,2,1,2,2,0
+Man City,1,1,3,-2,0,0,0
+Liverpool,1,0,0,0,1,0,0
+Swansea,0,1,1,0,1,0,0
+Newcastle,1,1,0,1,2,1,0
+Huddersfield,0,0,2,2,2,2,0
+Southampton,1,1,1,0,1,0,0
+West Ham,0,3,1,-2,0,0,0
+Wolves,0,2,2,0,1,0,0
+Southampton,1,2,1,1,2,1,0
+Bournemouth,0,2,2,0,1,0,0
+Huddersfield,1,1,1,0,1,0,0
+West Ham,1,1,3,-2,0,0,0
+Arsenal,0,2,0,-2,0,0,0
+Fulham,1,3,0,3,2,1,0
+Leicester,0,1,2,1,2,2,0
+Crystal Palace,1,2,0,2,2,3,1
+Man United,0,2,1,-1,0,0,0
+Brighton,1,3,1,2,2,1,0
+Chelsea,0,0,0,0,1,0,0
+Cardiff,1,1,0,1,2,1,0
+Liverpool,0,1,0,-1,0,0,0
+Newcastle,1,1,1,0,1,0,0
+Watford,1,2,2,0,1,0,0
+Man City,0,3,1,-2,0,0,0
+Tottenham,1,2,6,-4,0,0,0
+Burnley,0,1,5,4,2,1,0
+Brighton,0,1,0,-1,0,0,0
+Leicester,1,0,1,-1,0,0,0
+Bournemouth,1,2,0,2,2,1,0
+Southampton,0,2,1,-1,0,0,0
+Huddersfield,0,0,1,1,2,1,0
+Wolves,1,1,3,-2,0,0,0
+Man City,1,0,2,-2,0,0,0
+Watford,0,1,0,-1,0,0,0
+Cardiff,0,0,3,3,2,1,0
+Liverpool,1,0,0,0,1,0,0
+Newcastle,0,3,2,-1,0,0,0
+Chelsea,1,2,0,2,2,1,0
+West Ham,0,0,2,2,2,2,0
+Arsenal,1,1,0,1,2,3,1
+Fulham,0,2,0,-2,0,0,0
+Man United,1,4,0,4,2,1,0
+Crystal Palace,0,0,0,0,1,0,0
+Burnley,1,2,0,2,2,1,0
+Tottenham,0,2,2,0,1,0,0
+Crystal Palace,0,0,0,0,1,0,0
+Watford,1,1,0,1,2,1,0
+Aston Villa,0,2,0,-2,0,0,0
+Wolves,1,3,2,1,2,1,0
+Bournemouth,0,3,1,-2,0,0,0
+Sheffield United,1,0,2,-2,0,0,0
+Man City,1,1,3,-2,0,0,0
+Burnley,0,1,0,-1,0,0,0
+West Ham,1,2,0,2,2,1,0
+Brighton,0,3,2,-1,0,0,0
+Tottenham,1,1,1,0,1,0,0
+Southampton,0,1,2,1,2,1,0
+Norwich,1,0,2,-2,0,0,0
+Leicester,0,2,1,-1,0,0,0
+Liverpool,0,5,2,-3,0,0,0
+Chelsea,1,3,1,2,2,1,0
+Man United,0,1,1,0,1,0,0
+Arsenal,1,0,0,0,1,0,0
+Burnley,1,1,0,1,2,1,0
+Newcastle,0,1,2,1,2,2,0
+Man City,0,2,1,-1,0,0,0
+Brighton,1,1,0,1,2,1,0
+West Ham,0,1,1,0,1,0,0
+Newcastle,1,2,2,0,1,0,0
+Watford,0,2,3,1,2,1,0
+Crystal Palace,1,3,1,2,2,2,0
+Arsenal,0,3,2,-1,0,0,0
+Man United,1,1,1,0,1,0,0
+Chelsea,0,4,0,-4,0,0,0
+Liverpool,1,0,0,0,1,0,0
+Norwich,0,0,1,1,2,1,0
+Leicester,1,2,1,1,2,2,0
+Tottenham,0,1,0,-1,0,0,0
+Southampton,1,1,1,0,1,0,0
+Wolves,0,3,0,-3,0,0,0
+Aston Villa,1,1,1,0,1,0,0
+Sheffield United,0,0,1,1,2,1,0
+Bournemouth,1,1,3,-2,0,0,0
+Tottenham,0,0,1,1,2,1,0
+West Brom,1,5,2,3,2,2,0
+Crystal Palace,0,1,2,1,2,3,1
+Brighton,1,4,2,2,2,4,1
+Liverpool,1,2,2,0,1,0,0
+Southampton,0,2,0,-2,0,0,0
+Newcastle,0,2,1,-1,0,0,0
+Man United,1,1,3,-2,0,0,0
+Fulham,0,2,3,1,2,1,0
+Leeds,1,0,1,-1,0,0,0
+Burnley,0,1,1,0,1,0,0
+Chelsea,1,1,0,1,2,1,0
+Leicester,0,0,2,2,2,2,0
+Arsenal,1,2,1,1,2,3,1
+Sheffield United,0,0,1,1,2,4,1
+West Ham,1,0,1,-1,0,0,0
+Wolves,0,1,2,1,2,1,0
+Leicester,1,1,1,0,1,0,0
+Newcastle,1,0,2,-2,0,0,0
+Leeds,0,1,2,1,2,1,0
+Man United,0,3,3,0,1,0,0
+Fulham,1,0,2,-2,0,0,0
+Man City,1,1,3,-2,0,0,0
+Liverpool,0,0,2,2,2,1,0
+Southampton,1,1,0,1,2,2,0
+West Brom,0,0,1,1,2,3,1
+Chelsea,0,2,0,-2,0,0,0
+Burnley,1,1,2,-1,0,0,0
+Crystal Palace,1,1,1,0,1,0,0
+Brighton,0,0,0,0,1,0,0
+Tottenham,1,2,2,0,1,0,0
+Arsenal,0,0,1,1,2,1,0
+Aston Villa,1,1,2,-1,0,0,0
+West Ham,0,0,1,1,2,1,0
+Aston Villa,0,0,0,0,1,0,0
+Sheffield United,1,0,1,-1,0,0,0
+Wolves,1,1,0,1,2,1,0
+Man City,0,5,0,-5,0,0,0
