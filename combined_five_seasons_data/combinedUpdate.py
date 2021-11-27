@@ -17,6 +17,7 @@ for index, row in df.iterrows():
     elif df.loc[index, 'Results'] == 1:
         df.loc[index, 'Results'] = "Draw"
     else:
+        # == 2
         df.loc[index, 'Results'] = "Win"
 
 df.to_csv("combined_five_seasons_data/combined_five_seasons_data.csv", index=False)

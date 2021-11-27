@@ -1,4 +1,5 @@
 HomeTeam,AwayTeam,FTHG,FTAG,ScoreDiff,Results,HomeWinStreak,AwayWinStreak,TGSH,TGSA
+<<<<<<< HEAD
 Burnley,Swansea,0,1,-1,Loss,0,0,0,0
 Crystal Palace,West Brom,0,1,-1,Loss,0,0,0,0
 Everton,Tottenham,1,1,0,Draw,0,0,0,0
@@ -42,6 +43,51 @@ Sunderland,Everton,0,3,-3,Loss,0,0,0,0
 Chelsea,Liverpool,1,2,-1,Loss,0,0,0,0
 Everton,Middlesbrough,3,1,2,Win,1,0,0,0
 Hull,Arsenal,1,4,-3,Loss,0,0,0,0
+=======
+Burnley,Swansea,0,1,-1,Draw,0,0,0,0
+Crystal Palace,West Brom,0,1,-1,Draw,0,0,0,0
+Everton,Tottenham,1,1,0,Win,0,0,0,0
+Hull,Leicester,2,1,1,Win,1,0,0,0
+Man City,Sunderland,2,1,1,Win,2,0,0,0
+Middlesbrough,Stoke,1,1,0,Win,0,0,0,0
+Southampton,Watford,1,1,0,Win,0,0,0,0
+Arsenal,Liverpool,3,4,-1,Draw,0,0,0,0
+Bournemouth,Man United,1,3,-2,Draw,0,0,0,0
+Chelsea,West Ham,2,1,1,Win,1,0,0,0
+Man United,Southampton,2,0,2,Win,2,0,0,0
+Burnley,Liverpool,2,0,2,Win,3,0,1,0
+Leicester,Arsenal,0,0,0,Win,0,0,0,0
+Stoke,Man City,1,4,-3,Draw,0,0,0,0
+Swansea,Hull,0,2,-2,Draw,0,0,0,0
+Tottenham,Crystal Palace,1,0,1,Win,1,0,0,0
+Watford,Chelsea,1,2,-1,Draw,0,0,0,0
+West Brom,Everton,1,2,-1,Draw,0,0,0,0
+Sunderland,Middlesbrough,1,2,-1,Draw,0,0,0,0
+West Ham,Bournemouth,1,0,1,Win,1,0,0,0
+Chelsea,Burnley,3,0,3,Win,2,0,0,0
+Crystal Palace,Bournemouth,1,1,0,Win,0,0,0,0
+Everton,Stoke,1,0,1,Win,1,0,0,0
+Hull,Man United,0,1,-1,Draw,0,0,0,0
+Leicester,Swansea,2,1,1,Win,1,0,0,0
+Southampton,Sunderland,1,1,0,Win,0,0,0,0
+Tottenham,Liverpool,1,1,0,Win,0,0,0,0
+Watford,Arsenal,1,3,-2,Draw,0,0,0,0
+Man City,West Ham,3,1,2,Win,1,0,0,0
+West Brom,Middlesbrough,0,0,0,Win,0,0,0,0
+Arsenal,Southampton,2,1,1,Win,1,0,0,0
+Bournemouth,West Brom,1,0,1,Win,2,0,0,0
+Burnley,Hull,1,1,0,Win,0,0,0,0
+Liverpool,Leicester,4,1,3,Win,1,0,0,0
+Man United,Man City,1,2,-1,Draw,0,0,0,0
+Middlesbrough,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Stoke,Tottenham,0,4,-4,Draw,0,0,0,0
+West Ham,Watford,2,4,-2,Draw,0,0,0,0
+Swansea,Chelsea,2,2,0,Win,0,0,0,0
+Sunderland,Everton,0,3,-3,Draw,0,0,0,0
+Chelsea,Liverpool,1,2,-1,Draw,0,0,0,0
+Everton,Middlesbrough,3,1,2,Win,1,0,0,0
+Hull,Arsenal,1,4,-3,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Leicester,Burnley,3,0,3,Win,1,0,0,0
 Man City,Bournemouth,4,0,4,Win,2,0,0,0
 West Brom,West Ham,4,2,2,Win,3,0,1,0
@@ -53,6 +99,7 @@ Arsenal,Chelsea,3,0,3,Win,8,0,1,0
 Bournemouth,Everton,1,0,1,Win,9,0,1,0
 Liverpool,Hull,5,1,4,Win,10,0,1,0
 Man United,Leicester,4,1,3,Win,11,0,1,0
+<<<<<<< HEAD
 Middlesbrough,Tottenham,1,2,-1,Loss,0,0,0,0
 Stoke,West Brom,1,1,0,Draw,0,0,0,0
 Sunderland,Crystal Palace,2,3,-1,Loss,0,0,0,0
@@ -68,10 +115,28 @@ West Ham,Middlesbrough,1,1,0,Draw,0,0,0,0
 Burnley,Arsenal,0,1,-1,Loss,0,0,0,0
 Leicester,Southampton,0,0,0,Draw,0,0,0,0
 Man United,Stoke,1,1,0,Draw,0,0,0,0
+=======
+Middlesbrough,Tottenham,1,2,-1,Draw,0,0,0,0
+Stoke,West Brom,1,1,0,Win,0,0,0,0
+Sunderland,Crystal Palace,2,3,-1,Draw,0,0,0,0
+Swansea,Man City,1,3,-2,Draw,0,0,0,0
+West Ham,Southampton,0,3,-3,Draw,0,0,0,0
+Burnley,Watford,2,0,2,Win,1,0,0,0
+Everton,Crystal Palace,1,1,0,Win,0,0,0,0
+Hull,Chelsea,0,2,-2,Draw,0,0,0,0
+Sunderland,West Brom,1,1,0,Win,0,0,0,0
+Swansea,Liverpool,1,2,-1,Draw,0,0,0,0
+Watford,Bournemouth,2,2,0,Win,0,0,0,0
+West Ham,Middlesbrough,1,1,0,Win,0,0,0,0
+Burnley,Arsenal,0,1,-1,Draw,0,0,0,0
+Leicester,Southampton,0,0,0,Win,0,0,0,0
+Man United,Stoke,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Tottenham,Man City,2,0,2,Win,1,0,0,0
 Arsenal,Swansea,3,2,1,Win,2,0,0,0
 Bournemouth,Hull,6,1,5,Win,3,0,1,0
 Chelsea,Leicester,3,0,3,Win,4,0,1,0
+<<<<<<< HEAD
 Crystal Palace,West Ham,0,1,-1,Loss,0,0,0,0
 Man City,Everton,1,1,0,Draw,0,0,0,0
 Stoke,Sunderland,2,0,2,Win,1,0,0,0
@@ -131,10 +196,72 @@ Southampton,Everton,1,0,1,Win,1,0,0,0
 Watford,Stoke,0,1,-1,Loss,0,0,0,0
 Crystal Palace,Southampton,3,0,3,Win,1,0,0,0
 Man City,Chelsea,1,3,-2,Loss,0,0,0,0
+=======
+Crystal Palace,West Ham,0,1,-1,Draw,0,0,0,0
+Man City,Everton,1,1,0,Win,0,0,0,0
+Stoke,Sunderland,2,0,2,Win,1,0,0,0
+West Brom,Tottenham,1,1,0,Win,0,0,0,0
+Middlesbrough,Watford,0,1,-1,Draw,0,0,0,0
+Southampton,Burnley,3,1,2,Win,1,0,0,0
+Liverpool,Man United,0,0,0,Win,0,0,0,0
+Arsenal,Middlesbrough,0,0,0,Win,0,0,0,0
+Bournemouth,Tottenham,0,0,0,Win,0,0,0,0
+Burnley,Everton,2,1,1,Win,1,0,0,0
+Hull,Stoke,0,2,-2,Draw,0,0,0,0
+Leicester,Crystal Palace,3,1,2,Win,1,0,0,0
+Liverpool,West Brom,2,1,1,Win,2,0,0,0
+Swansea,Watford,0,0,0,Win,0,0,0,0
+West Ham,Sunderland,1,0,1,Win,1,0,0,0
+Chelsea,Man United,4,0,4,Win,2,0,0,0
+Man City,Southampton,1,1,0,Win,0,0,0,0
+Crystal Palace,Liverpool,2,4,-2,Draw,0,0,0,0
+Man United,Burnley,0,0,0,Win,0,0,0,0
+Middlesbrough,Bournemouth,2,0,2,Win,1,0,0,0
+Sunderland,Arsenal,1,4,-3,Draw,0,0,0,0
+Tottenham,Leicester,1,1,0,Win,0,0,0,0
+Watford,Hull,1,0,1,Win,1,0,0,0
+West Brom,Man City,0,4,-4,Draw,0,0,0,0
+Everton,West Ham,2,0,2,Win,1,0,0,0
+Southampton,Chelsea,0,2,-2,Draw,0,0,0,0
+Stoke,Swansea,3,1,2,Win,1,0,0,0
+Bournemouth,Sunderland,1,2,-1,Draw,0,0,0,0
+Burnley,Crystal Palace,3,2,1,Win,1,0,0,0
+Chelsea,Everton,5,0,5,Win,2,0,0,0
+Man City,Middlesbrough,1,1,0,Win,0,0,0,0
+West Ham,Stoke,1,1,0,Win,0,0,0,0
+Arsenal,Tottenham,1,1,0,Win,0,0,0,0
+Hull,Southampton,2,1,1,Win,1,0,0,0
+Leicester,West Brom,1,2,-1,Draw,0,0,0,0
+Liverpool,Watford,6,1,5,Win,1,0,0,0
+Swansea,Man United,1,3,-2,Draw,0,0,0,0
+Crystal Palace,Man City,1,2,-1,Draw,0,0,0,0
+Everton,Swansea,1,1,0,Win,0,0,0,0
+Man United,Arsenal,1,1,0,Win,0,0,0,0
+Southampton,Liverpool,0,0,0,Win,0,0,0,0
+Stoke,Bournemouth,0,1,-1,Draw,0,0,0,0
+Sunderland,Hull,3,0,3,Win,1,0,0,0
+Tottenham,West Ham,3,2,1,Win,2,0,0,0
+Watford,Leicester,2,1,1,Win,3,0,1,0
+Middlesbrough,Chelsea,0,1,-1,Draw,0,0,0,0
+West Brom,Burnley,4,0,4,Win,1,0,0,0
+Burnley,Man City,1,2,-1,Draw,0,0,0,0
+Chelsea,Tottenham,2,1,1,Win,1,0,0,0
+Hull,West Brom,1,1,0,Win,0,0,0,0
+Leicester,Middlesbrough,2,2,0,Win,0,0,0,0
+Liverpool,Sunderland,2,0,2,Win,1,0,0,0
+Swansea,Crystal Palace,5,4,1,Win,2,0,0,0
+Arsenal,Bournemouth,3,1,2,Win,3,0,1,0
+Man United,West Ham,1,1,0,Win,0,0,0,0
+Southampton,Everton,1,0,1,Win,1,0,0,0
+Watford,Stoke,0,1,-1,Draw,0,0,0,0
+Crystal Palace,Southampton,3,0,3,Win,1,0,0,0
+Man City,Chelsea,1,3,-2,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Stoke,Burnley,2,0,2,Win,1,0,0,0
 Sunderland,Leicester,2,1,1,Win,2,0,0,0
 Tottenham,Swansea,5,0,5,Win,3,0,1,0
 West Brom,Watford,3,1,2,Win,4,0,1,0
+<<<<<<< HEAD
 West Ham,Arsenal,1,5,-4,Loss,0,0,0,0
 Bournemouth,Liverpool,4,3,1,Win,1,0,0,0
 Everton,Man United,1,1,0,Draw,0,0,0,0
@@ -142,15 +269,29 @@ Middlesbrough,Hull,1,0,1,Win,1,0,0,0
 Arsenal,Stoke,3,1,2,Win,2,0,0,0
 Burnley,Bournemouth,3,2,1,Win,3,0,1,0
 Hull,Crystal Palace,3,3,0,Draw,0,0,0,0
+=======
+West Ham,Arsenal,1,5,-4,Draw,0,0,0,0
+Bournemouth,Liverpool,4,3,1,Win,1,0,0,0
+Everton,Man United,1,1,0,Win,0,0,0,0
+Middlesbrough,Hull,1,0,1,Win,1,0,0,0
+Arsenal,Stoke,3,1,2,Win,2,0,0,0
+Burnley,Bournemouth,3,2,1,Win,3,0,1,0
+Hull,Crystal Palace,3,3,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Leicester,Man City,4,2,2,Win,1,0,0,0
 Swansea,Sunderland,3,0,3,Win,2,0,0,0
 Watford,Everton,3,2,1,Win,3,0,1,0
 Chelsea,West Brom,1,0,1,Win,4,0,1,0
+<<<<<<< HEAD
 Liverpool,West Ham,2,2,0,Draw,0,0,0,0
+=======
+Liverpool,West Ham,2,2,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Man United,Tottenham,1,0,1,Win,1,0,0,0
 Southampton,Middlesbrough,1,0,1,Win,2,0,0,0
 Bournemouth,Leicester,1,0,1,Win,3,0,1,0
 Everton,Arsenal,2,1,1,Win,4,0,1,0
+<<<<<<< HEAD
 Crystal Palace,Man United,1,2,-1,Loss,0,0,0,0
 Man City,Watford,2,0,2,Win,1,0,0,0
 Middlesbrough,Liverpool,0,3,-3,Loss,0,0,0,0
@@ -180,11 +321,43 @@ Watford,Crystal Palace,1,1,0,Draw,0,0,0,0
 Liverpool,Stoke,4,1,3,Win,1,0,0,0
 Southampton,Tottenham,1,4,-3,Loss,0,0,0,0
 Hull,Everton,2,2,0,Draw,0,0,0,0
+=======
+Crystal Palace,Man United,1,2,-1,Draw,0,0,0,0
+Man City,Watford,2,0,2,Win,1,0,0,0
+Middlesbrough,Liverpool,0,3,-3,Draw,0,0,0,0
+Stoke,Southampton,0,0,0,Win,0,0,0,0
+Sunderland,Chelsea,0,1,-1,Draw,0,0,0,0
+Tottenham,Hull,3,0,3,Win,1,0,0,0
+West Brom,Swansea,3,1,2,Win,2,0,0,0
+West Ham,Burnley,1,0,1,Win,3,0,1,0
+Crystal Palace,Chelsea,0,1,-1,Draw,0,0,0,0
+Middlesbrough,Swansea,3,0,3,Win,1,0,0,0
+Stoke,Leicester,2,2,0,Win,0,0,0,0
+Sunderland,Watford,1,0,1,Win,1,0,0,0
+West Brom,Man United,0,2,-2,Draw,0,0,0,0
+West Ham,Hull,1,0,1,Win,1,0,0,0
+Bournemouth,Southampton,1,3,-2,Draw,0,0,0,0
+Man City,Arsenal,2,1,1,Win,1,0,0,0
+Tottenham,Burnley,2,1,1,Win,2,0,0,0
+Everton,Liverpool,0,1,-1,Draw,0,0,0,0
+Arsenal,West Brom,1,0,1,Win,1,0,0,0
+Burnley,Middlesbrough,1,0,1,Win,2,0,0,0
+Chelsea,Bournemouth,3,0,3,Win,3,0,1,0
+Hull,Man City,0,3,-3,Draw,0,0,0,0
+Leicester,Everton,0,2,-2,Draw,0,0,0,0
+Man United,Sunderland,3,1,2,Win,1,0,0,0
+Swansea,West Ham,1,4,-3,Draw,0,0,0,0
+Watford,Crystal Palace,1,1,0,Win,0,0,0,0
+Liverpool,Stoke,4,1,3,Win,1,0,0,0
+Southampton,Tottenham,1,4,-3,Draw,0,0,0,0
+Hull,Everton,2,2,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Burnley,Sunderland,4,1,3,Win,1,0,0,0
 Chelsea,Stoke,4,2,2,Win,2,0,0,0
 Leicester,West Ham,1,0,1,Win,3,0,1,0
 Liverpool,Man City,1,0,1,Win,4,0,1,0
 Man United,Middlesbrough,2,1,1,Win,5,0,1,0
+<<<<<<< HEAD
 Southampton,West Brom,1,2,-1,Loss,0,0,0,0
 Swansea,Bournemouth,0,3,-3,Loss,0,0,0,0
 Arsenal,Crystal Palace,2,0,2,Win,1,0,0,0
@@ -197,10 +370,25 @@ West Brom,Hull,3,1,2,Win,1,0,0,0
 West Ham,Man United,0,2,-2,Loss,0,0,0,0
 Bournemouth,Arsenal,3,3,0,Draw,0,0,0,0
 Crystal Palace,Swansea,1,2,-1,Loss,0,0,0,0
+=======
+Southampton,West Brom,1,2,-1,Draw,0,0,0,0
+Swansea,Bournemouth,0,3,-3,Draw,0,0,0,0
+Arsenal,Crystal Palace,2,0,2,Win,1,0,0,0
+Watford,Tottenham,1,4,-3,Draw,0,0,0,0
+Everton,Southampton,3,0,3,Win,1,0,0,0
+Man City,Burnley,2,1,1,Win,2,0,0,0
+Middlesbrough,Leicester,0,0,0,Win,0,0,0,0
+Sunderland,Liverpool,2,2,0,Win,0,0,0,0
+West Brom,Hull,3,1,2,Win,1,0,0,0
+West Ham,Man United,0,2,-2,Draw,0,0,0,0
+Bournemouth,Arsenal,3,3,0,Win,0,0,0,0
+Crystal Palace,Swansea,1,2,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Stoke,Watford,2,0,2,Win,1,0,0,0
 Tottenham,Chelsea,2,0,2,Win,2,0,0,0
 Burnley,Southampton,1,0,1,Win,3,0,1,0
 Hull,Bournemouth,3,1,2,Win,4,0,1,0
+<<<<<<< HEAD
 Leicester,Chelsea,0,3,-3,Loss,0,0,0,0
 Sunderland,Stoke,1,3,-2,Loss,0,0,0,0
 Swansea,Arsenal,0,4,-4,Loss,0,0,0,0
@@ -215,10 +403,27 @@ Liverpool,Swansea,2,3,-1,Loss,0,0,0,0
 Man City,Tottenham,2,2,0,Draw,0,0,0,0
 Middlesbrough,West Ham,1,3,-2,Loss,0,0,0,0
 Stoke,Man United,1,1,0,Draw,0,0,0,0
+=======
+Leicester,Chelsea,0,3,-3,Draw,0,0,0,0
+Sunderland,Stoke,1,3,-2,Draw,0,0,0,0
+Swansea,Arsenal,0,4,-4,Draw,0,0,0,0
+Tottenham,West Brom,4,0,4,Win,1,0,0,0
+Watford,Middlesbrough,0,0,0,Win,0,0,0,0
+West Ham,Crystal Palace,3,0,3,Win,1,0,0,0
+Everton,Man City,4,0,4,Win,2,0,0,0
+Man United,Liverpool,1,1,0,Win,0,0,0,0
+Bournemouth,Watford,2,2,0,Win,0,0,0,0
+Crystal Palace,Everton,0,1,-1,Draw,0,0,0,0
+Liverpool,Swansea,2,3,-1,Draw,0,0,0,0
+Man City,Tottenham,2,2,0,Win,0,0,0,0
+Middlesbrough,West Ham,1,3,-2,Draw,0,0,0,0
+Stoke,Man United,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 West Brom,Sunderland,2,0,2,Win,1,0,0,0
 Arsenal,Burnley,2,1,1,Win,2,0,0,0
 Chelsea,Hull,2,0,2,Win,3,0,1,0
 Southampton,Leicester,3,0,3,Win,4,0,1,0
+<<<<<<< HEAD
 Arsenal,Watford,1,2,-1,Loss,0,0,0,0
 Bournemouth,Crystal Palace,0,2,-2,Loss,0,0,0,0
 Burnley,Leicester,1,0,1,Win,1,0,0,0
@@ -238,10 +443,32 @@ Tottenham,Middlesbrough,1,0,1,Win,1,0,0,0
 Watford,Burnley,2,1,1,Win,2,0,0,0
 West Brom,Stoke,1,0,1,Win,3,0,1,0
 Leicester,Man United,0,3,-3,Loss,0,0,0,0
+=======
+Arsenal,Watford,1,2,-1,Draw,0,0,0,0
+Bournemouth,Crystal Palace,0,2,-2,Draw,0,0,0,0
+Burnley,Leicester,1,0,1,Win,1,0,0,0
+Liverpool,Chelsea,1,1,0,Win,0,0,0,0
+Middlesbrough,West Brom,1,1,0,Win,0,0,0,0
+Sunderland,Tottenham,0,0,0,Win,0,0,0,0
+Swansea,Southampton,2,1,1,Win,1,0,0,0
+Man United,Hull,0,0,0,Win,0,0,0,0
+Stoke,Everton,1,1,0,Win,0,0,0,0
+West Ham,Man City,0,4,-4,Draw,0,0,0,0
+Chelsea,Arsenal,3,1,2,Win,1,0,0,0
+Crystal Palace,Sunderland,0,4,-4,Draw,0,0,0,0
+Everton,Bournemouth,6,3,3,Win,1,0,0,0
+Hull,Liverpool,2,0,2,Win,2,0,0,0
+Southampton,West Ham,1,3,-2,Draw,0,0,0,0
+Tottenham,Middlesbrough,1,0,1,Win,1,0,0,0
+Watford,Burnley,2,1,1,Win,2,0,0,0
+West Brom,Stoke,1,0,1,Win,3,0,1,0
+Leicester,Man United,0,3,-3,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Man City,Swansea,2,1,1,Win,1,0,0,0
 Arsenal,Hull,2,0,2,Win,2,0,0,0
 Liverpool,Tottenham,2,0,2,Win,3,0,1,0
 Man United,Watford,2,0,2,Win,4,0,1,0
+<<<<<<< HEAD
 Middlesbrough,Everton,0,0,0,Draw,0,0,0,0
 Stoke,Crystal Palace,1,0,1,Win,1,0,0,0
 Sunderland,Southampton,0,4,-4,Loss,0,0,0,0
@@ -254,11 +481,26 @@ Crystal Palace,Middlesbrough,1,0,1,Win,2,0,0,0
 Everton,Sunderland,2,0,2,Win,3,0,1,0
 Hull,Burnley,1,1,0,Draw,0,0,0,0
 Watford,West Ham,1,1,0,Draw,0,0,0,0
+=======
+Middlesbrough,Everton,0,0,0,Win,0,0,0,0
+Stoke,Crystal Palace,1,0,1,Win,1,0,0,0
+Sunderland,Southampton,0,4,-4,Draw,0,0,0,0
+West Ham,West Brom,2,2,0,Win,0,0,0,0
+Burnley,Chelsea,1,1,0,Win,0,0,0,0
+Swansea,Leicester,2,0,2,Win,1,0,0,0
+Bournemouth,Man City,0,2,-2,Draw,0,0,0,0
+Chelsea,Swansea,3,1,2,Win,1,0,0,0
+Crystal Palace,Middlesbrough,1,0,1,Win,2,0,0,0
+Everton,Sunderland,2,0,2,Win,3,0,1,0
+Hull,Burnley,1,1,0,Win,0,0,0,0
+Watford,West Ham,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 West Brom,Bournemouth,2,1,1,Win,1,0,0,0
 Tottenham,Stoke,4,0,4,Win,2,0,0,0
 Leicester,Liverpool,3,1,2,Win,3,0,1,0
 Leicester,Hull,3,1,2,Win,4,0,1,0
 Liverpool,Arsenal,3,1,2,Win,5,0,1,0
+<<<<<<< HEAD
 Man United,Bournemouth,1,1,0,Draw,0,0,0,0
 Stoke,Middlesbrough,2,0,2,Win,1,0,0,0
 Swansea,Burnley,3,2,1,Win,2,0,0,0
@@ -268,6 +510,17 @@ Sunderland,Man City,0,2,-2,Loss,0,0,0,0
 Tottenham,Everton,3,2,1,Win,1,0,0,0
 West Ham,Chelsea,1,2,-1,Loss,0,0,0,0
 Man City,Stoke,0,0,0,Draw,0,0,0,0
+=======
+Man United,Bournemouth,1,1,0,Win,0,0,0,0
+Stoke,Middlesbrough,2,0,2,Win,1,0,0,0
+Swansea,Burnley,3,2,1,Win,2,0,0,0
+Watford,Southampton,3,4,-1,Draw,0,0,0,0
+West Brom,Crystal Palace,0,2,-2,Draw,0,0,0,0
+Sunderland,Man City,0,2,-2,Draw,0,0,0,0
+Tottenham,Everton,3,2,1,Win,1,0,0,0
+West Ham,Chelsea,1,2,-1,Draw,0,0,0,0
+Man City,Stoke,0,0,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Bournemouth,West Ham,3,2,1,Win,1,0,0,0
 Everton,West Brom,3,0,3,Win,2,0,0,0
 Hull,Swansea,2,1,1,Win,3,0,1,0
@@ -275,6 +528,7 @@ Liverpool,Burnley,2,1,1,Win,4,0,1,0
 Bournemouth,Swansea,2,0,2,Win,5,0,1,0
 Crystal Palace,Watford,1,0,1,Win,6,0,1,0
 Everton,Hull,4,0,4,Win,7,0,1,0
+<<<<<<< HEAD
 Stoke,Chelsea,1,2,-1,Loss,0,0,0,0
 Sunderland,Burnley,0,0,0,Draw,0,0,0,0
 West Brom,Arsenal,3,1,2,Win,1,0,0,0
@@ -295,10 +549,33 @@ Swansea,Middlesbrough,0,0,0,Draw,0,0,0,0
 Burnley,Stoke,1,0,1,Win,1,0,0,0
 Leicester,Sunderland,2,0,2,Win,2,0,0,0
 Man United,Everton,1,1,0,Draw,0,0,0,0
+=======
+Stoke,Chelsea,1,2,-1,Draw,0,0,0,0
+Sunderland,Burnley,0,0,0,Win,0,0,0,0
+West Brom,Arsenal,3,1,2,Win,1,0,0,0
+West Ham,Leicester,2,3,-1,Draw,0,0,0,0
+Man City,Liverpool,1,1,0,Win,0,0,0,0
+Middlesbrough,Man United,1,3,-2,Draw,0,0,0,0
+Tottenham,Southampton,2,1,1,Win,1,0,0,0
+Burnley,Tottenham,0,2,-2,Draw,0,0,0,0
+Chelsea,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Hull,West Ham,2,1,1,Win,1,0,0,0
+Leicester,Stoke,2,0,2,Win,2,0,0,0
+Liverpool,Everton,3,1,2,Win,3,0,1,0
+Man United,West Brom,0,0,0,Win,0,0,0,0
+Southampton,Bournemouth,0,0,0,Win,0,0,0,0
+Watford,Sunderland,1,0,1,Win,1,0,0,0
+Arsenal,Man City,2,2,0,Win,0,0,0,0
+Swansea,Middlesbrough,0,0,0,Win,0,0,0,0
+Burnley,Stoke,1,0,1,Win,1,0,0,0
+Leicester,Sunderland,2,0,2,Win,2,0,0,0
+Man United,Everton,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Watford,West Brom,2,0,2,Win,1,0,0,0
 Arsenal,West Ham,3,0,3,Win,2,0,0,0
 Chelsea,Man City,2,1,1,Win,3,0,1,0
 Hull,Middlesbrough,4,2,2,Win,4,0,1,0
+<<<<<<< HEAD
 Liverpool,Bournemouth,2,2,0,Draw,0,0,0,0
 Southampton,Crystal Palace,3,1,2,Win,1,0,0,0
 Swansea,Tottenham,1,3,-2,Loss,0,0,0,0
@@ -347,10 +624,61 @@ West Ham,Tottenham,1,0,1,Win,1,0,0,0
 Bournemouth,Stoke,2,2,0,Draw,0,0,0,0
 Burnley,West Brom,2,2,0,Draw,0,0,0,0
 Hull,Sunderland,0,2,-2,Loss,0,0,0,0
+=======
+Liverpool,Bournemouth,2,2,0,Win,0,0,0,0
+Southampton,Crystal Palace,3,1,2,Win,1,0,0,0
+Swansea,Tottenham,1,3,-2,Draw,0,0,0,0
+Bournemouth,Chelsea,1,3,-2,Draw,0,0,0,0
+Man City,Hull,3,1,2,Win,1,0,0,0
+Middlesbrough,Burnley,0,0,0,Win,0,0,0,0
+Stoke,Liverpool,1,2,-1,Draw,0,0,0,0
+Tottenham,Watford,4,0,4,Win,1,0,0,0
+West Brom,Southampton,0,1,-1,Draw,0,0,0,0
+West Ham,Swansea,1,0,1,Win,1,0,0,0
+Everton,Leicester,4,2,2,Win,2,0,0,0
+Sunderland,Man United,0,3,-3,Draw,0,0,0,0
+Crystal Palace,Arsenal,3,0,3,Win,1,0,0,0
+Crystal Palace,Leicester,2,2,0,Win,0,0,0,0
+Everton,Burnley,3,1,2,Win,1,0,0,0
+Southampton,Man City,0,3,-3,Draw,0,0,0,0
+Stoke,Hull,3,1,2,Win,1,0,0,0
+Sunderland,West Ham,2,2,0,Win,0,0,0,0
+Tottenham,Bournemouth,4,0,4,Win,1,0,0,0
+Watford,Swansea,1,0,1,Win,2,0,0,0
+Man United,Chelsea,2,0,2,Win,3,0,1,0
+West Brom,Liverpool,0,1,-1,Draw,0,0,0,0
+Middlesbrough,Arsenal,1,2,-1,Draw,0,0,0,0
+Bournemouth,Middlesbrough,4,0,4,Win,1,0,0,0
+Hull,Watford,2,0,2,Win,2,0,0,0
+Swansea,Stoke,2,0,2,Win,3,0,1,0
+West Ham,Everton,0,0,0,Win,0,0,0,0
+Burnley,Man United,0,2,-2,Draw,0,0,0,0
+Liverpool,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Chelsea,Southampton,4,2,2,Win,1,0,0,0
+Arsenal,Leicester,1,0,1,Win,2,0,0,0
+Crystal Palace,Tottenham,0,1,-1,Draw,0,0,0,0
+Middlesbrough,Sunderland,1,0,1,Win,1,0,0,0
+Man City,Man United,0,0,0,Win,0,0,0,0
+Crystal Palace,Burnley,0,2,-2,Draw,0,0,0,0
+Southampton,Hull,0,0,0,Win,0,0,0,0
+Stoke,West Ham,0,0,0,Win,0,0,0,0
+Sunderland,Bournemouth,0,1,-1,Draw,0,0,0,0
+West Brom,Leicester,0,1,-1,Draw,0,0,0,0
+Everton,Chelsea,0,3,-3,Draw,0,0,0,0
+Man United,Swansea,1,1,0,Win,0,0,0,0
+Middlesbrough,Man City,2,2,0,Win,0,0,0,0
+Tottenham,Arsenal,2,0,2,Win,1,0,0,0
+Watford,Liverpool,0,1,-1,Draw,0,0,0,0
+West Ham,Tottenham,1,0,1,Win,1,0,0,0
+Bournemouth,Stoke,2,2,0,Win,0,0,0,0
+Burnley,West Brom,2,2,0,Win,0,0,0,0
+Hull,Sunderland,0,2,-2,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Leicester,Watford,3,0,3,Win,1,0,0,0
 Man City,Crystal Palace,5,0,5,Win,2,0,0,0
 Swansea,Everton,1,0,1,Win,3,0,1,0
 Arsenal,Man United,2,0,2,Win,4,0,1,0
+<<<<<<< HEAD
 Liverpool,Southampton,0,0,0,Draw,0,0,0,0
 Chelsea,Middlesbrough,3,0,3,Win,1,0,0,0
 Southampton,Arsenal,0,2,-2,Loss,0,0,0,0
@@ -391,10 +719,53 @@ Man United,West Ham,4,0,4,Win,2,0,0,0
 Newcastle,Tottenham,0,2,-2,Loss,0,0,0,0
 Bournemouth,Watford,0,2,-2,Loss,0,0,0,0
 Burnley,West Brom,0,1,-1,Loss,0,0,0,0
+=======
+Liverpool,Southampton,0,0,0,Win,0,0,0,0
+Chelsea,Middlesbrough,3,0,3,Win,1,0,0,0
+Southampton,Arsenal,0,2,-2,Draw,0,0,0,0
+Everton,Watford,1,0,1,Win,1,0,0,0
+West Brom,Chelsea,0,1,-1,Draw,0,0,0,0
+Bournemouth,Burnley,2,1,1,Win,1,0,0,0
+Man City,Leicester,2,1,1,Win,2,0,0,0
+Middlesbrough,Southampton,1,2,-1,Draw,0,0,0,0
+Stoke,Arsenal,1,4,-3,Draw,0,0,0,0
+Sunderland,Swansea,0,2,-2,Draw,0,0,0,0
+Crystal Palace,Hull,4,0,4,Win,1,0,0,0
+Tottenham,Man United,2,1,1,Win,2,0,0,0
+West Ham,Liverpool,0,4,-4,Draw,0,0,0,0
+Chelsea,Watford,4,3,1,Win,1,0,0,0
+Arsenal,Sunderland,2,0,2,Win,2,0,0,0
+Man City,West Brom,3,1,2,Win,3,0,1,0
+Southampton,Man United,0,0,0,Win,0,0,0,0
+Leicester,Tottenham,1,6,-5,Draw,0,0,0,0
+Arsenal,Everton,3,1,2,Win,1,0,0,0
+Burnley,West Ham,1,2,-1,Draw,0,0,0,0
+Chelsea,Sunderland,5,1,4,Win,1,0,0,0
+Hull,Tottenham,1,7,-6,Draw,0,0,0,0
+Leicester,Bournemouth,1,1,0,Win,0,0,0,0
+Liverpool,Middlesbrough,3,0,3,Win,1,0,0,0
+Man United,Crystal Palace,2,0,2,Win,2,0,0,0
+Southampton,Stoke,0,1,-1,Draw,0,0,0,0
+Swansea,West Brom,2,1,1,Win,1,0,0,0
+Watford,Man City,0,5,-5,Draw,0,0,0,0
+Arsenal,Leicester,4,3,1,Win,1,0,0,0
+Brighton,Man City,0,2,-2,Draw,0,0,0,0
+Chelsea,Burnley,2,3,-1,Draw,0,0,0,0
+Crystal Palace,Huddersfield,0,3,-3,Draw,0,0,0,0
+Everton,Stoke,1,0,1,Win,1,0,0,0
+Southampton,Swansea,0,0,0,Win,0,0,0,0
+Watford,Liverpool,3,3,0,Win,0,0,0,0
+West Brom,Bournemouth,1,0,1,Win,1,0,0,0
+Man United,West Ham,4,0,4,Win,2,0,0,0
+Newcastle,Tottenham,0,2,-2,Draw,0,0,0,0
+Bournemouth,Watford,0,2,-2,Draw,0,0,0,0
+Burnley,West Brom,0,1,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Leicester,Brighton,2,0,2,Win,1,0,0,0
 Liverpool,Crystal Palace,1,0,1,Win,2,0,0,0
 Southampton,West Ham,3,2,1,Win,3,0,1,0
 Stoke,Arsenal,1,0,1,Win,4,0,1,0
+<<<<<<< HEAD
 Swansea,Man United,0,4,-4,Loss,0,0,0,0
 Huddersfield,Newcastle,1,0,1,Win,1,0,0,0
 Tottenham,Chelsea,1,2,-1,Loss,0,0,0,0
@@ -452,19 +823,86 @@ Newcastle,Liverpool,1,1,0,Draw,0,0,0,0
 Burnley,West Ham,1,1,0,Draw,0,0,0,0
 Crystal Palace,Chelsea,2,1,1,Win,1,0,0,0
 Liverpool,Man United,0,0,0,Draw,0,0,0,0
+=======
+Swansea,Man United,0,4,-4,Draw,0,0,0,0
+Huddersfield,Newcastle,1,0,1,Win,1,0,0,0
+Tottenham,Chelsea,1,2,-1,Draw,0,0,0,0
+Man City,Everton,1,1,0,Win,0,0,0,0
+Bournemouth,Man City,1,2,-1,Draw,0,0,0,0
+Crystal Palace,Swansea,0,2,-2,Draw,0,0,0,0
+Huddersfield,Southampton,0,0,0,Win,0,0,0,0
+Man United,Leicester,2,0,2,Win,1,0,0,0
+Newcastle,West Ham,3,0,3,Win,2,0,0,0
+Watford,Brighton,0,0,0,Win,0,0,0,0
+Chelsea,Everton,2,0,2,Win,1,0,0,0
+Liverpool,Arsenal,4,0,4,Win,2,0,0,0
+Tottenham,Burnley,1,1,0,Win,0,0,0,0
+West Brom,Stoke,1,1,0,Win,0,0,0,0
+Arsenal,Bournemouth,3,0,3,Win,1,0,0,0
+Brighton,West Brom,3,1,2,Win,2,0,0,0
+Everton,Tottenham,0,3,-3,Draw,0,0,0,0
+Leicester,Chelsea,1,2,-1,Draw,0,0,0,0
+Man City,Liverpool,5,0,5,Win,1,0,0,0
+Southampton,Watford,0,2,-2,Draw,0,0,0,0
+Stoke,Man United,2,2,0,Win,0,0,0,0
+Burnley,Crystal Palace,1,0,1,Win,1,0,0,0
+Swansea,Newcastle,0,1,-1,Draw,0,0,0,0
+West Ham,Huddersfield,2,0,2,Win,1,0,0,0
+Bournemouth,Brighton,2,1,1,Win,2,0,0,0
+Crystal Palace,Southampton,0,1,-1,Draw,0,0,0,0
+Huddersfield,Leicester,1,1,0,Win,0,0,0,0
+Liverpool,Burnley,1,1,0,Win,0,0,0,0
+Newcastle,Stoke,2,1,1,Win,1,0,0,0
+Tottenham,Swansea,0,0,0,Win,0,0,0,0
+Watford,Man City,0,6,-6,Draw,0,0,0,0
+West Brom,West Ham,0,0,0,Win,0,0,0,0
+Chelsea,Arsenal,0,0,0,Win,0,0,0,0
+Man United,Everton,4,0,4,Win,1,0,0,0
+Burnley,Huddersfield,0,0,0,Win,0,0,0,0
+Everton,Bournemouth,2,1,1,Win,1,0,0,0
+Leicester,Liverpool,2,3,-1,Draw,0,0,0,0
+Man City,Crystal Palace,5,0,5,Win,1,0,0,0
+Southampton,Man United,0,1,-1,Draw,0,0,0,0
+Stoke,Chelsea,0,4,-4,Draw,0,0,0,0
+Swansea,Watford,1,2,-1,Draw,0,0,0,0
+West Ham,Tottenham,2,3,-1,Draw,0,0,0,0
+Brighton,Newcastle,1,0,1,Win,1,0,0,0
+Arsenal,West Brom,2,0,2,Win,2,0,0,0
+Bournemouth,Leicester,0,0,0,Win,0,0,0,0
+Chelsea,Man City,0,1,-1,Draw,0,0,0,0
+Huddersfield,Tottenham,0,4,-4,Draw,0,0,0,0
+Man United,Crystal Palace,4,0,4,Win,1,0,0,0
+Stoke,Southampton,2,1,1,Win,2,0,0,0
+West Brom,Watford,2,2,0,Win,0,0,0,0
+West Ham,Swansea,1,0,1,Win,1,0,0,0
+Arsenal,Brighton,2,0,2,Win,2,0,0,0
+Everton,Burnley,0,1,-1,Draw,0,0,0,0
+Newcastle,Liverpool,1,1,0,Win,0,0,0,0
+Burnley,West Ham,1,1,0,Win,0,0,0,0
+Crystal Palace,Chelsea,2,1,1,Win,1,0,0,0
+Liverpool,Man United,0,0,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Man City,Stoke,7,2,5,Win,1,0,0,0
 Swansea,Huddersfield,2,0,2,Win,2,0,0,0
 Tottenham,Bournemouth,1,0,1,Win,3,0,1,0
 Watford,Arsenal,2,1,1,Win,4,0,1,0
+<<<<<<< HEAD
 Brighton,Everton,1,1,0,Draw,0,0,0,0
 Southampton,Newcastle,2,2,0,Draw,0,0,0,0
 Leicester,West Brom,1,1,0,Draw,0,0,0,0
 West Ham,Brighton,0,3,-3,Loss,0,0,0,0
+=======
+Brighton,Everton,1,1,0,Win,0,0,0,0
+Southampton,Newcastle,2,2,0,Win,0,0,0,0
+Leicester,West Brom,1,1,0,Win,0,0,0,0
+West Ham,Brighton,0,3,-3,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Chelsea,Watford,4,2,2,Win,1,0,0,0
 Huddersfield,Man United,2,1,1,Win,2,0,0,0
 Man City,Burnley,3,0,3,Win,3,0,1,0
 Newcastle,Crystal Palace,1,0,1,Win,4,0,1,0
 Southampton,West Brom,1,0,1,Win,5,0,1,0
+<<<<<<< HEAD
 Stoke,Bournemouth,1,2,-1,Loss,0,0,0,0
 Swansea,Leicester,1,2,-1,Loss,0,0,0,0
 Everton,Arsenal,2,5,-3,Loss,0,0,0,0
@@ -485,6 +923,28 @@ Southampton,Burnley,0,1,-1,Loss,0,0,0,0
 Stoke,Leicester,2,2,0,Draw,0,0,0,0
 Swansea,Brighton,0,1,-1,Loss,0,0,0,0
 West Ham,Liverpool,1,4,-3,Loss,0,0,0,0
+=======
+Stoke,Bournemouth,1,2,-1,Draw,0,0,0,0
+Swansea,Leicester,1,2,-1,Draw,0,0,0,0
+Everton,Arsenal,2,5,-3,Draw,0,0,0,0
+Tottenham,Liverpool,4,1,3,Win,1,0,0,0
+Arsenal,Swansea,2,1,1,Win,2,0,0,0
+Bournemouth,Chelsea,0,1,-1,Draw,0,0,0,0
+Crystal Palace,West Ham,2,2,0,Win,0,0,0,0
+Liverpool,Huddersfield,3,0,3,Win,1,0,0,0
+Man United,Tottenham,1,0,1,Win,2,0,0,0
+Watford,Stoke,0,1,-1,Draw,0,0,0,0
+West Brom,Man City,2,3,-1,Draw,0,0,0,0
+Brighton,Southampton,1,1,0,Win,0,0,0,0
+Leicester,Everton,2,0,2,Win,1,0,0,0
+Burnley,Newcastle,1,0,1,Win,2,0,0,0
+Huddersfield,West Brom,1,0,1,Win,3,0,1,0
+Newcastle,Bournemouth,0,1,-1,Draw,0,0,0,0
+Southampton,Burnley,0,1,-1,Draw,0,0,0,0
+Stoke,Leicester,2,2,0,Win,0,0,0,0
+Swansea,Brighton,0,1,-1,Draw,0,0,0,0
+West Ham,Liverpool,1,4,-3,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Chelsea,Man United,1,0,1,Win,1,0,0,0
 Everton,Watford,3,2,1,Win,2,0,0,0
 Man City,Arsenal,3,1,2,Win,3,0,1,0
@@ -492,6 +952,7 @@ Tottenham,Crystal Palace,1,0,1,Win,4,0,1,0
 Arsenal,Tottenham,2,0,2,Win,5,0,1,0
 Bournemouth,Huddersfield,4,0,4,Win,6,0,1,0
 Burnley,Swansea,2,0,2,Win,7,0,1,0
+<<<<<<< HEAD
 Crystal Palace,Everton,2,2,0,Draw,0,0,0,0
 Leicester,Man City,0,2,-2,Loss,0,0,0,0
 Liverpool,Southampton,3,0,3,Win,1,0,0,0
@@ -521,10 +982,42 @@ Man City,Southampton,2,1,1,Win,3,0,1,0
 Stoke,Liverpool,0,3,-3,Loss,0,0,0,0
 Arsenal,Man United,1,3,-2,Loss,0,0,0,0
 Brighton,Liverpool,1,5,-4,Loss,0,0,0,0
+=======
+Crystal Palace,Everton,2,2,0,Win,0,0,0,0
+Leicester,Man City,0,2,-2,Draw,0,0,0,0
+Liverpool,Southampton,3,0,3,Win,1,0,0,0
+Man United,Newcastle,4,1,3,Win,2,0,0,0
+West Brom,Chelsea,0,4,-4,Draw,0,0,0,0
+Watford,West Ham,2,0,2,Win,1,0,0,0
+Brighton,Stoke,2,2,0,Win,0,0,0,0
+West Ham,Leicester,1,1,0,Win,0,0,0,0
+Crystal Palace,Stoke,2,1,1,Win,1,0,0,0
+Liverpool,Chelsea,1,1,0,Win,0,0,0,0
+Man United,Brighton,1,0,1,Win,1,0,0,0
+Newcastle,Watford,0,3,-3,Draw,0,0,0,0
+Swansea,Bournemouth,0,0,0,Win,0,0,0,0
+Tottenham,West Brom,1,1,0,Win,0,0,0,0
+Burnley,Arsenal,0,1,-1,Draw,0,0,0,0
+Huddersfield,Man City,1,2,-1,Draw,0,0,0,0
+Southampton,Everton,4,1,3,Win,1,0,0,0
+Brighton,Crystal Palace,0,0,0,Win,0,0,0,0
+Leicester,Tottenham,2,1,1,Win,1,0,0,0
+Watford,Man United,2,4,-2,Draw,0,0,0,0
+West Brom,Newcastle,2,2,0,Win,0,0,0,0
+Arsenal,Huddersfield,5,0,5,Win,1,0,0,0
+Bournemouth,Burnley,1,2,-1,Draw,0,0,0,0
+Chelsea,Swansea,1,0,1,Win,1,0,0,0
+Everton,West Ham,4,0,4,Win,2,0,0,0
+Man City,Southampton,2,1,1,Win,3,0,1,0
+Stoke,Liverpool,0,3,-3,Draw,0,0,0,0
+Arsenal,Man United,1,3,-2,Draw,0,0,0,0
+Brighton,Liverpool,1,5,-4,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Chelsea,Newcastle,3,1,2,Win,1,0,0,0
 Everton,Huddersfield,2,0,2,Win,2,0,0,0
 Leicester,Burnley,1,0,1,Win,3,0,1,0
 Stoke,Swansea,2,1,1,Win,4,0,1,0
+<<<<<<< HEAD
 Watford,Tottenham,1,1,0,Draw,0,0,0,0
 West Brom,Crystal Palace,0,0,0,Draw,0,0,0,0
 Bournemouth,Southampton,1,1,0,Draw,0,0,0,0
@@ -605,11 +1098,94 @@ Huddersfield,West Ham,1,4,-3,Loss,0,0,0,0
 Newcastle,Swansea,1,1,0,Draw,0,0,0,0
 Tottenham,Everton,4,0,4,Win,1,0,0,0
 Watford,Southampton,2,2,0,Draw,0,0,0,0
+=======
+Watford,Tottenham,1,1,0,Win,0,0,0,0
+West Brom,Crystal Palace,0,0,0,Win,0,0,0,0
+Bournemouth,Southampton,1,1,0,Win,0,0,0,0
+Man City,West Ham,2,1,1,Win,1,0,0,0
+Burnley,Watford,1,0,1,Win,2,0,0,0
+Crystal Palace,Bournemouth,2,2,0,Win,0,0,0,0
+Huddersfield,Brighton,2,0,2,Win,1,0,0,0
+Newcastle,Leicester,2,3,-1,Draw,0,0,0,0
+Swansea,West Brom,1,0,1,Win,1,0,0,0
+Tottenham,Stoke,5,1,4,Win,2,0,0,0
+West Ham,Chelsea,1,0,1,Win,3,0,1,0
+Liverpool,Everton,1,1,0,Win,0,0,0,0
+Man United,Man City,1,2,-1,Draw,0,0,0,0
+Southampton,Arsenal,1,1,0,Win,0,0,0,0
+Burnley,Stoke,1,0,1,Win,1,0,0,0
+Crystal Palace,Watford,2,1,1,Win,2,0,0,0
+Huddersfield,Chelsea,1,3,-2,Draw,0,0,0,0
+Liverpool,West Brom,0,0,0,Win,0,0,0,0
+Man United,Bournemouth,1,0,1,Win,1,0,0,0
+Newcastle,Everton,0,1,-1,Draw,0,0,0,0
+Southampton,Leicester,1,4,-3,Draw,0,0,0,0
+Swansea,Man City,0,4,-4,Draw,0,0,0,0
+Tottenham,Brighton,2,0,2,Win,1,0,0,0
+West Ham,Arsenal,0,0,0,Win,0,0,0,0
+Arsenal,Newcastle,1,0,1,Win,1,0,0,0
+Brighton,Burnley,0,0,0,Win,0,0,0,0
+Chelsea,Southampton,1,0,1,Win,1,0,0,0
+Leicester,Crystal Palace,0,3,-3,Draw,0,0,0,0
+Man City,Tottenham,4,1,3,Win,1,0,0,0
+Stoke,West Ham,0,3,-3,Draw,0,0,0,0
+Watford,Huddersfield,1,4,-3,Draw,0,0,0,0
+Bournemouth,Liverpool,0,4,-4,Draw,0,0,0,0
+West Brom,Man United,1,2,-1,Draw,0,0,0,0
+Everton,Swansea,3,1,2,Win,1,0,0,0
+Arsenal,Liverpool,3,3,0,Win,0,0,0,0
+Brighton,Watford,1,0,1,Win,1,0,0,0
+Burnley,Tottenham,0,3,-3,Draw,0,0,0,0
+Everton,Chelsea,0,0,0,Win,0,0,0,0
+Leicester,Man United,2,2,0,Win,0,0,0,0
+Man City,Bournemouth,4,0,4,Win,1,0,0,0
+Southampton,Huddersfield,1,1,0,Win,0,0,0,0
+Stoke,West Brom,3,1,2,Win,1,0,0,0
+Swansea,Crystal Palace,1,1,0,Win,0,0,0,0
+West Ham,Newcastle,2,3,-1,Draw,0,0,0,0
+Bournemouth,West Ham,3,3,0,Win,0,0,0,0
+Chelsea,Brighton,2,0,2,Win,1,0,0,0
+Huddersfield,Stoke,1,1,0,Win,0,0,0,0
+Liverpool,Swansea,5,0,5,Win,1,0,0,0
+Man United,Burnley,2,2,0,Win,0,0,0,0
+Tottenham,Southampton,5,2,3,Win,1,0,0,0
+Watford,Leicester,2,1,1,Win,2,0,0,0
+West Brom,Everton,0,0,0,Win,0,0,0,0
+Newcastle,Man City,0,1,-1,Draw,0,0,0,0
+Crystal Palace,Arsenal,2,3,-1,Draw,0,0,0,0
+Bournemouth,Everton,2,1,1,Win,1,0,0,0
+Chelsea,Stoke,5,0,5,Win,2,0,0,0
+Huddersfield,Burnley,0,0,0,Win,0,0,0,0
+Liverpool,Leicester,2,1,1,Win,1,0,0,0
+Man United,Southampton,0,0,0,Win,0,0,0,0
+Newcastle,Brighton,0,0,0,Win,0,0,0,0
+Watford,Swansea,1,2,-1,Draw,0,0,0,0
+Crystal Palace,Man City,0,0,0,Win,0,0,0,0
+West Brom,Arsenal,1,1,0,Win,0,0,0,0
+Brighton,Bournemouth,2,2,0,Win,0,0,0,0
+Burnley,Liverpool,1,2,-1,Draw,0,0,0,0
+Everton,Man United,0,2,-2,Draw,0,0,0,0
+Leicester,Huddersfield,3,0,3,Win,1,0,0,0
+Stoke,Newcastle,0,1,-1,Draw,0,0,0,0
+Man City,Watford,3,1,2,Win,1,0,0,0
+Southampton,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Swansea,Tottenham,0,2,-2,Draw,0,0,0,0
+West Ham,West Brom,2,1,1,Win,1,0,0,0
+Arsenal,Chelsea,2,2,0,Win,0,0,0,0
+Tottenham,West Ham,1,1,0,Win,0,0,0,0
+Chelsea,Leicester,0,0,0,Win,0,0,0,0
+Crystal Palace,Burnley,1,0,1,Win,1,0,0,0
+Huddersfield,West Ham,1,4,-3,Draw,0,0,0,0
+Newcastle,Swansea,1,1,0,Win,0,0,0,0
+Tottenham,Everton,4,0,4,Win,1,0,0,0
+Watford,Southampton,2,2,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 West Brom,Brighton,2,0,2,Win,1,0,0,0
 Bournemouth,Arsenal,2,1,1,Win,2,0,0,0
 Liverpool,Man City,4,3,1,Win,3,0,1,0
 Man United,Stoke,3,0,3,Win,4,0,1,0
 Arsenal,Crystal Palace,4,1,3,Win,5,0,1,0
+<<<<<<< HEAD
 Brighton,Chelsea,0,4,-4,Loss,0,0,0,0
 Burnley,Man United,0,1,-1,Loss,0,0,0,0
 Everton,West Brom,1,1,0,Draw,0,0,0,0
@@ -628,10 +1204,31 @@ Man City,West Brom,3,0,3,Win,2,0,0,0
 Newcastle,Burnley,1,1,0,Draw,0,0,0,0
 Southampton,Brighton,1,1,0,Draw,0,0,0,0
 Stoke,Watford,0,0,0,Draw,0,0,0,0
+=======
+Brighton,Chelsea,0,4,-4,Draw,0,0,0,0
+Burnley,Man United,0,1,-1,Draw,0,0,0,0
+Everton,West Brom,1,1,0,Win,0,0,0,0
+Leicester,Watford,2,0,2,Win,1,0,0,0
+Man City,Newcastle,3,1,2,Win,2,0,0,0
+Stoke,Huddersfield,2,0,2,Win,3,0,1,0
+West Ham,Bournemouth,1,1,0,Win,0,0,0,0
+Southampton,Tottenham,1,1,0,Win,0,0,0,0
+Swansea,Liverpool,1,0,1,Win,1,0,0,0
+Huddersfield,Liverpool,0,3,-3,Draw,0,0,0,0
+Swansea,Arsenal,3,1,2,Win,1,0,0,0
+West Ham,Crystal Palace,1,1,0,Win,0,0,0,0
+Chelsea,Bournemouth,0,3,-3,Draw,0,0,0,0
+Everton,Leicester,2,1,1,Win,1,0,0,0
+Man City,West Brom,3,0,3,Win,2,0,0,0
+Newcastle,Burnley,1,1,0,Win,0,0,0,0
+Southampton,Brighton,1,1,0,Win,0,0,0,0
+Stoke,Watford,0,0,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Tottenham,Man United,2,0,2,Win,1,0,0,0
 Arsenal,Everton,5,1,4,Win,2,0,0,0
 Bournemouth,Stoke,2,1,1,Win,3,0,1,0
 Brighton,West Ham,3,1,2,Win,4,0,1,0
+<<<<<<< HEAD
 Burnley,Man City,1,1,0,Draw,0,0,0,0
 Leicester,Swansea,1,1,0,Draw,0,0,0,0
 Man United,Huddersfield,2,0,2,Win,1,0,0,0
@@ -642,11 +1239,24 @@ Watford,Chelsea,4,1,3,Win,1,0,0,0
 Everton,Crystal Palace,3,1,2,Win,2,0,0,0
 Man City,Leicester,5,1,4,Win,3,0,1,0
 Stoke,Brighton,1,1,0,Draw,0,0,0,0
+=======
+Burnley,Man City,1,1,0,Win,0,0,0,0
+Leicester,Swansea,1,1,0,Win,0,0,0,0
+Man United,Huddersfield,2,0,2,Win,1,0,0,0
+West Brom,Southampton,2,3,-1,Draw,0,0,0,0
+Crystal Palace,Newcastle,1,1,0,Win,0,0,0,0
+Liverpool,Tottenham,2,2,0,Win,0,0,0,0
+Watford,Chelsea,4,1,3,Win,1,0,0,0
+Everton,Crystal Palace,3,1,2,Win,2,0,0,0
+Man City,Leicester,5,1,4,Win,3,0,1,0
+Stoke,Brighton,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Swansea,Burnley,1,0,1,Win,1,0,0,0
 Tottenham,Arsenal,1,0,1,Win,2,0,0,0
 West Ham,Watford,2,0,2,Win,3,0,1,0
 Huddersfield,Bournemouth,4,1,3,Win,4,0,1,0
 Newcastle,Man United,1,0,1,Win,5,0,1,0
+<<<<<<< HEAD
 Southampton,Liverpool,0,2,-2,Loss,0,0,0,0
 Chelsea,West Brom,3,0,3,Win,1,0,0,0
 Bournemouth,Newcastle,2,2,0,Draw,0,0,0,0
@@ -663,11 +1273,30 @@ Burnley,Everton,2,1,1,Win,1,0,0,0
 Leicester,Bournemouth,1,1,0,Draw,0,0,0,0
 Liverpool,Newcastle,2,0,2,Win,1,0,0,0
 Southampton,Stoke,0,0,0,Draw,0,0,0,0
+=======
+Southampton,Liverpool,0,2,-2,Draw,0,0,0,0
+Chelsea,West Brom,3,0,3,Win,1,0,0,0
+Bournemouth,Newcastle,2,2,0,Win,0,0,0,0
+Brighton,Swansea,4,1,3,Win,1,0,0,0
+Burnley,Southampton,1,1,0,Win,0,0,0,0
+Leicester,Stoke,1,1,0,Win,0,0,0,0
+Liverpool,West Ham,4,1,3,Win,1,0,0,0
+Watford,Everton,1,0,1,Win,2,0,0,0
+West Brom,Huddersfield,1,2,-1,Draw,0,0,0,0
+Crystal Palace,Tottenham,0,1,-1,Draw,0,0,0,0
+Man United,Chelsea,2,1,1,Win,1,0,0,0
+Arsenal,Man City,0,3,-3,Draw,0,0,0,0
+Burnley,Everton,2,1,1,Win,1,0,0,0
+Leicester,Bournemouth,1,1,0,Win,0,0,0,0
+Liverpool,Newcastle,2,0,2,Win,1,0,0,0
+Southampton,Stoke,0,0,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Swansea,West Ham,4,1,3,Win,1,0,0,0
 Tottenham,Huddersfield,2,0,2,Win,2,0,0,0
 Watford,West Brom,1,0,1,Win,3,0,1,0
 Brighton,Arsenal,2,1,1,Win,4,0,1,0
 Man City,Chelsea,1,0,1,Win,5,0,1,0
+<<<<<<< HEAD
 Crystal Palace,Man United,2,3,-1,Loss,0,0,0,0
 Chelsea,Crystal Palace,2,1,1,Win,1,0,0,0
 Everton,Brighton,2,0,2,Win,2,0,0,0
@@ -703,10 +1332,48 @@ Watford,Burnley,1,2,-1,Loss,0,0,0,0
 West Brom,Swansea,1,1,0,Draw,0,0,0,0
 Arsenal,Southampton,3,2,1,Win,1,0,0,0
 Chelsea,West Ham,1,1,0,Draw,0,0,0,0
+=======
+Crystal Palace,Man United,2,3,-1,Draw,0,0,0,0
+Chelsea,Crystal Palace,2,1,1,Win,1,0,0,0
+Everton,Brighton,2,0,2,Win,2,0,0,0
+Huddersfield,Swansea,0,0,0,Win,0,0,0,0
+Man United,Liverpool,2,1,1,Win,1,0,0,0
+Newcastle,Southampton,3,0,3,Win,2,0,0,0
+West Brom,Leicester,1,4,-3,Draw,0,0,0,0
+West Ham,Burnley,0,3,-3,Draw,0,0,0,0
+Arsenal,Watford,3,0,3,Win,1,0,0,0
+Bournemouth,Tottenham,1,4,-3,Draw,0,0,0,0
+Stoke,Man City,0,2,-2,Draw,0,0,0,0
+Bournemouth,West Brom,2,1,1,Win,1,0,0,0
+Huddersfield,Crystal Palace,0,2,-2,Draw,0,0,0,0
+Liverpool,Watford,5,0,5,Win,1,0,0,0
+Stoke,Everton,1,2,-1,Draw,0,0,0,0
+Brighton,Leicester,0,2,-2,Draw,0,0,0,0
+Crystal Palace,Liverpool,1,2,-1,Draw,0,0,0,0
+Everton,Man City,1,3,-2,Draw,0,0,0,0
+Man United,Swansea,2,0,2,Win,1,0,0,0
+Newcastle,Huddersfield,1,0,1,Win,2,0,0,0
+Watford,Bournemouth,2,2,0,Win,0,0,0,0
+West Brom,Burnley,1,2,-1,Draw,0,0,0,0
+West Ham,Southampton,3,0,3,Win,1,0,0,0
+Arsenal,Stoke,3,0,3,Win,2,0,0,0
+Chelsea,Tottenham,1,3,-2,Draw,0,0,0,0
+Bournemouth,Crystal Palace,2,2,0,Win,0,0,0,0
+Brighton,Huddersfield,1,1,0,Win,0,0,0,0
+Everton,Liverpool,0,0,0,Win,0,0,0,0
+Leicester,Newcastle,1,2,-1,Draw,0,0,0,0
+Man City,Man United,2,3,-1,Draw,0,0,0,0
+Stoke,Tottenham,1,2,-1,Draw,0,0,0,0
+Watford,Burnley,1,2,-1,Draw,0,0,0,0
+West Brom,Swansea,1,1,0,Win,0,0,0,0
+Arsenal,Southampton,3,2,1,Win,1,0,0,0
+Chelsea,West Ham,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Burnley,Leicester,2,1,1,Win,1,0,0,0
 Crystal Palace,Brighton,3,2,1,Win,2,0,0,0
 Huddersfield,Watford,1,0,1,Win,3,0,1,0
 Liverpool,Bournemouth,3,0,3,Win,4,0,1,0
+<<<<<<< HEAD
 Southampton,Chelsea,2,3,-1,Loss,0,0,0,0
 Swansea,Everton,1,1,0,Draw,0,0,0,0
 Tottenham,Man City,1,3,-2,Loss,0,0,0,0
@@ -738,10 +1405,44 @@ Bournemouth,Swansea,1,0,1,Win,3,0,1,0
 Everton,Southampton,1,1,0,Draw,0,0,0,0
 Leicester,West Ham,0,2,-2,Loss,0,0,0,0
 Stoke,Crystal Palace,1,2,-1,Loss,0,0,0,0
+=======
+Southampton,Chelsea,2,3,-1,Draw,0,0,0,0
+Swansea,Everton,1,1,0,Win,0,0,0,0
+Tottenham,Man City,1,3,-2,Draw,0,0,0,0
+Man United,West Brom,0,1,-1,Draw,0,0,0,0
+Newcastle,Arsenal,2,1,1,Win,1,0,0,0
+West Ham,Stoke,1,1,0,Win,0,0,0,0
+Brighton,Tottenham,1,1,0,Win,0,0,0,0
+Bournemouth,Man United,0,2,-2,Draw,0,0,0,0
+Burnley,Chelsea,1,2,-1,Draw,0,0,0,0
+Leicester,Southampton,0,0,0,Win,0,0,0,0
+Watford,Crystal Palace,0,0,0,Win,0,0,0,0
+West Brom,Liverpool,2,2,0,Win,0,0,0,0
+Arsenal,West Ham,4,1,3,Win,1,0,0,0
+Man City,Swansea,5,0,5,Win,2,0,0,0
+Stoke,Burnley,1,1,0,Win,0,0,0,0
+Everton,Newcastle,1,0,1,Win,1,0,0,0
+Burnley,Brighton,0,0,0,Win,0,0,0,0
+Crystal Palace,Leicester,5,0,5,Win,1,0,0,0
+Huddersfield,Everton,0,2,-2,Draw,0,0,0,0
+Liverpool,Stoke,0,0,0,Win,0,0,0,0
+Newcastle,West Brom,0,1,-1,Draw,0,0,0,0
+Southampton,Bournemouth,2,1,1,Win,1,0,0,0
+Swansea,Chelsea,0,1,-1,Draw,0,0,0,0
+Man United,Arsenal,2,1,1,Win,1,0,0,0
+West Ham,Man City,1,4,-3,Draw,0,0,0,0
+Tottenham,Watford,2,0,2,Win,1,0,0,0
+Brighton,Man United,1,0,1,Win,2,0,0,0
+Bournemouth,Swansea,1,0,1,Win,3,0,1,0
+Everton,Southampton,1,1,0,Win,0,0,0,0
+Leicester,West Ham,0,2,-2,Draw,0,0,0,0
+Stoke,Crystal Palace,1,2,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Watford,Newcastle,2,1,1,Win,1,0,0,0
 West Brom,Tottenham,1,0,1,Win,2,0,0,0
 Arsenal,Burnley,5,0,5,Win,3,0,1,0
 Chelsea,Liverpool,1,0,1,Win,4,0,1,0
+<<<<<<< HEAD
 Man City,Huddersfield,0,0,0,Draw,0,0,0,0
 Swansea,Southampton,0,1,-1,Loss,0,0,0,0
 Chelsea,Huddersfield,1,1,0,Draw,0,0,0,0
@@ -757,10 +1458,28 @@ Man United,Watford,1,0,1,Win,2,0,0,0
 Newcastle,Chelsea,3,0,3,Win,3,0,1,0
 Southampton,Man City,0,1,-1,Loss,0,0,0,0
 Swansea,Stoke,1,2,-1,Loss,0,0,0,0
+=======
+Man City,Huddersfield,0,0,0,Win,0,0,0,0
+Swansea,Southampton,0,1,-1,Draw,0,0,0,0
+Chelsea,Huddersfield,1,1,0,Win,0,0,0,0
+Leicester,Arsenal,3,1,2,Win,1,0,0,0
+Man City,Brighton,3,1,2,Win,2,0,0,0
+Tottenham,Newcastle,1,0,1,Win,3,0,1,0
+West Ham,Man United,0,0,0,Win,0,0,0,0
+Burnley,Bournemouth,1,2,-1,Draw,0,0,0,0
+Crystal Palace,West Brom,2,0,2,Win,1,0,0,0
+Huddersfield,Arsenal,0,1,-1,Draw,0,0,0,0
+Liverpool,Brighton,4,0,4,Win,1,0,0,0
+Man United,Watford,1,0,1,Win,2,0,0,0
+Newcastle,Chelsea,3,0,3,Win,3,0,1,0
+Southampton,Man City,0,1,-1,Draw,0,0,0,0
+Swansea,Stoke,1,2,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Tottenham,Leicester,5,4,1,Win,1,0,0,0
 West Ham,Everton,3,1,2,Win,2,0,0,0
 Man United,Leicester,2,1,1,Win,3,0,1,0
 Bournemouth,Cardiff,2,0,2,Win,4,0,1,0
+<<<<<<< HEAD
 Fulham,Crystal Palace,0,2,-2,Loss,0,0,0,0
 Huddersfield,Chelsea,0,3,-3,Loss,0,0,0,0
 Newcastle,Tottenham,1,2,-1,Loss,0,0,0,0
@@ -770,10 +1489,22 @@ Arsenal,Man City,0,2,-2,Loss,0,0,0,0
 Liverpool,West Ham,4,0,4,Win,1,0,0,0
 Southampton,Burnley,0,0,0,Draw,0,0,0,0
 Cardiff,Newcastle,0,0,0,Draw,0,0,0,0
+=======
+Fulham,Crystal Palace,0,2,-2,Draw,0,0,0,0
+Huddersfield,Chelsea,0,3,-3,Draw,0,0,0,0
+Newcastle,Tottenham,1,2,-1,Draw,0,0,0,0
+Watford,Brighton,2,0,2,Win,1,0,0,0
+Wolves,Everton,2,2,0,Win,0,0,0,0
+Arsenal,Man City,0,2,-2,Draw,0,0,0,0
+Liverpool,West Ham,4,0,4,Win,1,0,0,0
+Southampton,Burnley,0,0,0,Win,0,0,0,0
+Cardiff,Newcastle,0,0,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Chelsea,Arsenal,3,2,1,Win,1,0,0,0
 Everton,Southampton,2,1,1,Win,2,0,0,0
 Leicester,Wolves,2,0,2,Win,3,0,1,0
 Tottenham,Fulham,3,1,2,Win,4,0,1,0
+<<<<<<< HEAD
 West Ham,Bournemouth,1,2,-1,Loss,0,0,0,0
 Brighton,Man United,3,2,1,Win,1,0,0,0
 Burnley,Watford,1,3,-2,Loss,0,0,0,0
@@ -866,10 +1597,105 @@ Everton,Brighton,3,1,2,Win,1,0,0,0
 Newcastle,Watford,1,0,1,Win,2,0,0,0
 West Ham,Burnley,4,2,2,Win,3,0,1,0
 Wolves,Tottenham,2,3,-1,Loss,0,0,0,0
+=======
+West Ham,Bournemouth,1,2,-1,Draw,0,0,0,0
+Brighton,Man United,3,2,1,Win,1,0,0,0
+Burnley,Watford,1,3,-2,Draw,0,0,0,0
+Man City,Huddersfield,6,1,5,Win,1,0,0,0
+Crystal Palace,Liverpool,0,2,-2,Draw,0,0,0,0
+Arsenal,West Ham,3,1,2,Win,1,0,0,0
+Bournemouth,Everton,2,2,0,Win,0,0,0,0
+Huddersfield,Cardiff,0,0,0,Win,0,0,0,0
+Liverpool,Brighton,1,0,1,Win,1,0,0,0
+Southampton,Leicester,1,2,-1,Draw,0,0,0,0
+Wolves,Man City,1,1,0,Win,0,0,0,0
+Fulham,Burnley,4,2,2,Win,1,0,0,0
+Newcastle,Chelsea,1,2,-1,Draw,0,0,0,0
+Watford,Crystal Palace,2,1,1,Win,1,0,0,0
+Man United,Tottenham,0,3,-3,Draw,0,0,0,0
+Brighton,Fulham,2,2,0,Win,0,0,0,0
+Chelsea,Bournemouth,2,0,2,Win,1,0,0,0
+Crystal Palace,Southampton,0,2,-2,Draw,0,0,0,0
+Everton,Huddersfield,1,1,0,Win,0,0,0,0
+Leicester,Liverpool,1,2,-1,Draw,0,0,0,0
+Man City,Newcastle,2,1,1,Win,1,0,0,0
+West Ham,Wolves,0,1,-1,Draw,0,0,0,0
+Burnley,Man United,0,2,-2,Draw,0,0,0,0
+Cardiff,Arsenal,2,3,-1,Draw,0,0,0,0
+Watford,Tottenham,2,1,1,Win,1,0,0,0
+Bournemouth,Leicester,4,2,2,Win,2,0,0,0
+Chelsea,Cardiff,4,1,3,Win,3,0,1,0
+Huddersfield,Crystal Palace,0,1,-1,Draw,0,0,0,0
+Man City,Fulham,3,0,3,Win,1,0,0,0
+Newcastle,Arsenal,1,2,-1,Draw,0,0,0,0
+Tottenham,Liverpool,1,2,-1,Draw,0,0,0,0
+Watford,Man United,1,2,-1,Draw,0,0,0,0
+Everton,West Ham,1,3,-2,Draw,0,0,0,0
+Wolves,Burnley,1,0,1,Win,1,0,0,0
+Southampton,Brighton,2,2,0,Win,0,0,0,0
+Brighton,Tottenham,1,2,-1,Draw,0,0,0,0
+Burnley,Bournemouth,4,0,4,Win,1,0,0,0
+Cardiff,Man City,0,5,-5,Draw,0,0,0,0
+Crystal Palace,Newcastle,0,0,0,Win,0,0,0,0
+Fulham,Watford,1,1,0,Win,0,0,0,0
+Leicester,Huddersfield,3,1,2,Win,1,0,0,0
+Liverpool,Southampton,3,0,3,Win,2,0,0,0
+Man United,Wolves,1,1,0,Win,0,0,0,0
+Arsenal,Everton,2,0,2,Win,1,0,0,0
+West Ham,Chelsea,0,0,0,Win,0,0,0,0
+Arsenal,Watford,2,0,2,Win,1,0,0,0
+Chelsea,Liverpool,1,1,0,Win,0,0,0,0
+Everton,Fulham,3,0,3,Win,1,0,0,0
+Huddersfield,Tottenham,0,2,-2,Draw,0,0,0,0
+Man City,Brighton,2,0,2,Win,1,0,0,0
+Newcastle,Leicester,0,2,-2,Draw,0,0,0,0
+West Ham,Man United,3,1,2,Win,1,0,0,0
+Wolves,Southampton,2,0,2,Win,2,0,0,0
+Cardiff,Burnley,1,2,-1,Draw,0,0,0,0
+Bournemouth,Crystal Palace,2,1,1,Win,1,0,0,0
+Brighton,West Ham,1,0,1,Win,2,0,0,0
+Burnley,Huddersfield,1,1,0,Win,0,0,0,0
+Crystal Palace,Wolves,0,1,-1,Draw,0,0,0,0
+Leicester,Everton,1,2,-1,Draw,0,0,0,0
+Man United,Newcastle,3,2,1,Win,1,0,0,0
+Tottenham,Cardiff,1,0,1,Win,2,0,0,0
+Watford,Bournemouth,0,4,-4,Draw,0,0,0,0
+Fulham,Arsenal,1,5,-4,Draw,0,0,0,0
+Liverpool,Man City,0,0,0,Win,0,0,0,0
+Southampton,Chelsea,0,3,-3,Draw,0,0,0,0
+Bournemouth,Southampton,0,0,0,Win,0,0,0,0
+Cardiff,Fulham,4,2,2,Win,1,0,0,0
+Chelsea,Man United,2,2,0,Win,0,0,0,0
+Huddersfield,Liverpool,0,1,-1,Draw,0,0,0,0
+Man City,Burnley,5,0,5,Win,1,0,0,0
+Newcastle,Brighton,0,1,-1,Draw,0,0,0,0
+West Ham,Tottenham,0,1,-1,Draw,0,0,0,0
+Wolves,Watford,0,2,-2,Draw,0,0,0,0
+Everton,Crystal Palace,2,0,2,Win,1,0,0,0
+Arsenal,Leicester,3,1,2,Win,2,0,0,0
+Brighton,Wolves,1,0,1,Win,3,0,1,0
+Fulham,Bournemouth,0,3,-3,Draw,0,0,0,0
+Leicester,West Ham,1,1,0,Win,0,0,0,0
+Liverpool,Cardiff,4,1,3,Win,1,0,0,0
+Southampton,Newcastle,0,0,0,Win,0,0,0,0
+Watford,Huddersfield,3,0,3,Win,1,0,0,0
+Burnley,Chelsea,0,4,-4,Draw,0,0,0,0
+Crystal Palace,Arsenal,2,2,0,Win,0,0,0,0
+Man United,Everton,2,1,1,Win,1,0,0,0
+Tottenham,Man City,0,1,-1,Draw,0,0,0,0
+Arsenal,Liverpool,1,1,0,Win,0,0,0,0
+Bournemouth,Man United,1,2,-1,Draw,0,0,0,0
+Cardiff,Leicester,0,1,-1,Draw,0,0,0,0
+Everton,Brighton,3,1,2,Win,1,0,0,0
+Newcastle,Watford,1,0,1,Win,2,0,0,0
+West Ham,Burnley,4,2,2,Win,3,0,1,0
+Wolves,Tottenham,2,3,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Chelsea,Crystal Palace,3,1,2,Win,1,0,0,0
 Man City,Southampton,6,1,5,Win,2,0,0,0
 Huddersfield,Fulham,1,0,1,Win,3,0,1,0
 Cardiff,Brighton,2,1,1,Win,4,0,1,0
+<<<<<<< HEAD
 Crystal Palace,Tottenham,0,1,-1,Loss,0,0,0,0
 Huddersfield,West Ham,1,1,0,Draw,0,0,0,0
 Leicester,Burnley,0,0,0,Draw,0,0,0,0
@@ -896,11 +1722,40 @@ Leicester,Watford,2,0,2,Win,1,0,0,0
 Man City,Bournemouth,3,1,2,Win,2,0,0,0
 Newcastle,West Ham,0,3,-3,Loss,0,0,0,0
 Southampton,Man United,2,2,0,Draw,0,0,0,0
+=======
+Crystal Palace,Tottenham,0,1,-1,Draw,0,0,0,0
+Huddersfield,West Ham,1,1,0,Win,0,0,0,0
+Leicester,Burnley,0,0,0,Win,0,0,0,0
+Newcastle,Bournemouth,2,1,1,Win,1,0,0,0
+Southampton,Watford,1,1,0,Win,0,0,0,0
+Arsenal,Wolves,1,1,0,Win,0,0,0,0
+Chelsea,Everton,0,0,0,Win,0,0,0,0
+Liverpool,Fulham,2,0,2,Win,1,0,0,0
+Man City,Man United,3,1,2,Win,2,0,0,0
+Brighton,Leicester,1,1,0,Win,0,0,0,0
+Everton,Cardiff,1,0,1,Win,1,0,0,0
+Fulham,Southampton,3,2,1,Win,2,0,0,0
+Man United,Crystal Palace,0,0,0,Win,0,0,0,0
+Tottenham,Chelsea,3,1,2,Win,1,0,0,0
+Watford,Liverpool,0,3,-3,Draw,0,0,0,0
+West Ham,Man City,0,4,-4,Draw,0,0,0,0
+Bournemouth,Arsenal,1,2,-1,Draw,0,0,0,0
+Wolves,Huddersfield,0,2,-2,Draw,0,0,0,0
+Burnley,Newcastle,1,2,-1,Draw,0,0,0,0
+Cardiff,Wolves,2,1,1,Win,1,0,0,0
+Crystal Palace,Burnley,2,0,2,Win,2,0,0,0
+Huddersfield,Brighton,1,2,-1,Draw,0,0,0,0
+Leicester,Watford,2,0,2,Win,1,0,0,0
+Man City,Bournemouth,3,1,2,Win,2,0,0,0
+Newcastle,West Ham,0,3,-3,Draw,0,0,0,0
+Southampton,Man United,2,2,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Arsenal,Tottenham,4,2,2,Win,1,0,0,0
 Chelsea,Fulham,2,0,2,Win,2,0,0,0
 Liverpool,Everton,1,0,1,Win,3,0,1,0
 Bournemouth,Huddersfield,2,1,1,Win,4,0,1,0
 Brighton,Crystal Palace,3,1,2,Win,5,0,1,0
+<<<<<<< HEAD
 Watford,Man City,1,2,-1,Loss,0,0,0,0
 West Ham,Cardiff,3,1,2,Win,1,0,0,0
 Burnley,Liverpool,1,3,-2,Loss,0,0,0,0
@@ -922,10 +1777,34 @@ Everton,Watford,2,2,0,Draw,0,0,0,0
 Crystal Palace,Leicester,1,0,1,Win,1,0,0,0
 Fulham,West Ham,0,2,-2,Loss,0,0,0,0
 Huddersfield,Newcastle,0,1,-1,Loss,0,0,0,0
+=======
+Watford,Man City,1,2,-1,Draw,0,0,0,0
+West Ham,Cardiff,3,1,2,Win,1,0,0,0
+Burnley,Liverpool,1,3,-2,Draw,0,0,0,0
+Everton,Newcastle,1,1,0,Win,0,0,0,0
+Fulham,Leicester,1,1,0,Win,0,0,0,0
+Man United,Arsenal,2,2,0,Win,0,0,0,0
+Tottenham,Southampton,3,1,2,Win,1,0,0,0
+Wolves,Chelsea,2,1,1,Win,2,0,0,0
+Arsenal,Huddersfield,1,0,1,Win,3,0,1,0
+Bournemouth,Liverpool,0,4,-4,Draw,0,0,0,0
+Burnley,Brighton,1,0,1,Win,1,0,0,0
+Cardiff,Southampton,1,0,1,Win,2,0,0,0
+Chelsea,Man City,2,0,2,Win,3,0,1,0
+Leicester,Tottenham,0,2,-2,Draw,0,0,0,0
+Man United,Fulham,4,1,3,Win,1,0,0,0
+West Ham,Crystal Palace,3,2,1,Win,2,0,0,0
+Newcastle,Wolves,1,2,-1,Draw,0,0,0,0
+Everton,Watford,2,2,0,Win,0,0,0,0
+Crystal Palace,Leicester,1,0,1,Win,1,0,0,0
+Fulham,West Ham,0,2,-2,Draw,0,0,0,0
+Huddersfield,Newcastle,0,1,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Man City,Everton,3,1,2,Win,1,0,0,0
 Tottenham,Burnley,1,0,1,Win,2,0,0,0
 Watford,Cardiff,3,2,1,Win,3,0,1,0
 Wolves,Bournemouth,2,0,2,Win,4,0,1,0
+<<<<<<< HEAD
 Brighton,Chelsea,1,2,-1,Loss,0,0,0,0
 Liverpool,Man United,3,1,2,Win,1,0,0,0
 Southampton,Arsenal,3,2,1,Win,2,0,0,0
@@ -943,10 +1822,30 @@ Brighton,Arsenal,1,1,0,Draw,0,0,0,0
 Burnley,Everton,1,5,-4,Loss,0,0,0,0
 Crystal Palace,Cardiff,0,0,0,Draw,0,0,0,0
 Fulham,Wolves,1,1,0,Draw,0,0,0,0
+=======
+Brighton,Chelsea,1,2,-1,Draw,0,0,0,0
+Liverpool,Man United,3,1,2,Win,1,0,0,0
+Southampton,Arsenal,3,2,1,Win,2,0,0,0
+Wolves,Liverpool,0,2,-2,Draw,0,0,0,0
+Arsenal,Burnley,3,1,2,Win,1,0,0,0
+Bournemouth,Brighton,2,0,2,Win,2,0,0,0
+Cardiff,Man United,1,5,-4,Draw,0,0,0,0
+Chelsea,Leicester,0,1,-1,Draw,0,0,0,0
+Huddersfield,Southampton,1,3,-2,Draw,0,0,0,0
+Man City,Crystal Palace,2,3,-1,Draw,0,0,0,0
+Newcastle,Fulham,0,0,0,Win,0,0,0,0
+West Ham,Watford,0,2,-2,Draw,0,0,0,0
+Everton,Tottenham,2,6,-4,Draw,0,0,0,0
+Brighton,Arsenal,1,1,0,Win,0,0,0,0
+Burnley,Everton,1,5,-4,Draw,0,0,0,0
+Crystal Palace,Cardiff,0,0,0,Win,0,0,0,0
+Fulham,Wolves,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Leicester,Man City,2,1,1,Win,1,0,0,0
 Liverpool,Newcastle,4,0,4,Win,2,0,0,0
 Man United,Huddersfield,3,1,2,Win,3,0,1,0
 Tottenham,Bournemouth,5,0,5,Win,4,0,1,0
+<<<<<<< HEAD
 Watford,Chelsea,1,2,-1,Loss,0,0,0,0
 Southampton,West Ham,1,2,-1,Loss,0,0,0,0
 Brighton,Everton,1,0,1,Win,1,0,0,0
@@ -978,6 +1877,39 @@ Leicester,Southampton,1,2,-1,Loss,0,0,0,0
 West Ham,Arsenal,1,0,1,Win,1,0,0,0
 Everton,Bournemouth,2,0,2,Win,2,0,0,0
 Tottenham,Man United,0,1,-1,Loss,0,0,0,0
+=======
+Watford,Chelsea,1,2,-1,Draw,0,0,0,0
+Southampton,West Ham,1,2,-1,Draw,0,0,0,0
+Brighton,Everton,1,0,1,Win,1,0,0,0
+Fulham,Huddersfield,1,0,1,Win,2,0,0,0
+Leicester,Cardiff,0,1,-1,Draw,0,0,0,0
+Liverpool,Arsenal,5,1,4,Win,1,0,0,0
+Tottenham,Wolves,1,3,-2,Draw,0,0,0,0
+Watford,Newcastle,1,1,0,Win,0,0,0,0
+Burnley,West Ham,2,0,2,Win,1,0,0,0
+Crystal Palace,Chelsea,0,1,-1,Draw,0,0,0,0
+Man United,Bournemouth,4,1,3,Win,1,0,0,0
+Southampton,Man City,1,3,-2,Draw,0,0,0,0
+Arsenal,Fulham,4,1,3,Win,1,0,0,0
+Cardiff,Tottenham,0,3,-3,Draw,0,0,0,0
+Everton,Leicester,0,1,-1,Draw,0,0,0,0
+Bournemouth,Watford,3,3,0,Win,0,0,0,0
+Chelsea,Southampton,0,0,0,Win,0,0,0,0
+Huddersfield,Burnley,1,2,-1,Draw,0,0,0,0
+Newcastle,Man United,0,2,-2,Draw,0,0,0,0
+West Ham,Brighton,2,2,0,Win,0,0,0,0
+Wolves,Crystal Palace,0,2,-2,Draw,0,0,0,0
+Man City,Liverpool,2,1,1,Win,1,0,0,0
+Brighton,Liverpool,0,1,-1,Draw,0,0,0,0
+Burnley,Fulham,2,1,1,Win,1,0,0,0
+Cardiff,Huddersfield,0,0,0,Win,0,0,0,0
+Chelsea,Newcastle,2,1,1,Win,1,0,0,0
+Crystal Palace,Watford,1,2,-1,Draw,0,0,0,0
+Leicester,Southampton,1,2,-1,Draw,0,0,0,0
+West Ham,Arsenal,1,0,1,Win,1,0,0,0
+Everton,Bournemouth,2,0,2,Win,2,0,0,0
+Tottenham,Man United,0,1,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Man City,Wolves,3,0,3,Win,1,0,0,0
 Arsenal,Chelsea,2,0,2,Win,2,0,0,0
 Bournemouth,West Ham,2,0,2,Win,3,0,1,0
@@ -985,6 +1917,7 @@ Liverpool,Crystal Palace,4,3,1,Win,4,0,1,0
 Man United,Brighton,2,1,1,Win,5,0,1,0
 Newcastle,Cardiff,3,0,3,Win,6,0,1,0
 Southampton,Everton,2,1,1,Win,7,0,1,0
+<<<<<<< HEAD
 Watford,Burnley,0,0,0,Draw,0,0,0,0
 Wolves,Leicester,4,3,1,Win,1,0,0,0
 Fulham,Tottenham,1,2,-1,Loss,0,0,0,0
@@ -1029,11 +1962,58 @@ Newcastle,Huddersfield,2,0,2,Win,1,0,0,0
 Arsenal,Southampton,2,0,2,Win,2,0,0,0
 Man United,Liverpool,0,0,0,Draw,0,0,0,0
 Cardiff,Everton,0,3,-3,Loss,0,0,0,0
+=======
+Watford,Burnley,0,0,0,Win,0,0,0,0
+Wolves,Leicester,4,3,1,Win,1,0,0,0
+Fulham,Tottenham,1,2,-1,Draw,0,0,0,0
+Huddersfield,Man City,0,3,-3,Draw,0,0,0,0
+Arsenal,Cardiff,2,1,1,Win,1,0,0,0
+Fulham,Brighton,4,2,2,Win,2,0,0,0
+Huddersfield,Everton,0,1,-1,Draw,0,0,0,0
+Man United,Burnley,2,2,0,Win,0,0,0,0
+Newcastle,Man City,2,1,1,Win,1,0,0,0
+Wolves,West Ham,3,0,3,Win,2,0,0,0
+Bournemouth,Chelsea,4,0,4,Win,3,0,1,0
+Liverpool,Leicester,1,1,0,Win,0,0,0,0
+Southampton,Crystal Palace,1,1,0,Win,0,0,0,0
+Tottenham,Watford,2,1,1,Win,1,0,0,0
+Brighton,Watford,0,0,0,Win,0,0,0,0
+Burnley,Southampton,1,1,0,Win,0,0,0,0
+Cardiff,Bournemouth,2,0,2,Win,1,0,0,0
+Chelsea,Huddersfield,5,0,5,Win,2,0,0,0
+Crystal Palace,Fulham,2,0,2,Win,3,0,1,0
+Everton,Wolves,1,3,-2,Draw,0,0,0,0
+Tottenham,Newcastle,1,0,1,Win,1,0,0,0
+Leicester,Man United,0,1,-1,Draw,0,0,0,0
+Man City,Arsenal,3,1,2,Win,1,0,0,0
+West Ham,Liverpool,1,1,0,Win,0,0,0,0
+Everton,Man City,0,2,-2,Draw,0,0,0,0
+Brighton,Burnley,1,3,-2,Draw,0,0,0,0
+Crystal Palace,West Ham,1,1,0,Win,0,0,0,0
+Fulham,Man United,0,3,-3,Draw,0,0,0,0
+Huddersfield,Arsenal,1,2,-1,Draw,0,0,0,0
+Liverpool,Bournemouth,3,0,3,Win,1,0,0,0
+Southampton,Cardiff,1,2,-1,Draw,0,0,0,0
+Watford,Everton,1,0,1,Win,1,0,0,0
+Man City,Chelsea,6,0,6,Win,2,0,0,0
+Tottenham,Leicester,3,1,2,Win,3,0,1,0
+Wolves,Newcastle,1,1,0,Win,0,0,0,0
+Cardiff,Watford,1,5,-4,Draw,0,0,0,0
+West Ham,Fulham,3,1,2,Win,1,0,0,0
+Bournemouth,Wolves,1,1,0,Win,0,0,0,0
+Burnley,Tottenham,2,1,1,Win,1,0,0,0
+Leicester,Crystal Palace,1,4,-3,Draw,0,0,0,0
+Newcastle,Huddersfield,2,0,2,Win,1,0,0,0
+Arsenal,Southampton,2,0,2,Win,2,0,0,0
+Man United,Liverpool,0,0,0,Win,0,0,0,0
+Cardiff,Everton,0,3,-3,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Huddersfield,Wolves,1,0,1,Win,1,0,0,0
 Leicester,Brighton,2,1,1,Win,2,0,0,0
 Newcastle,Burnley,2,0,2,Win,3,0,1,0
 Arsenal,Bournemouth,5,1,4,Win,4,0,1,0
 Chelsea,Tottenham,2,0,2,Win,5,0,1,0
+<<<<<<< HEAD
 Crystal Palace,Man United,1,3,-2,Loss,0,0,0,0
 Liverpool,Watford,5,0,5,Win,1,0,0,0
 Man City,West Ham,1,0,1,Win,2,0,0,0
@@ -1051,11 +2031,31 @@ Watford,Leicester,2,1,1,Win,1,0,0,0
 Cardiff,West Ham,2,0,2,Win,2,0,0,0
 Crystal Palace,Brighton,1,2,-1,Loss,0,0,0,0
 Huddersfield,Bournemouth,0,2,-2,Loss,0,0,0,0
+=======
+Crystal Palace,Man United,1,3,-2,Draw,0,0,0,0
+Liverpool,Watford,5,0,5,Win,1,0,0,0
+Man City,West Ham,1,0,1,Win,2,0,0,0
+Southampton,Fulham,2,0,2,Win,3,0,1,0
+Bournemouth,Man City,0,1,-1,Draw,0,0,0,0
+Brighton,Huddersfield,1,0,1,Win,1,0,0,0
+Burnley,Crystal Palace,1,3,-2,Draw,0,0,0,0
+Man United,Southampton,3,2,1,Win,1,0,0,0
+Tottenham,Arsenal,1,1,0,Win,0,0,0,0
+West Ham,Newcastle,2,0,2,Win,1,0,0,0
+Wolves,Cardiff,2,0,2,Win,2,0,0,0
+Everton,Liverpool,0,0,0,Win,0,0,0,0
+Fulham,Chelsea,1,2,-1,Draw,0,0,0,0
+Watford,Leicester,2,1,1,Win,1,0,0,0
+Cardiff,West Ham,2,0,2,Win,2,0,0,0
+Crystal Palace,Brighton,1,2,-1,Draw,0,0,0,0
+Huddersfield,Bournemouth,0,2,-2,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Leicester,Fulham,3,1,2,Win,1,0,0,0
 Man City,Watford,3,1,2,Win,2,0,0,0
 Newcastle,Everton,3,2,1,Win,3,0,1,0
 Southampton,Tottenham,2,1,1,Win,4,0,1,0
 Arsenal,Man United,2,0,2,Win,5,0,1,0
+<<<<<<< HEAD
 Chelsea,Wolves,1,1,0,Draw,0,0,0,0
 Liverpool,Burnley,4,2,2,Win,1,0,0,0
 Bournemouth,Newcastle,2,2,0,Draw,0,0,0,0
@@ -1071,6 +2071,23 @@ Leicester,Bournemouth,2,0,2,Win,1,0,0,0
 Man United,Watford,2,1,1,Win,2,0,0,0
 West Ham,Everton,0,2,-2,Loss,0,0,0,0
 Cardiff,Chelsea,1,2,-1,Loss,0,0,0,0
+=======
+Chelsea,Wolves,1,1,0,Win,0,0,0,0
+Liverpool,Burnley,4,2,2,Win,1,0,0,0
+Bournemouth,Newcastle,2,2,0,Win,0,0,0,0
+Burnley,Leicester,1,2,-1,Draw,0,0,0,0
+West Ham,Huddersfield,4,3,1,Win,1,0,0,0
+Everton,Chelsea,2,0,2,Win,2,0,0,0
+Fulham,Liverpool,1,2,-1,Draw,0,0,0,0
+Brighton,Southampton,0,1,-1,Draw,0,0,0,0
+Burnley,Wolves,2,0,2,Win,1,0,0,0
+Crystal Palace,Huddersfield,2,0,2,Win,2,0,0,0
+Fulham,Man City,0,2,-2,Draw,0,0,0,0
+Leicester,Bournemouth,2,0,2,Win,1,0,0,0
+Man United,Watford,2,1,1,Win,2,0,0,0
+West Ham,Everton,0,2,-2,Draw,0,0,0,0
+Cardiff,Chelsea,1,2,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Liverpool,Tottenham,2,1,1,Win,1,0,0,0
 Arsenal,Newcastle,2,0,2,Win,2,0,0,0
 Watford,Fulham,4,1,3,Win,3,0,1,0
@@ -1078,6 +2095,7 @@ Wolves,Man United,2,1,1,Win,4,0,1,0
 Chelsea,Brighton,3,0,3,Win,5,0,1,0
 Man City,Cardiff,2,0,2,Win,6,0,1,0
 Tottenham,Crystal Palace,2,0,2,Win,7,0,1,0
+<<<<<<< HEAD
 Southampton,Liverpool,1,3,-2,Loss,0,0,0,0
 Bournemouth,Burnley,1,3,-2,Loss,0,0,0,0
 Huddersfield,Leicester,1,4,-3,Loss,0,0,0,0
@@ -1086,11 +2104,22 @@ Everton,Arsenal,1,0,1,Win,1,0,0,0
 Chelsea,West Ham,2,0,2,Win,2,0,0,0
 Leicester,Newcastle,0,1,-1,Loss,0,0,0,0
 Brighton,Bournemouth,0,5,-5,Loss,0,0,0,0
+=======
+Southampton,Liverpool,1,3,-2,Draw,0,0,0,0
+Bournemouth,Burnley,1,3,-2,Draw,0,0,0,0
+Huddersfield,Leicester,1,4,-3,Draw,0,0,0,0
+Newcastle,Crystal Palace,0,1,-1,Draw,0,0,0,0
+Everton,Arsenal,1,0,1,Win,1,0,0,0
+Chelsea,West Ham,2,0,2,Win,2,0,0,0
+Leicester,Newcastle,0,1,-1,Draw,0,0,0,0
+Brighton,Bournemouth,0,5,-5,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Burnley,Cardiff,2,0,2,Win,1,0,0,0
 Fulham,Everton,2,0,2,Win,2,0,0,0
 Man United,West Ham,2,1,1,Win,3,0,1,0
 Southampton,Wolves,3,1,2,Win,4,0,1,0
 Tottenham,Huddersfield,4,0,4,Win,5,0,1,0
+<<<<<<< HEAD
 Crystal Palace,Man City,1,3,-2,Loss,0,0,0,0
 Liverpool,Chelsea,2,0,2,Win,1,0,0,0
 Watford,Arsenal,0,1,-1,Loss,0,0,0,0
@@ -1202,10 +2231,124 @@ Chelsea,Liverpool,1,2,-1,Loss,0,0,0,0
 Sheffield United,Liverpool,0,1,-1,Loss,0,0,0,0
 Aston Villa,Burnley,2,2,0,Draw,0,0,0,0
 Bournemouth,West Ham,2,2,0,Draw,0,0,0,0
+=======
+Crystal Palace,Man City,1,3,-2,Draw,0,0,0,0
+Liverpool,Chelsea,2,0,2,Win,1,0,0,0
+Watford,Arsenal,0,1,-1,Draw,0,0,0,0
+Brighton,Cardiff,0,2,-2,Draw,0,0,0,0
+Bournemouth,Fulham,0,1,-1,Draw,0,0,0,0
+Huddersfield,Watford,1,2,-1,Draw,0,0,0,0
+Man City,Tottenham,1,0,1,Win,1,0,0,0
+Newcastle,Southampton,3,1,2,Win,2,0,0,0
+West Ham,Leicester,2,2,0,Win,0,0,0,0
+Wolves,Brighton,0,0,0,Win,0,0,0,0
+Arsenal,Crystal Palace,2,3,-1,Draw,0,0,0,0
+Cardiff,Liverpool,0,2,-2,Draw,0,0,0,0
+Everton,Man United,4,0,4,Win,1,0,0,0
+Chelsea,Burnley,2,2,0,Win,0,0,0,0
+Tottenham,Brighton,1,0,1,Win,1,0,0,0
+Watford,Southampton,1,1,0,Win,0,0,0,0
+Man United,Man City,0,2,-2,Draw,0,0,0,0
+Wolves,Arsenal,3,1,2,Win,1,0,0,0
+Liverpool,Huddersfield,5,0,5,Win,2,0,0,0
+Brighton,Newcastle,1,1,0,Win,0,0,0,0
+Crystal Palace,Everton,0,0,0,Win,0,0,0,0
+Fulham,Cardiff,1,0,1,Win,1,0,0,0
+Southampton,Bournemouth,3,3,0,Win,0,0,0,0
+Tottenham,West Ham,0,1,-1,Draw,0,0,0,0
+Watford,Wolves,1,2,-1,Draw,0,0,0,0
+Burnley,Man City,0,1,-1,Draw,0,0,0,0
+Leicester,Arsenal,3,0,3,Win,1,0,0,0
+Man United,Chelsea,1,1,0,Win,0,0,0,0
+Everton,Burnley,2,0,2,Win,1,0,0,0
+Bournemouth,Tottenham,1,0,1,Win,2,0,0,0
+Cardiff,Crystal Palace,2,3,-1,Draw,0,0,0,0
+Newcastle,Liverpool,2,3,-1,Draw,0,0,0,0
+West Ham,Southampton,3,0,3,Win,1,0,0,0
+Wolves,Fulham,1,0,1,Win,2,0,0,0
+Arsenal,Brighton,1,1,0,Win,0,0,0,0
+Chelsea,Watford,3,0,3,Win,1,0,0,0
+Huddersfield,Man United,1,1,0,Win,0,0,0,0
+Man City,Leicester,1,0,1,Win,1,0,0,0
+Brighton,Man City,1,4,-3,Draw,0,0,0,0
+Burnley,Arsenal,1,3,-2,Draw,0,0,0,0
+Crystal Palace,Bournemouth,5,3,2,Win,1,0,0,0
+Fulham,Newcastle,0,4,-4,Draw,0,0,0,0
+Leicester,Chelsea,0,0,0,Win,0,0,0,0
+Liverpool,Wolves,2,0,2,Win,1,0,0,0
+Man United,Cardiff,0,2,-2,Draw,0,0,0,0
+Southampton,Huddersfield,1,1,0,Win,0,0,0,0
+Tottenham,Everton,2,2,0,Win,0,0,0,0
+Watford,West Ham,1,4,-3,Draw,0,0,0,0
+Liverpool,Norwich,4,1,3,Win,1,0,0,0
+West Ham,Man City,0,5,-5,Draw,0,0,0,0
+Bournemouth,Sheffield United,1,1,0,Win,0,0,0,0
+Burnley,Southampton,3,0,3,Win,1,0,0,0
+Crystal Palace,Everton,0,0,0,Win,0,0,0,0
+Watford,Brighton,0,3,-3,Draw,0,0,0,0
+Tottenham,Aston Villa,3,1,2,Win,1,0,0,0
+Leicester,Wolves,0,0,0,Win,0,0,0,0
+Newcastle,Arsenal,0,1,-1,Draw,0,0,0,0
+Man United,Chelsea,4,0,4,Win,1,0,0,0
+Arsenal,Burnley,2,1,1,Win,2,0,0,0
+Aston Villa,Bournemouth,1,2,-1,Draw,0,0,0,0
+Brighton,West Ham,1,1,0,Win,0,0,0,0
+Everton,Watford,1,0,1,Win,1,0,0,0
+Norwich,Newcastle,3,1,2,Win,2,0,0,0
+Southampton,Liverpool,1,2,-1,Draw,0,0,0,0
+Man City,Tottenham,2,2,0,Win,0,0,0,0
+Sheffield United,Crystal Palace,1,0,1,Win,1,0,0,0
+Chelsea,Leicester,1,1,0,Win,0,0,0,0
+Wolves,Man United,1,1,0,Win,0,0,0,0
+Aston Villa,Everton,2,0,2,Win,1,0,0,0
+Norwich,Chelsea,2,3,-1,Draw,0,0,0,0
+Brighton,Southampton,0,2,-2,Draw,0,0,0,0
+Man United,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Sheffield United,Leicester,1,2,-1,Draw,0,0,0,0
+Watford,West Ham,1,3,-2,Draw,0,0,0,0
+Liverpool,Arsenal,3,1,2,Win,1,0,0,0
+Bournemouth,Man City,1,3,-2,Draw,0,0,0,0
+Tottenham,Newcastle,0,1,-1,Draw,0,0,0,0
+Wolves,Burnley,1,1,0,Win,0,0,0,0
+Southampton,Man United,1,1,0,Win,0,0,0,0
+Chelsea,Sheffield United,2,2,0,Win,0,0,0,0
+Crystal Palace,Aston Villa,1,0,1,Win,1,0,0,0
+Leicester,Bournemouth,3,1,2,Win,2,0,0,0
+Man City,Brighton,4,0,4,Win,3,0,1,0
+Newcastle,Watford,1,1,0,Win,0,0,0,0
+West Ham,Norwich,2,0,2,Win,1,0,0,0
+Burnley,Liverpool,0,3,-3,Draw,0,0,0,0
+Everton,Wolves,3,2,1,Win,1,0,0,0
+Arsenal,Tottenham,2,2,0,Win,0,0,0,0
+Liverpool,Newcastle,3,1,2,Win,1,0,0,0
+Brighton,Burnley,1,1,0,Win,0,0,0,0
+Man United,Leicester,1,0,1,Win,1,0,0,0
+Sheffield United,Southampton,0,1,-1,Draw,0,0,0,0
+Tottenham,Crystal Palace,4,0,4,Win,1,0,0,0
+Wolves,Chelsea,2,5,-3,Draw,0,0,0,0
+Norwich,Man City,3,2,1,Win,1,0,0,0
+Bournemouth,Everton,3,1,2,Win,2,0,0,0
+Watford,Arsenal,2,2,0,Win,0,0,0,0
+Aston Villa,West Ham,0,0,0,Win,0,0,0,0
+Southampton,Bournemouth,1,3,-2,Draw,0,0,0,0
+Leicester,Tottenham,2,1,1,Win,1,0,0,0
+Burnley,Norwich,2,0,2,Win,2,0,0,0
+Everton,Sheffield United,0,2,-2,Draw,0,0,0,0
+Man City,Watford,8,0,8,Win,1,0,0,0
+Newcastle,Brighton,0,0,0,Win,0,0,0,0
+Crystal Palace,Wolves,1,1,0,Win,0,0,0,0
+West Ham,Man United,2,0,2,Win,1,0,0,0
+Arsenal,Aston Villa,3,2,1,Win,2,0,0,0
+Chelsea,Liverpool,1,2,-1,Draw,0,0,0,0
+Sheffield United,Liverpool,0,1,-1,Draw,0,0,0,0
+Aston Villa,Burnley,2,2,0,Win,0,0,0,0
+Bournemouth,West Ham,2,2,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Chelsea,Brighton,2,0,2,Win,1,0,0,0
 Crystal Palace,Norwich,2,0,2,Win,2,0,0,0
 Tottenham,Southampton,2,1,1,Win,3,0,1,0
 Wolves,Watford,2,0,2,Win,4,0,1,0
+<<<<<<< HEAD
 Everton,Man City,1,3,-2,Loss,0,0,0,0
 Leicester,Newcastle,5,0,5,Win,1,0,0,0
 Man United,Arsenal,1,1,0,Draw,0,0,0,0
@@ -1255,10 +2398,62 @@ Burnley,West Ham,3,0,3,Win,2,0,0,0
 Newcastle,Bournemouth,2,1,1,Win,3,0,1,0
 Southampton,Everton,1,2,-1,Loss,0,0,0,0
 Tottenham,Sheffield United,1,1,0,Draw,0,0,0,0
+=======
+Everton,Man City,1,3,-2,Draw,0,0,0,0
+Leicester,Newcastle,5,0,5,Win,1,0,0,0
+Man United,Arsenal,1,1,0,Win,0,0,0,0
+Brighton,Tottenham,3,0,3,Win,1,0,0,0
+Burnley,Everton,1,0,1,Win,2,0,0,0
+Liverpool,Leicester,2,1,1,Win,3,0,1,0
+Norwich,Aston Villa,1,5,-4,Draw,0,0,0,0
+Watford,Sheffield United,0,0,0,Win,0,0,0,0
+West Ham,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Arsenal,Bournemouth,1,0,1,Win,1,0,0,0
+Man City,Wolves,0,2,-2,Draw,0,0,0,0
+Southampton,Chelsea,1,4,-3,Draw,0,0,0,0
+Newcastle,Man United,1,0,1,Win,1,0,0,0
+Everton,West Ham,2,0,2,Win,2,0,0,0
+Aston Villa,Brighton,2,1,1,Win,3,0,1,0
+Bournemouth,Norwich,0,0,0,Win,0,0,0,0
+Chelsea,Newcastle,1,0,1,Win,1,0,0,0
+Leicester,Burnley,2,1,1,Win,2,0,0,0
+Tottenham,Watford,1,1,0,Win,0,0,0,0
+Wolves,Southampton,1,1,0,Win,0,0,0,0
+Crystal Palace,Man City,0,2,-2,Draw,0,0,0,0
+Man United,Liverpool,1,1,0,Win,0,0,0,0
+Sheffield United,Arsenal,1,0,1,Win,1,0,0,0
+Southampton,Leicester,0,9,-9,Draw,0,0,0,0
+Man City,Aston Villa,3,0,3,Win,1,0,0,0
+Brighton,Everton,3,2,1,Win,2,0,0,0
+Watford,Bournemouth,0,0,0,Win,0,0,0,0
+West Ham,Sheffield United,1,1,0,Win,0,0,0,0
+Burnley,Chelsea,2,4,-2,Draw,0,0,0,0
+Newcastle,Wolves,1,1,0,Win,0,0,0,0
+Arsenal,Crystal Palace,2,2,0,Win,0,0,0,0
+Liverpool,Tottenham,2,1,1,Win,1,0,0,0
+Norwich,Man United,1,3,-2,Draw,0,0,0,0
+Bournemouth,Man United,1,0,1,Win,1,0,0,0
+Arsenal,Wolves,1,1,0,Win,0,0,0,0
+Aston Villa,Liverpool,1,2,-1,Draw,0,0,0,0
+Brighton,Norwich,2,0,2,Win,1,0,0,0
+Man City,Southampton,2,1,1,Win,2,0,0,0
+Sheffield United,Burnley,3,0,3,Win,3,0,1,0
+West Ham,Newcastle,2,3,-1,Draw,0,0,0,0
+Watford,Chelsea,1,2,-1,Draw,0,0,0,0
+Crystal Palace,Leicester,0,2,-2,Draw,0,0,0,0
+Everton,Tottenham,1,1,0,Win,0,0,0,0
+Norwich,Watford,0,2,-2,Draw,0,0,0,0
+Chelsea,Crystal Palace,2,0,2,Win,1,0,0,0
+Burnley,West Ham,3,0,3,Win,2,0,0,0
+Newcastle,Bournemouth,2,1,1,Win,3,0,1,0
+Southampton,Everton,1,2,-1,Draw,0,0,0,0
+Tottenham,Sheffield United,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Leicester,Arsenal,2,0,2,Win,1,0,0,0
 Man United,Brighton,3,1,2,Win,2,0,0,0
 Wolves,Aston Villa,2,1,1,Win,3,0,1,0
 Liverpool,Man City,3,1,2,Win,4,0,1,0
+<<<<<<< HEAD
 West Ham,Tottenham,2,3,-1,Loss,0,0,0,0
 Arsenal,Southampton,2,2,0,Draw,0,0,0,0
 Bournemouth,Wolves,1,2,-1,Loss,0,0,0,0
@@ -1281,12 +2476,37 @@ Leicester,Everton,2,1,1,Win,1,0,0,0
 Man United,Aston Villa,2,2,0,Draw,0,0,0,0
 Crystal Palace,Bournemouth,1,0,1,Win,1,0,0,0
 Burnley,Man City,1,4,-3,Loss,0,0,0,0
+=======
+West Ham,Tottenham,2,3,-1,Draw,0,0,0,0
+Arsenal,Southampton,2,2,0,Win,0,0,0,0
+Bournemouth,Wolves,1,2,-1,Draw,0,0,0,0
+Brighton,Leicester,0,2,-2,Draw,0,0,0,0
+Crystal Palace,Liverpool,1,2,-1,Draw,0,0,0,0
+Everton,Norwich,0,2,-2,Draw,0,0,0,0
+Watford,Burnley,0,3,-3,Draw,0,0,0,0
+Man City,Chelsea,2,1,1,Win,1,0,0,0
+Sheffield United,Man United,3,3,0,Win,0,0,0,0
+Aston Villa,Newcastle,2,0,2,Win,1,0,0,0
+Newcastle,Man City,2,2,0,Win,0,0,0,0
+Burnley,Crystal Palace,0,2,-2,Draw,0,0,0,0
+Chelsea,West Ham,0,1,-1,Draw,0,0,0,0
+Liverpool,Brighton,2,1,1,Win,1,0,0,0
+Tottenham,Bournemouth,3,2,1,Win,2,0,0,0
+Southampton,Watford,2,1,1,Win,3,0,1,0
+Norwich,Arsenal,2,2,0,Win,0,0,0,0
+Wolves,Sheffield United,1,1,0,Win,0,0,0,0
+Leicester,Everton,2,1,1,Win,1,0,0,0
+Man United,Aston Villa,2,2,0,Win,0,0,0,0
+Crystal Palace,Bournemouth,1,0,1,Win,1,0,0,0
+Burnley,Man City,1,4,-3,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Chelsea,Aston Villa,2,1,1,Win,1,0,0,0
 Leicester,Watford,2,0,2,Win,2,0,0,0
 Man United,Tottenham,2,1,1,Win,3,0,1,0
 Southampton,Norwich,2,1,1,Win,4,0,1,0
 Wolves,West Ham,2,0,2,Win,5,0,1,0
 Liverpool,Everton,5,2,3,Win,6,0,1,0
+<<<<<<< HEAD
 Sheffield United,Newcastle,0,2,-2,Loss,0,0,0,0
 Arsenal,Brighton,1,2,-1,Loss,0,0,0,0
 Everton,Chelsea,3,1,2,Win,1,0,0,0
@@ -1345,10 +2565,71 @@ Southampton,Tottenham,1,0,1,Win,1,0,0,0
 Watford,Wolves,2,1,1,Win,2,0,0,0
 Man City,Everton,2,1,1,Win,3,0,1,0
 Norwich,Crystal Palace,1,1,0,Draw,0,0,0,0
+=======
+Sheffield United,Newcastle,0,2,-2,Draw,0,0,0,0
+Arsenal,Brighton,1,2,-1,Draw,0,0,0,0
+Everton,Chelsea,3,1,2,Win,1,0,0,0
+Bournemouth,Liverpool,0,3,-3,Draw,0,0,0,0
+Tottenham,Burnley,5,0,5,Win,1,0,0,0
+Watford,Crystal Palace,0,0,0,Win,0,0,0,0
+Man City,Man United,1,2,-1,Draw,0,0,0,0
+Aston Villa,Leicester,1,4,-3,Draw,0,0,0,0
+Newcastle,Southampton,2,1,1,Win,1,0,0,0
+Norwich,Sheffield United,1,2,-1,Draw,0,0,0,0
+Brighton,Wolves,2,2,0,Win,0,0,0,0
+West Ham,Arsenal,1,3,-2,Draw,0,0,0,0
+Liverpool,Watford,2,0,2,Win,1,0,0,0
+Burnley,Newcastle,1,0,1,Win,2,0,0,0
+Chelsea,Bournemouth,0,1,-1,Draw,0,0,0,0
+Leicester,Norwich,1,1,0,Win,0,0,0,0
+Sheffield United,Aston Villa,2,0,2,Win,1,0,0,0
+Southampton,West Ham,0,1,-1,Draw,0,0,0,0
+Man United,Everton,1,1,0,Win,0,0,0,0
+Wolves,Tottenham,1,2,-1,Draw,0,0,0,0
+Arsenal,Man City,0,3,-3,Draw,0,0,0,0
+Crystal Palace,Brighton,1,1,0,Win,0,0,0,0
+Everton,Arsenal,0,0,0,Win,0,0,0,0
+Aston Villa,Southampton,1,3,-2,Draw,0,0,0,0
+Bournemouth,Burnley,0,1,-1,Draw,0,0,0,0
+Brighton,Sheffield United,0,1,-1,Draw,0,0,0,0
+Newcastle,Crystal Palace,1,0,1,Win,1,0,0,0
+Norwich,Wolves,1,2,-1,Draw,0,0,0,0
+Man City,Leicester,3,1,2,Win,1,0,0,0
+Watford,Man United,2,0,2,Win,2,0,0,0
+Tottenham,Chelsea,0,2,-2,Draw,0,0,0,0
+Tottenham,Brighton,2,1,1,Win,1,0,0,0
+Aston Villa,Norwich,1,0,1,Win,2,0,0,0
+Bournemouth,Arsenal,1,1,0,Win,0,0,0,0
+Chelsea,Southampton,0,2,-2,Draw,0,0,0,0
+Crystal Palace,West Ham,2,1,1,Win,1,0,0,0
+Everton,Burnley,1,0,1,Win,2,0,0,0
+Sheffield United,Watford,1,1,0,Win,0,0,0,0
+Man United,Newcastle,4,1,3,Win,1,0,0,0
+Leicester,Liverpool,0,4,-4,Draw,0,0,0,0
+Wolves,Man City,3,2,1,Win,1,0,0,0
+Brighton,Bournemouth,2,0,2,Win,2,0,0,0
+Newcastle,Everton,1,2,-1,Draw,0,0,0,0
+Southampton,Crystal Palace,1,1,0,Win,0,0,0,0
+Watford,Aston Villa,3,0,3,Win,1,0,0,0
+Norwich,Tottenham,2,2,0,Win,0,0,0,0
+West Ham,Leicester,1,2,-1,Draw,0,0,0,0
+Burnley,Man United,0,2,-2,Draw,0,0,0,0
+Arsenal,Chelsea,1,2,-1,Draw,0,0,0,0
+Liverpool,Wolves,1,0,1,Win,1,0,0,0
+Man City,Sheffield United,2,0,2,Win,2,0,0,0
+Brighton,Chelsea,1,1,0,Win,0,0,0,0
+Burnley,Aston Villa,1,2,-1,Draw,0,0,0,0
+Newcastle,Leicester,0,3,-3,Draw,0,0,0,0
+Southampton,Tottenham,1,0,1,Win,1,0,0,0
+Watford,Wolves,2,1,1,Win,2,0,0,0
+Man City,Everton,2,1,1,Win,3,0,1,0
+Norwich,Crystal Palace,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 West Ham,Bournemouth,4,0,4,Win,1,0,0,0
 Arsenal,Man United,2,0,2,Win,2,0,0,0
 Liverpool,Sheffield United,2,0,2,Win,3,0,1,0
 Sheffield United,West Ham,1,0,1,Win,4,0,1,0
+<<<<<<< HEAD
 Crystal Palace,Arsenal,1,1,0,Draw,0,0,0,0
 Chelsea,Burnley,3,0,3,Win,1,0,0,0
 Everton,Brighton,1,0,1,Win,2,0,0,0
@@ -1365,11 +2646,30 @@ Man City,Crystal Palace,2,2,0,Draw,0,0,0,0
 Norwich,Bournemouth,1,0,1,Win,1,0,0,0
 Southampton,Wolves,2,3,-1,Loss,0,0,0,0
 West Ham,Everton,1,1,0,Draw,0,0,0,0
+=======
+Crystal Palace,Arsenal,1,1,0,Win,0,0,0,0
+Chelsea,Burnley,3,0,3,Win,1,0,0,0
+Everton,Brighton,1,0,1,Win,2,0,0,0
+Leicester,Southampton,1,2,-1,Draw,0,0,0,0
+Man United,Norwich,4,0,4,Win,1,0,0,0
+Wolves,Newcastle,1,1,0,Win,0,0,0,0
+Tottenham,Liverpool,0,1,-1,Draw,0,0,0,0
+Bournemouth,Watford,0,3,-3,Draw,0,0,0,0
+Aston Villa,Man City,1,6,-5,Draw,0,0,0,0
+Watford,Tottenham,0,0,0,Win,0,0,0,0
+Arsenal,Sheffield United,1,1,0,Win,0,0,0,0
+Brighton,Aston Villa,1,1,0,Win,0,0,0,0
+Man City,Crystal Palace,2,2,0,Win,0,0,0,0
+Norwich,Bournemouth,1,0,1,Win,1,0,0,0
+Southampton,Wolves,2,3,-1,Draw,0,0,0,0
+West Ham,Everton,1,1,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Newcastle,Chelsea,1,0,1,Win,1,0,0,0
 Burnley,Leicester,2,1,1,Win,2,0,0,0
 Liverpool,Man United,2,0,2,Win,3,0,1,0
 Aston Villa,Watford,2,1,1,Win,4,0,1,0
 Bournemouth,Brighton,3,1,2,Win,5,0,1,0
+<<<<<<< HEAD
 Crystal Palace,Southampton,0,2,-2,Loss,0,0,0,0
 Everton,Newcastle,2,2,0,Draw,0,0,0,0
 Sheffield United,Man City,0,1,-1,Loss,0,0,0,0
@@ -1398,18 +2698,55 @@ Norwich,Liverpool,0,1,-1,Loss,0,0,0,0
 Aston Villa,Tottenham,2,3,-1,Loss,0,0,0,0
 Arsenal,Newcastle,4,0,4,Win,1,0,0,0
 Chelsea,Man United,0,2,-2,Loss,0,0,0,0
+=======
+Crystal Palace,Southampton,0,2,-2,Draw,0,0,0,0
+Everton,Newcastle,2,2,0,Win,0,0,0,0
+Sheffield United,Man City,0,1,-1,Draw,0,0,0,0
+Chelsea,Arsenal,2,2,0,Win,0,0,0,0
+Leicester,West Ham,4,1,3,Win,1,0,0,0
+Tottenham,Norwich,2,1,1,Win,2,0,0,0
+Man United,Burnley,0,2,-2,Draw,0,0,0,0
+Wolves,Liverpool,1,2,-1,Draw,0,0,0,0
+West Ham,Liverpool,0,2,-2,Draw,0,0,0,0
+Leicester,Chelsea,2,2,0,Win,0,0,0,0
+Bournemouth,Aston Villa,2,1,1,Win,1,0,0,0
+Crystal Palace,Sheffield United,0,1,-1,Draw,0,0,0,0
+Liverpool,Southampton,4,0,4,Win,1,0,0,0
+Newcastle,Norwich,0,0,0,Win,0,0,0,0
+Watford,Everton,2,3,-1,Draw,0,0,0,0
+West Ham,Brighton,3,3,0,Win,0,0,0,0
+Man United,Wolves,0,0,0,Win,0,0,0,0
+Burnley,Arsenal,0,0,0,Win,0,0,0,0
+Tottenham,Man City,2,0,2,Win,1,0,0,0
+Everton,Crystal Palace,3,1,2,Win,2,0,0,0
+Brighton,Watford,1,1,0,Win,0,0,0,0
+Sheffield United,Bournemouth,2,1,1,Win,1,0,0,0
+Wolves,Leicester,0,0,0,Win,0,0,0,0
+Southampton,Burnley,1,2,-1,Draw,0,0,0,0
+Norwich,Liverpool,0,1,-1,Draw,0,0,0,0
+Aston Villa,Tottenham,2,3,-1,Draw,0,0,0,0
+Arsenal,Newcastle,4,0,4,Win,1,0,0,0
+Chelsea,Man United,0,2,-2,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Man City,West Ham,2,0,2,Win,1,0,0,0
 Chelsea,Tottenham,2,1,1,Win,2,0,0,0
 Burnley,Bournemouth,3,0,3,Win,3,0,1,0
 Crystal Palace,Newcastle,1,0,1,Win,4,0,1,0
+<<<<<<< HEAD
 Sheffield United,Brighton,1,1,0,Draw,0,0,0,0
 Southampton,Aston Villa,2,0,2,Win,1,0,0,0
 Leicester,Man City,0,1,-1,Loss,0,0,0,0
+=======
+Sheffield United,Brighton,1,1,0,Win,0,0,0,0
+Southampton,Aston Villa,2,0,2,Win,1,0,0,0
+Leicester,Man City,0,1,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Man United,Watford,3,0,3,Win,1,0,0,0
 Wolves,Norwich,3,0,3,Win,2,0,0,0
 Arsenal,Everton,3,2,1,Win,3,0,1,0
 Liverpool,West Ham,3,2,1,Win,4,0,1,0
 Norwich,Leicester,1,0,1,Win,5,0,1,0
+<<<<<<< HEAD
 Brighton,Crystal Palace,0,1,-1,Loss,0,0,0,0
 Bournemouth,Chelsea,2,2,0,Draw,0,0,0,0
 Newcastle,Burnley,0,0,0,Draw,0,0,0,0
@@ -1417,10 +2754,20 @@ West Ham,Southampton,3,1,2,Win,1,0,0,0
 Watford,Liverpool,3,0,3,Win,2,0,0,0
 Everton,Man United,1,1,0,Draw,0,0,0,0
 Tottenham,Wolves,2,3,-1,Loss,0,0,0,0
+=======
+Brighton,Crystal Palace,0,1,-1,Draw,0,0,0,0
+Bournemouth,Chelsea,2,2,0,Win,0,0,0,0
+Newcastle,Burnley,0,0,0,Win,0,0,0,0
+West Ham,Southampton,3,1,2,Win,1,0,0,0
+Watford,Liverpool,3,0,3,Win,2,0,0,0
+Everton,Man United,1,1,0,Win,0,0,0,0
+Tottenham,Wolves,2,3,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Liverpool,Bournemouth,2,1,1,Win,1,0,0,0
 Arsenal,West Ham,1,0,1,Win,2,0,0,0
 Crystal Palace,Watford,1,0,1,Win,3,0,1,0
 Sheffield United,Norwich,1,0,1,Win,4,0,1,0
+<<<<<<< HEAD
 Southampton,Newcastle,0,1,-1,Loss,0,0,0,0
 Wolves,Brighton,0,0,0,Draw,0,0,0,0
 Burnley,Tottenham,1,1,0,Draw,0,0,0,0
@@ -1455,10 +2802,47 @@ Crystal Palace,Burnley,0,1,-1,Loss,0,0,0,0
 Brighton,Man United,0,3,-3,Loss,0,0,0,0
 Arsenal,Norwich,4,0,4,Win,1,0,0,0
 Bournemouth,Newcastle,1,4,-3,Loss,0,0,0,0
+=======
+Southampton,Newcastle,0,1,-1,Draw,0,0,0,0
+Wolves,Brighton,0,0,0,Win,0,0,0,0
+Burnley,Tottenham,1,1,0,Win,0,0,0,0
+Chelsea,Everton,4,0,4,Win,1,0,0,0
+Man United,Man City,2,0,2,Win,2,0,0,0
+Leicester,Aston Villa,4,0,4,Win,3,0,1,0
+Aston Villa,Sheffield United,0,0,0,Win,0,0,0,0
+Man City,Arsenal,3,0,3,Win,1,0,0,0
+Norwich,Southampton,0,3,-3,Draw,0,0,0,0
+Tottenham,Man United,1,1,0,Win,0,0,0,0
+Watford,Leicester,1,1,0,Win,0,0,0,0
+Brighton,Arsenal,2,1,1,Win,1,0,0,0
+West Ham,Wolves,0,2,-2,Draw,0,0,0,0
+Bournemouth,Crystal Palace,0,2,-2,Draw,0,0,0,0
+Newcastle,Sheffield United,3,0,3,Win,1,0,0,0
+Aston Villa,Chelsea,1,2,-1,Draw,0,0,0,0
+Everton,Liverpool,0,0,0,Win,0,0,0,0
+Man City,Burnley,5,0,5,Win,1,0,0,0
+Leicester,Brighton,0,0,0,Win,0,0,0,0
+Tottenham,West Ham,2,0,2,Win,1,0,0,0
+Man United,Sheffield United,3,0,3,Win,2,0,0,0
+Newcastle,Aston Villa,1,1,0,Win,0,0,0,0
+Norwich,Everton,0,1,-1,Draw,0,0,0,0
+Wolves,Bournemouth,1,0,1,Win,1,0,0,0
+Liverpool,Crystal Palace,4,0,4,Win,2,0,0,0
+Burnley,Watford,1,0,1,Win,3,0,1,0
+Southampton,Arsenal,0,2,-2,Draw,0,0,0,0
+Chelsea,Man City,2,1,1,Win,1,0,0,0
+Aston Villa,Wolves,0,1,-1,Draw,0,0,0,0
+Watford,Southampton,1,3,-2,Draw,0,0,0,0
+Crystal Palace,Burnley,0,1,-1,Draw,0,0,0,0
+Brighton,Man United,0,3,-3,Draw,0,0,0,0
+Arsenal,Norwich,4,0,4,Win,1,0,0,0
+Bournemouth,Newcastle,1,4,-3,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Everton,Leicester,2,1,1,Win,1,0,0,0
 West Ham,Chelsea,3,2,1,Win,2,0,0,0
 Sheffield United,Tottenham,3,1,2,Win,3,0,1,0
 Man City,Liverpool,4,0,4,Win,4,0,1,0
+<<<<<<< HEAD
 Norwich,Brighton,0,1,-1,Loss,0,0,0,0
 Leicester,Crystal Palace,3,0,3,Win,1,0,0,0
 Man United,Bournemouth,5,2,3,Win,2,0,0,0
@@ -1484,10 +2868,38 @@ Watford,Newcastle,2,1,1,Win,1,0,0,0
 Liverpool,Burnley,1,1,0,Draw,0,0,0,0
 Sheffield United,Chelsea,3,0,3,Win,1,0,0,0
 Brighton,Man City,0,5,-5,Loss,0,0,0,0
+=======
+Norwich,Brighton,0,1,-1,Draw,0,0,0,0
+Leicester,Crystal Palace,3,0,3,Win,1,0,0,0
+Man United,Bournemouth,5,2,3,Win,2,0,0,0
+Wolves,Arsenal,0,2,-2,Draw,0,0,0,0
+Chelsea,Watford,3,0,3,Win,1,0,0,0
+Burnley,Sheffield United,1,1,0,Win,0,0,0,0
+Newcastle,West Ham,2,2,0,Win,0,0,0,0
+Liverpool,Aston Villa,2,0,2,Win,1,0,0,0
+Southampton,Man City,1,0,1,Win,2,0,0,0
+Tottenham,Everton,1,0,1,Win,3,0,1,0
+Crystal Palace,Chelsea,2,3,-1,Draw,0,0,0,0
+Watford,Norwich,2,1,1,Win,1,0,0,0
+Arsenal,Leicester,1,1,0,Win,0,0,0,0
+Man City,Newcastle,5,0,5,Win,1,0,0,0
+Sheffield United,Wolves,1,0,1,Win,2,0,0,0
+West Ham,Burnley,0,1,-1,Draw,0,0,0,0
+Brighton,Liverpool,1,3,-2,Draw,0,0,0,0
+Bournemouth,Tottenham,0,0,0,Win,0,0,0,0
+Everton,Southampton,1,1,0,Win,0,0,0,0
+Aston Villa,Man United,0,3,-3,Draw,0,0,0,0
+Norwich,West Ham,0,4,-4,Draw,0,0,0,0
+Watford,Newcastle,2,1,1,Win,1,0,0,0
+Liverpool,Burnley,1,1,0,Win,0,0,0,0
+Sheffield United,Chelsea,3,0,3,Win,1,0,0,0
+Brighton,Man City,0,5,-5,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Wolves,Everton,3,0,3,Win,1,0,0,0
 Aston Villa,Crystal Palace,2,0,2,Win,2,0,0,0
 Tottenham,Arsenal,2,1,1,Win,3,0,1,0
 Bournemouth,Leicester,4,1,3,Win,4,0,1,0
+<<<<<<< HEAD
 Man United,Southampton,2,2,0,Draw,0,0,0,0
 Chelsea,Norwich,1,0,1,Win,1,0,0,0
 Burnley,Wolves,1,1,0,Draw,0,0,0,0
@@ -1696,11 +3108,222 @@ Fulham,Chelsea,0,1,-1,Loss,0,0,0,0
 Leicester,Southampton,2,0,2,Win,1,0,0,0
 Sheffield United,Tottenham,1,3,-2,Loss,0,0,0,0
 Liverpool,Man United,0,0,0,Draw,0,0,0,0
+=======
+Man United,Southampton,2,2,0,Win,0,0,0,0
+Chelsea,Norwich,1,0,1,Win,1,0,0,0
+Burnley,Wolves,1,1,0,Win,0,0,0,0
+Man City,Bournemouth,2,1,1,Win,1,0,0,0
+Newcastle,Tottenham,1,3,-2,Draw,0,0,0,0
+Arsenal,Liverpool,2,1,1,Win,1,0,0,0
+Everton,Aston Villa,1,1,0,Win,0,0,0,0
+Leicester,Sheffield United,2,0,2,Win,1,0,0,0
+Crystal Palace,Man United,0,2,-2,Draw,0,0,0,0
+Southampton,Brighton,1,1,0,Win,0,0,0,0
+West Ham,Watford,3,1,2,Win,1,0,0,0
+Norwich,Burnley,0,2,-2,Draw,0,0,0,0
+Bournemouth,Southampton,0,2,-2,Draw,0,0,0,0
+Tottenham,Leicester,3,0,3,Win,1,0,0,0
+Brighton,Newcastle,0,0,0,Win,0,0,0,0
+Sheffield United,Everton,0,1,-1,Draw,0,0,0,0
+Wolves,Crystal Palace,2,0,2,Win,1,0,0,0
+Watford,Man City,0,4,-4,Draw,0,0,0,0
+Aston Villa,Arsenal,1,0,1,Win,1,0,0,0
+Man United,West Ham,1,1,0,Win,0,0,0,0
+Liverpool,Chelsea,5,3,2,Win,1,0,0,0
+Arsenal,Watford,3,2,1,Win,2,0,0,0
+Burnley,Brighton,1,2,-1,Draw,0,0,0,0
+Chelsea,Wolves,2,0,2,Win,1,0,0,0
+Crystal Palace,Tottenham,1,1,0,Win,0,0,0,0
+Everton,Bournemouth,1,3,-2,Draw,0,0,0,0
+Leicester,Man United,0,2,-2,Draw,0,0,0,0
+Man City,Norwich,5,0,5,Win,1,0,0,0
+Newcastle,Liverpool,1,3,-2,Draw,0,0,0,0
+Southampton,Sheffield United,3,1,2,Win,1,0,0,0
+West Ham,Aston Villa,1,1,0,Win,0,0,0,0
+Fulham,Arsenal,0,3,-3,Draw,0,0,0,0
+Crystal Palace,Southampton,1,0,1,Win,1,0,0,0
+Liverpool,Leeds,4,3,1,Win,2,0,0,0
+West Ham,Newcastle,0,2,-2,Draw,0,0,0,0
+West Brom,Leicester,0,3,-3,Draw,0,0,0,0
+Tottenham,Everton,0,1,-1,Draw,0,0,0,0
+Brighton,Chelsea,1,3,-2,Draw,0,0,0,0
+Sheffield United,Wolves,0,2,-2,Draw,0,0,0,0
+Everton,West Brom,5,2,3,Win,1,0,0,0
+Leeds,Fulham,4,3,1,Win,2,0,0,0
+Man United,Crystal Palace,1,3,-2,Draw,0,0,0,0
+Arsenal,West Ham,2,1,1,Win,1,0,0,0
+Southampton,Tottenham,2,5,-3,Draw,0,0,0,0
+Newcastle,Brighton,0,3,-3,Draw,0,0,0,0
+Chelsea,Liverpool,0,2,-2,Draw,0,0,0,0
+Leicester,Burnley,4,2,2,Win,1,0,0,0
+Aston Villa,Sheffield United,1,0,1,Win,2,0,0,0
+Wolves,Man City,1,3,-2,Draw,0,0,0,0
+Brighton,Man United,2,3,-1,Draw,0,0,0,0
+Crystal Palace,Everton,1,2,-1,Draw,0,0,0,0
+West Brom,Chelsea,3,3,0,Win,0,0,0,0
+Burnley,Southampton,0,1,-1,Draw,0,0,0,0
+Sheffield United,Leeds,0,1,-1,Draw,0,0,0,0
+Tottenham,Newcastle,1,1,0,Win,0,0,0,0
+Man City,Leicester,2,5,-3,Draw,0,0,0,0
+West Ham,Wolves,4,0,4,Win,1,0,0,0
+Fulham,Aston Villa,0,3,-3,Draw,0,0,0,0
+Liverpool,Arsenal,3,1,2,Win,1,0,0,0
+Chelsea,Crystal Palace,4,0,4,Win,2,0,0,0
+Everton,Brighton,4,2,2,Win,3,0,1,0
+Leeds,Man City,1,1,0,Win,0,0,0,0
+Newcastle,Burnley,3,1,2,Win,1,0,0,0
+Leicester,West Ham,0,3,-3,Draw,0,0,0,0
+Southampton,West Brom,2,0,2,Win,1,0,0,0
+Arsenal,Sheffield United,2,1,1,Win,2,0,0,0
+Wolves,Fulham,1,0,1,Win,3,0,1,0
+Man United,Tottenham,1,6,-5,Draw,0,0,0,0
+Aston Villa,Liverpool,7,2,5,Win,1,0,0,0
+Everton,Liverpool,2,2,0,Win,0,0,0,0
+Chelsea,Southampton,3,3,0,Win,0,0,0,0
+Man City,Arsenal,1,0,1,Win,1,0,0,0
+Newcastle,Man United,1,4,-3,Draw,0,0,0,0
+Sheffield United,Fulham,1,1,0,Win,0,0,0,0
+Crystal Palace,Brighton,1,1,0,Win,0,0,0,0
+Tottenham,West Ham,3,3,0,Win,0,0,0,0
+Leicester,Aston Villa,0,1,-1,Draw,0,0,0,0
+West Brom,Burnley,0,0,0,Win,0,0,0,0
+Leeds,Wolves,0,1,-1,Draw,0,0,0,0
+Aston Villa,Leeds,0,3,-3,Draw,0,0,0,0
+West Ham,Man City,1,1,0,Win,0,0,0,0
+Fulham,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Man United,Chelsea,0,0,0,Win,0,0,0,0
+Liverpool,Sheffield United,2,1,1,Win,1,0,0,0
+Southampton,Everton,2,0,2,Win,2,0,0,0
+Wolves,Newcastle,1,1,0,Win,0,0,0,0
+Arsenal,Leicester,0,1,-1,Draw,0,0,0,0
+Brighton,West Brom,1,1,0,Win,0,0,0,0
+Burnley,Tottenham,0,1,-1,Draw,0,0,0,0
+Wolves,Crystal Palace,2,0,2,Win,1,0,0,0
+Sheffield United,Man City,0,1,-1,Draw,0,0,0,0
+Burnley,Chelsea,0,3,-3,Draw,0,0,0,0
+Liverpool,West Ham,2,1,1,Win,1,0,0,0
+Aston Villa,Southampton,3,4,-1,Draw,0,0,0,0
+Newcastle,Everton,2,1,1,Win,1,0,0,0
+Man United,Arsenal,0,1,-1,Draw,0,0,0,0
+Tottenham,Brighton,2,1,1,Win,1,0,0,0
+Fulham,West Brom,2,0,2,Win,2,0,0,0
+Leeds,Leicester,1,4,-3,Draw,0,0,0,0
+Brighton,Burnley,0,0,0,Win,0,0,0,0
+Southampton,Newcastle,2,0,2,Win,1,0,0,0
+Everton,Man United,1,3,-2,Draw,0,0,0,0
+Crystal Palace,Leeds,4,1,3,Win,1,0,0,0
+Chelsea,Sheffield United,4,1,3,Win,2,0,0,0
+West Ham,Fulham,1,0,1,Win,3,0,1,0
+West Brom,Tottenham,0,1,-1,Draw,0,0,0,0
+Leicester,Wolves,1,0,1,Win,1,0,0,0
+Man City,Liverpool,1,1,0,Win,0,0,0,0
+Arsenal,Aston Villa,0,3,-3,Draw,0,0,0,0
+Newcastle,Chelsea,0,2,-2,Draw,0,0,0,0
+Aston Villa,Brighton,1,2,-1,Draw,0,0,0,0
+Tottenham,Man City,2,0,2,Win,1,0,0,0
+Man United,West Brom,1,0,1,Win,2,0,0,0
+Fulham,Everton,2,3,-1,Draw,0,0,0,0
+Sheffield United,West Ham,0,1,-1,Draw,0,0,0,0
+Leeds,Arsenal,0,0,0,Win,0,0,0,0
+Liverpool,Leicester,3,0,3,Win,1,0,0,0
+Burnley,Crystal Palace,1,0,1,Win,2,0,0,0
+Wolves,Southampton,1,1,0,Win,0,0,0,0
+Crystal Palace,Newcastle,0,2,-2,Draw,0,0,0,0
+Brighton,Liverpool,1,1,0,Win,0,0,0,0
+Man City,Burnley,5,0,5,Win,1,0,0,0
+Everton,Leeds,0,1,-1,Draw,0,0,0,0
+West Brom,Sheffield United,1,0,1,Win,1,0,0,0
+Southampton,Man United,2,3,-1,Draw,0,0,0,0
+Chelsea,Tottenham,0,0,0,Win,0,0,0,0
+Arsenal,Wolves,1,2,-1,Draw,0,0,0,0
+Leicester,Fulham,1,2,-1,Draw,0,0,0,0
+West Ham,Aston Villa,2,1,1,Win,1,0,0,0
+Burnley,Everton,1,1,0,Win,0,0,0,0
+Man City,Fulham,2,0,2,Win,1,0,0,0
+West Ham,Man United,1,3,-2,Draw,0,0,0,0
+Chelsea,Leeds,3,1,2,Win,1,0,0,0
+West Brom,Crystal Palace,1,5,-4,Draw,0,0,0,0
+Sheffield United,Leicester,1,2,-1,Draw,0,0,0,0
+Tottenham,Arsenal,2,0,2,Win,1,0,0,0
+Liverpool,Wolves,4,0,4,Win,2,0,0,0
+Brighton,Southampton,1,2,-1,Draw,0,0,0,0
+Leeds,West Ham,1,2,-1,Draw,0,0,0,0
+Wolves,Aston Villa,0,1,-1,Draw,0,0,0,0
+Newcastle,West Brom,2,1,1,Win,1,0,0,0
+Man United,Man City,0,0,0,Win,0,0,0,0
+Everton,Chelsea,1,0,1,Win,1,0,0,0
+Southampton,Sheffield United,3,0,3,Win,2,0,0,0
+Crystal Palace,Tottenham,1,1,0,Win,0,0,0,0
+Fulham,Liverpool,1,1,0,Win,0,0,0,0
+Arsenal,Burnley,0,1,-1,Draw,0,0,0,0
+Leicester,Brighton,3,0,3,Win,1,0,0,0
+Wolves,Chelsea,2,1,1,Win,2,0,0,0
+Man City,West Brom,1,1,0,Win,0,0,0,0
+Arsenal,Southampton,1,1,0,Win,0,0,0,0
+Leeds,Newcastle,5,2,3,Win,1,0,0,0
+Leicester,Everton,0,2,-2,Draw,0,0,0,0
+Fulham,Brighton,0,0,0,Win,0,0,0,0
+Liverpool,Tottenham,2,1,1,Win,1,0,0,0
+West Ham,Crystal Palace,1,1,0,Win,0,0,0,0
+Aston Villa,Burnley,0,0,0,Win,0,0,0,0
+Sheffield United,Man United,2,3,-1,Draw,0,0,0,0
+Crystal Palace,Liverpool,0,7,-7,Draw,0,0,0,0
+Southampton,Man City,0,1,-1,Draw,0,0,0,0
+Everton,Arsenal,2,1,1,Win,1,0,0,0
+Newcastle,Fulham,1,1,0,Win,0,0,0,0
+Brighton,Sheffield United,1,1,0,Win,0,0,0,0
+Tottenham,Leicester,0,2,-2,Draw,0,0,0,0
+Man United,Leeds,6,2,4,Win,1,0,0,0
+West Brom,Aston Villa,0,3,-3,Draw,0,0,0,0
+Burnley,Wolves,2,1,1,Win,1,0,0,0
+Chelsea,West Ham,3,0,3,Win,2,0,0,0
+Leicester,Man United,2,2,0,Win,0,0,0,0
+Aston Villa,Crystal Palace,3,0,3,Win,1,0,0,0
+Fulham,Southampton,0,0,0,Win,0,0,0,0
+Arsenal,Chelsea,3,1,2,Win,1,0,0,0
+Man City,Newcastle,2,0,2,Win,2,0,0,0
+Sheffield United,Everton,0,1,-1,Draw,0,0,0,0
+Leeds,Burnley,1,0,1,Win,1,0,0,0
+West Ham,Brighton,2,2,0,Win,0,0,0,0
+Liverpool,West Brom,1,1,0,Win,0,0,0,0
+Wolves,Tottenham,1,1,0,Win,0,0,0,0
+Crystal Palace,Leicester,1,1,0,Win,0,0,0,0
+Chelsea,Aston Villa,1,1,0,Win,0,0,0,0
+Brighton,Arsenal,0,1,-1,Draw,0,0,0,0
+Burnley,Sheffield United,1,0,1,Win,1,0,0,0
+Southampton,West Ham,0,0,0,Win,0,0,0,0
+West Brom,Leeds,0,5,-5,Draw,0,0,0,0
+Man United,Wolves,1,0,1,Win,1,0,0,0
+Newcastle,Liverpool,0,0,0,Win,0,0,0,0
+Everton,West Ham,0,1,-1,Draw,0,0,0,0
+Man United,Aston Villa,2,1,1,Win,1,0,0,0
+Tottenham,Leeds,3,0,3,Win,2,0,0,0
+Crystal Palace,Sheffield United,2,0,2,Win,3,0,1,0
+Brighton,Wolves,3,3,0,Win,0,0,0,0
+West Brom,Arsenal,0,4,-4,Draw,0,0,0,0
+Newcastle,Leicester,1,2,-1,Draw,0,0,0,0
+Chelsea,Man City,1,3,-2,Draw,0,0,0,0
+Southampton,Liverpool,1,0,1,Win,1,0,0,0
+Sheffield United,Newcastle,1,0,1,Win,2,0,0,0
+Burnley,Man United,0,1,-1,Draw,0,0,0,0
+Wolves,Everton,1,2,-1,Draw,0,0,0,0
+Man City,Brighton,1,0,1,Win,1,0,0,0
+Tottenham,Fulham,1,1,0,Win,0,0,0,0
+Arsenal,Crystal Palace,0,0,0,Win,0,0,0,0
+Wolves,West Brom,2,3,-1,Draw,0,0,0,0
+Leeds,Brighton,0,1,-1,Draw,0,0,0,0
+West Ham,Burnley,1,0,1,Win,1,0,0,0
+Fulham,Chelsea,0,1,-1,Draw,0,0,0,0
+Leicester,Southampton,2,0,2,Win,1,0,0,0
+Sheffield United,Tottenham,1,3,-2,Draw,0,0,0,0
+Liverpool,Man United,0,0,0,Win,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Man City,Crystal Palace,4,0,4,Win,1,0,0,0
 Arsenal,Newcastle,3,0,3,Win,2,0,0,0
 West Ham,West Brom,2,1,1,Win,3,0,1,0
 Leicester,Chelsea,2,0,2,Win,4,0,1,0
 Man City,Aston Villa,2,0,2,Win,5,0,1,0
+<<<<<<< HEAD
 Fulham,Man United,1,2,-1,Loss,0,0,0,0
 Liverpool,Burnley,0,1,-1,Loss,0,0,0,0
 Aston Villa,Newcastle,2,0,2,Win,1,0,0,0
@@ -1723,10 +3346,35 @@ Southampton,Aston Villa,0,1,-1,Loss,0,0,0,0
 Chelsea,Burnley,2,0,2,Win,1,0,0,0
 Leicester,Leeds,1,3,-2,Loss,0,0,0,0
 West Ham,Liverpool,1,3,-2,Loss,0,0,0,0
+=======
+Fulham,Man United,1,2,-1,Draw,0,0,0,0
+Liverpool,Burnley,0,1,-1,Draw,0,0,0,0
+Aston Villa,Newcastle,2,0,2,Win,1,0,0,0
+Crystal Palace,West Ham,2,3,-1,Draw,0,0,0,0
+Newcastle,Leeds,1,2,-1,Draw,0,0,0,0
+Southampton,Arsenal,1,3,-2,Draw,0,0,0,0
+West Brom,Man City,0,5,-5,Draw,0,0,0,0
+Burnley,Aston Villa,3,2,1,Win,1,0,0,0
+Chelsea,Wolves,0,0,0,Win,0,0,0,0
+Brighton,Fulham,0,0,0,Win,0,0,0,0
+Everton,Leicester,1,1,0,Win,0,0,0,0
+Man United,Sheffield United,1,2,-1,Draw,0,0,0,0
+Tottenham,Liverpool,1,3,-2,Draw,0,0,0,0
+Everton,Newcastle,0,2,-2,Draw,0,0,0,0
+Crystal Palace,Wolves,1,0,1,Win,1,0,0,0
+Man City,Sheffield United,1,0,1,Win,2,0,0,0
+West Brom,Fulham,2,2,0,Win,0,0,0,0
+Arsenal,Man United,0,0,0,Win,0,0,0,0
+Southampton,Aston Villa,0,1,-1,Draw,0,0,0,0
+Chelsea,Burnley,2,0,2,Win,1,0,0,0
+Leicester,Leeds,1,3,-2,Draw,0,0,0,0
+West Ham,Liverpool,1,3,-2,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Brighton,Tottenham,1,0,1,Win,1,0,0,0
 Sheffield United,West Brom,2,1,1,Win,2,0,0,0
 Wolves,Arsenal,2,1,1,Win,3,0,1,0
 Man United,Southampton,9,0,9,Win,4,0,1,0
+<<<<<<< HEAD
 Newcastle,Crystal Palace,1,2,-1,Loss,0,0,0,0
 Burnley,Man City,0,2,-2,Loss,0,0,0,0
 Fulham,Leicester,0,2,-2,Loss,0,0,0,0
@@ -1791,10 +3439,77 @@ Brighton,Leicester,1,2,-1,Loss,0,0,0,0
 West Brom,Newcastle,0,0,0,Draw,0,0,0,0
 Liverpool,Fulham,0,1,-1,Loss,0,0,0,0
 Man City,Man United,0,2,-2,Loss,0,0,0,0
+=======
+Newcastle,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Burnley,Man City,0,2,-2,Draw,0,0,0,0
+Fulham,Leicester,0,2,-2,Draw,0,0,0,0
+Leeds,Everton,1,2,-1,Draw,0,0,0,0
+Aston Villa,West Ham,1,3,-2,Draw,0,0,0,0
+Liverpool,Brighton,0,1,-1,Draw,0,0,0,0
+Tottenham,Chelsea,0,1,-1,Draw,0,0,0,0
+Aston Villa,Arsenal,1,0,1,Win,1,0,0,0
+Burnley,Brighton,1,1,0,Win,0,0,0,0
+Newcastle,Southampton,3,2,1,Win,1,0,0,0
+Fulham,West Ham,0,0,0,Win,0,0,0,0
+Man United,Everton,3,3,0,Win,0,0,0,0
+Tottenham,West Brom,2,0,2,Win,1,0,0,0
+Wolves,Leicester,0,0,0,Win,0,0,0,0
+Liverpool,Man City,1,4,-3,Draw,0,0,0,0
+Sheffield United,Chelsea,1,2,-1,Draw,0,0,0,0
+Leeds,Crystal Palace,2,0,2,Win,1,0,0,0
+Leicester,Liverpool,3,1,2,Win,2,0,0,0
+Crystal Palace,Burnley,0,3,-3,Draw,0,0,0,0
+Man City,Tottenham,3,0,3,Win,1,0,0,0
+Brighton,Aston Villa,0,0,0,Win,0,0,0,0
+Southampton,Wolves,1,2,-1,Draw,0,0,0,0
+West Brom,Man United,1,1,0,Win,0,0,0,0
+Arsenal,Leeds,4,2,2,Win,1,0,0,0
+Everton,Fulham,0,2,-2,Draw,0,0,0,0
+West Ham,Sheffield United,3,0,3,Win,1,0,0,0
+Chelsea,Newcastle,2,0,2,Win,2,0,0,0
+Burnley,Fulham,1,1,0,Win,0,0,0,0
+Everton,Man City,1,3,-2,Draw,0,0,0,0
+Wolves,Leeds,1,0,1,Win,1,0,0,0
+Southampton,Chelsea,1,1,0,Win,0,0,0,0
+Burnley,West Brom,0,0,0,Win,0,0,0,0
+Liverpool,Everton,0,2,-2,Draw,0,0,0,0
+Fulham,Sheffield United,1,0,1,Win,1,0,0,0
+West Ham,Tottenham,2,1,1,Win,2,0,0,0
+Aston Villa,Leicester,1,2,-1,Draw,0,0,0,0
+Arsenal,Man City,0,1,-1,Draw,0,0,0,0
+Man United,Newcastle,3,1,2,Win,1,0,0,0
+Brighton,Crystal Palace,1,2,-1,Draw,0,0,0,0
+Leeds,Southampton,3,0,3,Win,1,0,0,0
+Man City,West Ham,2,1,1,Win,2,0,0,0
+West Brom,Brighton,1,0,1,Win,3,0,1,0
+Leeds,Aston Villa,0,1,-1,Draw,0,0,0,0
+Newcastle,Wolves,1,1,0,Win,0,0,0,0
+Crystal Palace,Fulham,0,0,0,Win,0,0,0,0
+Leicester,Arsenal,1,3,-2,Draw,0,0,0,0
+Tottenham,Burnley,4,0,4,Win,1,0,0,0
+Chelsea,Man United,0,0,0,Win,0,0,0,0
+Sheffield United,Liverpool,0,2,-2,Draw,0,0,0,0
+Everton,Southampton,1,0,1,Win,1,0,0,0
+Man City,Wolves,4,1,3,Win,2,0,0,0
+Burnley,Leicester,1,1,0,Win,0,0,0,0
+Sheffield United,Aston Villa,1,0,1,Win,1,0,0,0
+Crystal Palace,Man United,0,0,0,Win,0,0,0,0
+Fulham,Tottenham,0,1,-1,Draw,0,0,0,0
+West Brom,Everton,0,1,-1,Draw,0,0,0,0
+Liverpool,Chelsea,0,1,-1,Draw,0,0,0,0
+Burnley,Arsenal,1,1,0,Win,0,0,0,0
+Sheffield United,Southampton,0,2,-2,Draw,0,0,0,0
+Aston Villa,Wolves,0,0,0,Win,0,0,0,0
+Brighton,Leicester,1,2,-1,Draw,0,0,0,0
+West Brom,Newcastle,0,0,0,Win,0,0,0,0
+Liverpool,Fulham,0,1,-1,Draw,0,0,0,0
+Man City,Man United,0,2,-2,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Tottenham,Crystal Palace,4,1,3,Win,1,0,0,0
 Chelsea,Everton,2,0,2,Win,2,0,0,0
 West Ham,Leeds,2,0,2,Win,3,0,1,0
 Man City,Southampton,5,2,3,Win,4,0,1,0
+<<<<<<< HEAD
 Newcastle,Aston Villa,1,1,0,Draw,0,0,0,0
 Leeds,Chelsea,0,0,0,Draw,0,0,0,0
 Crystal Palace,West Brom,1,0,1,Win,1,0,0,0
@@ -1881,10 +3596,99 @@ West Brom,Liverpool,1,2,-1,Loss,0,0,0,0
 Everton,Sheffield United,0,1,-1,Loss,0,0,0,0
 Man United,Fulham,1,1,0,Draw,0,0,0,0
 Southampton,Leeds,0,2,-2,Loss,0,0,0,0
+=======
+Newcastle,Aston Villa,1,1,0,Win,0,0,0,0
+Leeds,Chelsea,0,0,0,Win,0,0,0,0
+Crystal Palace,West Brom,1,0,1,Win,1,0,0,0
+Everton,Burnley,1,2,-1,Draw,0,0,0,0
+Fulham,Man City,0,3,-3,Draw,0,0,0,0
+Southampton,Brighton,1,2,-1,Draw,0,0,0,0
+Leicester,Sheffield United,5,0,5,Win,1,0,0,0
+Arsenal,Tottenham,2,1,1,Win,2,0,0,0
+Man United,West Ham,1,0,1,Win,3,0,1,0
+Wolves,Liverpool,0,1,-1,Draw,0,0,0,0
+Fulham,Leeds,1,2,-1,Draw,0,0,0,0
+Brighton,Newcastle,3,0,3,Win,1,0,0,0
+West Ham,Arsenal,3,3,0,Win,0,0,0,0
+Aston Villa,Tottenham,0,2,-2,Draw,0,0,0,0
+Chelsea,West Brom,2,5,-3,Draw,0,0,0,0
+Leeds,Sheffield United,2,1,1,Win,1,0,0,0
+Leicester,Man City,0,2,-2,Draw,0,0,0,0
+Arsenal,Liverpool,0,3,-3,Draw,0,0,0,0
+Southampton,Burnley,3,2,1,Win,1,0,0,0
+Newcastle,Tottenham,2,2,0,Win,0,0,0,0
+Aston Villa,Fulham,3,1,2,Win,1,0,0,0
+Man United,Brighton,2,1,1,Win,2,0,0,0
+Everton,Crystal Palace,1,1,0,Win,0,0,0,0
+Wolves,West Ham,2,3,-1,Draw,0,0,0,0
+Fulham,Wolves,0,1,-1,Draw,0,0,0,0
+Man City,Leeds,1,2,-1,Draw,0,0,0,0
+Liverpool,Aston Villa,2,1,1,Win,1,0,0,0
+Crystal Palace,Chelsea,1,4,-3,Draw,0,0,0,0
+Burnley,Newcastle,1,2,-1,Draw,0,0,0,0
+West Ham,Leicester,3,2,1,Win,1,0,0,0
+Tottenham,Man United,1,3,-2,Draw,0,0,0,0
+Sheffield United,Arsenal,0,3,-3,Draw,0,0,0,0
+West Brom,Southampton,3,0,3,Win,1,0,0,0
+Brighton,Everton,0,0,0,Win,0,0,0,0
+Everton,Tottenham,2,2,0,Win,0,0,0,0
+Newcastle,West Ham,3,2,1,Win,1,0,0,0
+Wolves,Sheffield United,1,0,1,Win,2,0,0,0
+Arsenal,Fulham,1,1,0,Win,0,0,0,0
+Man United,Burnley,3,1,2,Win,1,0,0,0
+Leeds,Liverpool,1,1,0,Win,0,0,0,0
+Chelsea,Brighton,0,0,0,Win,0,0,0,0
+Tottenham,Southampton,2,1,1,Win,1,0,0,0
+Aston Villa,Man City,1,2,-1,Draw,0,0,0,0
+Leicester,West Brom,3,0,3,Win,1,0,0,0
+Arsenal,Everton,0,1,-1,Draw,0,0,0,0
+Liverpool,Newcastle,1,1,0,Win,0,0,0,0
+West Ham,Chelsea,0,1,-1,Draw,0,0,0,0
+Sheffield United,Brighton,1,0,1,Win,1,0,0,0
+Wolves,Burnley,0,4,-4,Draw,0,0,0,0
+Leeds,Man United,0,0,0,Win,0,0,0,0
+Aston Villa,West Brom,2,2,0,Win,0,0,0,0
+Leicester,Crystal Palace,2,1,1,Win,1,0,0,0
+Southampton,Leicester,1,1,0,Win,0,0,0,0
+Crystal Palace,Man City,0,2,-2,Draw,0,0,0,0
+Brighton,Leeds,2,0,2,Win,1,0,0,0
+Chelsea,Fulham,2,0,2,Win,2,0,0,0
+Everton,Aston Villa,1,2,-1,Draw,0,0,0,0
+Newcastle,Arsenal,0,2,-2,Draw,0,0,0,0
+Tottenham,Sheffield United,4,0,4,Win,1,0,0,0
+West Brom,Wolves,1,1,0,Win,0,0,0,0
+Burnley,West Ham,1,2,-1,Draw,0,0,0,0
+Leicester,Newcastle,2,4,-2,Draw,0,0,0,0
+Leeds,Tottenham,3,1,2,Win,1,0,0,0
+Sheffield United,Crystal Palace,0,2,-2,Draw,0,0,0,0
+Man City,Chelsea,1,2,-1,Draw,0,0,0,0
+Liverpool,Southampton,2,0,2,Win,1,0,0,0
+Wolves,Brighton,2,1,1,Win,2,0,0,0
+Aston Villa,Man United,1,3,-2,Draw,0,0,0,0
+West Ham,Everton,0,1,-1,Draw,0,0,0,0
+Arsenal,West Brom,3,1,2,Win,1,0,0,0
+Fulham,Burnley,0,2,-2,Draw,0,0,0,0
+Man United,Leicester,1,2,-1,Draw,0,0,0,0
+Southampton,Crystal Palace,3,1,2,Win,1,0,0,0
+Chelsea,Arsenal,0,1,-1,Draw,0,0,0,0
+Aston Villa,Everton,0,0,0,Win,0,0,0,0
+Man United,Liverpool,2,4,-2,Draw,0,0,0,0
+Newcastle,Man City,3,4,-1,Draw,0,0,0,0
+Burnley,Leeds,0,4,-4,Draw,0,0,0,0
+Southampton,Fulham,3,1,2,Win,1,0,0,0
+Brighton,West Ham,1,1,0,Win,0,0,0,0
+Crystal Palace,Aston Villa,3,2,1,Win,1,0,0,0
+Tottenham,Wolves,2,0,2,Win,2,0,0,0
+West Brom,Liverpool,1,2,-1,Draw,0,0,0,0
+Everton,Sheffield United,0,1,-1,Draw,0,0,0,0
+Man United,Fulham,1,1,0,Win,0,0,0,0
+Southampton,Leeds,0,2,-2,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Brighton,Man City,3,2,1,Win,1,0,0,0
 Chelsea,Leicester,2,1,1,Win,2,0,0,0
 Everton,Wolves,1,0,1,Win,3,0,1,0
 Newcastle,Sheffield United,1,0,1,Win,4,0,1,0
+<<<<<<< HEAD
 Tottenham,Aston Villa,1,2,-1,Loss,0,0,0,0
 Crystal Palace,Arsenal,1,3,-2,Loss,0,0,0,0
 Burnley,Liverpool,0,3,-3,Loss,0,0,0,0
@@ -1894,8 +3698,23 @@ Aston Villa,Chelsea,2,1,1,Win,2,0,0,0
 Fulham,Newcastle,0,2,-2,Loss,0,0,0,0
 Leeds,West Brom,3,1,2,Win,1,0,0,0
 Leicester,Tottenham,2,4,-2,Loss,0,0,0,0
+=======
+Tottenham,Aston Villa,1,2,-1,Draw,0,0,0,0
+Crystal Palace,Arsenal,1,3,-2,Draw,0,0,0,0
+Burnley,Liverpool,0,3,-3,Draw,0,0,0,0
+West Brom,West Ham,1,3,-2,Draw,0,0,0,0
+Arsenal,Brighton,2,0,2,Win,1,0,0,0
+Aston Villa,Chelsea,2,1,1,Win,2,0,0,0
+Fulham,Newcastle,0,2,-2,Draw,0,0,0,0
+Leeds,West Brom,3,1,2,Win,1,0,0,0
+Leicester,Tottenham,2,4,-2,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
 Liverpool,Crystal Palace,2,0,2,Win,1,0,0,0
 Man City,Everton,5,0,5,Win,2,0,0,0
 Sheffield United,Burnley,1,0,1,Win,3,0,1,0
 West Ham,Southampton,3,0,3,Win,4,0,1,0
+<<<<<<< HEAD
 Wolves,Man United,1,2,-1,Loss,0,0,0,0
+=======
+Wolves,Man United,1,2,-1,Draw,0,0,0,0
+>>>>>>> 38fae526f9b7516e230d4d44b5755d9369aafc27
