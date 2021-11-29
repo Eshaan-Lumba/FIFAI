@@ -1,0 +1,280 @@
+Opponent,HomeBool,FTHG,FTAG,ScoreDiff,WinStreak,TGS,Results,Referee,B365H,B365D,B365A,BWH,BWD,BWA
+Leicester,0,2,2,0,0,0,Draw,M Jones,3.2,3.4,2.4,2.9,3.2,2.4
+Arsenal,1,2,2,0,0,0,Draw,K Friend,2.8,3.4,2.7,2.75,3.25,2.7
+Chelsea,1,3,6,-3,0,0,Loss,J Moss,3.75,3.3,2.2,3.5,3.3,2.2
+West Brom,0,0,2,2,1,0,Win,A Taylor,3.5,3.5,2.2,3.3,3.2,2.2
+Crystal Palace,1,2,3,-1,0,0,Loss,M Oliver,1.4,5.0,9.0,1.42,4.1,8.25
+Liverpool,0,1,1,0,0,0,Draw,M Atkinson,1.91,3.75,4.33,1.95,3.6,4.0
+Man United,0,2,1,-1,0,0,Loss,K Friend,1.67,4.2,5.25,1.67,4.0,5.25
+Aston Villa,1,3,0,3,1,0,Win,A Taylor,1.6,4.0,6.5,1.62,3.7,5.5
+Burnley,0,1,3,2,2,0,Win,A Marriner,4.75,3.75,1.83,4.6,3.6,1.85
+Swansea,1,0,0,0,0,0,Draw,K Friend,1.75,3.8,5.25,1.75,3.6,4.5
+Sunderland,0,1,1,0,0,0,Draw,L Mason,4.0,3.5,2.05,3.6,3.3,2.05
+West Ham,1,2,1,1,1,0,Win,M Clattenburg,1.85,3.8,4.5,1.85,3.6,4.0
+Tottenham,0,2,1,-1,0,0,Loss,M Oliver,2.25,3.6,3.25,2.35,3.4,3.2
+Hull,1,1,1,0,0,0,Draw,R Madley,1.53,4.33,7.0,1.55,3.8,6.0
+Man City,0,1,0,-1,0,0,Loss,A Marriner,1.5,4.75,7.0,1.53,4.5,6.0
+QPR,1,3,1,2,1,0,Win,N Swarbrick,1.45,4.5,8.5,1.45,4.25,6.75
+Southampton,0,3,0,-3,0,0,Loss,J Moss,2.45,3.5,3.0,2.5,3.4,2.9
+Stoke,1,0,1,-1,0,0,Loss,L Mason,1.83,3.6,5.0,1.83,3.4,4.33
+Newcastle,0,3,2,-1,0,0,Loss,C Pawson,2.9,3.4,2.6,2.8,3.3,2.6
+Hull,0,2,0,-2,0,0,Loss,K Friend,3.4,3.4,2.3,3.0,3.3,2.3
+Man City,1,1,1,0,0,0,Draw,M Atkinson,4.5,3.75,1.85,4.0,3.4,1.9
+West Brom,1,0,0,0,0,0,Draw,M Oliver,1.85,3.6,4.75,1.85,3.4,4.2
+Crystal Palace,0,0,1,1,1,0,Win,R East,2.8,3.3,2.75,2.8,3.1,2.75
+Liverpool,1,0,0,0,0,0,Draw,A Taylor,3.4,3.4,2.3,3.2,3.4,2.3
+Chelsea,0,1,0,-1,0,0,Loss,J Moss,1.33,5.5,11.0,1.33,5.0,8.25
+Leicester,1,2,2,0,0,0,Draw,P Dowd,1.83,3.6,5.0,1.83,3.5,4.2
+Arsenal,0,2,0,-2,0,0,Loss,A Marriner,1.57,4.5,6.0,1.57,4.2,6.0
+Stoke,0,2,0,-2,0,0,Loss,M Clattenburg,2.5,3.3,3.1,2.5,3.2,2.8
+Newcastle,1,3,0,3,1,0,Win,M Atkinson,1.83,3.75,4.75,1.83,3.5,4.2
+QPR,0,1,2,1,2,0,Win,J Moss,3.3,3.4,2.15,3.25,3.25,2.2
+Southampton,1,1,0,1,3,1,Win,L Mason,2.63,3.2,2.8,2.6,3.1,2.75
+Swansea,0,1,1,0,0,0,Draw,M Oliver,2.5,3.3,3.1,2.5,3.3,2.95
+Burnley,1,1,0,1,1,0,Win,M Jones,1.73,3.8,5.5,1.72,3.8,5.0
+Man United,1,3,0,3,2,0,Win,A Marriner,3.75,3.4,2.15,3.4,3.4,2.2
+Aston Villa,0,3,2,-1,0,0,Loss,M Clattenburg,2.75,3.3,2.8,2.65,3.25,2.6
+Sunderland,1,0,2,-2,0,0,Loss,L Probert,1.8,3.75,5.0,1.8,3.6,4.75
+West Ham,0,1,2,1,1,0,Win,K Friend,2.9,3.4,2.6,2.65,3.2,2.6
+Tottenham,1,0,1,-1,0,0,Loss,J Moss,2.4,3.6,3.0,2.35,3.4,2.85
+Watford,1,2,2,0,0,0,Draw,M Jones,1.7,3.9,5.5,1.7,3.5,5.0
+Southampton,0,0,3,3,1,0,Win,M Oliver,1.95,3.6,4.33,1.95,3.5,4.1
+Man City,1,0,2,-2,0,0,Loss,A Taylor,5.0,4.0,1.73,4.4,3.75,1.73
+Tottenham,0,0,0,0,0,0,Draw,M Jones,2.0,3.5,4.2,1.95,3.4,3.75
+Chelsea,1,3,1,2,1,0,Win,A Marriner,4.0,3.6,2.0,3.75,3.5,2.0
+Swansea,0,0,0,0,0,0,Draw,S Attwell,2.3,3.4,3.4,2.3,3.2,3.1
+West Brom,0,2,3,1,1,0,Win,R Madley,3.1,3.3,2.5,2.8,3.25,2.45
+Liverpool,1,1,1,0,0,0,Draw,M Atkinson,2.7,3.4,2.8,2.7,3.2,2.75
+Man United,1,0,3,-3,0,0,Loss,J Moss,3.25,3.4,2.38,3.0,3.3,2.4
+Arsenal,0,2,1,-1,0,0,Loss,L Mason,1.44,4.75,8.0,1.44,4.6,7.25
+Sunderland,1,6,2,4,1,0,Win,A Marriner,1.5,4.5,7.5,1.5,4.0,6.5
+West Ham,0,1,1,0,0,0,Draw,P Tierney,2.6,3.5,2.8,2.55,3.3,2.7
+Aston Villa,1,4,0,4,1,0,Win,M Oliver,1.57,4.2,6.5,1.57,3.9,5.75
+Bournemouth,0,3,3,0,0,0,Draw,K Friend,2.9,3.6,2.5,2.65,3.4,2.5
+Crystal Palace,1,1,1,0,0,0,Draw,C Pawson,2.1,3.6,3.75,2.1,3.3,3.4
+Norwich,0,1,1,0,0,0,Draw,M Atkinson,2.9,3.5,2.55,2.8,3.3,2.55
+Leicester,1,2,3,-1,0,0,Loss,J Moss,2.1,3.75,3.6,2.1,3.4,3.3
+Newcastle,0,0,1,1,1,0,Win,L Mason,3.2,3.5,2.2,3.1,3.5,2.25
+Stoke,1,3,4,-1,0,0,Loss,M Clattenburg,1.95,3.6,4.2,1.95,3.3,3.9
+Tottenham,1,1,1,0,0,0,Draw,M Oliver,2.8,3.5,2.63,2.7,3.4,2.6
+Man City,0,0,0,0,0,0,Draw,R East,1.53,4.75,6.0,1.53,4.75,5.75
+Chelsea,0,3,3,0,0,0,Draw,M Jones,1.83,3.75,4.75,1.83,3.8,4.4
+Swansea,1,1,2,-1,0,0,Loss,A Taylor,1.73,3.8,5.5,1.72,3.6,4.75
+Newcastle,1,3,0,3,1,0,Win,C Pawson,1.65,4.2,5.5,1.67,3.5,5.25
+Stoke,0,0,3,3,2,0,Win,A Marriner,2.7,3.4,2.8,2.6,3.3,2.75
+West Brom,1,0,1,-1,0,0,Loss,M Oliver,1.53,4.2,7.5,1.53,3.9,6.25
+Aston Villa,0,1,3,2,1,0,Win,R East,4.5,3.6,1.91,4.33,3.6,1.85
+West Ham,1,2,3,-1,0,0,Loss,A Taylor,1.73,4.0,5.0,1.7,3.6,5.0
+Arsenal,1,0,2,-2,0,0,Loss,M Clattenburg,2.7,3.5,2.7,2.6,3.4,2.55
+Man United,0,1,0,-1,0,0,Loss,A Marriner,2.1,3.5,3.75,2.0,3.4,3.6
+Watford,0,1,1,0,0,0,Draw,K Friend,3.4,3.3,2.15,3.4,3.25,2.15
+Crystal Palace,0,0,0,0,0,0,Draw,M Jones,2.9,3.4,2.6,2.95,3.2,2.4
+Southampton,1,1,1,0,0,0,Draw,C Pawson,2.7,3.4,2.8,2.5,3.25,2.75
+Liverpool,0,4,0,-4,0,0,Loss,R Madley,1.73,4.0,5.0,1.7,3.75,4.75
+Bournemouth,1,2,1,1,1,0,Win,N Swarbrick,2.0,3.8,3.8,2.0,3.6,3.7
+Leicester,0,3,1,-2,0,0,Loss,A Marriner,1.91,4.0,4.0,1.83,3.5,4.25
+Sunderland,0,3,0,-3,0,0,Loss,A Taylor,1.75,4.0,5.0,1.72,3.5,5.0
+Norwich,1,3,0,3,1,0,Win,L Mason,1.8,4.0,4.5,1.75,3.8,4.33
+Tottenham,1,1,1,0,0,0,Draw,M Atkinson,3.2,3.4,2.4,2.95,3.2,2.4
+West Brom,0,1,2,1,1,0,Win,N Swarbrick,3.0,3.25,2.6,2.95,3.1,2.55
+Stoke,1,1,0,1,2,0,Win,M Oliver,1.73,3.6,5.25,1.72,3.75,5.0
+Sunderland,0,0,3,3,3,1,Win,M Jones,3.8,3.5,2.1,3.8,3.5,2.1
+Middlesbrough,1,3,1,2,4,1,Win,L Mason,1.67,3.8,6.0,1.65,3.8,5.5
+Bournemouth,0,1,0,-1,0,0,Loss,R Madley,3.6,3.5,2.15,3.6,3.4,2.1
+Crystal Palace,1,1,1,0,0,0,Draw,J Moss,1.73,4.0,5.0,1.72,3.75,5.0
+Man City,0,1,1,0,0,0,Draw,M Oliver,1.5,4.75,7.0,1.48,4.75,6.25
+Burnley,0,2,1,-1,0,0,Loss,M Jones,6.0,3.8,1.67,6.0,3.8,1.62
+West Ham,1,2,0,2,1,0,Win,A Taylor,1.8,3.8,4.75,1.8,3.9,4.5
+Chelsea,0,5,0,-5,0,0,Loss,R Madley,1.53,4.33,7.0,1.53,4.2,6.25
+Swansea,1,1,1,0,0,0,Draw,M Atkinson,1.6,4.33,6.0,1.55,4.1,6.25
+Southampton,0,1,0,-1,0,0,Loss,C Pawson,2.2,3.4,3.6,2.1,3.3,3.7
+Man United,1,1,1,0,0,0,Draw,M Oliver,3.6,3.5,2.15,3.7,3.5,2.1
+Watford,0,3,2,-1,0,0,Loss,A Taylor,3.1,3.4,2.45,3.0,3.3,2.4
+Arsenal,1,2,1,1,1,0,Win,M Clattenburg,4.2,3.75,1.91,4.25,3.7,1.9
+Liverpool,1,0,1,-1,0,0,Loss,M Dean,4.2,3.6,1.95,4.1,3.6,1.9
+Leicester,0,0,2,2,1,0,Win,S Attwell,2.5,3.3,2.9,2.4,3.3,2.85
+Hull,0,2,2,0,0,0,Draw,J Moss,4.33,3.5,1.95,4.25,3.5,1.95
+Southampton,1,3,0,3,1,0,Win,K Friend,2.2,3.4,3.6,2.15,3.3,3.5
+Man City,1,4,0,4,2,0,Win,M Clattenburg,4.5,4.0,1.8,4.4,3.8,1.78
+Crystal Palace,0,0,1,1,3,1,Win,A Taylor,3.25,3.4,2.38,3.0,3.4,2.35
+Stoke,0,1,1,0,0,0,Draw,C Pawson,2.88,3.4,2.63,2.75,3.3,2.6
+Bournemouth,1,6,3,3,1,0,Win,M Jones,1.7,4.0,5.25,1.7,3.8,5.0
+Middlesbrough,0,0,0,0,0,0,Draw,M Dean,3.9,3.3,2.15,3.7,3.3,2.1
+Sunderland,1,2,0,2,1,0,Win,S Attwell,1.4,5.25,8.5,1.4,4.6,8.5
+Tottenham,0,3,2,-1,0,0,Loss,M Oliver,1.67,4.2,5.25,1.6,4.0,5.75
+West Brom,1,3,0,3,1,0,Win,G Scott,1.67,3.8,6.0,1.6,3.7,5.75
+Hull,1,4,0,4,2,0,Win,P Tierney,1.53,4.33,7.0,1.53,4.1,6.75
+Liverpool,0,3,1,-2,0,0,Loss,A Taylor,1.73,3.9,5.25,1.67,4.0,5.0
+Man United,0,1,1,0,0,0,Draw,N Swarbrick,1.57,4.2,6.5,1.55,4.0,6.5
+Leicester,1,4,2,2,1,0,Win,R Madley,1.75,3.9,5.0,1.72,3.6,5.25
+Burnley,1,3,1,2,2,0,Win,M Clattenburg,1.4,4.5,8.0,1.45,4.25,6.75
+West Ham,0,0,0,0,0,0,Draw,R East,3.3,3.6,2.25,3.3,3.4,2.2
+Chelsea,1,0,3,-3,0,0,Loss,J Moss,3.5,3.6,2.0,3.75,3.3,2.0
+Swansea,0,1,0,-1,0,0,Loss,M Atkinson,2.8,3.5,2.63,2.75,3.4,2.55
+Watford,1,1,0,1,1,0,Win,K Friend,1.5,4.5,7.5,1.45,4.5,7.25
+Arsenal,0,3,1,-2,0,0,Loss,M Oliver,1.45,5.0,7.5,1.42,4.6,7.5
+Stoke,1,1,0,1,1,0,Win,N Swarbrick,1.7,3.8,5.75,1.7,3.6,5.5
+Man City,0,1,1,0,0,0,Draw,R Madley,1.33,5.75,10.0,1.33,5.25,9.25
+Chelsea,0,2,0,-2,0,0,Loss,J Moss,1.45,4.5,8.5,1.42,4.6,8.0
+Tottenham,1,0,3,-3,0,0,Loss,G Scott,3.8,3.5,2.1,3.6,3.4,2.1
+Man United,0,4,0,-4,0,0,Loss,A Marriner,1.36,5.25,10.0,1.34,5.0,10.0
+Bournemouth,1,2,1,1,1,0,Win,M Atkinson,1.65,4.0,5.75,1.65,3.75,5.5
+Burnley,1,0,1,-1,0,0,Loss,J Moss,1.67,3.6,5.75,1.62,3.7,5.5
+Brighton,0,1,1,0,0,0,Draw,M Oliver,3.25,3.3,2.4,3.2,3.2,2.35
+Arsenal,1,2,5,-3,0,0,Loss,C Pawson,3.79,3.6,2.04,3.9,3.6,1.95
+Leicester,0,2,0,-2,0,0,Loss,A Marriner,2.14,3.39,3.75,2.15,3.3,3.6
+Watford,1,3,2,1,1,0,Win,G Scott,2.2,3.39,3.6,2.1,3.4,3.6
+Crystal Palace,0,2,2,0,0,0,Draw,A Taylor,2.39,3.25,3.29,2.4,3.25,3.1
+Southampton,0,4,1,-3,0,0,Loss,K Friend,1.9,3.39,4.75,1.83,3.5,4.6
+West Ham,1,4,0,4,1,0,Win,M Oliver,2.37,3.29,3.29,2.3,3.3,3.2
+Huddersfield,1,2,0,2,2,0,Win,C Kavanagh,1.72,3.79,5.5,1.7,3.7,5.25
+Liverpool,0,1,1,0,0,0,Draw,C Pawson,1.3,6.0,11.0,1.3,5.5,10.0
+Newcastle,0,0,1,1,1,0,Win,M Atkinson,2.39,3.29,3.25,2.35,3.2,3.25
+Swansea,1,3,1,2,2,0,Win,J Moss,1.72,3.75,5.5,1.67,3.7,5.5
+Chelsea,1,0,0,0,0,0,Draw,R Madley,6.0,3.89,1.66,6.0,3.75,1.62
+West Brom,0,0,0,0,0,0,Draw,R East,2.54,3.2,3.1,2.4,3.1,3.2
+Bournemouth,0,2,1,-1,0,0,Loss,L Probert,2.37,3.29,3.29,2.35,3.2,3.2
+Man United,1,0,2,-2,0,0,Loss,A Marriner,5.5,3.5,1.8,5.25,3.5,1.75
+Tottenham,0,4,0,-4,0,0,Loss,C Pawson,1.28,6.0,13.0,1.25,6.0,12.5
+West Brom,1,1,1,0,0,0,Draw,S Attwell,2.14,3.2,4.0,2.1,3.1,4.0
+Leicester,1,2,1,1,1,0,Win,C Kavanagh,3.0,3.2,2.62,2.95,3.1,2.55
+Arsenal,0,5,1,-4,0,0,Loss,N Swarbrick,1.3,5.75,12.0,1.3,5.25,10.5
+Crystal Palace,1,3,1,2,1,0,Win,J Moss,2.25,3.25,3.2,2.25,3.2,3.4
+Watford,0,1,0,-1,0,0,Loss,A Taylor,2.25,3.39,3.5,2.2,3.2,3.5
+Burnley,0,2,1,-1,0,0,Loss,C Kavanagh,2.5,3.1,3.29,2.5,3.0,3.2
+Brighton,1,2,0,2,1,0,Win,R East,2.2,3.2,3.89,2.2,3.1,3.7
+Stoke,0,1,2,1,2,0,Win,M Atkinson,2.5,3.29,3.1,2.4,3.2,3.1
+Man City,1,1,3,-2,0,0,Loss,P Tierney,9.0,5.0,1.33,8.5,5.0,1.36
+Liverpool,1,0,0,0,0,0,Draw,M Oliver,4.2,3.75,1.9,4.1,3.6,1.9
+Swansea,0,1,1,0,0,0,Draw,L Mason,2.54,3.25,3.1,2.55,3.1,3.0
+Newcastle,1,1,0,1,1,0,Win,R Madley,2.29,3.39,3.39,2.25,3.2,3.4
+Huddersfield,0,0,2,2,2,0,Win,L Probert,2.62,3.1,3.1,2.6,3.0,3.0
+Southampton,1,1,1,0,0,0,Draw,J Moss,2.89,3.29,2.62,2.85,3.2,2.6
+West Ham,0,3,1,-2,0,0,Loss,G Scott,2.45,3.5,3.0,2.4,3.4,2.95
+Wolves,0,2,2,0,0,0,Draw,C Pawson,2.37,3.3,3.3,2.35,3.2,3.2
+Southampton,1,2,1,1,1,0,Win,L Mason,1.9,3.5,4.75,1.91,3.3,4.5
+Bournemouth,0,2,2,0,0,0,Draw,L Probert,2.62,3.6,2.75,2.6,3.4,2.7
+Huddersfield,1,1,1,0,0,0,Draw,S Attwell,1.53,4.2,7.5,1.5,4.0,7.5
+West Ham,1,1,3,-2,0,0,Loss,M Atkinson,2.0,3.75,3.9,2.0,3.6,3.7
+Arsenal,0,2,0,-2,0,0,Loss,J Moss,1.44,5.0,7.5,1.48,4.6,6.5
+Fulham,1,3,0,3,1,0,Win,R East,1.75,4.2,4.75,1.75,4.0,4.33
+Leicester,0,1,2,1,2,0,Win,A Marriner,2.2,3.4,3.6,2.2,3.4,3.3
+Crystal Palace,1,2,0,2,3,1,Win,A Taylor,1.85,3.6,4.75,1.85,3.5,4.5
+Man United,0,2,1,-1,0,0,Loss,J Moss,1.72,3.9,5.25,1.67,3.8,5.25
+Brighton,1,3,1,2,1,0,Win,D Coote,1.61,4.0,6.5,1.57,3.9,6.25
+Chelsea,0,0,0,0,0,0,Draw,K Friend,1.4,5.25,8.5,1.4,4.75,8.0
+Cardiff,1,1,0,1,1,0,Win,P Tierney,1.4,5.0,9.0,1.4,4.75,7.75
+Liverpool,0,1,0,-1,0,0,Loss,C Kavanagh,1.4,5.0,9.0,1.36,5.0,8.5
+Newcastle,1,1,1,0,0,0,Draw,L Mason,1.6,4.0,6.5,1.57,3.8,6.5
+Watford,1,2,2,0,0,0,Draw,K Friend,1.8,3.75,5.0,1.75,3.7,4.75
+Man City,0,3,1,-2,0,0,Loss,C Pawson,1.22,7.5,13.0,1.22,7.0,12.0
+Tottenham,1,2,6,-4,0,0,Loss,P Tierney,3.25,3.5,2.3,3.2,3.4,2.25
+Burnley,0,1,5,4,1,0,Win,M Oliver,4.33,3.5,1.95,4.33,3.4,1.91
+Brighton,0,1,0,-1,0,0,Loss,A Madley,3.25,3.4,2.14,3.5,3.3,2.15
+Leicester,1,0,1,-1,0,0,Loss,M Atkinson,2.0,3.5,4.2,2.05,3.4,3.75
+Bournemouth,1,2,0,2,1,0,Win,A Taylor,1.75,4.0,4.8,1.75,3.9,4.6
+Southampton,0,2,1,-1,0,0,Loss,G Scott,2.75,3.4,2.7,2.65,3.3,2.7
+Huddersfield,0,0,1,1,1,0,Win,S Attwell,4.0,3.3,2.1,4.0,3.3,2.05
+Wolves,1,1,3,-2,0,0,Loss,L Mason,2.37,3.4,3.25,2.3,3.3,3.2
+Man City,1,0,2,-2,0,0,Loss,C Pawson,10.0,6.25,1.3,10.0,6.0,1.28
+Watford,0,1,0,-1,0,0,Loss,L Probert,2.35,3.5,3.2,2.25,3.4,3.2
+Cardiff,0,0,3,3,1,0,Win,K Friend,3.75,3.4,2.15,3.7,3.3,2.15
+Liverpool,1,0,0,0,0,0,Draw,M Atkinson,6.0,4.2,1.61,5.5,4.1,1.6
+Newcastle,0,3,2,-1,0,0,Loss,L Mason,2.8,3.25,2.8,2.75,3.1,2.75
+Chelsea,1,2,0,2,1,0,Win,A Taylor,4.0,3.8,1.95,4.1,3.6,1.9
+West Ham,0,0,2,2,2,0,Win,P Tierney,2.55,3.5,2.9,2.55,3.3,2.8
+Arsenal,1,1,0,1,3,1,Win,K Friend,3.0,3.75,2.35,3.1,3.6,2.2
+Fulham,0,2,0,-2,0,0,Loss,L Probert,5.0,4.0,1.75,4.4,4.0,1.75
+Man United,1,4,0,4,1,0,Win,P Tierney,3.25,3.5,2.3,3.2,3.4,2.25
+Crystal Palace,0,0,0,0,0,0,Draw,L Mason,2.62,3.5,2.8,2.55,3.4,2.75
+Burnley,1,2,0,2,1,0,Win,C Kavanagh,1.66,4.0,5.75,1.65,3.8,5.75
+Tottenham,0,2,2,0,0,0,Draw,A Marriner,2.2,3.5,3.5,2.1,3.5,3.5
+Crystal Palace,0,0,0,0,0,0,Draw,J Moss,3.0,3.25,2.37,3.2,3.2,2.35
+Watford,1,1,0,1,1,0,Win,L Mason,1.72,3.8,4.75,1.67,4.0,5.0
+Aston Villa,0,2,0,-2,0,0,Loss,M Oliver,3.25,3.5,2.15,3.1,3.5,2.25
+Wolves,1,3,2,1,1,0,Win,A Taylor,2.2,3.25,3.5,2.15,3.25,3.6
+Bournemouth,0,3,1,-2,0,0,Loss,P Tierney,2.9,3.5,2.4,3.0,3.5,2.3
+Sheffield United,1,0,2,-2,0,0,Loss,S Hooper,1.61,3.75,6.0,1.65,3.8,5.5
+Man City,1,1,3,-2,0,0,Loss,M Oliver,10.0,5.5,1.3,9.75,6.0,1.28
+Burnley,0,1,0,-1,0,0,Loss,G Scott,2.87,3.3,2.5,2.85,3.25,2.55
+West Ham,1,2,0,2,1,0,Win,P Tierney,1.95,3.75,3.75,1.95,3.6,3.8
+Brighton,0,3,2,-1,0,0,Loss,A Madley,2.9,3.25,2.5,2.85,3.3,2.55
+Tottenham,1,1,1,0,0,0,Draw,M Atkinson,2.7,3.4,2.6,2.8,3.4,2.5
+Southampton,0,1,2,1,1,0,Win,P Tierney,2.9,3.3,2.45,2.9,3.4,2.45
+Norwich,1,0,2,-2,0,0,Loss,A Taylor,1.36,5.1,8.0,1.4,5.0,7.25
+Leicester,0,2,1,-1,0,0,Loss,G Scott,1.61,4.0,5.25,1.6,4.25,5.25
+Liverpool,0,5,2,-3,0,0,Loss,M Dean,1.36,5.0,8.5,1.4,4.75,7.75
+Chelsea,1,3,1,2,1,0,Win,C Pawson,3.5,3.75,2.0,3.5,3.75,2.0
+Man United,0,1,1,0,0,0,Draw,M Oliver,1.8,3.7,4.5,1.75,3.75,4.75
+Arsenal,1,0,0,0,0,0,Draw,K Friend,2.3,3.8,2.87,2.3,3.75,2.85
+Burnley,1,1,0,1,1,0,Win,A Taylor,1.7,3.75,5.0,1.67,3.8,5.25
+Newcastle,0,1,2,1,2,0,Win,L Mason,3.6,3.4,2.05,3.4,3.4,2.15
+Man City,0,2,1,-1,0,0,Loss,A Marriner,1.25,6.5,10.0,1.26,6.25,10.5
+Brighton,1,1,0,1,1,0,Win,D Coote,1.85,3.8,4.0,1.87,3.6,4.2
+West Ham,0,1,1,0,0,0,Draw,A Marriner,2.9,3.5,2.37,2.95,3.5,2.35
+Newcastle,1,2,2,0,0,0,Draw,S Hooper,1.55,4.1,6.0,1.6,4.0,6.0
+Watford,0,2,3,1,1,0,Win,C Pawson,2.75,3.3,2.62,2.75,3.3,2.6
+Crystal Palace,1,3,1,2,2,0,Win,D Coote,1.61,3.8,6.0,1.62,3.7,6.0
+Arsenal,0,3,2,-1,0,0,Loss,S Attwell,2.0,3.6,3.7,2.0,3.6,3.7
+Man United,1,1,1,0,0,0,Draw,C Kavanagh,2.5,3.25,2.9,2.5,3.4,2.8
+Chelsea,0,4,0,-4,0,0,Loss,K Friend,1.8,3.9,4.2,1.83,3.6,4.4
+Liverpool,1,0,0,0,0,0,Draw,M Dean,6.0,4.2,1.55,5.5,4.25,1.57
+Norwich,0,0,1,1,1,0,Win,A Madley,3.9,3.6,1.9,3.75,3.7,1.95
+Leicester,1,2,1,1,2,0,Win,D Coote,2.5,3.3,2.9,2.5,3.3,2.85
+Tottenham,0,1,0,-1,0,0,Loss,G Scott,2.1,3.5,3.4,2.05,3.6,3.5
+Southampton,1,1,1,0,0,0,Draw,L Mason,2.05,3.5,3.6,2.0,3.5,3.75
+Wolves,0,3,0,-3,0,0,Loss,A Taylor,2.05,3.3,3.8,2.05,3.4,3.8
+Aston Villa,1,1,1,0,0,0,Draw,A Taylor,2.0,3.5,3.75,1.95,3.6,3.8
+Sheffield United,0,0,1,1,1,0,Win,S Attwell,2.2,3.25,3.5,2.15,3.3,3.5
+Bournemouth,1,1,3,-2,0,0,Loss,C Kavanagh,2.25,3.7,3.0,2.25,3.8,2.9
+Tottenham,1,1,1,0,0,0,Draw,M Atkinson,3.2,3.4,2.4,2.95,3.2,2.4
+West Brom,0,1,2,1,1,0,Win,N Swarbrick,3.0,3.25,2.6,2.95,3.1,2.55
+Stoke,1,1,0,1,2,0,Win,M Oliver,1.73,3.6,5.25,1.72,3.75,5.0
+Sunderland,0,0,3,3,3,1,Win,M Jones,3.8,3.5,2.1,3.8,3.5,2.1
+Middlesbrough,1,3,1,2,4,1,Win,L Mason,1.67,3.8,6.0,1.65,3.8,5.5
+Bournemouth,0,1,0,-1,0,0,Loss,R Madley,3.6,3.5,2.15,3.6,3.4,2.1
+Crystal Palace,1,1,1,0,0,0,Draw,J Moss,1.73,4.0,5.0,1.72,3.75,5.0
+Man City,0,1,1,0,0,0,Draw,M Oliver,1.5,4.75,7.0,1.48,4.75,6.25
+Burnley,0,2,1,-1,0,0,Loss,M Jones,6.0,3.8,1.67,6.0,3.8,1.62
+West Ham,1,2,0,2,1,0,Win,A Taylor,1.8,3.8,4.75,1.8,3.9,4.5
+Chelsea,0,5,0,-5,0,0,Loss,R Madley,1.53,4.33,7.0,1.53,4.2,6.25
+Swansea,1,1,1,0,0,0,Draw,M Atkinson,1.6,4.33,6.0,1.55,4.1,6.25
+Southampton,0,1,0,-1,0,0,Loss,C Pawson,2.2,3.4,3.6,2.1,3.3,3.7
+Man United,1,1,1,0,0,0,Draw,M Oliver,3.6,3.5,2.15,3.7,3.5,2.1
+Watford,0,3,2,-1,0,0,Loss,A Taylor,3.1,3.4,2.45,3.0,3.3,2.4
+Arsenal,1,2,1,1,1,0,Win,M Clattenburg,4.2,3.75,1.91,4.25,3.7,1.9
+Liverpool,1,0,1,-1,0,0,Loss,M Dean,4.2,3.6,1.95,4.1,3.6,1.9
+Leicester,0,0,2,2,1,0,Win,S Attwell,2.5,3.3,2.9,2.4,3.3,2.85
+Hull,0,2,2,0,0,0,Draw,J Moss,4.33,3.5,1.95,4.25,3.5,1.95
+Southampton,1,3,0,3,1,0,Win,K Friend,2.2,3.4,3.6,2.15,3.3,3.5
+Man City,1,4,0,4,2,0,Win,M Clattenburg,4.5,4.0,1.8,4.4,3.8,1.78
+Crystal Palace,0,0,1,1,3,1,Win,A Taylor,3.25,3.4,2.38,3.0,3.4,2.35
+Stoke,0,1,1,0,0,0,Draw,C Pawson,2.88,3.4,2.63,2.75,3.3,2.6
+Bournemouth,1,6,3,3,1,0,Win,M Jones,1.7,4.0,5.25,1.7,3.8,5.0
+Middlesbrough,0,0,0,0,0,0,Draw,M Dean,3.9,3.3,2.15,3.7,3.3,2.1
+Sunderland,1,2,0,2,1,0,Win,S Attwell,1.4,5.25,8.5,1.4,4.6,8.5
+Tottenham,0,3,2,-1,0,0,Loss,M Oliver,1.67,4.2,5.25,1.6,4.0,5.75
+West Brom,1,3,0,3,1,0,Win,G Scott,1.67,3.8,6.0,1.6,3.7,5.75
+Hull,1,4,0,4,2,0,Win,P Tierney,1.53,4.33,7.0,1.53,4.1,6.75
+Liverpool,0,3,1,-2,0,0,Loss,A Taylor,1.73,3.9,5.25,1.67,4.0,5.0
+Man United,0,1,1,0,0,0,Draw,N Swarbrick,1.57,4.2,6.5,1.55,4.0,6.5
+Leicester,1,4,2,2,1,0,Win,R Madley,1.75,3.9,5.0,1.72,3.6,5.25
+Burnley,1,3,1,2,2,0,Win,M Clattenburg,1.4,4.5,8.0,1.45,4.25,6.75
+West Ham,0,0,0,0,0,0,Draw,R East,3.3,3.6,2.25,3.3,3.4,2.2
+Chelsea,1,0,3,-3,0,0,Loss,J Moss,3.5,3.6,2.0,3.75,3.3,2.0
+Swansea,0,1,0,-1,0,0,Loss,M Atkinson,2.8,3.5,2.63,2.75,3.4,2.55
+Watford,1,1,0,1,1,0,Win,K Friend,1.5,4.5,7.5,1.45,4.5,7.25
+Arsenal,0,3,1,-2,0,0,Loss,M Oliver,1.45,5.0,7.5,1.42,4.6,7.5
+Southampton,1,3,1,2,1,0,Win,A Madley,1.9,3.5,4.0,1.95,3.5,3.9
+Leeds,0,2,2,0,0,0,Draw,D England,2.37,3.4,3.0,2.35,3.4,3.0
+Brighton,0,0,2,2,1,0,Win,J Moss,2.3,3.2,3.3,2.35,3.3,3.1
+Burnley,1,3,1,2,2,0,Win,M Atkinson,1.7,3.75,5.0,1.75,3.7,4.75
+Aston Villa,0,3,0,-3,0,0,Loss,C Pawson,2.4,3.3,3.0,2.35,3.4,3.0
+Norwich,1,2,0,2,1,0,Win,D Coote,1.61,3.8,5.75,1.6,3.9,6.0
+Man United,0,1,1,0,0,0,Draw,M Oliver,1.45,4.33,7.5,1.5,4.25,6.75
+West Ham,1,0,1,-1,0,0,Loss,S Attwell,2.5,3.4,2.8,2.45,3.5,2.75
+Watford,1,2,5,-3,0,0,Loss,G Scott,1.65,3.8,5.5,1.6,4.1,5.25
+Wolves,0,2,1,-1,0,0,Loss,M Atkinson,2.2,3.2,3.5,2.25,3.25,3.3
+Tottenham,1,0,0,0,0,0,Draw,C Kavanagh,3.1,3.25,2.37,2.95,3.25,2.4
+Man City,0,3,0,-3,0,0,Loss,S Attwell,1.14,8.0,19.0,1.16,8.0,17.5
+Brentford,0,1,0,-1,0,0,Loss,D England,2.25,3.2,3.4,2.2,3.25,3.4
