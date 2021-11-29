@@ -1,0 +1,2790 @@
+HomeTeam,AwayTeam,FTHG,FTAG,ScoreDiff,HomeWinStreak,AwayWinStreak,TGSH,TGSA,Results,Referee
+Arsenal,Crystal Palace,2,1,1,1,0,0,0,Win,J Moss
+Leicester,Everton,2,2,0,1,0,0,0,Draw,M Jones
+Man United,Swansea,1,2,-1,0,1,0,0,Loss,M Dean
+QPR,Hull,0,1,-1,0,2,0,0,Loss,C Pawson
+Stoke,Aston Villa,0,1,-1,0,3,0,1,Loss,A Taylor
+West Brom,Sunderland,2,2,0,0,3,0,1,Draw,N Swarbrick
+West Ham,Tottenham,0,1,-1,0,4,0,1,Loss,C Foy
+Liverpool,Southampton,2,1,1,1,0,0,0,Win,M Clattenburg
+Newcastle,Man City,0,2,-2,0,1,0,0,Loss,M Atkinson
+Burnley,Chelsea,1,3,-2,0,2,0,0,Loss,M Oliver
+Aston Villa,Newcastle,0,0,0,0,2,0,0,Draw,M Dean
+Chelsea,Leicester,2,0,2,1,0,0,0,Win,L Mason
+Crystal Palace,West Ham,1,3,-2,0,1,0,0,Loss,M Clattenburg
+Everton,Arsenal,2,2,0,0,1,0,0,Draw,K Friend
+Southampton,West Brom,0,0,0,0,1,0,0,Draw,R East
+Swansea,Burnley,1,0,1,1,0,0,0,Win,C Pawson
+Hull,Stoke,1,1,0,1,0,0,0,Draw,J Moss
+Sunderland,Man United,1,1,0,1,0,0,0,Draw,M Atkinson
+Tottenham,QPR,4,0,4,2,0,0,0,Win,A Taylor
+Man City,Liverpool,3,1,2,3,0,1,0,Win,M Oliver
+Burnley,Man United,0,0,0,3,0,1,0,Draw,C Foy
+Everton,Chelsea,3,6,-3,0,1,0,0,Loss,J Moss
+Man City,Stoke,0,1,-1,0,2,0,0,Loss,L Mason
+Newcastle,Crystal Palace,3,3,0,0,2,0,0,Draw,M Jones
+QPR,Sunderland,1,0,1,1,0,0,0,Win,R Madley
+Swansea,West Brom,3,0,3,2,0,0,0,Win,P Tierney
+West Ham,Southampton,1,3,-2,0,1,0,0,Loss,M Dean
+Aston Villa,Hull,2,1,1,1,0,0,0,Win,M Clattenburg
+Leicester,Arsenal,1,1,0,1,0,0,0,Draw,A Taylor
+Tottenham,Liverpool,0,3,-3,0,1,0,0,Loss,P Dowd
+Arsenal,Man City,2,2,0,0,1,0,0,Draw,M Clattenburg
+Chelsea,Swansea,4,2,2,1,0,0,0,Win,K Friend
+Crystal Palace,Burnley,0,0,0,1,0,0,0,Draw,M Dean
+Liverpool,Aston Villa,0,1,-1,0,1,0,0,Loss,L Mason
+Southampton,Newcastle,4,0,4,1,0,0,0,Win,C Foy
+Stoke,Leicester,0,1,-1,0,1,0,0,Loss,M Oliver
+Sunderland,Tottenham,2,2,0,0,1,0,0,Draw,C Pawson
+West Brom,Everton,0,2,-2,0,2,0,0,Loss,A Taylor
+Man United,QPR,4,0,4,1,0,0,0,Win,P Dowd
+Hull,West Ham,2,2,0,1,0,0,0,Draw,M Atkinson
+Aston Villa,Arsenal,0,3,-3,0,1,0,0,Loss,M Jones
+Burnley,Sunderland,0,0,0,0,1,0,0,Draw,A Taylor
+Newcastle,Hull,2,2,0,0,1,0,0,Draw,N Swarbrick
+QPR,Stoke,2,2,0,0,1,0,0,Draw,M Atkinson
+Swansea,Southampton,0,1,-1,0,2,0,0,Loss,J Moss
+West Ham,Liverpool,3,1,2,1,0,0,0,Win,C Pawson
+Everton,Crystal Palace,2,3,-1,0,1,0,0,Loss,M Oliver
+Leicester,Man United,5,3,2,1,0,0,0,Win,M Clattenburg
+Man City,Chelsea,1,1,0,1,0,0,0,Draw,M Dean
+Tottenham,West Brom,0,1,-1,0,1,0,0,Loss,K Friend
+Arsenal,Tottenham,1,1,0,0,1,0,0,Draw,M Oliver
+Chelsea,Aston Villa,3,0,3,1,0,0,0,Win,P Dowd
+Crystal Palace,Leicester,2,0,2,2,0,0,0,Win,K Stroud
+Hull,Man City,2,4,-2,0,1,0,0,Loss,A Taylor
+Liverpool,Everton,1,1,0,0,1,0,0,Draw,M Atkinson
+Man United,West Ham,2,1,1,1,0,0,0,Win,L Mason
+Southampton,QPR,2,1,1,2,0,0,0,Win,M Clattenburg
+Sunderland,Swansea,0,0,0,2,0,0,0,Draw,C Foy
+West Brom,Burnley,4,0,4,3,0,1,0,Win,J Moss
+Stoke,Newcastle,1,0,1,4,0,1,0,Win,C Pawson
+Aston Villa,Man City,0,2,-2,0,1,0,0,Loss,C Foy
+Hull,Crystal Palace,2,0,2,1,0,0,0,Win,M Dean
+Leicester,Burnley,2,2,0,1,0,0,0,Draw,P Dowd
+Liverpool,West Brom,2,1,1,2,0,0,0,Win,M Oliver
+Sunderland,Stoke,3,1,2,3,0,1,0,Win,N Swarbrick
+Swansea,Newcastle,2,2,0,3,0,1,0,Draw,L Mason
+Chelsea,Arsenal,2,0,2,4,0,1,0,Win,M Atkinson
+Man United,Everton,2,1,1,5,0,1,0,Win,K Friend
+Tottenham,Southampton,1,0,1,6,0,1,0,Win,M Jones
+West Ham,QPR,2,0,2,7,0,1,0,Win,A Taylor
+Arsenal,Hull,2,2,0,7,0,1,0,Draw,R East
+Burnley,West Ham,1,3,-2,0,1,0,0,Loss,K Friend
+Crystal Palace,Chelsea,1,2,-1,0,2,0,0,Loss,C Pawson
+Everton,Aston Villa,3,0,3,1,0,0,0,Win,A Taylor
+Man City,Tottenham,4,1,3,2,0,0,0,Win,J Moss
+Newcastle,Leicester,1,0,1,3,0,1,0,Win,M Atkinson
+Southampton,Sunderland,8,0,8,4,0,1,0,Win,A Marriner
+QPR,Liverpool,2,3,-1,0,1,0,0,Loss,P Dowd
+Stoke,Swansea,2,1,1,1,0,0,0,Win,M Oliver
+West Brom,Man United,2,2,0,1,0,0,0,Draw,M Dean
+Liverpool,Hull,0,0,0,1,0,0,0,Draw,N Swarbrick
+Southampton,Stoke,1,0,1,2,0,0,0,Win,J Moss
+Sunderland,Arsenal,0,2,-2,0,1,0,0,Loss,K Friend
+Swansea,Leicester,2,0,2,1,0,0,0,Win,M Jones
+West Brom,Crystal Palace,2,2,0,1,0,0,0,Draw,M Clattenburg
+West Ham,Man City,2,1,1,2,0,0,0,Win,M Atkinson
+Burnley,Everton,1,3,-2,0,1,0,0,Loss,A Marriner
+Man United,Chelsea,1,1,0,0,1,0,0,Draw,P Dowd
+Tottenham,Newcastle,1,2,-1,0,2,0,0,Loss,A Taylor
+QPR,Aston Villa,2,0,2,1,0,0,0,Win,L Mason
+Arsenal,Burnley,3,0,3,2,0,0,0,Win,C Pawson
+Chelsea,QPR,2,1,1,3,0,1,0,Win,M Jones
+Everton,Swansea,0,0,0,3,0,1,0,Draw,K Friend
+Hull,Southampton,0,1,-1,0,1,0,0,Loss,M Atkinson
+Leicester,West Brom,0,1,-1,0,2,0,0,Loss,S Attwell
+Newcastle,Liverpool,1,0,1,1,0,0,0,Win,A Marriner
+Stoke,West Ham,2,2,0,1,0,0,0,Draw,C Foy
+Aston Villa,Tottenham,1,2,-1,0,1,0,0,Loss,N Swarbrick
+Man City,Man United,1,0,1,1,0,0,0,Win,M Oliver
+Crystal Palace,Sunderland,1,3,-2,0,1,0,0,Loss,P Dowd
+Burnley,Hull,1,0,1,1,0,0,0,Win,M Clattenburg
+Liverpool,Chelsea,1,2,-1,0,1,0,0,Loss,A Taylor
+Man United,Crystal Palace,1,0,1,1,0,0,0,Win,C Foy
+QPR,Man City,2,2,0,1,0,0,0,Draw,M Dean
+Southampton,Leicester,2,0,2,2,0,0,0,Win,M Oliver
+West Ham,Aston Villa,0,0,0,2,0,0,0,Draw,J Moss
+Sunderland,Everton,1,1,0,2,0,0,0,Draw,L Mason
+Swansea,Arsenal,2,1,1,3,0,1,0,Win,P Dowd
+Tottenham,Stoke,1,2,-1,0,1,0,0,Loss,M Jones
+West Brom,Newcastle,0,2,-2,0,2,0,0,Loss,C Pawson
+Arsenal,Man United,1,2,-1,0,3,0,1,Loss,M Dean
+Chelsea,West Brom,2,0,2,1,0,0,0,Win,L Mason
+Everton,West Ham,2,1,1,2,0,0,0,Win,M Clattenburg
+Leicester,Sunderland,0,0,0,2,0,0,0,Draw,R Madley
+Man City,Swansea,2,1,1,3,0,1,0,Win,N Swarbrick
+Newcastle,QPR,1,0,1,4,0,1,0,Win,C Foy
+Stoke,Burnley,1,2,-1,0,1,0,0,Loss,M Atkinson
+Crystal Palace,Liverpool,3,1,2,1,0,0,0,Win,J Moss
+Hull,Tottenham,1,2,-1,0,1,0,0,Loss,C Pawson
+Aston Villa,Southampton,1,1,0,0,1,0,0,Draw,P Dowd
+Burnley,Aston Villa,1,1,0,0,1,0,0,Draw,G Scott
+Liverpool,Stoke,1,0,1,1,0,0,0,Win,C Pawson
+Man United,Hull,3,0,3,2,0,0,0,Win,A Taylor
+QPR,Leicester,3,2,1,3,0,1,0,Win,R East
+Sunderland,Chelsea,0,0,0,3,0,1,0,Draw,K Friend
+Swansea,Crystal Palace,1,1,0,3,0,1,0,Draw,M Atkinson
+West Brom,Arsenal,0,1,-1,0,1,0,0,Loss,C Foy
+West Ham,Newcastle,1,0,1,1,0,0,0,Win,M Dean
+Southampton,Man City,0,3,-3,0,1,0,0,Loss,M Jones
+Tottenham,Everton,2,1,1,1,0,0,0,Win,M Oliver
+Burnley,Newcastle,1,1,0,1,0,0,0,Draw,P Dowd
+Crystal Palace,Aston Villa,0,1,-1,0,1,0,0,Loss,M Oliver
+Leicester,Liverpool,1,3,-2,0,2,0,0,Loss,L Mason
+Man United,Stoke,2,1,1,1,0,0,0,Win,J Moss
+Swansea,QPR,2,0,2,2,0,0,0,Win,K Friend
+West Brom,West Ham,1,2,-1,0,1,0,0,Loss,M Jones
+Arsenal,Southampton,1,0,1,1,0,0,0,Win,A Marriner
+Chelsea,Tottenham,3,0,3,2,0,0,0,Win,M Dean
+Everton,Hull,1,1,0,2,0,0,0,Draw,R Madley
+Sunderland,Man City,1,4,-3,0,1,0,0,Loss,C Pawson
+Hull,West Brom,0,0,0,0,1,0,0,Draw,M Oliver
+Liverpool,Sunderland,0,0,0,0,1,0,0,Draw,N Swarbrick
+Man City,Everton,1,0,1,1,0,0,0,Win,A Marriner
+Newcastle,Chelsea,2,1,1,2,0,0,0,Win,M Atkinson
+QPR,Burnley,2,0,2,3,0,1,0,Win,J Moss
+Stoke,Arsenal,3,2,1,4,0,1,0,Win,A Taylor
+Tottenham,Crystal Palace,0,0,0,4,0,1,0,Draw,L Mason
+Aston Villa,Leicester,2,1,1,5,0,1,0,Win,C Pawson
+West Ham,Swansea,3,1,2,6,0,1,0,Win,C Foy
+Southampton,Man United,1,2,-1,0,1,0,0,Loss,K Friend
+Arsenal,Newcastle,4,1,3,1,0,0,0,Win,L Mason
+Burnley,Southampton,1,0,1,2,0,0,0,Win,M Clattenburg
+Chelsea,Hull,2,0,2,3,0,1,0,Win,C Foy
+Crystal Palace,Stoke,1,1,0,3,0,1,0,Draw,K Friend
+Leicester,Man City,0,1,-1,0,1,0,0,Loss,J Moss
+Sunderland,West Ham,1,1,0,0,1,0,0,Draw,P Dowd
+West Brom,Aston Villa,1,0,1,1,0,0,0,Win,M Dean
+Man United,Liverpool,3,0,3,2,0,0,0,Win,M Atkinson
+Swansea,Tottenham,1,2,-1,0,1,0,0,Loss,R Madley
+Everton,QPR,3,1,2,1,0,0,0,Win,N Swarbrick
+Aston Villa,Man United,1,1,0,1,0,0,0,Draw,L Mason
+Hull,Swansea,0,1,-1,0,1,0,0,Loss,M Clattenburg
+Man City,Crystal Palace,3,0,3,1,0,0,0,Win,P Dowd
+QPR,West Brom,3,2,1,2,0,0,0,Win,C Pawson
+Southampton,Everton,3,0,3,3,0,1,0,Win,J Moss
+Tottenham,Burnley,2,1,1,4,0,1,0,Win,M Jones
+West Ham,Leicester,2,0,2,5,0,1,0,Win,M Atkinson
+Liverpool,Arsenal,2,2,0,5,0,1,0,Draw,M Oliver
+Newcastle,Sunderland,0,1,-1,0,1,0,0,Loss,A Taylor
+Stoke,Chelsea,0,2,-2,0,2,0,0,Loss,N Swarbrick
+Arsenal,QPR,2,1,1,1,0,0,0,Win,M Atkinson
+Burnley,Liverpool,0,1,-1,0,1,0,0,Loss,A Taylor
+Chelsea,West Ham,2,0,2,1,0,0,0,Win,M Oliver
+Crystal Palace,Southampton,1,3,-2,0,1,0,0,Loss,M Dean
+Everton,Stoke,0,1,-1,0,2,0,0,Loss,L Mason
+Leicester,Tottenham,1,2,-1,0,3,0,1,Loss,N Swarbrick
+Man United,Newcastle,3,1,2,1,0,0,0,Win,M Jones
+Sunderland,Hull,1,3,-2,0,1,0,0,Loss,A Marriner
+Swansea,Aston Villa,1,0,1,1,0,0,0,Win,R East
+West Brom,Man City,1,3,-2,0,1,0,0,Loss,M Clattenburg
+Aston Villa,Sunderland,0,0,0,0,1,0,0,Draw,M Atkinson
+Hull,Leicester,0,1,-1,0,2,0,0,Loss,P Dowd
+Man City,Burnley,2,2,0,0,2,0,0,Draw,K Friend
+Newcastle,Everton,3,2,1,1,0,0,0,Win,C Pawson
+QPR,Crystal Palace,0,0,0,1,0,0,0,Draw,M Jones
+Southampton,Chelsea,1,1,0,1,0,0,0,Draw,A Taylor
+Stoke,West Brom,2,0,2,2,0,0,0,Win,R East
+Tottenham,Man United,0,0,0,2,0,0,0,Draw,J Moss
+West Ham,Arsenal,1,2,-1,0,1,0,0,Loss,N Swarbrick
+Liverpool,Swansea,4,1,3,1,0,0,0,Win,A Marriner
+Aston Villa,Crystal Palace,0,0,0,1,0,0,0,Draw,R Madley
+Hull,Everton,2,0,2,2,0,0,0,Win,K Friend
+Liverpool,Leicester,2,2,0,2,0,0,0,Draw,M Jones
+Man City,Sunderland,3,2,1,3,0,1,0,Win,R East
+Newcastle,Burnley,3,3,0,3,0,1,0,Draw,M Dean
+QPR,Swansea,1,1,0,3,0,1,0,Draw,A Taylor
+Southampton,Arsenal,2,0,2,4,0,1,0,Win,C Pawson
+Stoke,Man United,1,1,0,4,0,1,0,Draw,M Oliver
+Tottenham,Chelsea,5,3,2,5,0,1,0,Win,P Dowd
+West Ham,West Brom,1,1,0,5,0,1,0,Draw,J Moss
+Burnley,QPR,2,1,1,6,0,1,0,Win,A Marriner
+Chelsea,Newcastle,2,0,2,7,0,1,0,Win,R East
+Crystal Palace,Tottenham,2,1,1,8,0,1,0,Win,A Taylor
+Everton,Man City,1,1,0,8,0,1,0,Draw,M Atkinson
+Leicester,Aston Villa,1,0,1,9,0,1,0,Win,M Oliver
+Sunderland,Liverpool,0,1,-1,0,1,0,0,Loss,C Pawson
+Swansea,West Ham,1,1,0,0,1,0,0,Draw,M Dean
+West Brom,Hull,1,0,1,1,0,0,0,Win,N Swarbrick
+Arsenal,Stoke,3,0,3,2,0,0,0,Win,J Moss
+Man United,Southampton,0,1,-1,0,1,0,0,Loss,P Dowd
+Aston Villa,Liverpool,0,2,-2,0,2,0,0,Loss,M Clattenburg
+Burnley,Crystal Palace,2,3,-1,0,3,0,1,Loss,P Dowd
+Leicester,Stoke,0,1,-1,0,4,0,1,Loss,A Marriner
+Newcastle,Southampton,1,2,-1,0,5,0,1,Loss,R Madley
+QPR,Man United,0,2,-2,0,6,0,1,Loss,N Swarbrick
+Swansea,Chelsea,0,5,-5,0,7,0,1,Loss,J Moss
+Tottenham,Sunderland,2,1,1,1,0,0,0,Win,C Foy
+Man City,Arsenal,0,2,-2,0,1,0,0,Loss,M Dean
+West Ham,Hull,3,0,3,1,0,0,0,Win,M Atkinson
+Everton,West Brom,0,0,0,1,0,0,0,Draw,M Oliver
+Chelsea,Man City,1,1,0,1,0,0,0,Draw,M Clattenburg
+Crystal Palace,Everton,0,1,-1,0,1,0,0,Loss,R East
+Hull,Newcastle,0,3,-3,0,2,0,0,Loss,P Dowd
+Liverpool,West Ham,2,0,2,1,0,0,0,Win,A Marriner
+Man United,Leicester,3,1,2,2,0,0,0,Win,M Atkinson
+Stoke,QPR,3,1,2,3,0,1,0,Win,M Dean
+Sunderland,Burnley,2,0,2,4,0,1,0,Win,L Mason
+West Brom,Tottenham,0,3,-3,0,1,0,0,Loss,K Friend
+Arsenal,Aston Villa,5,0,5,1,0,0,0,Win,A Taylor
+Southampton,Swansea,0,1,-1,0,1,0,0,Loss,M Oliver
+Aston Villa,Chelsea,1,2,-1,0,2,0,0,Loss,N Swarbrick
+Everton,Liverpool,0,0,0,0,2,0,0,Draw,A Taylor
+Leicester,Crystal Palace,0,1,-1,0,3,0,1,Loss,L Mason
+Man City,Hull,1,1,0,0,3,0,1,Draw,J Moss
+QPR,Southampton,0,1,-1,0,4,0,1,Loss,R East
+Swansea,Sunderland,1,1,0,0,4,0,1,Draw,P Dowd
+Tottenham,Arsenal,2,1,1,1,0,0,0,Win,M Atkinson
+Burnley,West Brom,2,2,0,1,0,0,0,Draw,M Dean
+Newcastle,Stoke,1,1,0,1,0,0,0,Draw,K Friend
+West Ham,Man United,1,1,0,1,0,0,0,Draw,M Clattenburg
+Arsenal,Leicester,2,1,1,2,0,0,0,Win,M Jones
+Hull,Aston Villa,2,0,2,3,0,1,0,Win,M Oliver
+Liverpool,Tottenham,3,2,1,4,0,1,0,Win,P Dowd
+Sunderland,QPR,0,2,-2,0,1,0,0,Loss,M Atkinson
+Chelsea,Everton,1,0,1,1,0,0,0,Win,J Moss
+Crystal Palace,Newcastle,1,1,0,1,0,0,0,Draw,A Marriner
+Man United,Burnley,3,1,2,2,0,0,0,Win,K Friend
+Southampton,West Ham,0,0,0,2,0,0,0,Draw,C Pawson
+Stoke,Man City,1,4,-3,0,1,0,0,Loss,L Mason
+West Brom,Swansea,2,0,2,1,0,0,0,Win,R Madley
+Aston Villa,Stoke,1,2,-1,0,1,0,0,Loss,R East
+Chelsea,Burnley,1,1,0,0,1,0,0,Draw,M Atkinson
+Crystal Palace,Arsenal,1,2,-1,0,2,0,0,Loss,M Clattenburg
+Hull,QPR,2,1,1,1,0,0,0,Win,A Taylor
+Man City,Newcastle,5,0,5,2,0,0,0,Win,C Foy
+Sunderland,West Brom,0,0,0,2,0,0,0,Draw,M Jones
+Swansea,Man United,2,1,1,3,0,1,0,Win,N Swarbrick
+Everton,Leicester,2,2,0,3,0,1,0,Draw,P Dowd
+Southampton,Liverpool,0,2,-2,0,1,0,0,Loss,K Friend
+Tottenham,West Ham,2,2,0,0,1,0,0,Draw,J Moss
+Burnley,Swansea,0,1,-1,0,2,0,0,Loss,J Moss
+Man United,Sunderland,2,0,2,1,0,0,0,Win,R East
+Newcastle,Aston Villa,1,0,1,2,0,0,0,Win,L Mason
+Stoke,Hull,1,0,1,3,0,1,0,Win,N Swarbrick
+West Brom,Southampton,1,0,1,4,0,1,0,Win,P Dowd
+West Ham,Crystal Palace,1,3,-2,0,1,0,0,Loss,M Dean
+Arsenal,Everton,2,0,2,1,0,0,0,Win,A Marriner
+Liverpool,Man City,2,1,1,2,0,0,0,Win,M Clattenburg
+Aston Villa,West Brom,2,1,1,3,0,1,0,Win,J Moss
+Hull,Sunderland,1,1,0,3,0,1,0,Draw,M Dean
+Southampton,Crystal Palace,1,0,1,4,0,1,0,Win,M Atkinson
+Liverpool,Burnley,2,0,2,5,0,1,0,Win,L Mason
+Man City,Leicester,2,0,2,6,0,1,0,Win,R Madley
+Newcastle,Man United,0,1,-1,0,1,0,0,Loss,A Taylor
+QPR,Arsenal,1,2,-1,0,2,0,0,Loss,K Friend
+Stoke,Everton,2,0,2,1,0,0,0,Win,M Clattenburg
+Tottenham,Swansea,3,2,1,2,0,0,0,Win,M Oliver
+West Ham,Chelsea,0,1,-1,0,1,0,0,Loss,A Marriner
+QPR,Tottenham,1,2,-1,0,2,0,0,Loss,C Pawson
+Arsenal,West Ham,3,0,3,1,0,0,0,Win,A Taylor
+Burnley,Man City,1,0,1,2,0,0,0,Win,A Marriner
+Crystal Palace,QPR,3,1,2,3,0,1,0,Win,L Mason
+Leicester,Hull,0,0,0,3,0,1,0,Draw,J Moss
+Sunderland,Aston Villa,0,4,-4,0,1,0,0,Loss,N Swarbrick
+West Brom,Stoke,1,0,1,1,0,0,0,Win,M Oliver
+Chelsea,Southampton,1,1,0,1,0,0,0,Draw,M Dean
+Everton,Newcastle,3,0,3,2,0,0,0,Win,M Atkinson
+Man United,Tottenham,3,0,3,3,0,1,0,Win,M Clattenburg
+Swansea,Liverpool,0,1,-1,0,1,0,0,Loss,R East
+Aston Villa,Swansea,0,1,-1,0,2,0,0,Loss,R Madley
+Man City,West Brom,3,0,3,1,0,0,0,Win,N Swarbrick
+Newcastle,Arsenal,1,2,-1,0,1,0,0,Loss,M Jones
+Southampton,Burnley,2,0,2,1,0,0,0,Win,R East
+Stoke,Crystal Palace,1,2,-1,0,1,0,0,Loss,A Marriner
+Tottenham,Leicester,4,3,1,1,0,0,0,Win,M Dean
+West Ham,Sunderland,1,0,1,2,0,0,0,Win,L Mason
+Hull,Chelsea,2,3,-1,0,1,0,0,Loss,M Oliver
+Liverpool,Man United,1,2,-1,0,2,0,0,Loss,M Atkinson
+QPR,Everton,1,2,-1,0,3,0,1,Loss,J Moss
+Arsenal,Liverpool,4,1,3,1,0,0,0,Win,A Taylor
+Chelsea,Stoke,2,1,1,2,0,0,0,Win,J Moss
+Everton,Southampton,1,0,1,3,0,1,0,Win,L Mason
+Leicester,West Ham,2,1,1,4,0,1,0,Win,M Clattenburg
+Man United,Aston Villa,3,1,2,5,0,1,0,Win,R East
+Swansea,Hull,3,1,2,6,0,1,0,Win,A Marriner
+West Brom,QPR,1,4,-3,0,1,0,0,Loss,L Probert
+Burnley,Tottenham,0,0,0,0,1,0,0,Draw,M Atkinson
+Sunderland,Newcastle,1,0,1,1,0,0,0,Win,M Dean
+Crystal Palace,Man City,2,1,1,2,0,0,0,Win,M Oliver
+Aston Villa,QPR,3,3,0,2,0,0,0,Draw,C Pawson
+Burnley,Arsenal,0,1,-1,0,1,0,0,Loss,M Dean
+Southampton,Hull,2,0,2,1,0,0,0,Win,K Friend
+Sunderland,Crystal Palace,1,4,-3,0,1,0,0,Loss,A Taylor
+Swansea,Everton,1,1,0,0,1,0,0,Draw,M Oliver
+Tottenham,Aston Villa,0,1,-1,0,2,0,0,Loss,L Probert
+West Brom,Leicester,2,3,-1,0,3,0,1,Loss,M Atkinson
+West Ham,Stoke,1,1,0,0,3,0,1,Draw,R East
+Man United,Man City,4,2,2,1,0,0,0,Win,M Clattenburg
+QPR,Chelsea,0,1,-1,0,1,0,0,Loss,A Marriner
+Liverpool,Newcastle,2,0,2,1,0,0,0,Win,L Mason
+Chelsea,Man United,1,0,1,2,0,0,0,Win,M Dean
+Crystal Palace,West Brom,0,2,-2,0,1,0,0,Loss,J Moss
+Everton,Burnley,1,0,1,1,0,0,0,Win,M Jones
+Leicester,Swansea,2,0,2,2,0,0,0,Win,L Probert
+Stoke,Southampton,2,1,1,3,0,1,0,Win,M Clattenburg
+Man City,West Ham,2,0,2,4,0,1,0,Win,A Taylor
+Newcastle,Tottenham,1,3,-2,0,1,0,0,Loss,K Friend
+Burnley,Leicester,0,1,-1,0,2,0,0,Loss,A Taylor
+Crystal Palace,Hull,0,2,-2,0,3,0,1,Loss,M Clattenburg
+Man City,Aston Villa,3,2,1,1,0,0,0,Win,M Dean
+Newcastle,Swansea,2,3,-1,0,1,0,0,Loss,N Swarbrick
+QPR,West Ham,0,0,0,0,1,0,0,Draw,M Jones
+Southampton,Tottenham,2,2,0,0,1,0,0,Draw,J Moss
+Stoke,Sunderland,1,1,0,0,1,0,0,Draw,M Atkinson
+West Brom,Liverpool,0,0,0,0,1,0,0,Draw,R East
+Arsenal,Chelsea,0,0,0,0,1,0,0,Draw,M Oliver
+Everton,Man United,3,0,3,1,0,0,0,Win,A Marriner
+Hull,Liverpool,1,0,1,2,0,0,0,Win,L Probert
+Leicester,Chelsea,1,3,-2,0,1,0,0,Loss,M Clattenburg
+Aston Villa,Everton,3,2,1,1,0,0,0,Win,M Clattenburg
+Leicester,Newcastle,3,0,3,2,0,0,0,Win,M Dean
+Liverpool,QPR,2,1,1,3,0,1,0,Win,M Atkinson
+Man United,West Brom,0,1,-1,0,1,0,0,Loss,A Taylor
+Sunderland,Southampton,2,1,1,1,0,0,0,Win,M Jones
+Swansea,Stoke,2,0,2,2,0,0,0,Win,C Pawson
+West Ham,Burnley,1,0,1,3,0,1,0,Win,J Moss
+Chelsea,Crystal Palace,1,0,1,4,0,1,0,Win,K Friend
+Tottenham,Man City,0,1,-1,0,1,0,0,Loss,A Marriner
+Hull,Arsenal,1,3,-2,0,2,0,0,Loss,L Mason
+Aston Villa,West Ham,1,0,1,1,0,0,0,Win,L Mason
+Crystal Palace,Man United,1,2,-1,0,1,0,0,Loss,M Oliver
+Everton,Sunderland,0,2,-2,0,2,0,0,Loss,L Probert
+Hull,Burnley,0,1,-1,0,3,0,1,Loss,M Atkinson
+Leicester,Southampton,2,0,2,1,0,0,0,Win,R East
+Newcastle,West Brom,1,1,0,1,0,0,0,Draw,C Foy
+Stoke,Tottenham,3,0,3,2,0,0,0,Win,M Clattenburg
+Chelsea,Liverpool,1,1,0,2,0,0,0,Draw,A Marriner
+Man City,QPR,6,0,6,3,0,1,0,Win,M Dean
+Arsenal,Swansea,0,1,-1,0,1,0,0,Loss,K Friend
+Burnley,Stoke,0,0,0,0,1,0,0,Draw,M Oliver
+Liverpool,Crystal Palace,1,3,-2,0,2,0,0,Loss,J Moss
+QPR,Newcastle,2,1,1,1,0,0,0,Win,L Probert
+Southampton,Aston Villa,6,1,5,2,0,0,0,Win,R Madley
+Sunderland,Leicester,0,0,0,2,0,0,0,Draw,M Atkinson
+Tottenham,Hull,2,0,2,3,0,1,0,Win,A Taylor
+West Ham,Everton,1,2,-1,0,1,0,0,Loss,K Friend
+Man United,Arsenal,1,1,0,0,1,0,0,Draw,M Dean
+Swansea,Man City,2,4,-2,0,2,0,0,Loss,M Clattenburg
+West Brom,Chelsea,3,0,3,1,0,0,0,Win,M Jones
+Arsenal,Sunderland,0,0,0,1,0,0,0,Draw,A Taylor
+Arsenal,West Brom,4,1,3,2,0,0,0,Win,R Madley
+Aston Villa,Burnley,0,1,-1,0,1,0,0,Loss,M Jones
+Chelsea,Sunderland,3,1,2,1,0,0,0,Win,L Mason
+Crystal Palace,Swansea,1,0,1,2,0,0,0,Win,C Pawson
+Everton,Tottenham,0,1,-1,0,1,0,0,Loss,J Moss
+Hull,Man United,0,0,0,0,1,0,0,Draw,L Probert
+Leicester,QPR,5,1,4,1,0,0,0,Win,M Oliver
+Man City,Southampton,2,0,2,2,0,0,0,Win,C Foy
+Newcastle,West Ham,2,0,2,3,0,1,0,Win,M Atkinson
+Stoke,Liverpool,6,1,5,4,0,1,0,Win,A Taylor
+Bournemouth,Aston Villa,0,1,-1,0,1,0,0,Loss,M Clattenburg
+Chelsea,Swansea,2,2,0,0,1,0,0,Draw,M Oliver
+Everton,Watford,2,2,0,0,1,0,0,Draw,M Jones
+Leicester,Sunderland,4,2,2,1,0,0,0,Win,L Mason
+Man United,Tottenham,1,0,1,2,0,0,0,Win,J Moss
+Norwich,Crystal Palace,1,3,-2,0,1,0,0,Loss,S Hooper
+Arsenal,West Ham,0,2,-2,0,2,0,0,Loss,M Atkinson
+Newcastle,Southampton,2,2,0,0,2,0,0,Draw,C Pawson
+Stoke,Liverpool,0,1,-1,0,3,0,1,Loss,A Taylor
+West Brom,Man City,0,3,-3,0,4,0,1,Loss,M Dean
+Aston Villa,Man United,0,1,-1,0,5,0,1,Loss,M Dean
+Southampton,Everton,0,3,-3,0,6,0,1,Loss,M Oliver
+Sunderland,Norwich,1,3,-2,0,7,0,1,Loss,K Friend
+Swansea,Newcastle,2,0,2,1,0,0,0,Win,M Jones
+Tottenham,Stoke,2,2,0,1,0,0,0,Draw,R Madley
+Watford,West Brom,0,0,0,1,0,0,0,Draw,P Tierney
+West Ham,Leicester,1,2,-1,0,1,0,0,Loss,A Taylor
+Crystal Palace,Arsenal,1,2,-1,0,2,0,0,Loss,L Mason
+Man City,Chelsea,3,0,3,1,0,0,0,Win,M Atkinson
+Liverpool,Bournemouth,1,0,1,2,0,0,0,Win,C Pawson
+Crystal Palace,Aston Villa,2,1,1,3,0,1,0,Win,K Stroud
+Leicester,Tottenham,1,1,0,3,0,1,0,Draw,M Atkinson
+Man United,Newcastle,0,0,0,3,0,1,0,Draw,C Pawson
+Norwich,Stoke,1,1,0,3,0,1,0,Draw,M Dean
+Sunderland,Swansea,1,1,0,3,0,1,0,Draw,N Swarbrick
+West Ham,Bournemouth,3,4,-1,0,1,0,0,Loss,J Moss
+Everton,Man City,0,2,-2,0,2,0,0,Loss,A Taylor
+Watford,Southampton,0,0,0,0,2,0,0,Draw,A Marriner
+West Brom,Chelsea,2,3,-1,0,3,0,1,Loss,M Clattenburg
+Arsenal,Liverpool,0,0,0,0,3,0,1,Draw,M Oliver
+Aston Villa,Sunderland,2,2,0,0,3,0,1,Draw,R Madley
+Bournemouth,Leicester,1,1,0,0,3,0,1,Draw,N Swarbrick
+Chelsea,Crystal Palace,1,2,-1,0,4,0,1,Loss,C Pawson
+Liverpool,West Ham,0,3,-3,0,5,0,1,Loss,K Friend
+Man City,Watford,2,0,2,1,0,0,0,Win,M Clattenburg
+Newcastle,Arsenal,0,1,-1,0,1,0,0,Loss,A Marriner
+Stoke,West Brom,0,1,-1,0,2,0,0,Loss,M Oliver
+Tottenham,Everton,0,0,0,0,2,0,0,Draw,M Jones
+Southampton,Norwich,3,0,3,1,0,0,0,Win,J Moss
+Swansea,Man United,2,1,1,2,0,0,0,Win,M Atkinson
+Arsenal,Stoke,2,0,2,3,0,1,0,Win,J Moss
+Crystal Palace,Man City,0,1,-1,0,1,0,0,Loss,M Jones
+Everton,Chelsea,3,1,2,1,0,0,0,Win,A Marriner
+Man United,Liverpool,3,1,2,2,0,0,0,Win,M Oliver
+Norwich,Bournemouth,3,1,2,3,0,1,0,Win,M Atkinson
+Watford,Swansea,1,0,1,4,0,1,0,Win,R Madley
+West Brom,Southampton,0,0,0,4,0,1,0,Draw,S Attwell
+Leicester,Aston Villa,3,2,1,5,0,1,0,Win,M Dean
+Sunderland,Tottenham,0,1,-1,0,1,0,0,Loss,C Pawson
+West Ham,Newcastle,2,0,2,1,0,0,0,Win,A Taylor
+Aston Villa,West Brom,0,1,-1,0,1,0,0,Loss,M Atkinson
+Bournemouth,Sunderland,2,0,2,1,0,0,0,Win,K Friend
+Chelsea,Arsenal,2,0,2,2,0,0,0,Win,M Dean
+Man City,West Ham,1,2,-1,0,1,0,0,Loss,R Madley
+Newcastle,Watford,1,2,-1,0,2,0,0,Loss,R East
+Stoke,Leicester,2,2,0,0,2,0,0,Draw,A Marriner
+Swansea,Everton,0,0,0,0,2,0,0,Draw,S Attwell
+Liverpool,Norwich,1,1,0,0,2,0,0,Draw,A Taylor
+Southampton,Man United,2,3,-1,0,3,0,1,Loss,M Clattenburg
+Tottenham,Crystal Palace,1,0,1,1,0,0,0,Win,M Oliver
+Leicester,Arsenal,2,5,-3,0,1,0,0,Loss,C Pawson
+Liverpool,Aston Villa,3,2,1,1,0,0,0,Win,J Moss
+Man United,Sunderland,3,0,3,2,0,0,0,Win,M Jones
+Newcastle,Chelsea,2,2,0,2,0,0,0,Draw,M Atkinson
+Southampton,Swansea,3,1,2,3,0,1,0,Win,R East
+Stoke,Bournemouth,2,1,1,4,0,1,0,Win,L Mason
+Tottenham,Man City,4,1,3,5,0,1,0,Win,M Clattenburg
+West Ham,Norwich,2,2,0,5,0,1,0,Draw,M Dean
+Watford,Crystal Palace,0,1,-1,0,1,0,0,Loss,A Taylor
+West Brom,Everton,2,3,-1,0,2,0,0,Loss,R Madley
+Aston Villa,Stoke,0,1,-1,0,3,0,1,Loss,M Jones
+Bournemouth,Watford,1,1,0,0,3,0,1,Draw,M Oliver
+Chelsea,Southampton,1,3,-2,0,4,0,1,Loss,R Madley
+Crystal Palace,West Brom,2,0,2,1,0,0,0,Win,J Moss
+Man City,Newcastle,6,1,5,2,0,0,0,Win,K Friend
+Norwich,Leicester,1,2,-1,0,1,0,0,Loss,M Clattenburg
+Sunderland,West Ham,2,2,0,0,1,0,0,Draw,N Swarbrick
+Arsenal,Man United,3,0,3,1,0,0,0,Win,A Taylor
+Everton,Liverpool,1,1,0,1,0,0,0,Draw,M Atkinson
+Swansea,Tottenham,2,2,0,1,0,0,0,Draw,M Dean
+Chelsea,Aston Villa,2,0,2,2,0,0,0,Win,R East
+Crystal Palace,West Ham,1,3,-2,0,1,0,0,Loss,M Clattenburg
+Everton,Man United,0,3,-3,0,2,0,0,Loss,J Moss
+Man City,Bournemouth,5,1,4,1,0,0,0,Win,M Dean
+Southampton,Leicester,2,2,0,1,0,0,0,Draw,P Tierney
+Tottenham,Liverpool,0,0,0,1,0,0,0,Draw,C Pawson
+Watford,Arsenal,0,3,-3,0,1,0,0,Loss,M Jones
+West Brom,Sunderland,1,0,1,1,0,0,0,Win,M Atkinson
+Newcastle,Norwich,6,2,4,2,0,0,0,Win,A Taylor
+Swansea,Stoke,0,1,-1,0,1,0,0,Loss,R Madley
+Arsenal,Everton,2,1,1,1,0,0,0,Win,L Mason
+Aston Villa,Swansea,1,2,-1,0,1,0,0,Loss,N Swarbrick
+Leicester,Crystal Palace,1,0,1,1,0,0,0,Win,M Dean
+Norwich,West Brom,0,1,-1,0,1,0,0,Loss,K Friend
+Stoke,Watford,0,2,-2,0,2,0,0,Loss,M Atkinson
+West Ham,Chelsea,2,1,1,1,0,0,0,Win,J Moss
+Bournemouth,Tottenham,1,5,-4,0,1,0,0,Loss,R East
+Liverpool,Southampton,1,1,0,0,1,0,0,Draw,A Marriner
+Man United,Man City,0,0,0,0,1,0,0,Draw,M Clattenburg
+Sunderland,Newcastle,3,0,3,1,0,0,0,Win,R Madley
+Chelsea,Liverpool,1,3,-2,0,1,0,0,Loss,M Clattenburg
+Crystal Palace,Man United,0,0,0,0,1,0,0,Draw,M Jones
+Man City,Norwich,2,1,1,1,0,0,0,Win,R Madley
+Newcastle,Stoke,0,0,0,1,0,0,0,Draw,R East
+Swansea,Arsenal,0,3,-3,0,1,0,0,Loss,K Friend
+Watford,West Ham,2,0,2,1,0,0,0,Win,K Stroud
+West Brom,Leicester,2,3,-1,0,1,0,0,Loss,A Taylor
+Everton,Sunderland,6,2,4,1,0,0,0,Win,A Marriner
+Southampton,Bournemouth,2,0,2,2,0,0,0,Win,C Pawson
+Tottenham,Aston Villa,3,1,2,3,0,1,0,Win,M Dean
+Bournemouth,Newcastle,0,1,-1,0,1,0,0,Loss,L Mason
+Leicester,Watford,2,1,1,1,0,0,0,Win,R East
+Man United,West Brom,2,0,2,2,0,0,0,Win,M Dean
+Norwich,Swansea,1,0,1,3,0,1,0,Win,M Clattenburg
+Stoke,Chelsea,1,0,1,4,0,1,0,Win,A Taylor
+Sunderland,Southampton,0,1,-1,0,1,0,0,Loss,M Jones
+West Ham,Everton,1,1,0,0,1,0,0,Draw,P Tierney
+Arsenal,Tottenham,1,1,0,0,1,0,0,Draw,M Atkinson
+Aston Villa,Man City,0,0,0,0,1,0,0,Draw,C Pawson
+Liverpool,Crystal Palace,1,2,-1,0,2,0,0,Loss,N Swarbrick
+Chelsea,Norwich,1,0,1,1,0,0,0,Win,C Pawson
+Everton,Aston Villa,4,0,4,2,0,0,0,Win,M Oliver
+Man City,Liverpool,1,4,-3,0,1,0,0,Loss,J Moss
+Newcastle,Leicester,0,3,-3,0,2,0,0,Loss,M Jones
+Southampton,Stoke,0,1,-1,0,3,0,1,Loss,L Mason
+Swansea,Bournemouth,2,2,0,0,3,0,1,Draw,A Marriner
+Watford,Man United,1,2,-1,0,4,0,1,Loss,R Madley
+West Brom,Arsenal,2,1,1,1,0,0,0,Win,M Clattenburg
+Tottenham,West Ham,4,1,3,2,0,0,0,Win,A Taylor
+Crystal Palace,Sunderland,0,1,-1,0,1,0,0,Loss,M Atkinson
+Aston Villa,Watford,2,3,-1,0,2,0,0,Loss,L Mason
+Bournemouth,Everton,3,3,0,0,2,0,0,Draw,K Friend
+Crystal Palace,Newcastle,5,1,4,1,0,0,0,Win,S Attwell
+Leicester,Man United,1,1,0,1,0,0,0,Draw,C Pawson
+Man City,Southampton,3,1,2,2,0,0,0,Win,R East
+Sunderland,Stoke,2,0,2,3,0,1,0,Win,M Dean
+Liverpool,Swansea,1,0,1,4,0,1,0,Win,A Taylor
+Norwich,Arsenal,1,1,0,4,0,1,0,Draw,J Moss
+Tottenham,Chelsea,0,0,0,4,0,1,0,Draw,M Oliver
+West Ham,West Brom,1,1,0,4,0,1,0,Draw,M Atkinson
+Arsenal,Sunderland,3,1,2,5,0,1,0,Win,R Madley
+Chelsea,Bournemouth,0,1,-1,0,1,0,0,Loss,M Jones
+Man United,West Ham,0,0,0,0,1,0,0,Draw,M Clattenburg
+Southampton,Aston Villa,1,1,0,0,1,0,0,Draw,A Taylor
+Stoke,Man City,2,0,2,1,0,0,0,Win,M Atkinson
+Swansea,Leicester,0,3,-3,0,1,0,0,Loss,M Oliver
+Watford,Norwich,2,0,2,1,0,0,0,Win,M Dean
+West Brom,Tottenham,1,1,0,1,0,0,0,Draw,J Moss
+Newcastle,Liverpool,2,0,2,2,0,0,0,Win,A Marriner
+Everton,Crystal Palace,1,1,0,2,0,0,0,Draw,C Pawson
+Bournemouth,Man United,2,1,1,3,0,1,0,Win,A Taylor
+Crystal Palace,Southampton,1,0,1,4,0,1,0,Win,M Dean
+Man City,Swansea,2,1,1,5,0,1,0,Win,R Madley
+Norwich,Everton,1,1,0,5,0,1,0,Draw,M Atkinson
+Sunderland,Watford,0,1,-1,0,1,0,0,Loss,G Scott
+West Ham,Stoke,0,0,0,0,1,0,0,Draw,A Marriner
+Aston Villa,Arsenal,0,2,-2,0,2,0,0,Loss,K Friend
+Liverpool,West Brom,2,2,0,0,2,0,0,Draw,C Pawson
+Tottenham,Newcastle,1,2,-1,0,3,0,1,Loss,R East
+Leicester,Chelsea,2,1,1,1,0,0,0,Win,M Clattenburg
+Chelsea,Sunderland,3,1,2,2,0,0,0,Win,R East
+Everton,Leicester,2,3,-1,0,1,0,0,Loss,J Moss
+Man United,Norwich,1,2,-1,0,2,0,0,Loss,M Oliver
+Newcastle,Aston Villa,1,1,0,0,2,0,0,Draw,M Atkinson
+Southampton,Tottenham,0,2,-2,0,3,0,1,Loss,K Friend
+Stoke,Crystal Palace,1,2,-1,0,4,0,1,Loss,R Madley
+West Brom,Bournemouth,1,2,-1,0,5,0,1,Loss,M Dean
+Swansea,West Ham,0,0,0,0,5,0,1,Draw,L Mason
+Watford,Liverpool,3,0,3,1,0,0,0,Win,M Clattenburg
+Arsenal,Man City,2,1,1,2,0,0,0,Win,A Marriner
+Aston Villa,West Ham,1,1,0,2,0,0,0,Draw,M Dean
+Bournemouth,Crystal Palace,0,0,0,2,0,0,0,Draw,M Oliver
+Chelsea,Watford,2,2,0,2,0,0,0,Draw,A Marriner
+Liverpool,Leicester,1,0,1,3,0,1,0,Win,M Atkinson
+Man City,Sunderland,4,1,3,4,0,1,0,Win,A Taylor
+Newcastle,Everton,0,1,-1,0,1,0,0,Loss,L Mason
+Southampton,Arsenal,4,0,4,1,0,0,0,Win,J Moss
+Stoke,Man United,2,0,2,2,0,0,0,Win,K Friend
+Swansea,West Brom,1,0,1,3,0,1,0,Win,R East
+Tottenham,Norwich,3,0,3,4,0,1,0,Win,M Jones
+Arsenal,Bournemouth,2,0,2,5,0,1,0,Win,R East
+Crystal Palace,Swansea,0,0,0,5,0,1,0,Draw,N Swarbrick
+Everton,Stoke,3,4,-1,0,1,0,0,Loss,M Clattenburg
+Man United,Chelsea,0,0,0,0,1,0,0,Draw,M Atkinson
+Norwich,Aston Villa,2,0,2,1,0,0,0,Win,G Scott
+Watford,Tottenham,1,2,-1,0,1,0,0,Loss,A Taylor
+West Brom,Newcastle,1,0,1,1,0,0,0,Win,M Jones
+West Ham,Southampton,2,1,1,2,0,0,0,Win,M Oliver
+Leicester,Man City,0,0,0,2,0,0,0,Draw,C Pawson
+Sunderland,Liverpool,0,1,-1,0,1,0,0,Loss,K Friend
+Arsenal,Newcastle,1,0,1,1,0,0,0,Win,A Taylor
+Leicester,Bournemouth,0,0,0,1,0,0,0,Draw,A Marriner
+Man United,Swansea,2,1,1,2,0,0,0,Win,J Moss
+Norwich,Southampton,1,0,1,3,0,1,0,Win,M Clattenburg
+Sunderland,Aston Villa,3,1,2,4,0,1,0,Win,C Pawson
+Watford,Man City,1,2,-1,0,1,0,0,Loss,M Atkinson
+West Brom,Stoke,2,1,1,1,0,0,0,Win,L Mason
+West Ham,Liverpool,2,0,2,2,0,0,0,Win,R Madley
+Crystal Palace,Chelsea,0,3,-3,0,1,0,0,Loss,K Friend
+Everton,Tottenham,1,1,0,0,1,0,0,Draw,M Oliver
+Aston Villa,Crystal Palace,1,0,1,1,0,0,0,Win,M Clattenburg
+Bournemouth,West Ham,1,3,-2,0,1,0,0,Loss,M Atkinson
+Newcastle,Man United,3,3,0,0,1,0,0,Draw,M Dean
+Chelsea,West Brom,2,2,0,0,1,0,0,Draw,A Taylor
+Liverpool,Arsenal,3,3,0,0,1,0,0,Draw,M Jones
+Man City,Everton,0,0,0,0,1,0,0,Draw,R East
+Southampton,Watford,2,0,2,1,0,0,0,Win,C Pawson
+Stoke,Norwich,3,1,2,2,0,0,0,Win,N Swarbrick
+Swansea,Sunderland,2,4,-2,0,1,0,0,Loss,G Scott
+Tottenham,Leicester,0,1,-1,0,2,0,0,Loss,L Mason
+Aston Villa,Leicester,1,1,0,0,2,0,0,Draw,R East
+Bournemouth,Norwich,3,0,3,1,0,0,0,Win,R Madley
+Chelsea,Everton,3,3,0,1,0,0,0,Draw,M Jones
+Man City,Crystal Palace,4,0,4,2,0,0,0,Win,J Moss
+Newcastle,West Ham,2,1,1,3,0,1,0,Win,N Swarbrick
+Southampton,West Brom,3,0,3,4,0,1,0,Win,M Atkinson
+Tottenham,Sunderland,4,1,3,5,0,1,0,Win,M Dean
+Liverpool,Man United,0,1,-1,0,1,0,0,Loss,M Clattenburg
+Stoke,Arsenal,0,0,0,0,1,0,0,Draw,C Pawson
+Swansea,Watford,1,0,1,1,0,0,0,Win,M Oliver
+Crystal Palace,Tottenham,1,3,-2,0,1,0,0,Loss,M Atkinson
+Leicester,Stoke,3,0,3,1,0,0,0,Win,M Dean
+Man United,Southampton,0,1,-1,0,1,0,0,Loss,M Jones
+Norwich,Liverpool,4,5,-1,0,2,0,0,Loss,L Mason
+Sunderland,Bournemouth,1,1,0,0,2,0,0,Draw,R East
+Watford,Newcastle,2,1,1,1,0,0,0,Win,A Marriner
+West Brom,Aston Villa,0,0,0,1,0,0,0,Draw,R Madley
+West Ham,Man City,2,2,0,1,0,0,0,Draw,C Pawson
+Arsenal,Chelsea,0,1,-1,0,1,0,0,Loss,M Clattenburg
+Everton,Swansea,1,2,-1,0,2,0,0,Loss,A Taylor
+Arsenal,Southampton,0,0,0,0,2,0,0,Draw,L Mason
+Crystal Palace,Bournemouth,1,2,-1,0,3,0,1,Loss,M Jones
+Leicester,Liverpool,2,0,2,1,0,0,0,Win,A Marriner
+Man United,Stoke,3,0,3,2,0,0,0,Win,R East
+Norwich,Tottenham,0,3,-3,0,1,0,0,Loss,K Friend
+Sunderland,Man City,0,1,-1,0,2,0,0,Loss,S Attwell
+West Brom,Swansea,1,1,0,0,2,0,0,Draw,N Swarbrick
+West Ham,Aston Villa,2,0,2,1,0,0,0,Win,J Moss
+Everton,Newcastle,3,0,3,2,0,0,0,Win,C Pawson
+Watford,Chelsea,0,0,0,2,0,0,0,Draw,M Dean
+Aston Villa,Norwich,2,0,2,3,0,1,0,Win,M Atkinson
+Liverpool,Sunderland,2,2,0,3,0,1,0,Draw,R Madley
+Man City,Leicester,1,3,-2,0,1,0,0,Loss,A Taylor
+Newcastle,West Brom,1,0,1,1,0,0,0,Win,L Mason
+Southampton,West Ham,1,0,1,2,0,0,0,Win,M Clattenburg
+Stoke,Everton,0,3,-3,0,1,0,0,Loss,A Marriner
+Swansea,Crystal Palace,1,1,0,0,1,0,0,Draw,M Dean
+Tottenham,Watford,1,0,1,1,0,0,0,Win,R East
+Bournemouth,Arsenal,0,2,-2,0,1,0,0,Loss,K Friend
+Chelsea,Man United,1,1,0,0,1,0,0,Draw,M Oliver
+Bournemouth,Stoke,1,3,-2,0,2,0,0,Loss,G Scott
+Chelsea,Newcastle,5,1,4,1,0,0,0,Win,R Madley
+Crystal Palace,Watford,1,2,-1,0,1,0,0,Loss,R East
+Everton,West Brom,0,1,-1,0,2,0,0,Loss,M Oliver
+Norwich,West Ham,2,2,0,0,2,0,0,Draw,M Jones
+Sunderland,Man United,2,1,1,1,0,0,0,Win,A Marriner
+Swansea,Southampton,0,1,-1,0,1,0,0,Loss,J Moss
+Arsenal,Leicester,2,1,1,1,0,0,0,Win,M Atkinson
+Aston Villa,Liverpool,0,6,-6,0,1,0,0,Loss,N Swarbrick
+Man City,Tottenham,1,2,-1,0,2,0,0,Loss,M Clattenburg
+Leicester,Norwich,1,0,1,1,0,0,0,Win,N Swarbrick
+Southampton,Chelsea,1,2,-1,0,1,0,0,Loss,M Atkinson
+Stoke,Aston Villa,2,1,1,1,0,0,0,Win,K Friend
+Watford,Bournemouth,0,0,0,1,0,0,0,Draw,A Taylor
+West Brom,Crystal Palace,3,2,1,2,0,0,0,Win,J Moss
+West Ham,Sunderland,1,0,1,3,0,1,0,Win,M Dean
+Tottenham,Swansea,2,1,1,4,0,1,0,Win,M Jones
+Man United,Arsenal,3,2,1,5,0,1,0,Win,C Pawson
+Aston Villa,Everton,1,3,-2,0,1,0,0,Loss,R East
+Bournemouth,Southampton,2,0,2,1,0,0,0,Win,M Dean
+Leicester,West Brom,2,2,0,1,0,0,0,Draw,M Clattenburg
+Norwich,Chelsea,1,2,-1,0,1,0,0,Loss,L Mason
+Sunderland,Crystal Palace,2,2,0,0,1,0,0,Draw,A Taylor
+Arsenal,Swansea,1,2,-1,0,2,0,0,Loss,R Madley
+Liverpool,Man City,3,0,3,1,0,0,0,Win,M Atkinson
+Man United,Watford,1,0,1,2,0,0,0,Win,M Jones
+Stoke,Newcastle,1,0,1,3,0,1,0,Win,N Swarbrick
+West Ham,Tottenham,1,0,1,4,0,1,0,Win,A Marriner
+Chelsea,Stoke,1,1,0,4,0,1,0,Draw,M Clattenburg
+Everton,West Ham,2,3,-1,0,1,0,0,Loss,A Taylor
+Man City,Aston Villa,4,0,4,1,0,0,0,Win,L Mason
+Newcastle,Bournemouth,1,3,-2,0,1,0,0,Loss,P Tierney
+Southampton,Sunderland,1,1,0,0,1,0,0,Draw,N Swarbrick
+Swansea,Norwich,1,0,1,1,0,0,0,Win,C Pawson
+Tottenham,Arsenal,2,2,0,1,0,0,0,Draw,M Oliver
+Watford,Leicester,0,1,-1,0,1,0,0,Loss,J Moss
+Crystal Palace,Liverpool,1,2,-1,0,2,0,0,Loss,A Marriner
+West Brom,Man United,1,0,1,1,0,0,0,Win,M Dean
+Bournemouth,Swansea,3,2,1,2,0,0,0,Win,R East
+Norwich,Man City,0,0,0,2,0,0,0,Draw,J Moss
+Stoke,Southampton,1,2,-1,0,1,0,0,Loss,L Mason
+Aston Villa,Tottenham,0,2,-2,0,2,0,0,Loss,A Taylor
+Leicester,Newcastle,1,0,1,1,0,0,0,Win,C Pawson
+Chelsea,West Ham,2,2,0,1,0,0,0,Draw,R Madley
+Crystal Palace,Leicester,0,1,-1,0,1,0,0,Loss,M Jones
+Everton,Arsenal,0,2,-2,0,2,0,0,Loss,M Clattenburg
+Swansea,Aston Villa,1,0,1,1,0,0,0,Win,M Dean
+Watford,Stoke,1,2,-1,0,1,0,0,Loss,C Pawson
+West Brom,Norwich,0,1,-1,0,2,0,0,Loss,A Taylor
+Man City,Man United,0,1,-1,0,3,0,1,Loss,M Oliver
+Newcastle,Sunderland,1,1,0,0,3,0,1,Draw,M Atkinson
+Southampton,Liverpool,3,2,1,1,0,0,0,Win,R East
+Tottenham,Bournemouth,3,0,3,2,0,0,0,Win,N Swarbrick
+Arsenal,Watford,4,0,4,3,0,1,0,Win,A Taylor
+Aston Villa,Chelsea,0,4,-4,0,1,0,0,Loss,N Swarbrick
+Bournemouth,Man City,0,4,-4,0,2,0,0,Loss,R Madley
+Liverpool,Tottenham,1,1,0,0,2,0,0,Draw,J Moss
+Norwich,Newcastle,3,2,1,1,0,0,0,Win,M Dean
+Stoke,Swansea,2,2,0,1,0,0,0,Draw,M Atkinson
+Sunderland,West Brom,0,0,0,1,0,0,0,Draw,R East
+West Ham,Crystal Palace,2,2,0,1,0,0,0,Draw,M Clattenburg
+Leicester,Southampton,1,0,1,2,0,0,0,Win,M Oliver
+Man United,Everton,1,0,1,3,0,1,0,Win,A Marriner
+Aston Villa,Bournemouth,1,2,-1,0,1,0,0,Loss,M Atkinson
+Crystal Palace,Norwich,1,0,1,1,0,0,0,Win,M Oliver
+Man City,West Brom,2,1,1,2,0,0,0,Win,M Jones
+Southampton,Newcastle,3,1,2,3,0,1,0,Win,R Madley
+Swansea,Chelsea,1,0,1,4,0,1,0,Win,A Marriner
+Watford,Everton,1,1,0,4,0,1,0,Draw,K Friend
+West Ham,Arsenal,3,3,0,4,0,1,0,Draw,C Pawson
+Liverpool,Stoke,4,1,3,5,0,1,0,Win,M Clattenburg
+Sunderland,Leicester,0,2,-2,0,1,0,0,Loss,A Taylor
+Tottenham,Man United,3,0,3,1,0,0,0,Win,M Dean
+Crystal Palace,Everton,0,0,0,1,0,0,0,Draw,M Jones
+Chelsea,Man City,0,3,-3,0,1,0,0,Loss,M Dean
+Everton,Southampton,1,1,0,0,1,0,0,Draw,C Pawson
+Man United,Aston Villa,1,0,1,1,0,0,0,Win,K Friend
+Newcastle,Swansea,3,0,3,2,0,0,0,Win,L Mason
+Norwich,Sunderland,0,3,-3,0,1,0,0,Loss,A Marriner
+West Brom,Watford,0,1,-1,0,2,0,0,Loss,M Oliver
+Arsenal,Crystal Palace,1,1,0,0,2,0,0,Draw,R East
+Bournemouth,Liverpool,1,2,-1,0,3,0,1,Loss,M Jones
+Leicester,West Ham,2,2,0,0,3,0,1,Draw,J Moss
+Stoke,Tottenham,0,4,-4,0,4,0,1,Loss,N Swarbrick
+Newcastle,Man City,1,1,0,0,4,0,1,Draw,K Friend
+Liverpool,Everton,4,0,4,1,0,0,0,Win,R Madley
+Man United,Crystal Palace,2,0,2,2,0,0,0,Win,L Mason
+West Ham,Watford,3,1,2,3,0,1,0,Win,M Dean
+Arsenal,West Brom,2,0,2,4,0,1,0,Win,J Moss
+Aston Villa,Southampton,2,4,-2,0,1,0,0,Loss,N Swarbrick
+Bournemouth,Chelsea,1,4,-3,0,2,0,0,Loss,R East
+Liverpool,Newcastle,2,2,0,0,2,0,0,Draw,A Marriner
+Man City,Stoke,4,0,4,1,0,0,0,Win,R Madley
+Leicester,Swansea,4,0,4,2,0,0,0,Win,M Clattenburg
+Sunderland,Arsenal,0,0,0,2,0,0,0,Draw,M Dean
+Tottenham,West Brom,1,1,0,2,0,0,0,Draw,M Jones
+Arsenal,Norwich,1,0,1,3,0,1,0,Win,M Jones
+Everton,Bournemouth,2,1,1,4,0,1,0,Win,N Swarbrick
+Newcastle,Crystal Palace,1,0,1,5,0,1,0,Win,M Dean
+Stoke,Sunderland,1,1,0,5,0,1,0,Draw,C Pawson
+Watford,Aston Villa,3,2,1,6,0,1,0,Win,A Taylor
+West Brom,West Ham,0,3,-3,0,1,0,0,Loss,L Mason
+Man United,Leicester,1,1,0,0,1,0,0,Draw,M Oliver
+Southampton,Man City,4,2,2,1,0,0,0,Win,A Marriner
+Swansea,Liverpool,3,1,2,2,0,0,0,Win,R East
+Chelsea,Tottenham,2,2,0,2,0,0,0,Draw,M Clattenburg
+Aston Villa,Newcastle,0,0,0,2,0,0,0,Draw,R Madley
+Bournemouth,West Brom,1,1,0,2,0,0,0,Draw,M Clattenburg
+Crystal Palace,Stoke,2,1,1,3,0,1,0,Win,K Friend
+Leicester,Everton,3,1,2,4,0,1,0,Win,A Marriner
+Norwich,Man United,0,1,-1,0,1,0,0,Loss,C Pawson
+Sunderland,Chelsea,3,2,1,1,0,0,0,Win,M Jones
+West Ham,Swansea,1,4,-3,0,1,0,0,Loss,M Oliver
+Liverpool,Watford,2,0,2,1,0,0,0,Win,L Mason
+Man City,Arsenal,2,2,0,1,0,0,0,Draw,A Taylor
+Tottenham,Southampton,1,2,-1,0,1,0,0,Loss,J Moss
+West Ham,Man United,3,2,1,1,0,0,0,Win,M Dean
+Liverpool,Chelsea,1,1,0,1,0,0,0,Draw,M Oliver
+Norwich,Watford,4,2,2,2,0,0,0,Win,R East
+Sunderland,Everton,3,0,3,3,0,1,0,Win,A Taylor
+Arsenal,Aston Villa,4,0,4,4,0,1,0,Win,M Clattenburg
+Chelsea,Leicester,1,1,0,4,0,1,0,Draw,C Pawson
+Everton,Norwich,3,0,3,5,0,1,0,Win,L Mason
+Newcastle,Tottenham,5,1,4,6,0,1,0,Win,A Taylor
+Southampton,Crystal Palace,4,1,3,7,0,1,0,Win,M Oliver
+Stoke,West Ham,2,1,1,8,0,1,0,Win,M Jones
+Swansea,Man City,1,1,0,8,0,1,0,Draw,M Dean
+Watford,Sunderland,2,2,0,8,0,1,0,Draw,K Friend
+West Brom,Liverpool,1,1,0,8,0,1,0,Draw,R Madley
+Man United,Bournemouth,3,1,2,9,0,1,0,Win,J Moss
+Burnley,Swansea,0,1,-1,0,1,0,0,Loss,J Moss
+Crystal Palace,West Brom,0,1,-1,0,2,0,0,Loss,C Pawson
+Everton,Tottenham,1,1,0,0,2,0,0,Draw,M Atkinson
+Hull,Leicester,2,1,1,1,0,0,0,Win,M Dean
+Man City,Sunderland,2,1,1,2,0,0,0,Win,R Madley
+Middlesbrough,Stoke,1,1,0,2,0,0,0,Draw,K Friend
+Southampton,Watford,1,1,0,2,0,0,0,Draw,R East
+Arsenal,Liverpool,3,4,-1,0,1,0,0,Loss,M Oliver
+Bournemouth,Man United,1,3,-2,0,2,0,0,Loss,A Marriner
+Chelsea,West Ham,2,1,1,1,0,0,0,Win,A Taylor
+Man United,Southampton,2,0,2,2,0,0,0,Win,A Taylor
+Burnley,Liverpool,2,0,2,3,0,1,0,Win,L Mason
+Leicester,Arsenal,0,0,0,3,0,1,0,Draw,M Clattenburg
+Stoke,Man City,1,4,-3,0,1,0,0,Loss,M Dean
+Swansea,Hull,0,2,-2,0,2,0,0,Loss,S Attwell
+Tottenham,Crystal Palace,1,0,1,1,0,0,0,Win,M Oliver
+Watford,Chelsea,1,2,-1,0,1,0,0,Loss,J Moss
+West Brom,Everton,1,2,-1,0,2,0,0,Loss,N Swarbrick
+Sunderland,Middlesbrough,1,2,-1,0,3,0,1,Loss,M Atkinson
+West Ham,Bournemouth,1,0,1,1,0,0,0,Win,C Pawson
+Chelsea,Burnley,3,0,3,2,0,0,0,Win,M Clattenburg
+Crystal Palace,Bournemouth,1,1,0,2,0,0,0,Draw,M Dean
+Everton,Stoke,1,0,1,3,0,1,0,Win,M Oliver
+Hull,Man United,0,1,-1,0,1,0,0,Loss,J Moss
+Leicester,Swansea,2,1,1,1,0,0,0,Win,R East
+Southampton,Sunderland,1,1,0,1,0,0,0,Draw,L Mason
+Tottenham,Liverpool,1,1,0,1,0,0,0,Draw,R Madley
+Watford,Arsenal,1,3,-2,0,1,0,0,Loss,K Friend
+Man City,West Ham,3,1,2,1,0,0,0,Win,A Marriner
+West Brom,Middlesbrough,0,0,0,1,0,0,0,Draw,A Taylor
+Arsenal,Southampton,2,1,1,2,0,0,0,Win,R Madley
+Bournemouth,West Brom,1,0,1,3,0,1,0,Win,K Friend
+Burnley,Hull,1,1,0,3,0,1,0,Draw,P Tierney
+Liverpool,Leicester,4,1,3,4,0,1,0,Win,C Pawson
+Man United,Man City,1,2,-1,0,1,0,0,Loss,M Clattenburg
+Middlesbrough,Crystal Palace,1,2,-1,0,2,0,0,Loss,N Swarbrick
+Stoke,Tottenham,0,4,-4,0,3,0,1,Loss,A Taylor
+West Ham,Watford,2,4,-2,0,4,0,1,Loss,M Atkinson
+Swansea,Chelsea,2,2,0,0,4,0,1,Draw,A Marriner
+Sunderland,Everton,0,3,-3,0,5,0,1,Loss,M Jones
+Chelsea,Liverpool,1,2,-1,0,6,0,1,Loss,M Atkinson
+Everton,Middlesbrough,3,1,2,1,0,0,0,Win,L Mason
+Hull,Arsenal,1,4,-3,0,1,0,0,Loss,R East
+Leicester,Burnley,3,0,3,1,0,0,0,Win,A Taylor
+Man City,Bournemouth,4,0,4,2,0,0,0,Win,J Moss
+West Brom,West Ham,4,2,2,3,0,1,0,Win,M Clattenburg
+Crystal Palace,Stoke,4,1,3,4,0,1,0,Win,C Pawson
+Southampton,Swansea,1,0,1,5,0,1,0,Win,M Jones
+Tottenham,Sunderland,1,0,1,6,0,1,0,Win,M Dean
+Watford,Man United,3,1,2,7,0,1,0,Win,M Oliver
+Arsenal,Chelsea,3,0,3,8,0,1,0,Win,M Oliver
+Bournemouth,Everton,1,0,1,9,0,1,0,Win,R Madley
+Liverpool,Hull,5,1,4,10,0,1,0,Win,A Marriner
+Man United,Leicester,4,1,3,11,0,1,0,Win,M Dean
+Middlesbrough,Tottenham,1,2,-1,0,1,0,0,Loss,G Scott
+Stoke,West Brom,1,1,0,0,1,0,0,Draw,M Atkinson
+Sunderland,Crystal Palace,2,3,-1,0,2,0,0,Loss,A Taylor
+Swansea,Man City,1,3,-2,0,3,0,1,Loss,N Swarbrick
+West Ham,Southampton,0,3,-3,0,4,0,1,Loss,J Moss
+Burnley,Watford,2,0,2,1,0,0,0,Win,M Jones
+Everton,Crystal Palace,1,1,0,1,0,0,0,Draw,J Moss
+Hull,Chelsea,0,2,-2,0,1,0,0,Loss,A Taylor
+Sunderland,West Brom,1,1,0,0,1,0,0,Draw,S Attwell
+Swansea,Liverpool,1,2,-1,0,2,0,0,Loss,M Oliver
+Watford,Bournemouth,2,2,0,0,2,0,0,Draw,M Dean
+West Ham,Middlesbrough,1,1,0,0,2,0,0,Draw,N Swarbrick
+Burnley,Arsenal,0,1,-1,0,3,0,1,Loss,C Pawson
+Leicester,Southampton,0,0,0,0,3,0,1,Draw,M Atkinson
+Man United,Stoke,1,1,0,0,3,0,1,Draw,R Madley
+Tottenham,Man City,2,0,2,1,0,0,0,Win,A Marriner
+Arsenal,Swansea,3,2,1,2,0,0,0,Win,J Moss
+Bournemouth,Hull,6,1,5,3,0,1,0,Win,L Mason
+Chelsea,Leicester,3,0,3,4,0,1,0,Win,A Marriner
+Crystal Palace,West Ham,0,1,-1,0,1,0,0,Loss,M Atkinson
+Man City,Everton,1,1,0,0,1,0,0,Draw,M Oliver
+Stoke,Sunderland,2,0,2,1,0,0,0,Win,M Jones
+West Brom,Tottenham,1,1,0,1,0,0,0,Draw,K Friend
+Middlesbrough,Watford,0,1,-1,0,1,0,0,Loss,R East
+Southampton,Burnley,3,1,2,1,0,0,0,Win,M Dean
+Liverpool,Man United,0,0,0,1,0,0,0,Draw,A Taylor
+Arsenal,Middlesbrough,0,0,0,1,0,0,0,Draw,M Dean
+Bournemouth,Tottenham,0,0,0,1,0,0,0,Draw,C Pawson
+Burnley,Everton,2,1,1,2,0,0,0,Win,M Jones
+Hull,Stoke,0,2,-2,0,1,0,0,Loss,K Friend
+Leicester,Crystal Palace,3,1,2,1,0,0,0,Win,M Oliver
+Liverpool,West Brom,2,1,1,2,0,0,0,Win,N Swarbrick
+Swansea,Watford,0,0,0,2,0,0,0,Draw,P Tierney
+West Ham,Sunderland,1,0,1,3,0,1,0,Win,R Madley
+Chelsea,Man United,4,0,4,4,0,1,0,Win,M Atkinson
+Man City,Southampton,1,1,0,4,0,1,0,Draw,M Clattenburg
+Crystal Palace,Liverpool,2,4,-2,0,1,0,0,Loss,A Marriner
+Man United,Burnley,0,0,0,0,1,0,0,Draw,M Clattenburg
+Middlesbrough,Bournemouth,2,0,2,1,0,0,0,Win,S Attwell
+Sunderland,Arsenal,1,4,-3,0,1,0,0,Loss,M Atkinson
+Tottenham,Leicester,1,1,0,0,1,0,0,Draw,R Madley
+Watford,Hull,1,0,1,1,0,0,0,Win,J Moss
+West Brom,Man City,0,4,-4,0,1,0,0,Loss,L Mason
+Everton,West Ham,2,0,2,1,0,0,0,Win,A Taylor
+Southampton,Chelsea,0,2,-2,0,1,0,0,Loss,M Jones
+Stoke,Swansea,3,1,2,1,0,0,0,Win,M Oliver
+Bournemouth,Sunderland,1,2,-1,0,1,0,0,Loss,M Dean
+Burnley,Crystal Palace,3,2,1,1,0,0,0,Win,A Taylor
+Chelsea,Everton,5,0,5,2,0,0,0,Win,R Madley
+Man City,Middlesbrough,1,1,0,2,0,0,0,Draw,K Friend
+West Ham,Stoke,1,1,0,2,0,0,0,Draw,A Marriner
+Arsenal,Tottenham,1,1,0,2,0,0,0,Draw,M Clattenburg
+Hull,Southampton,2,1,1,3,0,1,0,Win,G Scott
+Leicester,West Brom,1,2,-1,0,1,0,0,Loss,C Pawson
+Liverpool,Watford,6,1,5,1,0,0,0,Win,M Oliver
+Swansea,Man United,1,3,-2,0,1,0,0,Loss,N Swarbrick
+Crystal Palace,Man City,1,2,-1,0,2,0,0,Loss,R Madley
+Everton,Swansea,1,1,0,0,2,0,0,Draw,M Atkinson
+Man United,Arsenal,1,1,0,0,2,0,0,Draw,A Marriner
+Southampton,Liverpool,0,0,0,0,2,0,0,Draw,M Clattenburg
+Stoke,Bournemouth,0,1,-1,0,3,0,1,Loss,R East
+Sunderland,Hull,3,0,3,1,0,0,0,Win,L Mason
+Tottenham,West Ham,3,2,1,2,0,0,0,Win,M Dean
+Watford,Leicester,2,1,1,3,0,1,0,Win,N Swarbrick
+Middlesbrough,Chelsea,0,1,-1,0,1,0,0,Loss,J Moss
+West Brom,Burnley,4,0,4,1,0,0,0,Win,M Jones
+Burnley,Man City,1,2,-1,0,1,0,0,Loss,A Marriner
+Chelsea,Tottenham,2,1,1,1,0,0,0,Win,M Oliver
+Hull,West Brom,1,1,0,1,0,0,0,Draw,P Tierney
+Leicester,Middlesbrough,2,2,0,1,0,0,0,Draw,L Mason
+Liverpool,Sunderland,2,0,2,2,0,0,0,Win,A Taylor
+Swansea,Crystal Palace,5,4,1,3,0,1,0,Win,K Friend
+Arsenal,Bournemouth,3,1,2,4,0,1,0,Win,M Jones
+Man United,West Ham,1,1,0,4,0,1,0,Draw,J Moss
+Southampton,Everton,1,0,1,5,0,1,0,Win,C Pawson
+Watford,Stoke,0,1,-1,0,1,0,0,Loss,R Madley
+Crystal Palace,Southampton,3,0,3,1,0,0,0,Win,N Swarbrick
+Man City,Chelsea,1,3,-2,0,1,0,0,Loss,A Taylor
+Stoke,Burnley,2,0,2,1,0,0,0,Win,M Clattenburg
+Sunderland,Leicester,2,1,1,2,0,0,0,Win,A Marriner
+Tottenham,Swansea,5,0,5,3,0,1,0,Win,J Moss
+West Brom,Watford,3,1,2,4,0,1,0,Win,G Scott
+West Ham,Arsenal,1,5,-4,0,1,0,0,Loss,C Pawson
+Bournemouth,Liverpool,4,3,1,1,0,0,0,Win,R Madley
+Everton,Man United,1,1,0,1,0,0,0,Draw,M Oliver
+Middlesbrough,Hull,1,0,1,2,0,0,0,Win,M Dean
+Arsenal,Stoke,3,1,2,3,0,1,0,Win,L Mason
+Burnley,Bournemouth,3,2,1,4,0,1,0,Win,M Atkinson
+Hull,Crystal Palace,3,3,0,4,0,1,0,Draw,M Jones
+Leicester,Man City,4,2,2,5,0,1,0,Win,M Oliver
+Swansea,Sunderland,3,0,3,6,0,1,0,Win,C Pawson
+Watford,Everton,3,2,1,7,0,1,0,Win,A Taylor
+Chelsea,West Brom,1,0,1,8,0,1,0,Win,M Dean
+Liverpool,West Ham,2,2,0,8,0,1,0,Draw,M Clattenburg
+Man United,Tottenham,1,0,1,9,0,1,0,Win,R Madley
+Southampton,Middlesbrough,1,0,1,10,0,1,0,Win,S Attwell
+Bournemouth,Leicester,1,0,1,11,0,1,0,Win,P Tierney
+Everton,Arsenal,2,1,1,12,0,1,0,Win,M Clattenburg
+Crystal Palace,Man United,1,2,-1,0,1,0,0,Loss,C Pawson
+Man City,Watford,2,0,2,1,0,0,0,Win,K Friend
+Middlesbrough,Liverpool,0,3,-3,0,1,0,0,Loss,J Moss
+Stoke,Southampton,0,0,0,0,1,0,0,Draw,A Taylor
+Sunderland,Chelsea,0,1,-1,0,2,0,0,Loss,N Swarbrick
+Tottenham,Hull,3,0,3,1,0,0,0,Win,A Marriner
+West Brom,Swansea,3,1,2,2,0,0,0,Win,M Oliver
+West Ham,Burnley,1,0,1,3,0,1,0,Win,R Madley
+Crystal Palace,Chelsea,0,1,-1,0,1,0,0,Loss,J Moss
+Middlesbrough,Swansea,3,0,3,1,0,0,0,Win,N Swarbrick
+Stoke,Leicester,2,2,0,1,0,0,0,Draw,C Pawson
+Sunderland,Watford,1,0,1,2,0,0,0,Win,R Madley
+West Brom,Man United,0,2,-2,0,1,0,0,Loss,A Taylor
+West Ham,Hull,1,0,1,1,0,0,0,Win,L Mason
+Bournemouth,Southampton,1,3,-2,0,1,0,0,Loss,M Clattenburg
+Man City,Arsenal,2,1,1,1,0,0,0,Win,M Atkinson
+Tottenham,Burnley,2,1,1,2,0,0,0,Win,K Friend
+Everton,Liverpool,0,1,-1,0,1,0,0,Loss,M Dean
+Arsenal,West Brom,1,0,1,1,0,0,0,Win,N Swarbrick
+Burnley,Middlesbrough,1,0,1,2,0,0,0,Win,C Pawson
+Chelsea,Bournemouth,3,0,3,3,0,1,0,Win,M Jones
+Hull,Man City,0,3,-3,0,1,0,0,Loss,R Madley
+Leicester,Everton,0,2,-2,0,2,0,0,Loss,S Attwell
+Man United,Sunderland,3,1,2,1,0,0,0,Win,M Atkinson
+Swansea,West Ham,1,4,-3,0,1,0,0,Loss,A Marriner
+Watford,Crystal Palace,1,1,0,0,1,0,0,Draw,M Clattenburg
+Liverpool,Stoke,4,1,3,1,0,0,0,Win,M Oliver
+Southampton,Tottenham,1,4,-3,0,1,0,0,Loss,M Dean
+Hull,Everton,2,2,0,0,1,0,0,Draw,J Moss
+Burnley,Sunderland,4,1,3,1,0,0,0,Win,G Scott
+Chelsea,Stoke,4,2,2,2,0,0,0,Win,R Madley
+Leicester,West Ham,1,0,1,3,0,1,0,Win,A Taylor
+Liverpool,Man City,1,0,1,4,0,1,0,Win,C Pawson
+Man United,Middlesbrough,2,1,1,5,0,1,0,Win,L Mason
+Southampton,West Brom,1,2,-1,0,1,0,0,Loss,M Jones
+Swansea,Bournemouth,0,3,-3,0,2,0,0,Loss,K Friend
+Arsenal,Crystal Palace,2,0,2,1,0,0,0,Win,A Marriner
+Watford,Tottenham,1,4,-3,0,1,0,0,Loss,M Oliver
+Everton,Southampton,3,0,3,1,0,0,0,Win,K Friend
+Man City,Burnley,2,1,1,2,0,0,0,Win,L Mason
+Middlesbrough,Leicester,0,0,0,2,0,0,0,Draw,R Madley
+Sunderland,Liverpool,2,2,0,2,0,0,0,Draw,A Taylor
+West Brom,Hull,3,1,2,3,0,1,0,Win,M Clattenburg
+West Ham,Man United,0,2,-2,0,1,0,0,Loss,M Dean
+Bournemouth,Arsenal,3,3,0,0,1,0,0,Draw,M Oliver
+Crystal Palace,Swansea,1,2,-1,0,2,0,0,Loss,P Tierney
+Stoke,Watford,2,0,2,1,0,0,0,Win,N Swarbrick
+Tottenham,Chelsea,2,0,2,2,0,0,0,Win,M Atkinson
+Burnley,Southampton,1,0,1,3,0,1,0,Win,P Tierney
+Hull,Bournemouth,3,1,2,4,0,1,0,Win,M Atkinson
+Leicester,Chelsea,0,3,-3,0,1,0,0,Loss,A Marriner
+Sunderland,Stoke,1,3,-2,0,2,0,0,Loss,M Dean
+Swansea,Arsenal,0,4,-4,0,3,0,1,Loss,M Jones
+Tottenham,West Brom,4,0,4,1,0,0,0,Win,A Taylor
+Watford,Middlesbrough,0,0,0,1,0,0,0,Draw,J Moss
+West Ham,Crystal Palace,3,0,3,2,0,0,0,Win,N Swarbrick
+Everton,Man City,4,0,4,3,0,1,0,Win,M Clattenburg
+Man United,Liverpool,1,1,0,3,0,1,0,Draw,M Oliver
+Bournemouth,Watford,2,2,0,3,0,1,0,Draw,L Mason
+Crystal Palace,Everton,0,1,-1,0,1,0,0,Loss,A Taylor
+Liverpool,Swansea,2,3,-1,0,2,0,0,Loss,K Friend
+Man City,Tottenham,2,2,0,0,2,0,0,Draw,A Marriner
+Middlesbrough,West Ham,1,3,-2,0,3,0,1,Loss,M Atkinson
+Stoke,Man United,1,1,0,0,3,0,1,Draw,M Clattenburg
+West Brom,Sunderland,2,0,2,1,0,0,0,Win,C Pawson
+Arsenal,Burnley,2,1,1,2,0,0,0,Win,J Moss
+Chelsea,Hull,2,0,2,3,0,1,0,Win,N Swarbrick
+Southampton,Leicester,3,0,3,4,0,1,0,Win,M Oliver
+Arsenal,Watford,1,2,-1,0,1,0,0,Loss,A Marriner
+Bournemouth,Crystal Palace,0,2,-2,0,2,0,0,Loss,J Moss
+Burnley,Leicester,1,0,1,1,0,0,0,Win,M Dean
+Liverpool,Chelsea,1,1,0,1,0,0,0,Draw,M Clattenburg
+Middlesbrough,West Brom,1,1,0,1,0,0,0,Draw,S Attwell
+Sunderland,Tottenham,0,0,0,1,0,0,0,Draw,L Mason
+Swansea,Southampton,2,1,1,2,0,0,0,Win,R East
+Man United,Hull,0,0,0,2,0,0,0,Draw,M Jones
+Stoke,Everton,1,1,0,2,0,0,0,Draw,C Pawson
+West Ham,Man City,0,4,-4,0,1,0,0,Loss,K Friend
+Chelsea,Arsenal,3,1,2,1,0,0,0,Win,M Atkinson
+Crystal Palace,Sunderland,0,4,-4,0,1,0,0,Loss,A Marriner
+Everton,Bournemouth,6,3,3,1,0,0,0,Win,M Jones
+Hull,Liverpool,2,0,2,2,0,0,0,Win,L Mason
+Southampton,West Ham,1,3,-2,0,1,0,0,Loss,G Scott
+Tottenham,Middlesbrough,1,0,1,1,0,0,0,Win,M Clattenburg
+Watford,Burnley,2,1,1,2,0,0,0,Win,M Oliver
+West Brom,Stoke,1,0,1,3,0,1,0,Win,K Friend
+Leicester,Man United,0,3,-3,0,1,0,0,Loss,A Taylor
+Man City,Swansea,2,1,1,1,0,0,0,Win,M Dean
+Arsenal,Hull,2,0,2,2,0,0,0,Win,M Clattenburg
+Liverpool,Tottenham,2,0,2,3,0,1,0,Win,A Taylor
+Man United,Watford,2,0,2,4,0,1,0,Win,R Madley
+Middlesbrough,Everton,0,0,0,4,0,1,0,Draw,M Dean
+Stoke,Crystal Palace,1,0,1,5,0,1,0,Win,M Atkinson
+Sunderland,Southampton,0,4,-4,0,1,0,0,Loss,P Tierney
+West Ham,West Brom,2,2,0,0,1,0,0,Draw,M Oliver
+Burnley,Chelsea,1,1,0,0,1,0,0,Draw,K Friend
+Swansea,Leicester,2,0,2,1,0,0,0,Win,J Moss
+Bournemouth,Man City,0,2,-2,0,1,0,0,Loss,N Swarbrick
+Chelsea,Swansea,3,1,2,1,0,0,0,Win,N Swarbrick
+Crystal Palace,Middlesbrough,1,0,1,2,0,0,0,Win,R Madley
+Everton,Sunderland,2,0,2,3,0,1,0,Win,S Attwell
+Hull,Burnley,1,1,0,3,0,1,0,Draw,M Atkinson
+Watford,West Ham,1,1,0,3,0,1,0,Draw,C Pawson
+West Brom,Bournemouth,2,1,1,4,0,1,0,Win,M Clattenburg
+Tottenham,Stoke,4,0,4,5,0,1,0,Win,J Moss
+Leicester,Liverpool,3,1,2,6,0,1,0,Win,M Oliver
+Leicester,Hull,3,1,2,7,0,1,0,Win,M Dean
+Liverpool,Arsenal,3,1,2,8,0,1,0,Win,R Madley
+Man United,Bournemouth,1,1,0,8,0,1,0,Draw,K Friend
+Stoke,Middlesbrough,2,0,2,9,0,1,0,Win,C Pawson
+Swansea,Burnley,3,2,1,10,0,1,0,Win,A Taylor
+Watford,Southampton,3,4,-1,0,1,0,0,Loss,J Moss
+West Brom,Crystal Palace,0,2,-2,0,2,0,0,Loss,M Jones
+Sunderland,Man City,0,2,-2,0,3,0,1,Loss,M Atkinson
+Tottenham,Everton,3,2,1,1,0,0,0,Win,M Oliver
+West Ham,Chelsea,1,2,-1,0,1,0,0,Loss,A Marriner
+Man City,Stoke,0,0,0,0,1,0,0,Draw,N Swarbrick
+Bournemouth,West Ham,3,2,1,1,0,0,0,Win,R Madley
+Everton,West Brom,3,0,3,2,0,0,0,Win,G Scott
+Hull,Swansea,2,1,1,3,0,1,0,Win,A Marriner
+Liverpool,Burnley,2,1,1,4,0,1,0,Win,C Pawson
+Bournemouth,Swansea,2,0,2,5,0,1,0,Win,M Dean
+Crystal Palace,Watford,1,0,1,6,0,1,0,Win,M Atkinson
+Everton,Hull,4,0,4,7,0,1,0,Win,P Tierney
+Stoke,Chelsea,1,2,-1,0,1,0,0,Loss,A Taylor
+Sunderland,Burnley,0,0,0,0,1,0,0,Draw,R Madley
+West Brom,Arsenal,3,1,2,1,0,0,0,Win,N Swarbrick
+West Ham,Leicester,2,3,-1,0,1,0,0,Loss,R East
+Man City,Liverpool,1,1,0,0,1,0,0,Draw,M Oliver
+Middlesbrough,Man United,1,3,-2,0,2,0,0,Loss,J Moss
+Tottenham,Southampton,2,1,1,1,0,0,0,Win,A Marriner
+Burnley,Tottenham,0,2,-2,0,1,0,0,Loss,S Attwell
+Chelsea,Crystal Palace,1,2,-1,0,2,0,0,Loss,C Pawson
+Hull,West Ham,2,1,1,1,0,0,0,Win,M Jones
+Leicester,Stoke,2,0,2,2,0,0,0,Win,L Mason
+Liverpool,Everton,3,1,2,3,0,1,0,Win,A Taylor
+Man United,West Brom,0,0,0,3,0,1,0,Draw,M Dean
+Southampton,Bournemouth,0,0,0,3,0,1,0,Draw,J Moss
+Watford,Sunderland,1,0,1,4,0,1,0,Win,L Probert
+Arsenal,Man City,2,2,0,4,0,1,0,Draw,A Marriner
+Swansea,Middlesbrough,0,0,0,4,0,1,0,Draw,R Madley
+Burnley,Stoke,1,0,1,5,0,1,0,Win,K Friend
+Leicester,Sunderland,2,0,2,6,0,1,0,Win,G Scott
+Man United,Everton,1,1,0,6,0,1,0,Draw,N Swarbrick
+Watford,West Brom,2,0,2,7,0,1,0,Win,P Tierney
+Arsenal,West Ham,3,0,3,8,0,1,0,Win,M Atkinson
+Chelsea,Man City,2,1,1,9,0,1,0,Win,M Dean
+Hull,Middlesbrough,4,2,2,10,0,1,0,Win,M Oliver
+Liverpool,Bournemouth,2,2,0,10,0,1,0,Draw,L Mason
+Southampton,Crystal Palace,3,1,2,11,0,1,0,Win,R East
+Swansea,Tottenham,1,3,-2,0,1,0,0,Loss,J Moss
+Bournemouth,Chelsea,1,3,-2,0,2,0,0,Loss,A Marriner
+Man City,Hull,3,1,2,1,0,0,0,Win,J Moss
+Middlesbrough,Burnley,0,0,0,1,0,0,0,Draw,M Atkinson
+Stoke,Liverpool,1,2,-1,0,1,0,0,Loss,M Dean
+Tottenham,Watford,4,0,4,1,0,0,0,Win,A Taylor
+West Brom,Southampton,0,1,-1,0,1,0,0,Loss,C Kavanagh
+West Ham,Swansea,1,0,1,1,0,0,0,Win,K Friend
+Everton,Leicester,4,2,2,2,0,0,0,Win,R Madley
+Sunderland,Man United,0,3,-3,0,1,0,0,Loss,C Pawson
+Crystal Palace,Arsenal,3,0,3,1,0,0,0,Win,M Oliver
+Crystal Palace,Leicester,2,2,0,1,0,0,0,Draw,M Dean
+Everton,Burnley,3,1,2,2,0,0,0,Win,M Clattenburg
+Southampton,Man City,0,3,-3,0,1,0,0,Loss,N Swarbrick
+Stoke,Hull,3,1,2,1,0,0,0,Win,S Attwell
+Sunderland,West Ham,2,2,0,1,0,0,0,Draw,A Marriner
+Tottenham,Bournemouth,4,0,4,2,0,0,0,Win,M Oliver
+Watford,Swansea,1,0,1,3,0,1,0,Win,L Mason
+Man United,Chelsea,2,0,2,4,0,1,0,Win,R Madley
+West Brom,Liverpool,0,1,-1,0,1,0,0,Loss,J Moss
+Middlesbrough,Arsenal,1,2,-1,0,2,0,0,Loss,A Taylor
+Bournemouth,Middlesbrough,4,0,4,1,0,0,0,Win,G Scott
+Hull,Watford,2,0,2,2,0,0,0,Win,R Madley
+Swansea,Stoke,2,0,2,3,0,1,0,Win,M Oliver
+West Ham,Everton,0,0,0,3,0,1,0,Draw,R East
+Burnley,Man United,0,2,-2,0,1,0,0,Loss,A Taylor
+Liverpool,Crystal Palace,1,2,-1,0,2,0,0,Loss,A Marriner
+Chelsea,Southampton,4,2,2,1,0,0,0,Win,L Mason
+Arsenal,Leicester,1,0,1,2,0,0,0,Win,M Jones
+Crystal Palace,Tottenham,0,1,-1,0,1,0,0,Loss,J Moss
+Middlesbrough,Sunderland,1,0,1,1,0,0,0,Win,M Dean
+Man City,Man United,0,0,0,1,0,0,0,Draw,M Atkinson
+Crystal Palace,Burnley,0,2,-2,0,1,0,0,Loss,R Madley
+Southampton,Hull,0,0,0,0,1,0,0,Draw,M Dean
+Stoke,West Ham,0,0,0,0,1,0,0,Draw,L Probert
+Sunderland,Bournemouth,0,1,-1,0,2,0,0,Loss,S Attwell
+West Brom,Leicester,0,1,-1,0,3,0,1,Loss,M Clattenburg
+Everton,Chelsea,0,3,-3,0,4,0,1,Loss,J Moss
+Man United,Swansea,1,1,0,0,4,0,1,Draw,N Swarbrick
+Middlesbrough,Man City,2,2,0,0,4,0,1,Draw,K Friend
+Tottenham,Arsenal,2,0,2,1,0,0,0,Win,M Oliver
+Watford,Liverpool,0,1,-1,0,1,0,0,Loss,C Pawson
+West Ham,Tottenham,1,0,1,1,0,0,0,Win,A Taylor
+Bournemouth,Stoke,2,2,0,1,0,0,0,Draw,P Tierney
+Burnley,West Brom,2,2,0,1,0,0,0,Draw,M Jones
+Hull,Sunderland,0,2,-2,0,1,0,0,Loss,N Swarbrick
+Leicester,Watford,3,0,3,1,0,0,0,Win,R East
+Man City,Crystal Palace,5,0,5,2,0,0,0,Win,M Oliver
+Swansea,Everton,1,0,1,3,0,1,0,Win,M Atkinson
+Arsenal,Man United,2,0,2,4,0,1,0,Win,A Marriner
+Liverpool,Southampton,0,0,0,4,0,1,0,Draw,R Madley
+Chelsea,Middlesbrough,3,0,3,5,0,1,0,Win,C Pawson
+Southampton,Arsenal,0,2,-2,0,1,0,0,Loss,J Moss
+Everton,Watford,1,0,1,1,0,0,0,Win,K Friend
+West Brom,Chelsea,0,1,-1,0,1,0,0,Loss,M Oliver
+Bournemouth,Burnley,2,1,1,1,0,0,0,Win,L Probert
+Man City,Leicester,2,1,1,2,0,0,0,Win,R Madley
+Middlesbrough,Southampton,1,2,-1,0,1,0,0,Loss,A Taylor
+Stoke,Arsenal,1,4,-3,0,2,0,0,Loss,M Dean
+Sunderland,Swansea,0,2,-2,0,3,0,1,Loss,A Marriner
+Crystal Palace,Hull,4,0,4,1,0,0,0,Win,M Atkinson
+Tottenham,Man United,2,1,1,2,0,0,0,Win,J Moss
+West Ham,Liverpool,0,4,-4,0,1,0,0,Loss,N Swarbrick
+Chelsea,Watford,4,3,1,1,0,0,0,Win,L Mason
+Arsenal,Sunderland,2,0,2,2,0,0,0,Win,R East
+Man City,West Brom,3,1,2,3,0,1,0,Win,C Pawson
+Southampton,Man United,0,0,0,3,0,1,0,Draw,M Dean
+Leicester,Tottenham,1,6,-5,0,1,0,0,Loss,M Oliver
+Arsenal,Everton,3,1,2,1,0,0,0,Win,M Oliver
+Burnley,West Ham,1,2,-1,0,1,0,0,Loss,R Madley
+Chelsea,Sunderland,5,1,4,1,0,0,0,Win,N Swarbrick
+Hull,Tottenham,1,7,-6,0,1,0,0,Loss,A Marriner
+Leicester,Bournemouth,1,1,0,0,1,0,0,Draw,l Mason
+Liverpool,Middlesbrough,3,0,3,1,0,0,0,Win,M Atkinson
+Man United,Crystal Palace,2,0,2,2,0,0,0,Win,A Taylor
+Southampton,Stoke,0,1,-1,0,1,0,0,Loss,L Probert
+Swansea,West Brom,2,1,1,1,0,0,0,Win,M Dean
+Watford,Man City,0,5,-5,0,1,0,0,Loss,J Moss
+Arsenal,Leicester,4,3,1,1,0,0,0,Win,M Dean
+Brighton,Man City,0,2,-2,0,1,0,0,Loss,M Oliver
+Chelsea,Burnley,2,3,-1,0,2,0,0,Loss,C Pawson
+Crystal Palace,Huddersfield,0,3,-3,0,3,0,1,Loss,J Moss
+Everton,Stoke,1,0,1,1,0,0,0,Win,N Swarbrick
+Southampton,Swansea,0,0,0,1,0,0,0,Draw,M Jones
+Watford,Liverpool,3,3,0,1,0,0,0,Draw,A Taylor
+West Brom,Bournemouth,1,0,1,2,0,0,0,Win,R Madley
+Man United,West Ham,4,0,4,3,0,1,0,Win,M Atkinson
+Newcastle,Tottenham,0,2,-2,0,1,0,0,Loss,A Marriner
+Bournemouth,Watford,0,2,-2,0,2,0,0,Loss,R East
+Burnley,West Brom,0,1,-1,0,3,0,1,Loss,M Atkinson
+Leicester,Brighton,2,0,2,1,0,0,0,Win,L Probert
+Liverpool,Crystal Palace,1,0,1,2,0,0,0,Win,K Friend
+Southampton,West Ham,3,2,1,3,0,1,0,Win,L Mason
+Stoke,Arsenal,1,0,1,4,0,1,0,Win,A Marriner
+Swansea,Man United,0,4,-4,0,1,0,0,Loss,J Moss
+Huddersfield,Newcastle,1,0,1,1,0,0,0,Win,C Pawson
+Tottenham,Chelsea,1,2,-1,0,1,0,0,Loss,A Taylor
+Man City,Everton,1,1,0,0,1,0,0,Draw,R Madley
+Bournemouth,Man City,1,2,-1,0,2,0,0,Loss,M Dean
+Crystal Palace,Swansea,0,2,-2,0,3,0,1,Loss,A Marriner
+Huddersfield,Southampton,0,0,0,0,3,0,1,Draw,S Attwell
+Man United,Leicester,2,0,2,1,0,0,0,Win,M Oliver
+Newcastle,West Ham,3,0,3,2,0,0,0,Win,N Swarbrick
+Watford,Brighton,0,0,0,2,0,0,0,Draw,G Scott
+Chelsea,Everton,2,0,2,3,0,1,0,Win,J Moss
+Liverpool,Arsenal,4,0,4,4,0,1,0,Win,C Pawson
+Tottenham,Burnley,1,1,0,4,0,1,0,Draw,L Mason
+West Brom,Stoke,1,1,0,4,0,1,0,Draw,A Taylor
+Arsenal,Bournemouth,3,0,3,5,0,1,0,Win,A Taylor
+Brighton,West Brom,3,1,2,6,0,1,0,Win,C Kavanagh
+Everton,Tottenham,0,3,-3,0,1,0,0,Loss,G Scott
+Leicester,Chelsea,1,2,-1,0,2,0,0,Loss,L Mason
+Man City,Liverpool,5,0,5,1,0,0,0,Win,J Moss
+Southampton,Watford,0,2,-2,0,1,0,0,Loss,L Probert
+Stoke,Man United,2,2,0,0,1,0,0,Draw,N Swarbrick
+Burnley,Crystal Palace,1,0,1,1,0,0,0,Win,M Oliver
+Swansea,Newcastle,0,1,-1,0,1,0,0,Loss,M Jones
+West Ham,Huddersfield,2,0,2,1,0,0,0,Win,K Friend
+Bournemouth,Brighton,2,1,1,2,0,0,0,Win,C Pawson
+Crystal Palace,Southampton,0,1,-1,0,1,0,0,Loss,R Madley
+Huddersfield,Leicester,1,1,0,0,1,0,0,Draw,J Moss
+Liverpool,Burnley,1,1,0,0,1,0,0,Draw,R East
+Newcastle,Stoke,2,1,1,1,0,0,0,Win,S Attwell
+Tottenham,Swansea,0,0,0,1,0,0,0,Draw,M Dean
+Watford,Man City,0,6,-6,0,1,0,0,Loss,A Taylor
+West Brom,West Ham,0,0,0,0,1,0,0,Draw,P Tierney
+Chelsea,Arsenal,0,0,0,0,1,0,0,Draw,M Oliver
+Man United,Everton,4,0,4,1,0,0,0,Win,A Marriner
+Burnley,Huddersfield,0,0,0,1,0,0,0,Draw,C Kavanagh
+Everton,Bournemouth,2,1,1,2,0,0,0,Win,M Atkinson
+Leicester,Liverpool,2,3,-1,0,1,0,0,Loss,A Taylor
+Man City,Crystal Palace,5,0,5,1,0,0,0,Win,N Swarbrick
+Southampton,Man United,0,1,-1,0,1,0,0,Loss,C Pawson
+Stoke,Chelsea,0,4,-4,0,2,0,0,Loss,M Dean
+Swansea,Watford,1,2,-1,0,3,0,1,Loss,L Mason
+West Ham,Tottenham,2,3,-1,0,4,0,1,Loss,M Oliver
+Brighton,Newcastle,1,0,1,1,0,0,0,Win,A Marriner
+Arsenal,West Brom,2,0,2,2,0,0,0,Win,R Madley
+Bournemouth,Leicester,0,0,0,2,0,0,0,Draw,G Scott
+Chelsea,Man City,0,1,-1,0,1,0,0,Loss,M Atkinson
+Huddersfield,Tottenham,0,4,-4,0,2,0,0,Loss,N Swarbrick
+Man United,Crystal Palace,4,0,4,1,0,0,0,Win,M Dean
+Stoke,Southampton,2,1,1,2,0,0,0,Win,M Jones
+West Brom,Watford,2,2,0,2,0,0,0,Draw,M Oliver
+West Ham,Swansea,1,0,1,3,0,1,0,Win,R East
+Arsenal,Brighton,2,0,2,4,0,1,0,Win,K Friend
+Everton,Burnley,0,1,-1,0,1,0,0,Loss,J Moss
+Newcastle,Liverpool,1,1,0,0,1,0,0,Draw,C Pawson
+Burnley,West Ham,1,1,0,0,1,0,0,Draw,S Attwell
+Crystal Palace,Chelsea,2,1,1,1,0,0,0,Win,A Marriner
+Liverpool,Man United,0,0,0,1,0,0,0,Draw,M Atkinson
+Man City,Stoke,7,2,5,2,0,0,0,Win,C Pawson
+Swansea,Huddersfield,2,0,2,3,0,1,0,Win,P Tierney
+Tottenham,Bournemouth,1,0,1,4,0,1,0,Win,R Madley
+Watford,Arsenal,2,1,1,5,0,1,0,Win,N Swarbrick
+Brighton,Everton,1,1,0,5,0,1,0,Draw,M Oliver
+Southampton,Newcastle,2,2,0,5,0,1,0,Draw,K Friend
+Leicester,West Brom,1,1,0,5,0,1,0,Draw,M Dean
+West Ham,Brighton,0,3,-3,0,1,0,0,Loss,M Atkinson
+Chelsea,Watford,4,2,2,1,0,0,0,Win,J Moss
+Huddersfield,Man United,2,1,1,2,0,0,0,Win,L Mason
+Man City,Burnley,3,0,3,3,0,1,0,Win,R East
+Newcastle,Crystal Palace,1,0,1,4,0,1,0,Win,S Attwell
+Southampton,West Brom,1,0,1,5,0,1,0,Win,G Scott
+Stoke,Bournemouth,1,2,-1,0,1,0,0,Loss,L Probert
+Swansea,Leicester,1,2,-1,0,2,0,0,Loss,M Oliver
+Everton,Arsenal,2,5,-3,0,3,0,1,Loss,C Pawson
+Tottenham,Liverpool,4,1,3,1,0,0,0,Win,A Marriner
+Arsenal,Swansea,2,1,1,2,0,0,0,Win,L Mason
+Bournemouth,Chelsea,0,1,-1,0,1,0,0,Loss,C Pawson
+Crystal Palace,West Ham,2,2,0,0,1,0,0,Draw,R Madley
+Liverpool,Huddersfield,3,0,3,1,0,0,0,Win,K Friend
+Man United,Tottenham,1,0,1,2,0,0,0,Win,J Moss
+Watford,Stoke,0,1,-1,0,1,0,0,Loss,M Oliver
+West Brom,Man City,2,3,-1,0,2,0,0,Loss,M Jones
+Brighton,Southampton,1,1,0,0,2,0,0,Draw,N Swarbrick
+Leicester,Everton,2,0,2,1,0,0,0,Win,A Marriner
+Burnley,Newcastle,1,0,1,2,0,0,0,Win,M Dean
+Huddersfield,West Brom,1,0,1,3,0,1,0,Win,R East
+Newcastle,Bournemouth,0,1,-1,0,1,0,0,Loss,P Tierney
+Southampton,Burnley,0,1,-1,0,2,0,0,Loss,L Probert
+Stoke,Leicester,2,2,0,0,2,0,0,Draw,R Madley
+Swansea,Brighton,0,1,-1,0,3,0,1,Loss,M Dean
+West Ham,Liverpool,1,4,-3,0,4,0,1,Loss,N Swarbrick
+Chelsea,Man United,1,0,1,1,0,0,0,Win,A Taylor
+Everton,Watford,3,2,1,2,0,0,0,Win,G Scott
+Man City,Arsenal,3,1,2,3,0,1,0,Win,M Oliver
+Tottenham,Crystal Palace,1,0,1,4,0,1,0,Win,K Friend
+Arsenal,Tottenham,2,0,2,5,0,1,0,Win,M Dean
+Bournemouth,Huddersfield,4,0,4,6,0,1,0,Win,L Probert
+Burnley,Swansea,2,0,2,7,0,1,0,Win,M Atkinson
+Crystal Palace,Everton,2,2,0,7,0,1,0,Draw,A Taylor
+Leicester,Man City,0,2,-2,0,1,0,0,Loss,G Scott
+Liverpool,Southampton,3,0,3,1,0,0,0,Win,M Jones
+Man United,Newcastle,4,1,3,2,0,0,0,Win,C Pawson
+West Brom,Chelsea,0,4,-4,0,1,0,0,Loss,J Moss
+Watford,West Ham,2,0,2,1,0,0,0,Win,A Marriner
+Brighton,Stoke,2,2,0,1,0,0,0,Draw,L Mason
+West Ham,Leicester,1,1,0,1,0,0,0,Draw,M Atkinson
+Crystal Palace,Stoke,2,1,1,2,0,0,0,Win,M Dean
+Liverpool,Chelsea,1,1,0,2,0,0,0,Draw,M Oliver
+Man United,Brighton,1,0,1,3,0,1,0,Win,N Swarbrick
+Newcastle,Watford,0,3,-3,0,1,0,0,Loss,C Kavanagh
+Swansea,Bournemouth,0,0,0,0,1,0,0,Draw,S Attwell
+Tottenham,West Brom,1,1,0,0,1,0,0,Draw,M Jones
+Burnley,Arsenal,0,1,-1,0,2,0,0,Loss,L Mason
+Huddersfield,Man City,1,2,-1,0,3,0,1,Loss,C Pawson
+Southampton,Everton,4,1,3,1,0,0,0,Win,K Friend
+Brighton,Crystal Palace,0,0,0,1,0,0,0,Draw,A Marriner
+Leicester,Tottenham,2,1,1,2,0,0,0,Win,A Taylor
+Watford,Man United,2,4,-2,0,1,0,0,Loss,J Moss
+West Brom,Newcastle,2,2,0,0,1,0,0,Draw,L Probert
+Arsenal,Huddersfield,5,0,5,1,0,0,0,Win,G Scott
+Bournemouth,Burnley,1,2,-1,0,1,0,0,Loss,R East
+Chelsea,Swansea,1,0,1,1,0,0,0,Win,N Swarbrick
+Everton,West Ham,4,0,4,2,0,0,0,Win,M Oliver
+Man City,Southampton,2,1,1,3,0,1,0,Win,P Tierney
+Stoke,Liverpool,0,3,-3,0,1,0,0,Loss,M Atkinson
+Arsenal,Man United,1,3,-2,0,2,0,0,Loss,A Marriner
+Brighton,Liverpool,1,5,-4,0,3,0,1,Loss,G Scott
+Chelsea,Newcastle,3,1,2,1,0,0,0,Win,K Friend
+Everton,Huddersfield,2,0,2,2,0,0,0,Win,C Kavanagh
+Leicester,Burnley,1,0,1,3,0,1,0,Win,P Tierney
+Stoke,Swansea,2,1,1,4,0,1,0,Win,C Pawson
+Watford,Tottenham,1,1,0,4,0,1,0,Draw,M Atkinson
+West Brom,Crystal Palace,0,0,0,4,0,1,0,Draw,M Oliver
+Bournemouth,Southampton,1,1,0,4,0,1,0,Draw,J Moss
+Man City,West Ham,2,1,1,5,0,1,0,Win,M Dean
+Burnley,Watford,1,0,1,6,0,1,0,Win,L Probert
+Crystal Palace,Bournemouth,2,2,0,6,0,1,0,Draw,K Friend
+Huddersfield,Brighton,2,0,2,7,0,1,0,Win,S Attwell
+Newcastle,Leicester,2,3,-1,0,1,0,0,Loss,N Swarbrick
+Swansea,West Brom,1,0,1,1,0,0,0,Win,M Dean
+Tottenham,Stoke,5,1,4,2,0,0,0,Win,R East
+West Ham,Chelsea,1,0,1,3,0,1,0,Win,A Taylor
+Liverpool,Everton,1,1,0,3,0,1,0,Draw,C Pawson
+Man United,Man City,1,2,-1,0,1,0,0,Loss,M Oliver
+Southampton,Arsenal,1,1,0,0,1,0,0,Draw,R Madley
+Burnley,Stoke,1,0,1,1,0,0,0,Win,M Jones
+Crystal Palace,Watford,2,1,1,2,0,0,0,Win,L Mason
+Huddersfield,Chelsea,1,3,-2,0,1,0,0,Loss,A Marriner
+Liverpool,West Brom,0,0,0,0,1,0,0,Draw,P Tierney
+Man United,Bournemouth,1,0,1,1,0,0,0,Win,G Scott
+Newcastle,Everton,0,1,-1,0,1,0,0,Loss,M Atkinson
+Southampton,Leicester,1,4,-3,0,2,0,0,Loss,C Kavanagh
+Swansea,Man City,0,4,-4,0,3,0,1,Loss,A Taylor
+Tottenham,Brighton,2,0,2,1,0,0,0,Win,R Madley
+West Ham,Arsenal,0,0,0,1,0,0,0,Draw,J Moss
+Arsenal,Newcastle,1,0,1,2,0,0,0,Win,S Attwell
+Brighton,Burnley,0,0,0,2,0,0,0,Draw,C Kavanagh
+Chelsea,Southampton,1,0,1,3,0,1,0,Win,R East
+Leicester,Crystal Palace,0,3,-3,0,1,0,0,Loss,M Atkinson
+Man City,Tottenham,4,1,3,1,0,0,0,Win,C Pawson
+Stoke,West Ham,0,3,-3,0,1,0,0,Loss,G Scott
+Watford,Huddersfield,1,4,-3,0,2,0,0,Loss,M Oliver
+Bournemouth,Liverpool,0,4,-4,0,3,0,1,Loss,A Marriner
+West Brom,Man United,1,2,-1,0,4,0,1,Loss,A Taylor
+Everton,Swansea,3,1,2,1,0,0,0,Win,J Moss
+Arsenal,Liverpool,3,3,0,1,0,0,0,Draw,M Atkinson
+Brighton,Watford,1,0,1,2,0,0,0,Win,P Tierney
+Burnley,Tottenham,0,3,-3,0,1,0,0,Loss,M Oliver
+Everton,Chelsea,0,0,0,0,1,0,0,Draw,R Madley
+Leicester,Man United,2,2,0,0,1,0,0,Draw,J Moss
+Man City,Bournemouth,4,0,4,1,0,0,0,Win,M Jones
+Southampton,Huddersfield,1,1,0,1,0,0,0,Draw,L Probert
+Stoke,West Brom,3,1,2,2,0,0,0,Win,N Swarbrick
+Swansea,Crystal Palace,1,1,0,2,0,0,0,Draw,C Pawson
+West Ham,Newcastle,2,3,-1,0,1,0,0,Loss,L Mason
+Bournemouth,West Ham,3,3,0,0,1,0,0,Draw,S Attwell
+Chelsea,Brighton,2,0,2,1,0,0,0,Win,M Dean
+Huddersfield,Stoke,1,1,0,1,0,0,0,Draw,A Taylor
+Liverpool,Swansea,5,0,5,2,0,0,0,Win,K Friend
+Man United,Burnley,2,2,0,2,0,0,0,Draw,M Atkinson
+Tottenham,Southampton,5,2,3,3,0,1,0,Win,G Scott
+Watford,Leicester,2,1,1,4,0,1,0,Win,C Kavanagh
+West Brom,Everton,0,0,0,4,0,1,0,Draw,R East
+Newcastle,Man City,0,1,-1,0,1,0,0,Loss,A Marriner
+Crystal Palace,Arsenal,2,3,-1,0,2,0,0,Loss,M Oliver
+Bournemouth,Everton,2,1,1,1,0,0,0,Win,L Probert
+Chelsea,Stoke,5,0,5,2,0,0,0,Win,K Friend
+Huddersfield,Burnley,0,0,0,2,0,0,0,Draw,P Tierney
+Liverpool,Leicester,2,1,1,3,0,1,0,Win,N Swarbrick
+Man United,Southampton,0,0,0,3,0,1,0,Draw,C Pawson
+Newcastle,Brighton,0,0,0,3,0,1,0,Draw,A Taylor
+Watford,Swansea,1,2,-1,0,1,0,0,Loss,M Atkinson
+Crystal Palace,Man City,0,0,0,0,1,0,0,Draw,J Moss
+West Brom,Arsenal,1,1,0,0,1,0,0,Draw,M Dean
+Brighton,Bournemouth,2,2,0,0,1,0,0,Draw,M Oliver
+Burnley,Liverpool,1,2,-1,0,2,0,0,Loss,R East
+Everton,Man United,0,2,-2,0,3,0,1,Loss,A Marriner
+Leicester,Huddersfield,3,0,3,1,0,0,0,Win,G Scott
+Stoke,Newcastle,0,1,-1,0,1,0,0,Loss,C Kavanagh
+Man City,Watford,3,1,2,1,0,0,0,Win,L Mason
+Southampton,Crystal Palace,1,2,-1,0,1,0,0,Loss,S Attwell
+Swansea,Tottenham,0,2,-2,0,2,0,0,Loss,R Madley
+West Ham,West Brom,2,1,1,1,0,0,0,Win,M Jones
+Arsenal,Chelsea,2,2,0,1,0,0,0,Draw,A Taylor
+Tottenham,West Ham,1,1,0,1,0,0,0,Draw,M Dean
+Chelsea,Leicester,0,0,0,1,0,0,0,Draw,M Jones
+Crystal Palace,Burnley,1,0,1,2,0,0,0,Win,M Oliver
+Huddersfield,West Ham,1,4,-3,0,1,0,0,Loss,J Moss
+Newcastle,Swansea,1,1,0,0,1,0,0,Draw,G Scott
+Tottenham,Everton,4,0,4,1,0,0,0,Win,C Pawson
+Watford,Southampton,2,2,0,1,0,0,0,Draw,R East
+West Brom,Brighton,2,0,2,2,0,0,0,Win,M Atkinson
+Bournemouth,Arsenal,2,1,1,3,0,1,0,Win,K Friend
+Liverpool,Man City,4,3,1,4,0,1,0,Win,A Marriner
+Man United,Stoke,3,0,3,5,0,1,0,Win,A Taylor
+Arsenal,Crystal Palace,4,1,3,6,0,1,0,Win,C Kavanagh
+Brighton,Chelsea,0,4,-4,0,1,0,0,Loss,J Moss
+Burnley,Man United,0,1,-1,0,2,0,0,Loss,M Dean
+Everton,West Brom,1,1,0,0,2,0,0,Draw,S Attwell
+Leicester,Watford,2,0,2,1,0,0,0,Win,L Probert
+Man City,Newcastle,3,1,2,2,0,0,0,Win,P Tierney
+Stoke,Huddersfield,2,0,2,3,0,1,0,Win,M Oliver
+West Ham,Bournemouth,1,1,0,3,0,1,0,Draw,M Atkinson
+Southampton,Tottenham,1,1,0,3,0,1,0,Draw,K Friend
+Swansea,Liverpool,1,0,1,4,0,1,0,Win,N Swarbrick
+Huddersfield,Liverpool,0,3,-3,0,1,0,0,Loss,K Friend
+Swansea,Arsenal,3,1,2,1,0,0,0,Win,L Mason
+West Ham,Crystal Palace,1,1,0,1,0,0,0,Draw,N Swarbrick
+Chelsea,Bournemouth,0,3,-3,0,1,0,0,Loss,L Probert
+Everton,Leicester,2,1,1,1,0,0,0,Win,C Kavanagh
+Man City,West Brom,3,0,3,2,0,0,0,Win,R Madley
+Newcastle,Burnley,1,1,0,2,0,0,0,Draw,S Hooper
+Southampton,Brighton,1,1,0,2,0,0,0,Draw,M Dean
+Stoke,Watford,0,0,0,2,0,0,0,Draw,J Moss
+Tottenham,Man United,2,0,2,3,0,1,0,Win,A Marriner
+Arsenal,Everton,5,1,4,4,0,1,0,Win,N Swarbrick
+Bournemouth,Stoke,2,1,1,5,0,1,0,Win,P Tierney
+Brighton,West Ham,3,1,2,6,0,1,0,Win,R East
+Burnley,Man City,1,1,0,6,0,1,0,Draw,M Atkinson
+Leicester,Swansea,1,1,0,6,0,1,0,Draw,A Taylor
+Man United,Huddersfield,2,0,2,7,0,1,0,Win,S Attwell
+West Brom,Southampton,2,3,-1,0,1,0,0,Loss,M Oliver
+Crystal Palace,Newcastle,1,1,0,0,1,0,0,Draw,A Marriner
+Liverpool,Tottenham,2,2,0,0,1,0,0,Draw,J Moss
+Watford,Chelsea,4,1,3,1,0,0,0,Win,M Dean
+Everton,Crystal Palace,3,1,2,2,0,0,0,Win,J Moss
+Man City,Leicester,5,1,4,3,0,1,0,Win,M Jones
+Stoke,Brighton,1,1,0,3,0,1,0,Draw,R Madley
+Swansea,Burnley,1,0,1,4,0,1,0,Win,A Marriner
+Tottenham,Arsenal,1,0,1,5,0,1,0,Win,A Taylor
+West Ham,Watford,2,0,2,6,0,1,0,Win,G Scott
+Huddersfield,Bournemouth,4,1,3,7,0,1,0,Win,M Oliver
+Newcastle,Man United,1,0,1,8,0,1,0,Win,C Pawson
+Southampton,Liverpool,0,2,-2,0,1,0,0,Loss,M Atkinson
+Chelsea,West Brom,3,0,3,1,0,0,0,Win,L Mason
+Bournemouth,Newcastle,2,2,0,1,0,0,0,Draw,R East
+Brighton,Swansea,4,1,3,2,0,0,0,Win,M Dean
+Burnley,Southampton,1,1,0,2,0,0,0,Draw,R Madley
+Leicester,Stoke,1,1,0,2,0,0,0,Draw,M Oliver
+Liverpool,West Ham,4,1,3,3,0,1,0,Win,S Attwell
+Watford,Everton,1,0,1,4,0,1,0,Win,A Taylor
+West Brom,Huddersfield,1,2,-1,0,1,0,0,Loss,J Moss
+Crystal Palace,Tottenham,0,1,-1,0,2,0,0,Loss,K Friend
+Man United,Chelsea,2,1,1,1,0,0,0,Win,M Atkinson
+Arsenal,Man City,0,3,-3,0,1,0,0,Loss,A Marriner
+Burnley,Everton,2,1,1,1,0,0,0,Win,C Kavanagh
+Leicester,Bournemouth,1,1,0,1,0,0,0,Draw,L Probert
+Liverpool,Newcastle,2,0,2,2,0,0,0,Win,G Scott
+Southampton,Stoke,0,0,0,2,0,0,0,Draw,A Taylor
+Swansea,West Ham,4,1,3,3,0,1,0,Win,M Atkinson
+Tottenham,Huddersfield,2,0,2,4,0,1,0,Win,K Friend
+Watford,West Brom,1,0,1,5,0,1,0,Win,P Tierney
+Brighton,Arsenal,2,1,1,6,0,1,0,Win,S Attwell
+Man City,Chelsea,1,0,1,7,0,1,0,Win,M Oliver
+Crystal Palace,Man United,2,3,-1,0,1,0,0,Loss,N Swarbrick
+Chelsea,Crystal Palace,2,1,1,1,0,0,0,Win,A Taylor
+Everton,Brighton,2,0,2,2,0,0,0,Win,R East
+Huddersfield,Swansea,0,0,0,2,0,0,0,Draw,M Oliver
+Man United,Liverpool,2,1,1,3,0,1,0,Win,C Pawson
+Newcastle,Southampton,3,0,3,4,0,1,0,Win,A Marriner
+West Brom,Leicester,1,4,-3,0,1,0,0,Loss,R Madley
+West Ham,Burnley,0,3,-3,0,2,0,0,Loss,L Mason
+Arsenal,Watford,3,0,3,1,0,0,0,Win,M Atkinson
+Bournemouth,Tottenham,1,4,-3,0,1,0,0,Loss,M Dean
+Stoke,Man City,0,2,-2,0,2,0,0,Loss,J Moss
+Bournemouth,West Brom,2,1,1,1,0,0,0,Win,G Scott
+Huddersfield,Crystal Palace,0,2,-2,0,1,0,0,Loss,M Dean
+Liverpool,Watford,5,0,5,1,0,0,0,Win,A Taylor
+Stoke,Everton,1,2,-1,0,1,0,0,Loss,M Atkinson
+Brighton,Leicester,0,2,-2,0,2,0,0,Loss,C Kavanagh
+Crystal Palace,Liverpool,1,2,-1,0,3,0,1,Loss,N Swarbrick
+Everton,Man City,1,3,-2,0,4,0,1,Loss,P Tierney
+Man United,Swansea,2,0,2,1,0,0,0,Win,R Madley
+Newcastle,Huddersfield,1,0,1,2,0,0,0,Win,M Atkinson
+Watford,Bournemouth,2,2,0,2,0,0,0,Draw,A Marriner
+West Brom,Burnley,1,2,-1,0,1,0,0,Loss,L Probert
+West Ham,Southampton,3,0,3,1,0,0,0,Win,J Moss
+Arsenal,Stoke,3,0,3,2,0,0,0,Win,C Pawson
+Chelsea,Tottenham,1,3,-2,0,1,0,0,Loss,A Marriner
+Bournemouth,Crystal Palace,2,2,0,0,1,0,0,Draw,J Moss
+Brighton,Huddersfield,1,1,0,0,1,0,0,Draw,A Taylor
+Everton,Liverpool,0,0,0,0,1,0,0,Draw,M Oliver
+Leicester,Newcastle,1,2,-1,0,2,0,0,Loss,S Attwell
+Man City,Man United,2,3,-1,0,3,0,1,Loss,M Atkinson
+Stoke,Tottenham,1,2,-1,0,4,0,1,Loss,G Scott
+Watford,Burnley,1,2,-1,0,5,0,1,Loss,P Tierney
+West Brom,Swansea,1,1,0,0,5,0,1,Draw,R East
+Arsenal,Southampton,3,2,1,1,0,0,0,Win,A Marriner
+Chelsea,West Ham,1,1,0,1,0,0,0,Draw,K Friend
+Burnley,Leicester,2,1,1,2,0,0,0,Win,M Atkinson
+Crystal Palace,Brighton,3,2,1,3,0,1,0,Win,A Marriner
+Huddersfield,Watford,1,0,1,4,0,1,0,Win,C Pawson
+Liverpool,Bournemouth,3,0,3,5,0,1,0,Win,C Kavanagh
+Southampton,Chelsea,2,3,-1,0,1,0,0,Loss,M Dean
+Swansea,Everton,1,1,0,0,1,0,0,Draw,L Mason
+Tottenham,Man City,1,3,-2,0,2,0,0,Loss,J Moss
+Man United,West Brom,0,1,-1,0,3,0,1,Loss,P Tierney
+Newcastle,Arsenal,2,1,1,1,0,0,0,Win,A Taylor
+West Ham,Stoke,1,1,0,1,0,0,0,Draw,M Oliver
+Brighton,Tottenham,1,1,0,1,0,0,0,Draw,K Friend
+Bournemouth,Man United,0,2,-2,0,1,0,0,Loss,G Scott
+Burnley,Chelsea,1,2,-1,0,2,0,0,Loss,R Madley
+Leicester,Southampton,0,0,0,0,2,0,0,Draw,R East
+Watford,Crystal Palace,0,0,0,0,2,0,0,Draw,C Kavanagh
+West Brom,Liverpool,2,2,0,0,2,0,0,Draw,S Attwell
+Arsenal,West Ham,4,1,3,1,0,0,0,Win,L Mason
+Man City,Swansea,5,0,5,2,0,0,0,Win,C Pawson
+Stoke,Burnley,1,1,0,2,0,0,0,Draw,M Dean
+Everton,Newcastle,1,0,1,3,0,1,0,Win,R Madley
+Burnley,Brighton,0,0,0,3,0,1,0,Draw,R East
+Crystal Palace,Leicester,5,0,5,4,0,1,0,Win,M Dean
+Huddersfield,Everton,0,2,-2,0,1,0,0,Loss,L Probert
+Liverpool,Stoke,0,0,0,0,1,0,0,Draw,A Marriner
+Newcastle,West Brom,0,1,-1,0,2,0,0,Loss,D Coote
+Southampton,Bournemouth,2,1,1,1,0,0,0,Win,A Taylor
+Swansea,Chelsea,0,1,-1,0,1,0,0,Loss,J Moss
+Man United,Arsenal,2,1,1,1,0,0,0,Win,K Friend
+West Ham,Man City,1,4,-3,0,1,0,0,Loss,N Swarbrick
+Tottenham,Watford,2,0,2,1,0,0,0,Win,M Oliver
+Brighton,Man United,1,0,1,2,0,0,0,Win,C Pawson
+Bournemouth,Swansea,1,0,1,3,0,1,0,Win,K Friend
+Everton,Southampton,1,1,0,3,0,1,0,Draw,J Moss
+Leicester,West Ham,0,2,-2,0,1,0,0,Loss,C Kavanagh
+Stoke,Crystal Palace,1,2,-1,0,2,0,0,Loss,M Atkinson
+Watford,Newcastle,2,1,1,1,0,0,0,Win,R East
+West Brom,Tottenham,1,0,1,2,0,0,0,Win,M Jones
+Arsenal,Burnley,5,0,5,3,0,1,0,Win,A Marriner
+Chelsea,Liverpool,1,0,1,4,0,1,0,Win,A Taylor
+Man City,Huddersfield,0,0,0,4,0,1,0,Draw,M Dean
+Swansea,Southampton,0,1,-1,0,1,0,0,Loss,M Oliver
+Chelsea,Huddersfield,1,1,0,0,1,0,0,Draw,L Mason
+Leicester,Arsenal,3,1,2,1,0,0,0,Win,G Scott
+Man City,Brighton,3,1,2,2,0,0,0,Win,P Tierney
+Tottenham,Newcastle,1,0,1,3,0,1,0,Win,N Swarbrick
+West Ham,Man United,0,0,0,3,0,1,0,Draw,J Moss
+Burnley,Bournemouth,1,2,-1,0,1,0,0,Loss,P Tierney
+Crystal Palace,West Brom,2,0,2,1,0,0,0,Win,J Moss
+Huddersfield,Arsenal,0,1,-1,0,1,0,0,Loss,M Oliver
+Liverpool,Brighton,4,0,4,1,0,0,0,Win,K Friend
+Man United,Watford,1,0,1,2,0,0,0,Win,L Mason
+Newcastle,Chelsea,3,0,3,3,0,1,0,Win,M Atkinson
+Southampton,Man City,0,1,-1,0,1,0,0,Loss,A Marriner
+Swansea,Stoke,1,2,-1,0,2,0,0,Loss,A Taylor
+Tottenham,Leicester,5,4,1,1,0,0,0,Win,C Pawson
+West Ham,Everton,3,1,2,2,0,0,0,Win,G Scott
+Man United,Leicester,2,1,1,3,0,1,0,Win,A Marriner
+Bournemouth,Cardiff,2,0,2,4,0,1,0,Win,K Friend
+Fulham,Crystal Palace,0,2,-2,0,1,0,0,Loss,M Dean
+Huddersfield,Chelsea,0,3,-3,0,2,0,0,Loss,C Kavanagh
+Newcastle,Tottenham,1,2,-1,0,3,0,1,Loss,M Atkinson
+Watford,Brighton,2,0,2,1,0,0,0,Win,J Moss
+Wolves,Everton,2,2,0,1,0,0,0,Draw,C Pawson
+Arsenal,Man City,0,2,-2,0,1,0,0,Loss,M Oliver
+Liverpool,West Ham,4,0,4,1,0,0,0,Win,A Taylor
+Southampton,Burnley,0,0,0,1,0,0,0,Draw,G Scott
+Cardiff,Newcastle,0,0,0,1,0,0,0,Draw,C Pawson
+Chelsea,Arsenal,3,2,1,2,0,0,0,Win,M Atkinson
+Everton,Southampton,2,1,1,3,0,1,0,Win,L Mason
+Leicester,Wolves,2,0,2,4,0,1,0,Win,M Dean
+Tottenham,Fulham,3,1,2,5,0,1,0,Win,A Taylor
+West Ham,Bournemouth,1,2,-1,0,1,0,0,Loss,S Attwell
+Brighton,Man United,3,2,1,1,0,0,0,Win,K Friend
+Burnley,Watford,1,3,-2,0,1,0,0,Loss,P Tierney
+Man City,Huddersfield,6,1,5,1,0,0,0,Win,A Marriner
+Crystal Palace,Liverpool,0,2,-2,0,1,0,0,Loss,M Oliver
+Arsenal,West Ham,3,1,2,1,0,0,0,Win,G Scott
+Bournemouth,Everton,2,2,0,1,0,0,0,Draw,L Probert
+Huddersfield,Cardiff,0,0,0,1,0,0,0,Draw,M Oliver
+Liverpool,Brighton,1,0,1,2,0,0,0,Win,C Kavanagh
+Southampton,Leicester,1,2,-1,0,1,0,0,Loss,J Moss
+Wolves,Man City,1,1,0,0,1,0,0,Draw,M Atkinson
+Fulham,Burnley,4,2,2,1,0,0,0,Win,D Coote
+Newcastle,Chelsea,1,2,-1,0,1,0,0,Loss,P Tierney
+Watford,Crystal Palace,2,1,1,1,0,0,0,Win,A Taylor
+Man United,Tottenham,0,3,-3,0,1,0,0,Loss,C Pawson
+Brighton,Fulham,2,2,0,0,1,0,0,Draw,L Probert
+Chelsea,Bournemouth,2,0,2,1,0,0,0,Win,L Mason
+Crystal Palace,Southampton,0,2,-2,0,1,0,0,Loss,M Atkinson
+Everton,Huddersfield,1,1,0,0,1,0,0,Draw,S Attwell
+Leicester,Liverpool,1,2,-1,0,2,0,0,Loss,P Tierney
+Man City,Newcastle,2,1,1,1,0,0,0,Win,K Friend
+West Ham,Wolves,0,1,-1,0,1,0,0,Loss,C Kavanagh
+Burnley,Man United,0,2,-2,0,2,0,0,Loss,J Moss
+Cardiff,Arsenal,2,3,-1,0,3,0,1,Loss,A Taylor
+Watford,Tottenham,2,1,1,1,0,0,0,Win,A Marriner
+Bournemouth,Leicester,4,2,2,2,0,0,0,Win,C Pawson
+Chelsea,Cardiff,4,1,3,3,0,1,0,Win,J Moss
+Huddersfield,Crystal Palace,0,1,-1,0,1,0,0,Loss,L Mason
+Man City,Fulham,3,0,3,1,0,0,0,Win,S Attwell
+Newcastle,Arsenal,1,2,-1,0,1,0,0,Loss,L Probert
+Tottenham,Liverpool,1,2,-1,0,2,0,0,Loss,M Oliver
+Watford,Man United,1,2,-1,0,3,0,1,Loss,M Dean
+Everton,West Ham,1,3,-2,0,4,0,1,Loss,M Atkinson
+Wolves,Burnley,1,0,1,1,0,0,0,Win,A Marriner
+Southampton,Brighton,2,2,0,1,0,0,0,Draw,A Taylor
+Brighton,Tottenham,1,2,-1,0,1,0,0,Loss,C Kavanagh
+Burnley,Bournemouth,4,0,4,1,0,0,0,Win,A Taylor
+Cardiff,Man City,0,5,-5,0,1,0,0,Loss,M Oliver
+Crystal Palace,Newcastle,0,0,0,0,1,0,0,Draw,A Marriner
+Fulham,Watford,1,1,0,0,1,0,0,Draw,M Atkinson
+Leicester,Huddersfield,3,1,2,1,0,0,0,Win,D Coote
+Liverpool,Southampton,3,0,3,2,0,0,0,Win,P Tierney
+Man United,Wolves,1,1,0,2,0,0,0,Draw,K Friend
+Arsenal,Everton,2,0,2,3,0,1,0,Win,J Moss
+West Ham,Chelsea,0,0,0,3,0,1,0,Draw,M Dean
+Arsenal,Watford,2,0,2,4,0,1,0,Win,A Taylor
+Chelsea,Liverpool,1,1,0,4,0,1,0,Draw,A Marriner
+Everton,Fulham,3,0,3,5,0,1,0,Win,R East
+Huddersfield,Tottenham,0,2,-2,0,1,0,0,Loss,C Pawson
+Man City,Brighton,2,0,2,1,0,0,0,Win,L Mason
+Newcastle,Leicester,0,2,-2,0,1,0,0,Loss,S Hooper
+West Ham,Man United,3,1,2,1,0,0,0,Win,M Oliver
+Wolves,Southampton,2,0,2,2,0,0,0,Win,S Attwell
+Cardiff,Burnley,1,2,-1,0,1,0,0,Loss,M Atkinson
+Bournemouth,Crystal Palace,2,1,1,1,0,0,0,Win,M Dean
+Brighton,West Ham,1,0,1,2,0,0,0,Win,K Friend
+Burnley,Huddersfield,1,1,0,2,0,0,0,Draw,C Kavanagh
+Crystal Palace,Wolves,0,1,-1,0,1,0,0,Loss,M Oliver
+Leicester,Everton,1,2,-1,0,2,0,0,Loss,A Marriner
+Man United,Newcastle,3,2,1,1,0,0,0,Win,A Taylor
+Tottenham,Cardiff,1,0,1,2,0,0,0,Win,M Dean
+Watford,Bournemouth,0,4,-4,0,1,0,0,Loss,J Moss
+Fulham,Arsenal,1,5,-4,0,2,0,0,Loss,P Tierney
+Liverpool,Man City,0,0,0,0,2,0,0,Draw,M Atkinson
+Southampton,Chelsea,0,3,-3,0,3,0,1,Loss,C Pawson
+Bournemouth,Southampton,0,0,0,0,3,0,1,Draw,L Probert
+Cardiff,Fulham,4,2,2,1,0,0,0,Win,K Friend
+Chelsea,Man United,2,2,0,1,0,0,0,Draw,M Dean
+Huddersfield,Liverpool,0,1,-1,0,1,0,0,Loss,M Oliver
+Man City,Burnley,5,0,5,1,0,0,0,Win,J Moss
+Newcastle,Brighton,0,1,-1,0,1,0,0,Loss,A Marriner
+West Ham,Tottenham,0,1,-1,0,2,0,0,Loss,M Atkinson
+Wolves,Watford,0,2,-2,0,3,0,1,Loss,L Mason
+Everton,Crystal Palace,2,0,2,1,0,0,0,Win,A Taylor
+Arsenal,Leicester,3,1,2,2,0,0,0,Win,C Kavanagh
+Brighton,Wolves,1,0,1,3,0,1,0,Win,A Taylor
+Fulham,Bournemouth,0,3,-3,0,1,0,0,Loss,A Marriner
+Leicester,West Ham,1,1,0,0,1,0,0,Draw,M Oliver
+Liverpool,Cardiff,4,1,3,1,0,0,0,Win,S Attwell
+Southampton,Newcastle,0,0,0,1,0,0,0,Draw,C Kavanagh
+Watford,Huddersfield,3,0,3,2,0,0,0,Win,M Dean
+Burnley,Chelsea,0,4,-4,0,1,0,0,Loss,C Pawson
+Crystal Palace,Arsenal,2,2,0,0,1,0,0,Draw,M Atkinson
+Man United,Everton,2,1,1,1,0,0,0,Win,J Moss
+Tottenham,Man City,0,1,-1,0,1,0,0,Loss,K Friend
+Arsenal,Liverpool,1,1,0,0,1,0,0,Draw,A Marriner
+Bournemouth,Man United,1,2,-1,0,2,0,0,Loss,P Tierney
+Cardiff,Leicester,0,1,-1,0,3,0,1,Loss,L Probert
+Everton,Brighton,3,1,2,1,0,0,0,Win,D Coote
+Newcastle,Watford,1,0,1,2,0,0,0,Win,C Pawson
+West Ham,Burnley,4,2,2,3,0,1,0,Win,R East
+Wolves,Tottenham,2,3,-1,0,1,0,0,Loss,M Dean
+Chelsea,Crystal Palace,3,1,2,1,0,0,0,Win,M Oliver
+Man City,Southampton,6,1,5,2,0,0,0,Win,L Mason
+Huddersfield,Fulham,1,0,1,3,0,1,0,Win,A Taylor
+Cardiff,Brighton,2,1,1,4,0,1,0,Win,M Atkinson
+Crystal Palace,Tottenham,0,1,-1,0,1,0,0,Loss,J Moss
+Huddersfield,West Ham,1,1,0,0,1,0,0,Draw,C Kavanagh
+Leicester,Burnley,0,0,0,0,1,0,0,Draw,M Dean
+Newcastle,Bournemouth,2,1,1,1,0,0,0,Win,L Probert
+Southampton,Watford,1,1,0,1,0,0,0,Draw,S Hooper
+Arsenal,Wolves,1,1,0,1,0,0,0,Draw,S Attwell
+Chelsea,Everton,0,0,0,1,0,0,0,Draw,K Friend
+Liverpool,Fulham,2,0,2,2,0,0,0,Win,P Tierney
+Man City,Man United,3,1,2,3,0,1,0,Win,A Taylor
+Brighton,Leicester,1,1,0,3,0,1,0,Draw,C Kavanagh
+Everton,Cardiff,1,0,1,4,0,1,0,Win,P Tierney
+Fulham,Southampton,3,2,1,5,0,1,0,Win,M Oliver
+Man United,Crystal Palace,0,0,0,5,0,1,0,Draw,L Mason
+Tottenham,Chelsea,3,1,2,6,0,1,0,Win,M Atkinson
+Watford,Liverpool,0,3,-3,0,1,0,0,Loss,J Moss
+West Ham,Man City,0,4,-4,0,2,0,0,Loss,A Marriner
+Bournemouth,Arsenal,1,2,-1,0,3,0,1,Loss,C Pawson
+Wolves,Huddersfield,0,2,-2,0,4,0,1,Loss,K Friend
+Burnley,Newcastle,1,2,-1,0,5,0,1,Loss,A Taylor
+Cardiff,Wolves,2,1,1,1,0,0,0,Win,A Marriner
+Crystal Palace,Burnley,2,0,2,2,0,0,0,Win,L Probert
+Huddersfield,Brighton,1,2,-1,0,1,0,0,Loss,M Oliver
+Leicester,Watford,2,0,2,1,0,0,0,Win,G Scott
+Man City,Bournemouth,3,1,2,2,0,0,0,Win,S Attwell
+Newcastle,West Ham,0,3,-3,0,1,0,0,Loss,P Tierney
+Southampton,Man United,2,2,0,0,1,0,0,Draw,K Friend
+Arsenal,Tottenham,4,2,2,1,0,0,0,Win,M Dean
+Chelsea,Fulham,2,0,2,2,0,0,0,Win,C Pawson
+Liverpool,Everton,1,0,1,3,0,1,0,Win,C Kavanagh
+Bournemouth,Huddersfield,2,1,1,4,0,1,0,Win,R East
+Brighton,Crystal Palace,3,1,2,5,0,1,0,Win,K Friend
+Watford,Man City,1,2,-1,0,1,0,0,Loss,P Tierney
+West Ham,Cardiff,3,1,2,1,0,0,0,Win,G Scott
+Burnley,Liverpool,1,3,-2,0,1,0,0,Loss,S Attwell
+Everton,Newcastle,1,1,0,0,1,0,0,Draw,L Mason
+Fulham,Leicester,1,1,0,0,1,0,0,Draw,D Coote
+Man United,Arsenal,2,2,0,0,1,0,0,Draw,A Marriner
+Tottenham,Southampton,3,1,2,1,0,0,0,Win,A Taylor
+Wolves,Chelsea,2,1,1,2,0,0,0,Win,J Moss
+Arsenal,Huddersfield,1,0,1,3,0,1,0,Win,P Tierney
+Bournemouth,Liverpool,0,4,-4,0,1,0,0,Loss,L Mason
+Burnley,Brighton,1,0,1,1,0,0,0,Win,M Atkinson
+Cardiff,Southampton,1,0,1,2,0,0,0,Win,J Moss
+Chelsea,Man City,2,0,2,3,0,1,0,Win,M Oliver
+Leicester,Tottenham,0,2,-2,0,1,0,0,Loss,C Pawson
+Man United,Fulham,4,1,3,1,0,0,0,Win,L Probert
+West Ham,Crystal Palace,3,2,1,2,0,0,0,Win,A Taylor
+Newcastle,Wolves,1,2,-1,0,1,0,0,Loss,M Dean
+Everton,Watford,2,2,0,0,1,0,0,Draw,K Friend
+Crystal Palace,Leicester,1,0,1,1,0,0,0,Win,M Oliver
+Fulham,West Ham,0,2,-2,0,1,0,0,Loss,M Dean
+Huddersfield,Newcastle,0,1,-1,0,2,0,0,Loss,A Taylor
+Man City,Everton,3,1,2,1,0,0,0,Win,C Pawson
+Tottenham,Burnley,1,0,1,2,0,0,0,Win,G Scott
+Watford,Cardiff,3,2,1,3,0,1,0,Win,A Madley
+Wolves,Bournemouth,2,0,2,4,0,1,0,Win,S Hooper
+Brighton,Chelsea,1,2,-1,0,1,0,0,Loss,S Attwell
+Liverpool,Man United,3,1,2,1,0,0,0,Win,M Atkinson
+Southampton,Arsenal,3,2,1,2,0,0,0,Win,C Kavanagh
+Wolves,Liverpool,0,2,-2,0,1,0,0,Loss,C Pawson
+Arsenal,Burnley,3,1,2,1,0,0,0,Win,K Friend
+Bournemouth,Brighton,2,0,2,2,0,0,0,Win,M Dean
+Cardiff,Man United,1,5,-4,0,1,0,0,Loss,M Oliver
+Chelsea,Leicester,0,1,-1,0,2,0,0,Loss,L Probert
+Huddersfield,Southampton,1,3,-2,0,3,0,1,Loss,S Attwell
+Man City,Crystal Palace,2,3,-1,0,4,0,1,Loss,A Marriner
+Newcastle,Fulham,0,0,0,0,4,0,1,Draw,M Atkinson
+West Ham,Watford,0,2,-2,0,5,0,1,Loss,L Mason
+Everton,Tottenham,2,6,-4,0,6,0,1,Loss,P Tierney
+Brighton,Arsenal,1,1,0,0,6,0,1,Draw,A Taylor
+Burnley,Everton,1,5,-4,0,7,0,1,Loss,M Oliver
+Crystal Palace,Cardiff,0,0,0,0,7,0,1,Draw,L Probert
+Fulham,Wolves,1,1,0,0,7,0,1,Draw,A Marriner
+Leicester,Man City,2,1,1,1,0,0,0,Win,M Dean
+Liverpool,Newcastle,4,0,4,2,0,0,0,Win,G Scott
+Man United,Huddersfield,3,1,2,3,0,1,0,Win,J Moss
+Tottenham,Bournemouth,5,0,5,4,0,1,0,Win,C Kavanagh
+Watford,Chelsea,1,2,-1,0,1,0,0,Loss,M Atkinson
+Southampton,West Ham,1,2,-1,0,2,0,0,Loss,C Pawson
+Brighton,Everton,1,0,1,1,0,0,0,Win,A Madley
+Fulham,Huddersfield,1,0,1,2,0,0,0,Win,K Friend
+Leicester,Cardiff,0,1,-1,0,1,0,0,Loss,S Hooper
+Liverpool,Arsenal,5,1,4,1,0,0,0,Win,M Oliver
+Tottenham,Wolves,1,3,-2,0,1,0,0,Loss,S Attwell
+Watford,Newcastle,1,1,0,0,1,0,0,Draw,R East
+Burnley,West Ham,2,0,2,1,0,0,0,Win,D Coote
+Crystal Palace,Chelsea,0,1,-1,0,1,0,0,Loss,C Pawson
+Man United,Bournemouth,4,1,3,1,0,0,0,Win,L Mason
+Southampton,Man City,1,3,-2,0,1,0,0,Loss,P Tierney
+Arsenal,Fulham,4,1,3,1,0,0,0,Win,G Scott
+Cardiff,Tottenham,0,3,-3,0,1,0,0,Loss,K Friend
+Everton,Leicester,0,1,-1,0,2,0,0,Loss,M Atkinson
+Bournemouth,Watford,3,3,0,0,2,0,0,Draw,D Coote
+Chelsea,Southampton,0,0,0,0,2,0,0,Draw,J Moss
+Huddersfield,Burnley,1,2,-1,0,3,0,1,Loss,M Dean
+Newcastle,Man United,0,2,-2,0,4,0,1,Loss,A Marriner
+West Ham,Brighton,2,2,0,0,4,0,1,Draw,C Kavanagh
+Wolves,Crystal Palace,0,2,-2,0,5,0,1,Loss,R East
+Man City,Liverpool,2,1,1,1,0,0,0,Win,A Taylor
+Brighton,Liverpool,0,1,-1,0,1,0,0,Loss,K Friend
+Burnley,Fulham,2,1,1,1,0,0,0,Win,M Atkinson
+Cardiff,Huddersfield,0,0,0,1,0,0,0,Draw,L Mason
+Chelsea,Newcastle,2,1,1,2,0,0,0,Win,C Kavanagh
+Crystal Palace,Watford,1,2,-1,0,1,0,0,Loss,P Tierney
+Leicester,Southampton,1,2,-1,0,2,0,0,Loss,M Oliver
+West Ham,Arsenal,1,0,1,1,0,0,0,Win,J Moss
+Everton,Bournemouth,2,0,2,2,0,0,0,Win,A Taylor
+Tottenham,Man United,0,1,-1,0,1,0,0,Loss,M Dean
+Man City,Wolves,3,0,3,1,0,0,0,Win,C Pawson
+Arsenal,Chelsea,2,0,2,2,0,0,0,Win,A Taylor
+Bournemouth,West Ham,2,0,2,3,0,1,0,Win,S Hooper
+Liverpool,Crystal Palace,4,3,1,4,0,1,0,Win,J Moss
+Man United,Brighton,2,1,1,5,0,1,0,Win,P Tierney
+Newcastle,Cardiff,3,0,3,6,0,1,0,Win,S Attwell
+Southampton,Everton,2,1,1,7,0,1,0,Win,G Scott
+Watford,Burnley,0,0,0,7,0,1,0,Draw,M Oliver
+Wolves,Leicester,4,3,1,8,0,1,0,Win,C Kavanagh
+Fulham,Tottenham,1,2,-1,0,1,0,0,Loss,C Pawson
+Huddersfield,Man City,0,3,-3,0,2,0,0,Loss,A Marriner
+Arsenal,Cardiff,2,1,1,1,0,0,0,Win,M Dean
+Fulham,Brighton,4,2,2,2,0,0,0,Win,L Probert
+Huddersfield,Everton,0,1,-1,0,1,0,0,Loss,S Attwell
+Man United,Burnley,2,2,0,0,1,0,0,Draw,J Moss
+Newcastle,Man City,2,1,1,1,0,0,0,Win,P Tierney
+Wolves,West Ham,3,0,3,2,0,0,0,Win,D Coote
+Bournemouth,Chelsea,4,0,4,3,0,1,0,Win,R East
+Liverpool,Leicester,1,1,0,3,0,1,0,Draw,M Atkinson
+Southampton,Crystal Palace,1,1,0,3,0,1,0,Draw,A Marriner
+Tottenham,Watford,2,1,1,4,0,1,0,Win,G Scott
+Brighton,Watford,0,0,0,4,0,1,0,Draw,S Hooper
+Burnley,Southampton,1,1,0,4,0,1,0,Draw,A Taylor
+Cardiff,Bournemouth,2,0,2,5,0,1,0,Win,J Moss
+Chelsea,Huddersfield,5,0,5,6,0,1,0,Win,P Tierney
+Crystal Palace,Fulham,2,0,2,7,0,1,0,Win,M Oliver
+Everton,Wolves,1,3,-2,0,1,0,0,Loss,L Mason
+Tottenham,Newcastle,1,0,1,1,0,0,0,Win,A Marriner
+Leicester,Man United,0,1,-1,0,1,0,0,Loss,M Dean
+Man City,Arsenal,3,1,2,1,0,0,0,Win,M Atkinson
+West Ham,Liverpool,1,1,0,1,0,0,0,Draw,K Friend
+Everton,Man City,0,2,-2,0,1,0,0,Loss,C Pawson
+Brighton,Burnley,1,3,-2,0,2,0,0,Loss,S Attwell
+Crystal Palace,West Ham,1,1,0,0,2,0,0,Draw,C Pawson
+Fulham,Man United,0,3,-3,0,3,0,1,Loss,P Tierney
+Huddersfield,Arsenal,1,2,-1,0,4,0,1,Loss,J Moss
+Liverpool,Bournemouth,3,0,3,1,0,0,0,Win,A Taylor
+Southampton,Cardiff,1,2,-1,0,1,0,0,Loss,M Atkinson
+Watford,Everton,1,0,1,1,0,0,0,Win,L Probert
+Man City,Chelsea,6,0,6,2,0,0,0,Win,M Dean
+Tottenham,Leicester,3,1,2,3,0,1,0,Win,M Oliver
+Wolves,Newcastle,1,1,0,3,0,1,0,Draw,G Scott
+Cardiff,Watford,1,5,-4,0,1,0,0,Loss,S Hooper
+West Ham,Fulham,3,1,2,1,0,0,0,Win,L Mason
+Bournemouth,Wolves,1,1,0,1,0,0,0,Draw,R East
+Burnley,Tottenham,2,1,1,2,0,0,0,Win,M Dean
+Leicester,Crystal Palace,1,4,-3,0,1,0,0,Loss,A Taylor
+Newcastle,Huddersfield,2,0,2,1,0,0,0,Win,K Friend
+Arsenal,Southampton,2,0,2,2,0,0,0,Win,G Scott
+Man United,Liverpool,0,0,0,2,0,0,0,Draw,M Oliver
+Cardiff,Everton,0,3,-3,0,1,0,0,Loss,K Friend
+Huddersfield,Wolves,1,0,1,1,0,0,0,Win,D Coote
+Leicester,Brighton,2,1,1,2,0,0,0,Win,L Probert
+Newcastle,Burnley,2,0,2,3,0,1,0,Win,C Pawson
+Arsenal,Bournemouth,5,1,4,4,0,1,0,Win,C Kavanagh
+Chelsea,Tottenham,2,0,2,5,0,1,0,Win,A Marriner
+Crystal Palace,Man United,1,3,-2,0,1,0,0,Loss,M Atkinson
+Liverpool,Watford,5,0,5,1,0,0,0,Win,G Scott
+Man City,West Ham,1,0,1,2,0,0,0,Win,S Attwell
+Southampton,Fulham,2,0,2,3,0,1,0,Win,A Taylor
+Bournemouth,Man City,0,1,-1,0,1,0,0,Loss,K Friend
+Brighton,Huddersfield,1,0,1,1,0,0,0,Win,M Dean
+Burnley,Crystal Palace,1,3,-2,0,1,0,0,Loss,L Probert
+Man United,Southampton,3,2,1,1,0,0,0,Win,S Attwell
+Tottenham,Arsenal,1,1,0,1,0,0,0,Draw,A Taylor
+West Ham,Newcastle,2,0,2,2,0,0,0,Win,C Kavanagh
+Wolves,Cardiff,2,0,2,3,0,1,0,Win,A Marriner
+Everton,Liverpool,0,0,0,3,0,1,0,Draw,M Atkinson
+Fulham,Chelsea,1,2,-1,0,1,0,0,Loss,G Scott
+Watford,Leicester,2,1,1,1,0,0,0,Win,J Moss
+Cardiff,West Ham,2,0,2,2,0,0,0,Win,G Scott
+Crystal Palace,Brighton,1,2,-1,0,1,0,0,Loss,C Pawson
+Huddersfield,Bournemouth,0,2,-2,0,2,0,0,Loss,A Taylor
+Leicester,Fulham,3,1,2,1,0,0,0,Win,D Coote
+Man City,Watford,3,1,2,2,0,0,0,Win,P Tierney
+Newcastle,Everton,3,2,1,3,0,1,0,Win,L Mason
+Southampton,Tottenham,2,1,1,4,0,1,0,Win,K Friend
+Arsenal,Man United,2,0,2,5,0,1,0,Win,J Moss
+Chelsea,Wolves,1,1,0,5,0,1,0,Draw,M Oliver
+Liverpool,Burnley,4,2,2,6,0,1,0,Win,A Marriner
+Bournemouth,Newcastle,2,2,0,6,0,1,0,Draw,M Dean
+Burnley,Leicester,1,2,-1,0,1,0,0,Loss,M Oliver
+West Ham,Huddersfield,4,3,1,1,0,0,0,Win,J Moss
+Everton,Chelsea,2,0,2,2,0,0,0,Win,A Taylor
+Fulham,Liverpool,1,2,-1,0,1,0,0,Loss,C Pawson
+Brighton,Southampton,0,1,-1,0,2,0,0,Loss,M Oliver
+Burnley,Wolves,2,0,2,1,0,0,0,Win,C Kavanagh
+Crystal Palace,Huddersfield,2,0,2,2,0,0,0,Win,L Probert
+Fulham,Man City,0,2,-2,0,1,0,0,Loss,K Friend
+Leicester,Bournemouth,2,0,2,1,0,0,0,Win,L Mason
+Man United,Watford,2,1,1,2,0,0,0,Win,S Attwell
+West Ham,Everton,0,2,-2,0,1,0,0,Loss,P Tierney
+Cardiff,Chelsea,1,2,-1,0,2,0,0,Loss,C Pawson
+Liverpool,Tottenham,2,1,1,1,0,0,0,Win,M Atkinson
+Arsenal,Newcastle,2,0,2,2,0,0,0,Win,A Taylor
+Watford,Fulham,4,1,3,3,0,1,0,Win,R East
+Wolves,Man United,2,1,1,4,0,1,0,Win,M Dean
+Chelsea,Brighton,3,0,3,5,0,1,0,Win,G Scott
+Man City,Cardiff,2,0,2,6,0,1,0,Win,J Moss
+Tottenham,Crystal Palace,2,0,2,7,0,1,0,Win,A Marriner
+Southampton,Liverpool,1,3,-2,0,1,0,0,Loss,P Tierney
+Bournemouth,Burnley,1,3,-2,0,2,0,0,Loss,M Atkinson
+Huddersfield,Leicester,1,4,-3,0,3,0,1,Loss,D Coote
+Newcastle,Crystal Palace,0,1,-1,0,4,0,1,Loss,S Attwell
+Everton,Arsenal,1,0,1,1,0,0,0,Win,K Friend
+Chelsea,West Ham,2,0,2,2,0,0,0,Win,C Kavanagh
+Leicester,Newcastle,0,1,-1,0,1,0,0,Loss,C Kavanagh
+Brighton,Bournemouth,0,5,-5,0,2,0,0,Loss,K Friend
+Burnley,Cardiff,2,0,2,1,0,0,0,Win,M Dean
+Fulham,Everton,2,0,2,2,0,0,0,Win,L Probert
+Man United,West Ham,2,1,1,3,0,1,0,Win,G Scott
+Southampton,Wolves,3,1,2,4,0,1,0,Win,J Moss
+Tottenham,Huddersfield,4,0,4,5,0,1,0,Win,L Mason
+Crystal Palace,Man City,1,3,-2,0,1,0,0,Loss,M Atkinson
+Liverpool,Chelsea,2,0,2,1,0,0,0,Win,M Oliver
+Watford,Arsenal,0,1,-1,0,1,0,0,Loss,C Pawson
+Brighton,Cardiff,0,2,-2,0,2,0,0,Loss,A Marriner
+Bournemouth,Fulham,0,1,-1,0,3,0,1,Loss,D Coote
+Huddersfield,Watford,1,2,-1,0,4,0,1,Loss,R East
+Man City,Tottenham,1,0,1,1,0,0,0,Win,M Oliver
+Newcastle,Southampton,3,1,2,2,0,0,0,Win,A Taylor
+West Ham,Leicester,2,2,0,2,0,0,0,Draw,L Probert
+Wolves,Brighton,0,0,0,2,0,0,0,Draw,C Pawson
+Arsenal,Crystal Palace,2,3,-1,0,1,0,0,Loss,J Moss
+Cardiff,Liverpool,0,2,-2,0,2,0,0,Loss,M Atkinson
+Everton,Man United,4,0,4,1,0,0,0,Win,P Tierney
+Chelsea,Burnley,2,2,0,1,0,0,0,Draw,K Friend
+Tottenham,Brighton,1,0,1,2,0,0,0,Win,C Kavanagh
+Watford,Southampton,1,1,0,2,0,0,0,Draw,M Dean
+Man United,Man City,0,2,-2,0,1,0,0,Loss,A Marriner
+Wolves,Arsenal,3,1,2,1,0,0,0,Win,S Attwell
+Liverpool,Huddersfield,5,0,5,2,0,0,0,Win,K Friend
+Brighton,Newcastle,1,1,0,2,0,0,0,Draw,M Dean
+Crystal Palace,Everton,0,0,0,2,0,0,0,Draw,L Mason
+Fulham,Cardiff,1,0,1,3,0,1,0,Win,C Kavanagh
+Southampton,Bournemouth,3,3,0,3,0,1,0,Draw,G Scott
+Tottenham,West Ham,0,1,-1,0,1,0,0,Loss,A Taylor
+Watford,Wolves,1,2,-1,0,2,0,0,Loss,S Hooper
+Burnley,Man City,0,1,-1,0,3,0,1,Loss,P Tierney
+Leicester,Arsenal,3,0,3,1,0,0,0,Win,M Oliver
+Man United,Chelsea,1,1,0,1,0,0,0,Draw,M Atkinson
+Everton,Burnley,2,0,2,2,0,0,0,Win,C Kavanagh
+Bournemouth,Tottenham,1,0,1,3,0,1,0,Win,C Pawson
+Cardiff,Crystal Palace,2,3,-1,0,1,0,0,Loss,M Oliver
+Newcastle,Liverpool,2,3,-1,0,2,0,0,Loss,A Marriner
+West Ham,Southampton,3,0,3,1,0,0,0,Win,S Attwell
+Wolves,Fulham,1,0,1,2,0,0,0,Win,J Moss
+Arsenal,Brighton,1,1,0,2,0,0,0,Draw,A Taylor
+Chelsea,Watford,3,0,3,3,0,1,0,Win,P Tierney
+Huddersfield,Man United,1,1,0,3,0,1,0,Draw,L Mason
+Man City,Leicester,1,0,1,4,0,1,0,Win,M Dean
+Brighton,Man City,1,4,-3,0,1,0,0,Loss,M Oliver
+Burnley,Arsenal,1,3,-2,0,2,0,0,Loss,M Dean
+Crystal Palace,Bournemouth,5,3,2,1,0,0,0,Win,R East
+Fulham,Newcastle,0,4,-4,0,1,0,0,Loss,K Friend
+Leicester,Chelsea,0,0,0,0,1,0,0,Draw,A Taylor
+Liverpool,Wolves,2,0,2,1,0,0,0,Win,M Atkinson
+Man United,Cardiff,0,2,-2,0,1,0,0,Loss,J Moss
+Southampton,Huddersfield,1,1,0,0,1,0,0,Draw,L Probert
+Tottenham,Everton,2,2,0,0,1,0,0,Draw,A Marriner
+Watford,West Ham,1,4,-3,0,2,0,0,Loss,C Kavanagh
+Liverpool,Norwich,4,1,3,1,0,0,0,Win,M Oliver
+West Ham,Man City,0,5,-5,0,1,0,0,Loss,M Dean
+Bournemouth,Sheffield United,1,1,0,0,1,0,0,Draw,K Friend
+Burnley,Southampton,3,0,3,1,0,0,0,Win,G Scott
+Crystal Palace,Everton,0,0,0,1,0,0,0,Draw,J Moss
+Watford,Brighton,0,3,-3,0,1,0,0,Loss,C Pawson
+Tottenham,Aston Villa,3,1,2,1,0,0,0,Win,C Kavanagh
+Leicester,Wolves,0,0,0,1,0,0,0,Draw,A Marriner
+Newcastle,Arsenal,0,1,-1,0,1,0,0,Loss,M Atkinson
+Man United,Chelsea,4,0,4,1,0,0,0,Win,A Taylor
+Arsenal,Burnley,2,1,1,2,0,0,0,Win,M Dean
+Aston Villa,Bournemouth,1,2,-1,0,1,0,0,Loss,M Atkinson
+Brighton,West Ham,1,1,0,0,1,0,0,Draw,A Taylor
+Everton,Watford,1,0,1,1,0,0,0,Win,L Mason
+Norwich,Newcastle,3,1,2,2,0,0,0,Win,S Attwell
+Southampton,Liverpool,1,2,-1,0,1,0,0,Loss,A Marriner
+Man City,Tottenham,2,2,0,0,1,0,0,Draw,M Oliver
+Sheffield United,Crystal Palace,1,0,1,1,0,0,0,Win,D Coote
+Chelsea,Leicester,1,1,0,1,0,0,0,Draw,O Langford
+Wolves,Man United,1,1,0,1,0,0,0,Draw,J Moss
+Aston Villa,Everton,2,0,2,2,0,0,0,Win,M Oliver
+Norwich,Chelsea,2,3,-1,0,1,0,0,Loss,M Atkinson
+Brighton,Southampton,0,2,-2,0,2,0,0,Loss,K Friend
+Man United,Crystal Palace,1,2,-1,0,3,0,1,Loss,P Tierney
+Sheffield United,Leicester,1,2,-1,0,4,0,1,Loss,A Madley
+Watford,West Ham,1,3,-2,0,5,0,1,Loss,C Kavanagh
+Liverpool,Arsenal,3,1,2,1,0,0,0,Win,A Taylor
+Bournemouth,Man City,1,3,-2,0,1,0,0,Loss,A Marriner
+Tottenham,Newcastle,0,1,-1,0,2,0,0,Loss,M Dean
+Wolves,Burnley,1,1,0,0,2,0,0,Draw,C Pawson
+Southampton,Man United,1,1,0,0,2,0,0,Draw,M Dean
+Chelsea,Sheffield United,2,2,0,0,2,0,0,Draw,S Attwell
+Crystal Palace,Aston Villa,1,0,1,1,0,0,0,Win,K Friend
+Leicester,Bournemouth,3,1,2,2,0,0,0,Win,P Bankes
+Man City,Brighton,4,0,4,3,0,1,0,Win,J Moss
+Newcastle,Watford,1,1,0,3,0,1,0,Draw,G Scott
+West Ham,Norwich,2,0,2,4,0,1,0,Win,P Tierney
+Burnley,Liverpool,0,3,-3,0,1,0,0,Loss,C Kavanagh
+Everton,Wolves,3,2,1,1,0,0,0,Win,A Taylor
+Arsenal,Tottenham,2,2,0,1,0,0,0,Draw,M Atkinson
+Liverpool,Newcastle,3,1,2,2,0,0,0,Win,A Marriner
+Brighton,Burnley,1,1,0,2,0,0,0,Draw,M Oliver
+Man United,Leicester,1,0,1,3,0,1,0,Win,M Atkinson
+Sheffield United,Southampton,0,1,-1,0,1,0,0,Loss,L Mason
+Tottenham,Crystal Palace,4,0,4,1,0,0,0,Win,C Pawson
+Wolves,Chelsea,2,5,-3,0,1,0,0,Loss,G Scott
+Norwich,Man City,3,2,1,1,0,0,0,Win,K Friend
+Bournemouth,Everton,3,1,2,2,0,0,0,Win,P Tierney
+Watford,Arsenal,2,2,0,2,0,0,0,Draw,A Taylor
+Aston Villa,West Ham,0,0,0,2,0,0,0,Draw,M Dean
+Southampton,Bournemouth,1,3,-2,0,1,0,0,Loss,C Kavanagh
+Leicester,Tottenham,2,1,1,1,0,0,0,Win,P Tierney
+Burnley,Norwich,2,0,2,2,0,0,0,Win,D Coote
+Everton,Sheffield United,0,2,-2,0,1,0,0,Loss,S Hooper
+Man City,Watford,8,0,8,1,0,0,0,Win,M Dean
+Newcastle,Brighton,0,0,0,1,0,0,0,Draw,M Atkinson
+Crystal Palace,Wolves,1,1,0,1,0,0,0,Draw,S Attwell
+West Ham,Man United,2,0,2,2,0,0,0,Win,A Taylor
+Arsenal,Aston Villa,3,2,1,3,0,1,0,Win,J Moss
+Chelsea,Liverpool,1,2,-1,0,1,0,0,Loss,M Oliver
+Sheffield United,Liverpool,0,1,-1,0,2,0,0,Loss,A Taylor
+Aston Villa,Burnley,2,2,0,0,2,0,0,Draw,L Mason
+Bournemouth,West Ham,2,2,0,0,2,0,0,Draw,S Attwell
+Chelsea,Brighton,2,0,2,1,0,0,0,Win,C Kavanagh
+Crystal Palace,Norwich,2,0,2,2,0,0,0,Win,J Moss
+Tottenham,Southampton,2,1,1,3,0,1,0,Win,G Scott
+Wolves,Watford,2,0,2,4,0,1,0,Win,P Tierney
+Everton,Man City,1,3,-2,0,1,0,0,Loss,M Oliver
+Leicester,Newcastle,5,0,5,1,0,0,0,Win,C Pawson
+Man United,Arsenal,1,1,0,1,0,0,0,Draw,K Friend
+Brighton,Tottenham,3,0,3,2,0,0,0,Win,J Moss
+Burnley,Everton,1,0,1,3,0,1,0,Win,G Scott
+Liverpool,Leicester,2,1,1,4,0,1,0,Win,C Kavanagh
+Norwich,Aston Villa,1,5,-4,0,1,0,0,Loss,A Madley
+Watford,Sheffield United,0,0,0,0,1,0,0,Draw,A Marriner
+West Ham,Crystal Palace,1,2,-1,0,2,0,0,Loss,M Oliver
+Arsenal,Bournemouth,1,0,1,1,0,0,0,Win,M Atkinson
+Man City,Wolves,0,2,-2,0,1,0,0,Loss,C Pawson
+Southampton,Chelsea,1,4,-3,0,2,0,0,Loss,P Tierney
+Newcastle,Man United,1,0,1,1,0,0,0,Win,M Dean
+Everton,West Ham,2,0,2,2,0,0,0,Win,P Tierney
+Aston Villa,Brighton,2,1,1,3,0,1,0,Win,D Coote
+Bournemouth,Norwich,0,0,0,3,0,1,0,Draw,L Mason
+Chelsea,Newcastle,1,0,1,4,0,1,0,Win,A Marriner
+Leicester,Burnley,2,1,1,5,0,1,0,Win,J Moss
+Tottenham,Watford,1,1,0,5,0,1,0,Draw,C Kavanagh
+Wolves,Southampton,1,1,0,5,0,1,0,Draw,P Bankes
+Crystal Palace,Man City,0,2,-2,0,1,0,0,Loss,A Taylor
+Man United,Liverpool,1,1,0,0,1,0,0,Draw,M Atkinson
+Sheffield United,Arsenal,1,0,1,1,0,0,0,Win,M Dean
+Southampton,Leicester,0,9,-9,0,1,0,0,Loss,A Marriner
+Man City,Aston Villa,3,0,3,1,0,0,0,Win,G Scott
+Brighton,Everton,3,2,1,2,0,0,0,Win,A Madley
+Watford,Bournemouth,0,0,0,2,0,0,0,Draw,M Dean
+West Ham,Sheffield United,1,1,0,2,0,0,0,Draw,D Coote
+Burnley,Chelsea,2,4,-2,0,1,0,0,Loss,M Oliver
+Newcastle,Wolves,1,1,0,0,1,0,0,Draw,K Friend
+Arsenal,Crystal Palace,2,2,0,0,1,0,0,Draw,M Atkinson
+Liverpool,Tottenham,2,1,1,1,0,0,0,Win,A Taylor
+Norwich,Man United,1,3,-2,0,1,0,0,Loss,S Attwell
+Bournemouth,Man United,1,0,1,1,0,0,0,Win,C Kavanagh
+Arsenal,Wolves,1,1,0,1,0,0,0,Draw,M Oliver
+Aston Villa,Liverpool,1,2,-1,0,1,0,0,Loss,J Moss
+Brighton,Norwich,2,0,2,1,0,0,0,Win,K Friend
+Man City,Southampton,2,1,1,2,0,0,0,Win,L Mason
+Sheffield United,Burnley,3,0,3,3,0,1,0,Win,S Hooper
+West Ham,Newcastle,2,3,-1,0,1,0,0,Loss,S Attwell
+Watford,Chelsea,1,2,-1,0,2,0,0,Loss,A Taylor
+Crystal Palace,Leicester,0,2,-2,0,3,0,1,Loss,P Tierney
+Everton,Tottenham,1,1,0,0,3,0,1,Draw,M Atkinson
+Norwich,Watford,0,2,-2,0,4,0,1,Loss,A Marriner
+Chelsea,Crystal Palace,2,0,2,1,0,0,0,Win,M Dean
+Burnley,West Ham,3,0,3,2,0,0,0,Win,K Friend
+Newcastle,Bournemouth,2,1,1,3,0,1,0,Win,M Atkinson
+Southampton,Everton,1,2,-1,0,1,0,0,Loss,P Tierney
+Tottenham,Sheffield United,1,1,0,0,1,0,0,Draw,G Scott
+Leicester,Arsenal,2,0,2,1,0,0,0,Win,C Kavanagh
+Man United,Brighton,3,1,2,2,0,0,0,Win,J Moss
+Wolves,Aston Villa,2,1,1,3,0,1,0,Win,A Taylor
+Liverpool,Man City,3,1,2,4,0,1,0,Win,M Oliver
+West Ham,Tottenham,2,3,-1,0,1,0,0,Loss,M Oliver
+Arsenal,Southampton,2,2,0,0,1,0,0,Draw,S Attwell
+Bournemouth,Wolves,1,2,-1,0,2,0,0,Loss,S Hooper
+Brighton,Leicester,0,2,-2,0,3,0,1,Loss,M Dean
+Crystal Palace,Liverpool,1,2,-1,0,4,0,1,Loss,K Friend
+Everton,Norwich,0,2,-2,0,5,0,1,Loss,A Taylor
+Watford,Burnley,0,3,-3,0,6,0,1,Loss,P Tierney
+Man City,Chelsea,2,1,1,1,0,0,0,Win,M Atkinson
+Sheffield United,Man United,3,3,0,1,0,0,0,Draw,A Marriner
+Aston Villa,Newcastle,2,0,2,2,0,0,0,Win,L Mason
+Newcastle,Man City,2,2,0,2,0,0,0,Draw,C Kavanagh
+Burnley,Crystal Palace,0,2,-2,0,1,0,0,Loss,P Bankes
+Chelsea,West Ham,0,1,-1,0,2,0,0,Loss,J Moss
+Liverpool,Brighton,2,1,1,1,0,0,0,Win,M Atkinson
+Tottenham,Bournemouth,3,2,1,2,0,0,0,Win,L Mason
+Southampton,Watford,2,1,1,3,0,1,0,Win,M Oliver
+Norwich,Arsenal,2,2,0,3,0,1,0,Draw,P Tierney
+Wolves,Sheffield United,1,1,0,3,0,1,0,Draw,D Coote
+Leicester,Everton,2,1,1,4,0,1,0,Win,G Scott
+Man United,Aston Villa,2,2,0,4,0,1,0,Draw,C Pawson
+Crystal Palace,Bournemouth,1,0,1,5,0,1,0,Win,A Taylor
+Burnley,Man City,1,4,-3,0,1,0,0,Loss,J Moss
+Chelsea,Aston Villa,2,1,1,1,0,0,0,Win,C Kavanagh
+Leicester,Watford,2,0,2,2,0,0,0,Win,C Pawson
+Man United,Tottenham,2,1,1,3,0,1,0,Win,P Tierney
+Southampton,Norwich,2,1,1,4,0,1,0,Win,K Friend
+Wolves,West Ham,2,0,2,5,0,1,0,Win,A Marriner
+Liverpool,Everton,5,2,3,6,0,1,0,Win,M Dean
+Sheffield United,Newcastle,0,2,-2,0,1,0,0,Loss,S Attwell
+Arsenal,Brighton,1,2,-1,0,2,0,0,Loss,G Scott
+Everton,Chelsea,3,1,2,1,0,0,0,Win,C Pawson
+Bournemouth,Liverpool,0,3,-3,0,1,0,0,Loss,C Kavanagh
+Tottenham,Burnley,5,0,5,1,0,0,0,Win,K Friend
+Watford,Crystal Palace,0,0,0,1,0,0,0,Draw,M Atkinson
+Man City,Man United,1,2,-1,0,1,0,0,Loss,A Taylor
+Aston Villa,Leicester,1,4,-3,0,2,0,0,Loss,M Oliver
+Newcastle,Southampton,2,1,1,1,0,0,0,Win,D Coote
+Norwich,Sheffield United,1,2,-1,0,1,0,0,Loss,S Hooper
+Brighton,Wolves,2,2,0,0,1,0,0,Draw,J Moss
+West Ham,Arsenal,1,3,-2,0,2,0,0,Loss,M Dean
+Liverpool,Watford,2,0,2,1,0,0,0,Win,A Marriner
+Burnley,Newcastle,1,0,1,2,0,0,0,Win,T Robinson
+Chelsea,Bournemouth,0,1,-1,0,1,0,0,Loss,G Scott
+Leicester,Norwich,1,1,0,0,1,0,0,Draw,A Madley
+Sheffield United,Aston Villa,2,0,2,1,0,0,0,Win,P Bankes
+Southampton,West Ham,0,1,-1,0,1,0,0,Loss,M Atkinson
+Man United,Everton,1,1,0,0,1,0,0,Draw,M Oliver
+Wolves,Tottenham,1,2,-1,0,2,0,0,Loss,S Attwell
+Arsenal,Man City,0,3,-3,0,3,0,1,Loss,P Tierney
+Crystal Palace,Brighton,1,1,0,0,3,0,1,Draw,C Pawson
+Everton,Arsenal,0,0,0,0,3,0,1,Draw,K Friend
+Aston Villa,Southampton,1,3,-2,0,4,0,1,Loss,C Pawson
+Bournemouth,Burnley,0,1,-1,0,5,0,1,Loss,M Atkinson
+Brighton,Sheffield United,0,1,-1,0,6,0,1,Loss,R Jones
+Newcastle,Crystal Palace,1,0,1,1,0,0,0,Win,S Hooper
+Norwich,Wolves,1,2,-1,0,1,0,0,Loss,P Bankes
+Man City,Leicester,3,1,2,1,0,0,0,Win,M Dean
+Watford,Man United,2,0,2,2,0,0,0,Win,L Mason
+Tottenham,Chelsea,0,2,-2,0,1,0,0,Loss,A Taylor
+Tottenham,Brighton,2,1,1,1,0,0,0,Win,G Scott
+Aston Villa,Norwich,1,0,1,2,0,0,0,Win,C Kavanagh
+Bournemouth,Arsenal,1,1,0,2,0,0,0,Draw,S Attwell
+Chelsea,Southampton,0,2,-2,0,1,0,0,Loss,J Moss
+Crystal Palace,West Ham,2,1,1,1,0,0,0,Win,A Marriner
+Everton,Burnley,1,0,1,2,0,0,0,Win,A Taylor
+Sheffield United,Watford,1,1,0,2,0,0,0,Draw,D Coote
+Man United,Newcastle,4,1,3,3,0,1,0,Win,K Friend
+Leicester,Liverpool,0,4,-4,0,1,0,0,Loss,M Oliver
+Wolves,Man City,3,2,1,1,0,0,0,Win,M Atkinson
+Brighton,Bournemouth,2,0,2,2,0,0,0,Win,P Tierney
+Newcastle,Everton,1,2,-1,0,1,0,0,Loss,L Mason
+Southampton,Crystal Palace,1,1,0,0,1,0,0,Draw,A Madley
+Watford,Aston Villa,3,0,3,1,0,0,0,Win,S Hooper
+Norwich,Tottenham,2,2,0,1,0,0,0,Draw,K Friend
+West Ham,Leicester,1,2,-1,0,1,0,0,Loss,D Coote
+Burnley,Man United,0,2,-2,0,2,0,0,Loss,M Dean
+Arsenal,Chelsea,1,2,-1,0,3,0,1,Loss,C Pawson
+Liverpool,Wolves,1,0,1,1,0,0,0,Win,A Taylor
+Man City,Sheffield United,2,0,2,2,0,0,0,Win,C Kavanagh
+Brighton,Chelsea,1,1,0,2,0,0,0,Draw,S Attwell
+Burnley,Aston Villa,1,2,-1,0,1,0,0,Loss,M Oliver
+Newcastle,Leicester,0,3,-3,0,2,0,0,Loss,M Atkinson
+Southampton,Tottenham,1,0,1,1,0,0,0,Win,M Dean
+Watford,Wolves,2,1,1,2,0,0,0,Win,A Madley
+Man City,Everton,2,1,1,3,0,1,0,Win,A Marriner
+Norwich,Crystal Palace,1,1,0,3,0,1,0,Draw,J Moss
+West Ham,Bournemouth,4,0,4,4,0,1,0,Win,G Scott
+Arsenal,Man United,2,0,2,5,0,1,0,Win,C Kavanagh
+Liverpool,Sheffield United,2,0,2,6,0,1,0,Win,P Tierney
+Sheffield United,West Ham,1,0,1,7,0,1,0,Win,M Oliver
+Crystal Palace,Arsenal,1,1,0,7,0,1,0,Draw,P Tierney
+Chelsea,Burnley,3,0,3,8,0,1,0,Win,K Friend
+Everton,Brighton,1,0,1,9,0,1,0,Win,D Coote
+Leicester,Southampton,1,2,-1,0,1,0,0,Loss,L Mason
+Man United,Norwich,4,0,4,1,0,0,0,Win,A Taylor
+Wolves,Newcastle,1,1,0,1,0,0,0,Draw,P Bankes
+Tottenham,Liverpool,0,1,-1,0,1,0,0,Loss,M Atkinson
+Bournemouth,Watford,0,3,-3,0,2,0,0,Loss,M Dean
+Aston Villa,Man City,1,6,-5,0,3,0,1,Loss,J Moss
+Watford,Tottenham,0,0,0,0,3,0,1,Draw,M Oliver
+Arsenal,Sheffield United,1,1,0,0,3,0,1,Draw,M Dean
+Brighton,Aston Villa,1,1,0,0,3,0,1,Draw,A Madley
+Man City,Crystal Palace,2,2,0,0,3,0,1,Draw,S Scott
+Norwich,Bournemouth,1,0,1,1,0,0,0,Win,P Tierney
+Southampton,Wolves,2,3,-1,0,1,0,0,Loss,D England
+West Ham,Everton,1,1,0,0,1,0,0,Draw,A Marriner
+Newcastle,Chelsea,1,0,1,1,0,0,0,Win,C Kavanagh
+Burnley,Leicester,2,1,1,2,0,0,0,Win,A Taylor
+Liverpool,Man United,2,0,2,3,0,1,0,Win,C Pawson
+Aston Villa,Watford,2,1,1,4,0,1,0,Win,M Atkinson
+Bournemouth,Brighton,3,1,2,5,0,1,0,Win,K Friend
+Crystal Palace,Southampton,0,2,-2,0,1,0,0,Loss,A Marriner
+Everton,Newcastle,2,2,0,0,1,0,0,Draw,S Hooper
+Sheffield United,Man City,0,1,-1,0,2,0,0,Loss,L Mason
+Chelsea,Arsenal,2,2,0,0,2,0,0,Draw,S Attwell
+Leicester,West Ham,4,1,3,1,0,0,0,Win,D Coote
+Tottenham,Norwich,2,1,1,2,0,0,0,Win,C Kavanagh
+Man United,Burnley,0,2,-2,0,1,0,0,Loss,J Moss
+Wolves,Liverpool,1,2,-1,0,2,0,0,Loss,M Oliver
+West Ham,Liverpool,0,2,-2,0,3,0,1,Loss,J Moss
+Leicester,Chelsea,2,2,0,0,3,0,1,Draw,L Mason
+Bournemouth,Aston Villa,2,1,1,1,0,0,0,Win,A Taylor
+Crystal Palace,Sheffield United,0,1,-1,0,1,0,0,Loss,A Madley
+Liverpool,Southampton,4,0,4,1,0,0,0,Win,K Friend
+Newcastle,Norwich,0,0,0,1,0,0,0,Draw,M Atkinson
+Watford,Everton,2,3,-1,0,1,0,0,Loss,C Pawson
+West Ham,Brighton,3,3,0,0,1,0,0,Draw,M Oliver
+Man United,Wolves,0,0,0,0,1,0,0,Draw,P Tierney
+Burnley,Arsenal,0,0,0,0,1,0,0,Draw,C Kavanagh
+Tottenham,Man City,2,0,2,1,0,0,0,Win,M Dean
+Everton,Crystal Palace,3,1,2,2,0,0,0,Win,D Coote
+Brighton,Watford,1,1,0,2,0,0,0,Draw,K Friend
+Sheffield United,Bournemouth,2,1,1,3,0,1,0,Win,J Moss
+Wolves,Leicester,0,0,0,3,0,1,0,Draw,M Dean
+Southampton,Burnley,1,2,-1,0,1,0,0,Loss,S Hooper
+Norwich,Liverpool,0,1,-1,0,2,0,0,Loss,S Attwell
+Aston Villa,Tottenham,2,3,-1,0,3,0,1,Loss,M Atkinson
+Arsenal,Newcastle,4,0,4,1,0,0,0,Win,L Mason
+Chelsea,Man United,0,2,-2,0,1,0,0,Loss,A Taylor
+Man City,West Ham,2,0,2,1,0,0,0,Win,K Friend
+Chelsea,Tottenham,2,1,1,2,0,0,0,Win,M Oliver
+Burnley,Bournemouth,3,0,3,3,0,1,0,Win,M Dean
+Crystal Palace,Newcastle,1,0,1,4,0,1,0,Win,P Bankes
+Sheffield United,Brighton,1,1,0,4,0,1,0,Draw,G Scott
+Southampton,Aston Villa,2,0,2,5,0,1,0,Win,C Pawson
+Leicester,Man City,0,1,-1,0,1,0,0,Loss,P Tierney
+Man United,Watford,3,0,3,1,0,0,0,Win,M Atkinson
+Wolves,Norwich,3,0,3,2,0,0,0,Win,C Kavanagh
+Arsenal,Everton,3,2,1,3,0,1,0,Win,S Attwell
+Liverpool,West Ham,3,2,1,4,0,1,0,Win,J Moss
+Norwich,Leicester,1,0,1,5,0,1,0,Win,C Pawson
+Brighton,Crystal Palace,0,1,-1,0,1,0,0,Loss,M Atkinson
+Bournemouth,Chelsea,2,2,0,0,1,0,0,Draw,A Marriner
+Newcastle,Burnley,0,0,0,0,1,0,0,Draw,A Madley
+West Ham,Southampton,3,1,2,1,0,0,0,Win,A Taylor
+Watford,Liverpool,3,0,3,2,0,0,0,Win,M Oliver
+Everton,Man United,1,1,0,2,0,0,0,Draw,C Kavanagh
+Tottenham,Wolves,2,3,-1,0,1,0,0,Loss,S Attwell
+Liverpool,Bournemouth,2,1,1,1,0,0,0,Win,P Tierney
+Arsenal,West Ham,1,0,1,2,0,0,0,Win,M Atkinson
+Crystal Palace,Watford,1,0,1,3,0,1,0,Win,A Taylor
+Sheffield United,Norwich,1,0,1,4,0,1,0,Win,S Hooper
+Southampton,Newcastle,0,1,-1,0,1,0,0,Loss,G Scott
+Wolves,Brighton,0,0,0,0,1,0,0,Draw,A Marriner
+Burnley,Tottenham,1,1,0,0,1,0,0,Draw,J Moss
+Chelsea,Everton,4,0,4,1,0,0,0,Win,K Friend
+Man United,Man City,2,0,2,2,0,0,0,Win,M Dean
+Leicester,Aston Villa,4,0,4,3,0,1,0,Win,M Oliver
+Aston Villa,Sheffield United,0,0,0,3,0,1,0,Draw,M Oliver
+Man City,Arsenal,3,0,3,4,0,1,0,Win,A Taylor
+Norwich,Southampton,0,3,-3,0,1,0,0,Loss,K Friend
+Tottenham,Man United,1,1,0,0,1,0,0,Draw,J Moss
+Watford,Leicester,1,1,0,0,1,0,0,Draw,C Pawson
+Brighton,Arsenal,2,1,1,1,0,0,0,Win,M Atkinson
+West Ham,Wolves,0,2,-2,0,1,0,0,Loss,A Taylor
+Bournemouth,Crystal Palace,0,2,-2,0,2,0,0,Loss,S Attwell
+Newcastle,Sheffield United,3,0,3,1,0,0,0,Win,D Coote
+Aston Villa,Chelsea,1,2,-1,0,1,0,0,Loss,P Tierney
+Everton,Liverpool,0,0,0,0,1,0,0,Draw,M Dean
+Man City,Burnley,5,0,5,1,0,0,0,Win,A Marriner
+Leicester,Brighton,0,0,0,1,0,0,0,Draw,L Mason
+Tottenham,West Ham,2,0,2,2,0,0,0,Win,C Pawson
+Man United,Sheffield United,3,0,3,3,0,1,0,Win,A Taylor
+Newcastle,Aston Villa,1,1,0,3,0,1,0,Draw,C Kavanagh
+Norwich,Everton,0,1,-1,0,1,0,0,Loss,A Madley
+Wolves,Bournemouth,1,0,1,1,0,0,0,Win,M Oliver
+Liverpool,Crystal Palace,4,0,4,2,0,0,0,Win,M Atkinson
+Burnley,Watford,1,0,1,3,0,1,0,Win,M Dean
+Southampton,Arsenal,0,2,-2,0,1,0,0,Loss,G Scott
+Chelsea,Man City,2,1,1,1,0,0,0,Win,S Attwell
+Aston Villa,Wolves,0,1,-1,0,1,0,0,Loss,C Pawson
+Watford,Southampton,1,3,-2,0,2,0,0,Loss,M Oliver
+Crystal Palace,Burnley,0,1,-1,0,3,0,1,Loss,S Hooper
+Brighton,Man United,0,3,-3,0,4,0,1,Loss,A Marriner
+Arsenal,Norwich,4,0,4,1,0,0,0,Win,P Bankes
+Bournemouth,Newcastle,1,4,-3,0,1,0,0,Loss,K Friend
+Everton,Leicester,2,1,1,1,0,0,0,Win,D Coote
+West Ham,Chelsea,3,2,1,2,0,0,0,Win,M Atkinson
+Sheffield United,Tottenham,3,1,2,3,0,1,0,Win,C Kavanagh
+Man City,Liverpool,4,0,4,4,0,1,0,Win,A Taylor
+Norwich,Brighton,0,1,-1,0,1,0,0,Loss,S Attwell
+Leicester,Crystal Palace,3,0,3,1,0,0,0,Win,J Moss
+Man United,Bournemouth,5,2,3,2,0,0,0,Win,M Dean
+Wolves,Arsenal,0,2,-2,0,1,0,0,Loss,M Oliver
+Chelsea,Watford,3,0,3,1,0,0,0,Win,K Friend
+Burnley,Sheffield United,1,1,0,1,0,0,0,Draw,P Bankes
+Newcastle,West Ham,2,2,0,1,0,0,0,Draw,C Pawson
+Liverpool,Aston Villa,2,0,2,2,0,0,0,Win,P Tierney
+Southampton,Man City,1,0,1,3,0,1,0,Win,A Marriner
+Tottenham,Everton,1,0,1,4,0,1,0,Win,G Scott
+Crystal Palace,Chelsea,2,3,-1,0,1,0,0,Loss,D Coote
+Watford,Norwich,2,1,1,1,0,0,0,Win,A Taylor
+Arsenal,Leicester,1,1,0,1,0,0,0,Draw,C Kavanagh
+Man City,Newcastle,5,0,5,2,0,0,0,Win,A Madley
+Sheffield United,Wolves,1,0,1,3,0,1,0,Win,M Atkinson
+West Ham,Burnley,0,1,-1,0,1,0,0,Loss,M Oliver
+Brighton,Liverpool,1,3,-2,0,2,0,0,Loss,C Pawson
+Bournemouth,Tottenham,0,0,0,0,2,0,0,Draw,P Tierney
+Everton,Southampton,1,1,0,0,2,0,0,Draw,L Mason
+Aston Villa,Man United,0,3,-3,0,3,0,1,Loss,J Moss
+Norwich,West Ham,0,4,-4,0,4,0,1,Loss,K Friend
+Watford,Newcastle,2,1,1,1,0,0,0,Win,C Pawson
+Liverpool,Burnley,1,1,0,1,0,0,0,Draw,D Coote
+Sheffield United,Chelsea,3,0,3,2,0,0,0,Win,A Marriner
+Brighton,Man City,0,5,-5,0,1,0,0,Loss,G Scott
+Wolves,Everton,3,0,3,1,0,0,0,Win,A Taylor
+Aston Villa,Crystal Palace,2,0,2,2,0,0,0,Win,M Atkinson
+Tottenham,Arsenal,2,1,1,3,0,1,0,Win,M Oliver
+Bournemouth,Leicester,4,1,3,4,0,1,0,Win,S Attwell
+Man United,Southampton,2,2,0,4,0,1,0,Draw,C Kavanagh
+Chelsea,Norwich,1,0,1,5,0,1,0,Win,J Moss
+Burnley,Wolves,1,1,0,5,0,1,0,Draw,M Dean
+Man City,Bournemouth,2,1,1,6,0,1,0,Win,L Mason
+Newcastle,Tottenham,1,3,-2,0,1,0,0,Loss,D Coote
+Arsenal,Liverpool,2,1,1,1,0,0,0,Win,P Tierney
+Everton,Aston Villa,1,1,0,1,0,0,0,Draw,A Taylor
+Leicester,Sheffield United,2,0,2,2,0,0,0,Win,M Oliver
+Crystal Palace,Man United,0,2,-2,0,1,0,0,Loss,G Scott
+Southampton,Brighton,1,1,0,0,1,0,0,Draw,A Marriner
+West Ham,Watford,3,1,2,1,0,0,0,Win,M Atkinson
+Norwich,Burnley,0,2,-2,0,1,0,0,Loss,K Friend
+Bournemouth,Southampton,0,2,-2,0,2,0,0,Loss,C Pawson
+Tottenham,Leicester,3,0,3,1,0,0,0,Win,A Taylor
+Brighton,Newcastle,0,0,0,1,0,0,0,Draw,S Hooper
+Sheffield United,Everton,0,1,-1,0,1,0,0,Loss,S Attwell
+Wolves,Crystal Palace,2,0,2,1,0,0,0,Win,P Bankes
+Watford,Man City,0,4,-4,0,1,0,0,Loss,M Oliver
+Aston Villa,Arsenal,1,0,1,1,0,0,0,Win,C Kavanagh
+Man United,West Ham,1,1,0,1,0,0,0,Draw,P Tierney
+Liverpool,Chelsea,5,3,2,2,0,0,0,Win,A Marriner
+Arsenal,Watford,3,2,1,3,0,1,0,Win,M Dean
+Burnley,Brighton,1,2,-1,0,1,0,0,Loss,J Moss
+Chelsea,Wolves,2,0,2,1,0,0,0,Win,S Attwell
+Crystal Palace,Tottenham,1,1,0,1,0,0,0,Draw,A Marriner
+Everton,Bournemouth,1,3,-2,0,1,0,0,Loss,C Kavanagh
+Leicester,Man United,0,2,-2,0,2,0,0,Loss,M Atkinson
+Man City,Norwich,5,0,5,1,0,0,0,Win,C Pawson
+Newcastle,Liverpool,1,3,-2,0,1,0,0,Loss,A Taylor
+Southampton,Sheffield United,3,1,2,1,0,0,0,Win,P Bankes
+West Ham,Aston Villa,1,1,0,1,0,0,0,Draw,M Oliver
+Burnley,Swansea,0,1,-1,0,1,0,0,Loss,J Moss
+Crystal Palace,West Brom,0,1,-1,0,2,0,0,Loss,C Pawson
+Everton,Tottenham,1,1,0,0,2,0,0,Draw,M Atkinson
+Hull,Leicester,2,1,1,1,0,0,0,Win,M Dean
+Man City,Sunderland,2,1,1,2,0,0,0,Win,R Madley
+Middlesbrough,Stoke,1,1,0,2,0,0,0,Draw,K Friend
+Southampton,Watford,1,1,0,2,0,0,0,Draw,R East
+Arsenal,Liverpool,3,4,-1,0,1,0,0,Loss,M Oliver
+Bournemouth,Man United,1,3,-2,0,2,0,0,Loss,A Marriner
+Chelsea,West Ham,2,1,1,1,0,0,0,Win,A Taylor
+Man United,Southampton,2,0,2,2,0,0,0,Win,A Taylor
+Burnley,Liverpool,2,0,2,3,0,1,0,Win,L Mason
+Leicester,Arsenal,0,0,0,3,0,1,0,Draw,M Clattenburg
+Stoke,Man City,1,4,-3,0,1,0,0,Loss,M Dean
+Swansea,Hull,0,2,-2,0,2,0,0,Loss,S Attwell
+Tottenham,Crystal Palace,1,0,1,1,0,0,0,Win,M Oliver
+Watford,Chelsea,1,2,-1,0,1,0,0,Loss,J Moss
+West Brom,Everton,1,2,-1,0,2,0,0,Loss,N Swarbrick
+Sunderland,Middlesbrough,1,2,-1,0,3,0,1,Loss,M Atkinson
+West Ham,Bournemouth,1,0,1,1,0,0,0,Win,C Pawson
+Chelsea,Burnley,3,0,3,2,0,0,0,Win,M Clattenburg
+Crystal Palace,Bournemouth,1,1,0,2,0,0,0,Draw,M Dean
+Everton,Stoke,1,0,1,3,0,1,0,Win,M Oliver
+Hull,Man United,0,1,-1,0,1,0,0,Loss,J Moss
+Leicester,Swansea,2,1,1,1,0,0,0,Win,R East
+Southampton,Sunderland,1,1,0,1,0,0,0,Draw,L Mason
+Tottenham,Liverpool,1,1,0,1,0,0,0,Draw,R Madley
+Watford,Arsenal,1,3,-2,0,1,0,0,Loss,K Friend
+Man City,West Ham,3,1,2,1,0,0,0,Win,A Marriner
+West Brom,Middlesbrough,0,0,0,1,0,0,0,Draw,A Taylor
+Arsenal,Southampton,2,1,1,2,0,0,0,Win,R Madley
+Bournemouth,West Brom,1,0,1,3,0,1,0,Win,K Friend
+Burnley,Hull,1,1,0,3,0,1,0,Draw,P Tierney
+Liverpool,Leicester,4,1,3,4,0,1,0,Win,C Pawson
+Man United,Man City,1,2,-1,0,1,0,0,Loss,M Clattenburg
+Middlesbrough,Crystal Palace,1,2,-1,0,2,0,0,Loss,N Swarbrick
+Stoke,Tottenham,0,4,-4,0,3,0,1,Loss,A Taylor
+West Ham,Watford,2,4,-2,0,4,0,1,Loss,M Atkinson
+Swansea,Chelsea,2,2,0,0,4,0,1,Draw,A Marriner
+Sunderland,Everton,0,3,-3,0,5,0,1,Loss,M Jones
+Chelsea,Liverpool,1,2,-1,0,6,0,1,Loss,M Atkinson
+Everton,Middlesbrough,3,1,2,1,0,0,0,Win,L Mason
+Hull,Arsenal,1,4,-3,0,1,0,0,Loss,R East
+Leicester,Burnley,3,0,3,1,0,0,0,Win,A Taylor
+Man City,Bournemouth,4,0,4,2,0,0,0,Win,J Moss
+West Brom,West Ham,4,2,2,3,0,1,0,Win,M Clattenburg
+Crystal Palace,Stoke,4,1,3,4,0,1,0,Win,C Pawson
+Southampton,Swansea,1,0,1,5,0,1,0,Win,M Jones
+Tottenham,Sunderland,1,0,1,6,0,1,0,Win,M Dean
+Watford,Man United,3,1,2,7,0,1,0,Win,M Oliver
+Arsenal,Chelsea,3,0,3,8,0,1,0,Win,M Oliver
+Bournemouth,Everton,1,0,1,9,0,1,0,Win,R Madley
+Liverpool,Hull,5,1,4,10,0,1,0,Win,A Marriner
+Man United,Leicester,4,1,3,11,0,1,0,Win,M Dean
+Middlesbrough,Tottenham,1,2,-1,0,1,0,0,Loss,G Scott
+Stoke,West Brom,1,1,0,0,1,0,0,Draw,M Atkinson
+Sunderland,Crystal Palace,2,3,-1,0,2,0,0,Loss,A Taylor
+Swansea,Man City,1,3,-2,0,3,0,1,Loss,N Swarbrick
+West Ham,Southampton,0,3,-3,0,4,0,1,Loss,J Moss
+Burnley,Watford,2,0,2,1,0,0,0,Win,M Jones
+Everton,Crystal Palace,1,1,0,1,0,0,0,Draw,J Moss
+Hull,Chelsea,0,2,-2,0,1,0,0,Loss,A Taylor
+Sunderland,West Brom,1,1,0,0,1,0,0,Draw,S Attwell
+Swansea,Liverpool,1,2,-1,0,2,0,0,Loss,M Oliver
+Watford,Bournemouth,2,2,0,0,2,0,0,Draw,M Dean
+West Ham,Middlesbrough,1,1,0,0,2,0,0,Draw,N Swarbrick
+Burnley,Arsenal,0,1,-1,0,3,0,1,Loss,C Pawson
+Leicester,Southampton,0,0,0,0,3,0,1,Draw,M Atkinson
+Man United,Stoke,1,1,0,0,3,0,1,Draw,R Madley
+Tottenham,Man City,2,0,2,1,0,0,0,Win,A Marriner
+Arsenal,Swansea,3,2,1,2,0,0,0,Win,J Moss
+Bournemouth,Hull,6,1,5,3,0,1,0,Win,L Mason
+Chelsea,Leicester,3,0,3,4,0,1,0,Win,A Marriner
+Crystal Palace,West Ham,0,1,-1,0,1,0,0,Loss,M Atkinson
+Man City,Everton,1,1,0,0,1,0,0,Draw,M Oliver
+Stoke,Sunderland,2,0,2,1,0,0,0,Win,M Jones
+West Brom,Tottenham,1,1,0,1,0,0,0,Draw,K Friend
+Middlesbrough,Watford,0,1,-1,0,1,0,0,Loss,R East
+Southampton,Burnley,3,1,2,1,0,0,0,Win,M Dean
+Liverpool,Man United,0,0,0,1,0,0,0,Draw,A Taylor
+Arsenal,Middlesbrough,0,0,0,1,0,0,0,Draw,M Dean
+Bournemouth,Tottenham,0,0,0,1,0,0,0,Draw,C Pawson
+Burnley,Everton,2,1,1,2,0,0,0,Win,M Jones
+Hull,Stoke,0,2,-2,0,1,0,0,Loss,K Friend
+Leicester,Crystal Palace,3,1,2,1,0,0,0,Win,M Oliver
+Liverpool,West Brom,2,1,1,2,0,0,0,Win,N Swarbrick
+Swansea,Watford,0,0,0,2,0,0,0,Draw,P Tierney
+West Ham,Sunderland,1,0,1,3,0,1,0,Win,R Madley
+Chelsea,Man United,4,0,4,4,0,1,0,Win,M Atkinson
+Man City,Southampton,1,1,0,4,0,1,0,Draw,M Clattenburg
+Crystal Palace,Liverpool,2,4,-2,0,1,0,0,Loss,A Marriner
+Man United,Burnley,0,0,0,0,1,0,0,Draw,M Clattenburg
+Middlesbrough,Bournemouth,2,0,2,1,0,0,0,Win,S Attwell
+Sunderland,Arsenal,1,4,-3,0,1,0,0,Loss,M Atkinson
+Tottenham,Leicester,1,1,0,0,1,0,0,Draw,R Madley
+Watford,Hull,1,0,1,1,0,0,0,Win,J Moss
+West Brom,Man City,0,4,-4,0,1,0,0,Loss,L Mason
+Everton,West Ham,2,0,2,1,0,0,0,Win,A Taylor
+Southampton,Chelsea,0,2,-2,0,1,0,0,Loss,M Jones
+Stoke,Swansea,3,1,2,1,0,0,0,Win,M Oliver
+Bournemouth,Sunderland,1,2,-1,0,1,0,0,Loss,M Dean
+Burnley,Crystal Palace,3,2,1,1,0,0,0,Win,A Taylor
+Chelsea,Everton,5,0,5,2,0,0,0,Win,R Madley
+Man City,Middlesbrough,1,1,0,2,0,0,0,Draw,K Friend
+West Ham,Stoke,1,1,0,2,0,0,0,Draw,A Marriner
+Arsenal,Tottenham,1,1,0,2,0,0,0,Draw,M Clattenburg
+Hull,Southampton,2,1,1,3,0,1,0,Win,G Scott
+Leicester,West Brom,1,2,-1,0,1,0,0,Loss,C Pawson
+Liverpool,Watford,6,1,5,1,0,0,0,Win,M Oliver
+Swansea,Man United,1,3,-2,0,1,0,0,Loss,N Swarbrick
+Crystal Palace,Man City,1,2,-1,0,2,0,0,Loss,R Madley
+Everton,Swansea,1,1,0,0,2,0,0,Draw,M Atkinson
+Man United,Arsenal,1,1,0,0,2,0,0,Draw,A Marriner
+Southampton,Liverpool,0,0,0,0,2,0,0,Draw,M Clattenburg
+Stoke,Bournemouth,0,1,-1,0,3,0,1,Loss,R East
+Sunderland,Hull,3,0,3,1,0,0,0,Win,L Mason
+Tottenham,West Ham,3,2,1,2,0,0,0,Win,M Dean
+Watford,Leicester,2,1,1,3,0,1,0,Win,N Swarbrick
+Middlesbrough,Chelsea,0,1,-1,0,1,0,0,Loss,J Moss
+West Brom,Burnley,4,0,4,1,0,0,0,Win,M Jones
+Burnley,Man City,1,2,-1,0,1,0,0,Loss,A Marriner
+Chelsea,Tottenham,2,1,1,1,0,0,0,Win,M Oliver
+Hull,West Brom,1,1,0,1,0,0,0,Draw,P Tierney
+Leicester,Middlesbrough,2,2,0,1,0,0,0,Draw,L Mason
+Liverpool,Sunderland,2,0,2,2,0,0,0,Win,A Taylor
+Swansea,Crystal Palace,5,4,1,3,0,1,0,Win,K Friend
+Arsenal,Bournemouth,3,1,2,4,0,1,0,Win,M Jones
+Man United,West Ham,1,1,0,4,0,1,0,Draw,J Moss
+Southampton,Everton,1,0,1,5,0,1,0,Win,C Pawson
+Watford,Stoke,0,1,-1,0,1,0,0,Loss,R Madley
+Crystal Palace,Southampton,3,0,3,1,0,0,0,Win,N Swarbrick
+Man City,Chelsea,1,3,-2,0,1,0,0,Loss,A Taylor
+Stoke,Burnley,2,0,2,1,0,0,0,Win,M Clattenburg
+Sunderland,Leicester,2,1,1,2,0,0,0,Win,A Marriner
+Tottenham,Swansea,5,0,5,3,0,1,0,Win,J Moss
+West Brom,Watford,3,1,2,4,0,1,0,Win,G Scott
+West Ham,Arsenal,1,5,-4,0,1,0,0,Loss,C Pawson
+Bournemouth,Liverpool,4,3,1,1,0,0,0,Win,R Madley
+Everton,Man United,1,1,0,1,0,0,0,Draw,M Oliver
+Middlesbrough,Hull,1,0,1,2,0,0,0,Win,M Dean
+Arsenal,Stoke,3,1,2,3,0,1,0,Win,L Mason
+Burnley,Bournemouth,3,2,1,4,0,1,0,Win,M Atkinson
+Hull,Crystal Palace,3,3,0,4,0,1,0,Draw,M Jones
+Leicester,Man City,4,2,2,5,0,1,0,Win,M Oliver
+Swansea,Sunderland,3,0,3,6,0,1,0,Win,C Pawson
+Watford,Everton,3,2,1,7,0,1,0,Win,A Taylor
+Chelsea,West Brom,1,0,1,8,0,1,0,Win,M Dean
+Liverpool,West Ham,2,2,0,8,0,1,0,Draw,M Clattenburg
+Man United,Tottenham,1,0,1,9,0,1,0,Win,R Madley
+Southampton,Middlesbrough,1,0,1,10,0,1,0,Win,S Attwell
+Bournemouth,Leicester,1,0,1,11,0,1,0,Win,P Tierney
+Everton,Arsenal,2,1,1,12,0,1,0,Win,M Clattenburg
+Crystal Palace,Man United,1,2,-1,0,1,0,0,Loss,C Pawson
+Man City,Watford,2,0,2,1,0,0,0,Win,K Friend
+Middlesbrough,Liverpool,0,3,-3,0,1,0,0,Loss,J Moss
+Stoke,Southampton,0,0,0,0,1,0,0,Draw,A Taylor
+Sunderland,Chelsea,0,1,-1,0,2,0,0,Loss,N Swarbrick
+Tottenham,Hull,3,0,3,1,0,0,0,Win,A Marriner
+West Brom,Swansea,3,1,2,2,0,0,0,Win,M Oliver
+West Ham,Burnley,1,0,1,3,0,1,0,Win,R Madley
+Crystal Palace,Chelsea,0,1,-1,0,1,0,0,Loss,J Moss
+Middlesbrough,Swansea,3,0,3,1,0,0,0,Win,N Swarbrick
+Stoke,Leicester,2,2,0,1,0,0,0,Draw,C Pawson
+Sunderland,Watford,1,0,1,2,0,0,0,Win,R Madley
+West Brom,Man United,0,2,-2,0,1,0,0,Loss,A Taylor
+West Ham,Hull,1,0,1,1,0,0,0,Win,L Mason
+Bournemouth,Southampton,1,3,-2,0,1,0,0,Loss,M Clattenburg
+Man City,Arsenal,2,1,1,1,0,0,0,Win,M Atkinson
+Tottenham,Burnley,2,1,1,2,0,0,0,Win,K Friend
+Everton,Liverpool,0,1,-1,0,1,0,0,Loss,M Dean
+Arsenal,West Brom,1,0,1,1,0,0,0,Win,N Swarbrick
+Burnley,Middlesbrough,1,0,1,2,0,0,0,Win,C Pawson
+Chelsea,Bournemouth,3,0,3,3,0,1,0,Win,M Jones
+Hull,Man City,0,3,-3,0,1,0,0,Loss,R Madley
+Leicester,Everton,0,2,-2,0,2,0,0,Loss,S Attwell
+Man United,Sunderland,3,1,2,1,0,0,0,Win,M Atkinson
+Swansea,West Ham,1,4,-3,0,1,0,0,Loss,A Marriner
+Watford,Crystal Palace,1,1,0,0,1,0,0,Draw,M Clattenburg
+Liverpool,Stoke,4,1,3,1,0,0,0,Win,M Oliver
+Southampton,Tottenham,1,4,-3,0,1,0,0,Loss,M Dean
+Hull,Everton,2,2,0,0,1,0,0,Draw,J Moss
+Burnley,Sunderland,4,1,3,1,0,0,0,Win,G Scott
+Chelsea,Stoke,4,2,2,2,0,0,0,Win,R Madley
+Leicester,West Ham,1,0,1,3,0,1,0,Win,A Taylor
+Liverpool,Man City,1,0,1,4,0,1,0,Win,C Pawson
+Man United,Middlesbrough,2,1,1,5,0,1,0,Win,L Mason
+Southampton,West Brom,1,2,-1,0,1,0,0,Loss,M Jones
+Swansea,Bournemouth,0,3,-3,0,2,0,0,Loss,K Friend
+Arsenal,Crystal Palace,2,0,2,1,0,0,0,Win,A Marriner
+Watford,Tottenham,1,4,-3,0,1,0,0,Loss,M Oliver
+Everton,Southampton,3,0,3,1,0,0,0,Win,K Friend
+Man City,Burnley,2,1,1,2,0,0,0,Win,L Mason
+Middlesbrough,Leicester,0,0,0,2,0,0,0,Draw,R Madley
+Sunderland,Liverpool,2,2,0,2,0,0,0,Draw,A Taylor
+West Brom,Hull,3,1,2,3,0,1,0,Win,M Clattenburg
+West Ham,Man United,0,2,-2,0,1,0,0,Loss,M Dean
+Bournemouth,Arsenal,3,3,0,0,1,0,0,Draw,M Oliver
+Crystal Palace,Swansea,1,2,-1,0,2,0,0,Loss,P Tierney
+Stoke,Watford,2,0,2,1,0,0,0,Win,N Swarbrick
+Tottenham,Chelsea,2,0,2,2,0,0,0,Win,M Atkinson
+Burnley,Southampton,1,0,1,3,0,1,0,Win,P Tierney
+Hull,Bournemouth,3,1,2,4,0,1,0,Win,M Atkinson
+Leicester,Chelsea,0,3,-3,0,1,0,0,Loss,A Marriner
+Sunderland,Stoke,1,3,-2,0,2,0,0,Loss,M Dean
+Swansea,Arsenal,0,4,-4,0,3,0,1,Loss,M Jones
+Tottenham,West Brom,4,0,4,1,0,0,0,Win,A Taylor
+Watford,Middlesbrough,0,0,0,1,0,0,0,Draw,J Moss
+West Ham,Crystal Palace,3,0,3,2,0,0,0,Win,N Swarbrick
+Everton,Man City,4,0,4,3,0,1,0,Win,M Clattenburg
+Man United,Liverpool,1,1,0,3,0,1,0,Draw,M Oliver
+Bournemouth,Watford,2,2,0,3,0,1,0,Draw,L Mason
+Crystal Palace,Everton,0,1,-1,0,1,0,0,Loss,A Taylor
+Liverpool,Swansea,2,3,-1,0,2,0,0,Loss,K Friend
+Man City,Tottenham,2,2,0,0,2,0,0,Draw,A Marriner
+Middlesbrough,West Ham,1,3,-2,0,3,0,1,Loss,M Atkinson
+Stoke,Man United,1,1,0,0,3,0,1,Draw,M Clattenburg
+West Brom,Sunderland,2,0,2,1,0,0,0,Win,C Pawson
+Arsenal,Burnley,2,1,1,2,0,0,0,Win,J Moss
+Chelsea,Hull,2,0,2,3,0,1,0,Win,N Swarbrick
+Southampton,Leicester,3,0,3,4,0,1,0,Win,M Oliver
+Arsenal,Watford,1,2,-1,0,1,0,0,Loss,A Marriner
+Bournemouth,Crystal Palace,0,2,-2,0,2,0,0,Loss,J Moss
+Burnley,Leicester,1,0,1,1,0,0,0,Win,M Dean
+Liverpool,Chelsea,1,1,0,1,0,0,0,Draw,M Clattenburg
+Middlesbrough,West Brom,1,1,0,1,0,0,0,Draw,S Attwell
+Sunderland,Tottenham,0,0,0,1,0,0,0,Draw,L Mason
+Swansea,Southampton,2,1,1,2,0,0,0,Win,R East
+Man United,Hull,0,0,0,2,0,0,0,Draw,M Jones
+Stoke,Everton,1,1,0,2,0,0,0,Draw,C Pawson
+West Ham,Man City,0,4,-4,0,1,0,0,Loss,K Friend
+Chelsea,Arsenal,3,1,2,1,0,0,0,Win,M Atkinson
+Crystal Palace,Sunderland,0,4,-4,0,1,0,0,Loss,A Marriner
+Everton,Bournemouth,6,3,3,1,0,0,0,Win,M Jones
+Hull,Liverpool,2,0,2,2,0,0,0,Win,L Mason
+Southampton,West Ham,1,3,-2,0,1,0,0,Loss,G Scott
+Tottenham,Middlesbrough,1,0,1,1,0,0,0,Win,M Clattenburg
+Watford,Burnley,2,1,1,2,0,0,0,Win,M Oliver
+West Brom,Stoke,1,0,1,3,0,1,0,Win,K Friend
+Leicester,Man United,0,3,-3,0,1,0,0,Loss,A Taylor
+Man City,Swansea,2,1,1,1,0,0,0,Win,M Dean
+Arsenal,Hull,2,0,2,2,0,0,0,Win,M Clattenburg
+Liverpool,Tottenham,2,0,2,3,0,1,0,Win,A Taylor
+Man United,Watford,2,0,2,4,0,1,0,Win,R Madley
+Middlesbrough,Everton,0,0,0,4,0,1,0,Draw,M Dean
+Stoke,Crystal Palace,1,0,1,5,0,1,0,Win,M Atkinson
+Sunderland,Southampton,0,4,-4,0,1,0,0,Loss,P Tierney
+West Ham,West Brom,2,2,0,0,1,0,0,Draw,M Oliver
+Burnley,Chelsea,1,1,0,0,1,0,0,Draw,K Friend
+Swansea,Leicester,2,0,2,1,0,0,0,Win,J Moss
+Bournemouth,Man City,0,2,-2,0,1,0,0,Loss,N Swarbrick
+Chelsea,Swansea,3,1,2,1,0,0,0,Win,N Swarbrick
+Crystal Palace,Middlesbrough,1,0,1,2,0,0,0,Win,R Madley
+Everton,Sunderland,2,0,2,3,0,1,0,Win,S Attwell
+Hull,Burnley,1,1,0,3,0,1,0,Draw,M Atkinson
+Watford,West Ham,1,1,0,3,0,1,0,Draw,C Pawson
+West Brom,Bournemouth,2,1,1,4,0,1,0,Win,M Clattenburg
+Tottenham,Stoke,4,0,4,5,0,1,0,Win,J Moss
+Leicester,Liverpool,3,1,2,6,0,1,0,Win,M Oliver
+Leicester,Hull,3,1,2,7,0,1,0,Win,M Dean
+Liverpool,Arsenal,3,1,2,8,0,1,0,Win,R Madley
+Man United,Bournemouth,1,1,0,8,0,1,0,Draw,K Friend
+Stoke,Middlesbrough,2,0,2,9,0,1,0,Win,C Pawson
+Swansea,Burnley,3,2,1,10,0,1,0,Win,A Taylor
+Watford,Southampton,3,4,-1,0,1,0,0,Loss,J Moss
+West Brom,Crystal Palace,0,2,-2,0,2,0,0,Loss,M Jones
+Sunderland,Man City,0,2,-2,0,3,0,1,Loss,M Atkinson
+Tottenham,Everton,3,2,1,1,0,0,0,Win,M Oliver
+West Ham,Chelsea,1,2,-1,0,1,0,0,Loss,A Marriner
+Man City,Stoke,0,0,0,0,1,0,0,Draw,N Swarbrick
+Bournemouth,West Ham,3,2,1,1,0,0,0,Win,R Madley
+Everton,West Brom,3,0,3,2,0,0,0,Win,G Scott
+Hull,Swansea,2,1,1,3,0,1,0,Win,A Marriner
+Liverpool,Burnley,2,1,1,4,0,1,0,Win,C Pawson
+Bournemouth,Swansea,2,0,2,5,0,1,0,Win,M Dean
+Crystal Palace,Watford,1,0,1,6,0,1,0,Win,M Atkinson
+Everton,Hull,4,0,4,7,0,1,0,Win,P Tierney
+Stoke,Chelsea,1,2,-1,0,1,0,0,Loss,A Taylor
+Sunderland,Burnley,0,0,0,0,1,0,0,Draw,R Madley
+West Brom,Arsenal,3,1,2,1,0,0,0,Win,N Swarbrick
+West Ham,Leicester,2,3,-1,0,1,0,0,Loss,R East
+Man City,Liverpool,1,1,0,0,1,0,0,Draw,M Oliver
+Middlesbrough,Man United,1,3,-2,0,2,0,0,Loss,J Moss
+Tottenham,Southampton,2,1,1,1,0,0,0,Win,A Marriner
+Burnley,Tottenham,0,2,-2,0,1,0,0,Loss,S Attwell
+Chelsea,Crystal Palace,1,2,-1,0,2,0,0,Loss,C Pawson
+Hull,West Ham,2,1,1,1,0,0,0,Win,M Jones
+Leicester,Stoke,2,0,2,2,0,0,0,Win,L Mason
+Liverpool,Everton,3,1,2,3,0,1,0,Win,A Taylor
+Man United,West Brom,0,0,0,3,0,1,0,Draw,M Dean
+Southampton,Bournemouth,0,0,0,3,0,1,0,Draw,J Moss
+Watford,Sunderland,1,0,1,4,0,1,0,Win,L Probert
+Arsenal,Man City,2,2,0,4,0,1,0,Draw,A Marriner
+Swansea,Middlesbrough,0,0,0,4,0,1,0,Draw,R Madley
+Burnley,Stoke,1,0,1,5,0,1,0,Win,K Friend
+Leicester,Sunderland,2,0,2,6,0,1,0,Win,G Scott
+Man United,Everton,1,1,0,6,0,1,0,Draw,N Swarbrick
+Watford,West Brom,2,0,2,7,0,1,0,Win,P Tierney
+Arsenal,West Ham,3,0,3,8,0,1,0,Win,M Atkinson
+Chelsea,Man City,2,1,1,9,0,1,0,Win,M Dean
+Hull,Middlesbrough,4,2,2,10,0,1,0,Win,M Oliver
+Liverpool,Bournemouth,2,2,0,10,0,1,0,Draw,L Mason
+Southampton,Crystal Palace,3,1,2,11,0,1,0,Win,R East
+Swansea,Tottenham,1,3,-2,0,1,0,0,Loss,J Moss
+Bournemouth,Chelsea,1,3,-2,0,2,0,0,Loss,A Marriner
+Man City,Hull,3,1,2,1,0,0,0,Win,J Moss
+Middlesbrough,Burnley,0,0,0,1,0,0,0,Draw,M Atkinson
+Stoke,Liverpool,1,2,-1,0,1,0,0,Loss,M Dean
+Tottenham,Watford,4,0,4,1,0,0,0,Win,A Taylor
+West Brom,Southampton,0,1,-1,0,1,0,0,Loss,C Kavanagh
+West Ham,Swansea,1,0,1,1,0,0,0,Win,K Friend
+Everton,Leicester,4,2,2,2,0,0,0,Win,R Madley
+Sunderland,Man United,0,3,-3,0,1,0,0,Loss,C Pawson
+Crystal Palace,Arsenal,3,0,3,1,0,0,0,Win,M Oliver
+Crystal Palace,Leicester,2,2,0,1,0,0,0,Draw,M Dean
+Everton,Burnley,3,1,2,2,0,0,0,Win,M Clattenburg
+Southampton,Man City,0,3,-3,0,1,0,0,Loss,N Swarbrick
+Stoke,Hull,3,1,2,1,0,0,0,Win,S Attwell
+Sunderland,West Ham,2,2,0,1,0,0,0,Draw,A Marriner
+Tottenham,Bournemouth,4,0,4,2,0,0,0,Win,M Oliver
+Watford,Swansea,1,0,1,3,0,1,0,Win,L Mason
+Man United,Chelsea,2,0,2,4,0,1,0,Win,R Madley
+West Brom,Liverpool,0,1,-1,0,1,0,0,Loss,J Moss
+Middlesbrough,Arsenal,1,2,-1,0,2,0,0,Loss,A Taylor
+Bournemouth,Middlesbrough,4,0,4,1,0,0,0,Win,G Scott
+Hull,Watford,2,0,2,2,0,0,0,Win,R Madley
+Swansea,Stoke,2,0,2,3,0,1,0,Win,M Oliver
+West Ham,Everton,0,0,0,3,0,1,0,Draw,R East
+Burnley,Man United,0,2,-2,0,1,0,0,Loss,A Taylor
+Liverpool,Crystal Palace,1,2,-1,0,2,0,0,Loss,A Marriner
+Chelsea,Southampton,4,2,2,1,0,0,0,Win,L Mason
+Arsenal,Leicester,1,0,1,2,0,0,0,Win,M Jones
+Crystal Palace,Tottenham,0,1,-1,0,1,0,0,Loss,J Moss
+Middlesbrough,Sunderland,1,0,1,1,0,0,0,Win,M Dean
+Man City,Man United,0,0,0,1,0,0,0,Draw,M Atkinson
+Crystal Palace,Burnley,0,2,-2,0,1,0,0,Loss,R Madley
+Southampton,Hull,0,0,0,0,1,0,0,Draw,M Dean
+Stoke,West Ham,0,0,0,0,1,0,0,Draw,L Probert
+Sunderland,Bournemouth,0,1,-1,0,2,0,0,Loss,S Attwell
+West Brom,Leicester,0,1,-1,0,3,0,1,Loss,M Clattenburg
+Everton,Chelsea,0,3,-3,0,4,0,1,Loss,J Moss
+Man United,Swansea,1,1,0,0,4,0,1,Draw,N Swarbrick
+Middlesbrough,Man City,2,2,0,0,4,0,1,Draw,K Friend
+Tottenham,Arsenal,2,0,2,1,0,0,0,Win,M Oliver
+Watford,Liverpool,0,1,-1,0,1,0,0,Loss,C Pawson
+West Ham,Tottenham,1,0,1,1,0,0,0,Win,A Taylor
+Bournemouth,Stoke,2,2,0,1,0,0,0,Draw,P Tierney
+Burnley,West Brom,2,2,0,1,0,0,0,Draw,M Jones
+Hull,Sunderland,0,2,-2,0,1,0,0,Loss,N Swarbrick
+Leicester,Watford,3,0,3,1,0,0,0,Win,R East
+Man City,Crystal Palace,5,0,5,2,0,0,0,Win,M Oliver
+Swansea,Everton,1,0,1,3,0,1,0,Win,M Atkinson
+Arsenal,Man United,2,0,2,4,0,1,0,Win,A Marriner
+Liverpool,Southampton,0,0,0,4,0,1,0,Draw,R Madley
+Chelsea,Middlesbrough,3,0,3,5,0,1,0,Win,C Pawson
+Southampton,Arsenal,0,2,-2,0,1,0,0,Loss,J Moss
+Everton,Watford,1,0,1,1,0,0,0,Win,K Friend
+West Brom,Chelsea,0,1,-1,0,1,0,0,Loss,M Oliver
+Bournemouth,Burnley,2,1,1,1,0,0,0,Win,L Probert
+Man City,Leicester,2,1,1,2,0,0,0,Win,R Madley
+Middlesbrough,Southampton,1,2,-1,0,1,0,0,Loss,A Taylor
+Stoke,Arsenal,1,4,-3,0,2,0,0,Loss,M Dean
+Sunderland,Swansea,0,2,-2,0,3,0,1,Loss,A Marriner
+Crystal Palace,Hull,4,0,4,1,0,0,0,Win,M Atkinson
+Tottenham,Man United,2,1,1,2,0,0,0,Win,J Moss
+West Ham,Liverpool,0,4,-4,0,1,0,0,Loss,N Swarbrick
+Chelsea,Watford,4,3,1,1,0,0,0,Win,L Mason
+Arsenal,Sunderland,2,0,2,2,0,0,0,Win,R East
+Man City,West Brom,3,1,2,3,0,1,0,Win,C Pawson
+Southampton,Man United,0,0,0,3,0,1,0,Draw,M Dean
+Leicester,Tottenham,1,6,-5,0,1,0,0,Loss,M Oliver
+Arsenal,Everton,3,1,2,1,0,0,0,Win,M Oliver
+Burnley,West Ham,1,2,-1,0,1,0,0,Loss,R Madley
+Chelsea,Sunderland,5,1,4,1,0,0,0,Win,N Swarbrick
+Hull,Tottenham,1,7,-6,0,1,0,0,Loss,A Marriner
+Leicester,Bournemouth,1,1,0,0,1,0,0,Draw,l Mason
+Liverpool,Middlesbrough,3,0,3,1,0,0,0,Win,M Atkinson
+Man United,Crystal Palace,2,0,2,2,0,0,0,Win,A Taylor
+Southampton,Stoke,0,1,-1,0,1,0,0,Loss,L Probert
+Swansea,West Brom,2,1,1,1,0,0,0,Win,M Dean
+Watford,Man City,0,5,-5,0,1,0,0,Loss,J Moss
+Brentford,Arsenal,2,0,2,1,0,0,0,Win,M Oliver
+Man United,Leeds,5,1,4,2,0,0,0,Win,P Tierney
+Burnley,Brighton,1,2,-1,0,1,0,0,Loss,D Coote
+Chelsea,Crystal Palace,3,0,3,1,0,0,0,Win,J Moss
+Everton,Southampton,3,1,2,2,0,0,0,Win,A Madley
+Leicester,Wolves,1,0,1,3,0,1,0,Win,C Pawson
+Watford,Aston Villa,3,2,1,4,0,1,0,Win,M Dean
+Norwich,Liverpool,0,3,-3,0,1,0,0,Loss,A Marriner
+Newcastle,West Ham,2,4,-2,0,2,0,0,Loss,M Atkinson
+Tottenham,Man City,1,0,1,1,0,0,0,Win,A Taylor
+Liverpool,Burnley,2,0,2,2,0,0,0,Win,M Dean
+Aston Villa,Newcastle,2,0,2,3,0,1,0,Win,D Coote
+Crystal Palace,Brentford,0,0,0,3,0,1,0,Draw,M Atkinson
+Leeds,Everton,2,2,0,3,0,1,0,Draw,D England
+Man City,Norwich,5,0,5,4,0,1,0,Win,G Scott
+Brighton,Watford,2,0,2,5,0,1,0,Win,A Taylor
+Southampton,Man United,1,1,0,5,0,1,0,Draw,C Pawson
+Wolves,Tottenham,0,1,-1,0,1,0,0,Loss,S Attwell
+Arsenal,Chelsea,0,2,-2,0,2,0,0,Loss,P Tierney
+West Ham,Leicester,4,1,3,1,0,0,0,Win,M Oliver
+Man City,Arsenal,5,0,5,2,0,0,0,Win,M Atkinson
+Aston Villa,Brentford,1,1,0,2,0,0,0,Draw,P Bankes
+Brighton,Everton,0,2,-2,0,1,0,0,Loss,J Moss
+Newcastle,Southampton,2,2,0,0,1,0,0,Draw,P Tierney
+Norwich,Leicester,1,2,-1,0,2,0,0,Loss,R Jones
+West Ham,Crystal Palace,2,2,0,0,2,0,0,Draw,S Attwell
+Liverpool,Chelsea,1,1,0,0,2,0,0,Draw,A Taylor
+Burnley,Leeds,1,1,0,0,2,0,0,Draw,M Oliver
+Tottenham,Watford,1,0,1,1,0,0,0,Win,A Marriner
+Wolves,Man United,0,1,-1,0,1,0,0,Loss,M Dean
+Crystal Palace,Tottenham,3,0,3,1,0,0,0,Win,J Moss
+Arsenal,Norwich,1,0,1,2,0,0,0,Win,M Oliver
+Brentford,Brighton,0,1,-1,0,1,0,0,Loss,G Scott
+Leicester,Man City,0,1,-1,0,2,0,0,Loss,P Tierney
+Man United,Newcastle,4,1,3,1,0,0,0,Win,A Taylor
+Southampton,West Ham,0,0,0,1,0,0,0,Draw,D Coote
+Watford,Wolves,0,2,-2,0,1,0,0,Loss,P Bankes
+Chelsea,Aston Villa,3,0,3,1,0,0,0,Win,S Attwell
+Leeds,Liverpool,0,3,-3,0,1,0,0,Loss,C Pawson
+Everton,Burnley,3,1,2,1,0,0,0,Win,M Atkinson
+Newcastle,Leeds,1,1,0,1,0,0,0,Draw,M Dean
+Wolves,Brentford,0,2,-2,0,1,0,0,Loss,D England
+Burnley,Arsenal,0,1,-1,0,2,0,0,Loss,A Taylor
+Liverpool,Crystal Palace,3,0,3,1,0,0,0,Win,A Madley
+Man City,Southampton,0,0,0,1,0,0,0,Draw,J Moss
+Norwich,Watford,1,3,-2,0,1,0,0,Loss,R Jones
+Aston Villa,Everton,3,0,3,1,0,0,0,Win,C Pawson
+Brighton,Leicester,2,1,1,2,0,0,0,Win,S Attwell
+West Ham,Man United,1,2,-1,0,1,0,0,Loss,M Atkinson
+Tottenham,Chelsea,0,3,-3,0,2,0,0,Loss,P Tierney
+Chelsea,Man City,0,1,-1,0,3,0,1,Loss,M Oliver
+Man United,Aston Villa,0,1,-1,0,4,0,1,Loss,M Dean
+Everton,Norwich,2,0,2,1,0,0,0,Win,D Coote
+Leeds,West Ham,1,2,-1,0,1,0,0,Loss,K Friend
+Leicester,Burnley,2,2,0,0,1,0,0,Draw,C Kavanagh
+Watford,Newcastle,1,1,0,0,1,0,0,Draw,J Gillett
+Brentford,Liverpool,3,3,0,0,1,0,0,Draw,S Attwell
+Southampton,Wolves,0,1,-1,0,2,0,0,Loss,A Madley
+Arsenal,Tottenham,3,1,2,1,0,0,0,Win,C Pawson
+Crystal Palace,Brighton,1,1,0,1,0,0,0,Draw,A Marriner
+Man United,Everton,1,1,0,1,0,0,0,Draw,M Oliver
+Burnley,Norwich,0,0,0,1,0,0,0,Draw,K Friend
+Chelsea,Southampton,3,1,2,2,0,0,0,Win,M Atkinson
+Leeds,Watford,1,0,1,3,0,1,0,Win,S Hooper
+Wolves,Newcastle,2,1,1,4,0,1,0,Win,G Scott
+Brighton,Arsenal,0,0,0,4,0,1,0,Draw,J Moss
+Crystal Palace,Leicester,2,2,0,4,0,1,0,Draw,A Taylor
+Tottenham,Aston Villa,2,1,1,5,0,1,0,Win,C Kavanagh
+West Ham,Brentford,1,2,-1,0,1,0,0,Loss,P Bankes
+Liverpool,Man City,2,2,0,0,1,0,0,Draw,P Tierney
+Watford,Liverpool,0,5,-5,0,2,0,0,Loss,J Moss
+Aston Villa,Wolves,2,3,-1,0,3,0,1,Loss,M Oliver
+Leicester,Man United,4,2,2,1,0,0,0,Win,C Pawson
+Man City,Burnley,2,0,2,2,0,0,0,Win,M Atkinson
+Norwich,Brighton,0,0,0,2,0,0,0,Draw,P Bankes
+Southampton,Leeds,1,0,1,3,0,1,0,Win,D Coote
+Brentford,Chelsea,0,1,-1,0,1,0,0,Loss,A Taylor
+Everton,West Ham,0,1,-1,0,2,0,0,Loss,S Attwell
+Newcastle,Tottenham,2,3,-1,0,3,0,1,Loss,A Marriner
+Arsenal,Crystal Palace,2,2,0,0,3,0,1,Draw,M Dean
+Arsenal,Aston Villa,3,1,2,1,0,0,0,Win,C Pawson
+Chelsea,Norwich,7,0,7,2,0,0,0,Win,A Madley
+Crystal Palace,Newcastle,1,1,0,2,0,0,0,Draw,D England
+Everton,Watford,2,5,-3,0,1,0,0,Loss,G Scott
+Leeds,Wolves,1,1,0,0,1,0,0,Draw,R Jones
+Southampton,Burnley,2,2,0,0,1,0,0,Draw,C Kavanagh
+Brighton,Man City,1,4,-3,0,2,0,0,Loss,K Friend
+Brentford,Leicester,1,2,-1,0,3,0,1,Loss,S Hooper
+West Ham,Tottenham,1,0,1,1,0,0,0,Win,P Tierney
+Man United,Liverpool,0,5,-5,0,1,0,0,Loss,A Taylor
+Leicester,Arsenal,0,2,-2,0,2,0,0,Loss,M Oliver
+Burnley,Brentford,3,1,2,1,0,0,0,Win,J Moss
+Liverpool,Brighton,2,2,0,1,0,0,0,Draw,M Dean
+Man City,Crystal Palace,0,2,-2,0,1,0,0,Loss,A Marriner
+Newcastle,Chelsea,0,3,-3,0,2,0,0,Loss,P Tierney
+Watford,Southampton,0,1,-1,0,3,0,1,Loss,P Bankes
+Tottenham,Man United,0,3,-3,0,4,0,1,Loss,S Attwell
+Norwich,Leeds,1,2,-1,0,5,0,1,Loss,A Taylor
+Aston Villa,West Ham,1,4,-3,0,6,0,1,Loss,C Kavanagh
+Wolves,Everton,2,1,1,1,0,0,0,Win,M Atkinson
+Southampton,Aston Villa,1,0,1,2,0,0,0,Win,A Madley
+Man United,Man City,0,2,-2,0,1,0,0,Loss,M Oliver
+Brentford,Norwich,1,2,-1,0,2,0,0,Loss,J Gillett
+Chelsea,Burnley,1,1,0,0,2,0,0,Draw,A Marriner
+Crystal Palace,Wolves,2,0,2,1,0,0,0,Win,G Scott
+Brighton,Newcastle,1,1,0,1,0,0,0,Draw,D Coote
+Arsenal,Watford,1,0,1,2,0,0,0,Win,K Friend
+Everton,Tottenham,0,0,0,2,0,0,0,Draw,C Kavanagh
+Leeds,Leicester,1,1,0,2,0,0,0,Draw,D England
+West Ham,Liverpool,3,2,1,3,0,1,0,Win,C Pawson
+Leicester,Chelsea,0,3,-3,0,1,0,0,Loss,P Tierney
+Aston Villa,Brighton,2,0,2,1,0,0,0,Win,A Taylor
+Burnley,Crystal Palace,3,3,0,1,0,0,0,Draw,S Hooper
+Newcastle,Brentford,3,3,0,1,0,0,0,Draw,R Jones
+Norwich,Southampton,2,1,1,2,0,0,0,Win,M Atkinson
+Watford,Man United,4,1,3,3,0,1,0,Win,J Moss
+Wolves,West Ham,1,0,1,4,0,1,0,Win,M Dean
+Liverpool,Arsenal,4,0,4,5,0,1,0,Win,M Oliver
+Man City,Everton,3,0,3,6,0,1,0,Win,S Attwell
+Tottenham,Leeds,2,1,1,7,0,1,0,Win,A Marriner
+Arsenal,Newcastle,2,0,2,8,0,1,0,Win,S Attwell
+Crystal Palace,Aston Villa,1,2,-1,0,1,0,0,Loss,M Salisbury
+Liverpool,Southampton,4,0,4,1,0,0,0,Win,A Marriner
+Norwich,Wolves,0,0,0,1,0,0,0,Draw,S Hooper
+Brighton,Leeds,0,0,0,1,0,0,0,Draw,C Pawson
+Brentford,Everton,1,0,1,2,0,0,0,Win,D England
+Leicester,Watford,4,2,2,3,0,1,0,Win,A Madley
+Man City,West Ham,2,1,1,4,0,1,0,Win,M Oliver
+Chelsea,Man United,1,1,0,4,0,1,0,Draw,A Taylor
