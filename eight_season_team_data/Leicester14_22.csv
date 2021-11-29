@@ -1,0 +1,280 @@
+Opponent,HomeBool,FTHG,FTAG,ScoreDiff,WinStreak,TGS,Results
+Everton,1,2,2,0,0,0,Draw
+Chelsea,0,2,0,-2,0,0,Loss
+Arsenal,1,1,1,0,0,0,Draw
+Stoke,0,0,1,1,1,0,Win
+Man United,1,5,3,2,2,0,Win
+Crystal Palace,0,2,0,-2,0,0,Loss
+Burnley,1,2,2,0,0,0,Draw
+Newcastle,0,1,0,-1,0,0,Loss
+Swansea,0,2,0,-2,0,0,Loss
+West Brom,1,0,1,-1,0,0,Loss
+Southampton,0,2,0,-2,0,0,Loss
+Sunderland,1,0,0,0,0,0,Draw
+QPR,0,3,2,-1,0,0,Loss
+Liverpool,1,1,3,-2,0,0,Loss
+Aston Villa,0,2,1,-1,0,0,Loss
+Man City,1,0,1,-1,0,0,Loss
+West Ham,0,2,0,-2,0,0,Loss
+Tottenham,1,1,2,-1,0,0,Loss
+Hull,0,0,1,1,1,0,Win
+Liverpool,0,2,2,0,0,0,Draw
+Aston Villa,1,1,0,1,1,0,Win
+Stoke,1,0,1,-1,0,0,Loss
+Man United,0,3,1,-2,0,0,Loss
+Crystal Palace,1,0,1,-1,0,0,Loss
+Arsenal,0,2,1,-1,0,0,Loss
+Everton,0,2,2,0,0,0,Draw
+Man City,0,2,0,-2,0,0,Loss
+Hull,1,0,0,0,0,0,Draw
+Tottenham,0,4,3,-1,0,0,Loss
+West Ham,1,2,1,1,1,0,Win
+West Brom,0,2,3,1,2,0,Win
+Swansea,1,2,0,2,3,1,Win
+Burnley,0,0,1,1,4,1,Win
+Chelsea,1,1,3,-2,0,0,Loss
+Newcastle,1,3,0,3,1,0,Win
+Southampton,1,2,0,2,2,0,Win
+Sunderland,0,0,0,0,0,0,Draw
+QPR,1,5,1,4,1,0,Win
+Sunderland,1,4,2,2,1,0,Win
+West Ham,0,1,2,1,2,0,Win
+Tottenham,1,1,1,0,0,0,Draw
+Bournemouth,0,1,1,0,0,0,Draw
+Aston Villa,1,3,2,1,1,0,Win
+Stoke,0,2,2,0,0,0,Draw
+Arsenal,1,2,5,-3,0,0,Loss
+Norwich,0,1,2,1,1,0,Win
+Southampton,0,2,2,0,0,0,Draw
+Crystal Palace,1,1,0,1,1,0,Win
+West Brom,0,2,3,1,2,0,Win
+Watford,1,2,1,1,3,1,Win
+Newcastle,0,0,3,3,4,1,Win
+Man United,1,1,1,0,0,0,Draw
+Swansea,0,0,3,3,1,0,Win
+Chelsea,1,2,1,1,2,0,Win
+Everton,0,2,3,1,3,1,Win
+Liverpool,0,1,0,-1,0,0,Loss
+Man City,1,0,0,0,0,0,Draw
+Bournemouth,1,0,0,0,0,0,Draw
+Tottenham,0,0,1,1,1,0,Win
+Aston Villa,0,1,1,0,0,0,Draw
+Stoke,1,3,0,3,1,0,Win
+Liverpool,1,2,0,2,2,0,Win
+Man City,0,1,3,2,3,1,Win
+Arsenal,0,2,1,-1,0,0,Loss
+Norwich,1,1,0,1,1,0,Win
+West Brom,1,2,2,0,0,0,Draw
+Watford,0,0,1,1,1,0,Win
+Newcastle,1,1,0,1,2,0,Win
+Crystal Palace,0,0,1,1,3,1,Win
+Southampton,1,1,0,1,4,1,Win
+Sunderland,0,0,2,2,5,1,Win
+West Ham,1,2,2,0,0,0,Draw
+Swansea,1,4,0,4,1,0,Win
+Man United,0,1,1,0,0,0,Draw
+Everton,1,3,1,2,1,0,Win
+Chelsea,0,1,1,0,0,0,Draw
+Hull,0,2,1,-1,0,0,Loss
+Arsenal,1,0,0,0,0,0,Draw
+Swansea,1,2,1,1,1,0,Win
+Liverpool,0,4,1,-3,0,0,Loss
+Burnley,1,3,0,3,1,0,Win
+Man United,0,4,1,-3,0,0,Loss
+Southampton,1,0,0,0,0,0,Draw
+Chelsea,0,3,0,-3,0,0,Loss
+Crystal Palace,1,3,1,2,1,0,Win
+Tottenham,0,1,1,0,0,0,Draw
+West Brom,1,1,2,-1,0,0,Loss
+Watford,0,2,1,-1,0,0,Loss
+Middlesbrough,1,2,2,0,0,0,Draw
+Sunderland,0,2,1,-1,0,0,Loss
+Man City,1,4,2,2,1,0,Win
+Bournemouth,0,1,0,-1,0,0,Loss
+Stoke,0,2,2,0,0,0,Draw
+Everton,1,0,2,-2,0,0,Loss
+West Ham,1,1,0,1,1,0,Win
+Middlesbrough,0,0,0,0,0,0,Draw
+Chelsea,1,0,3,-3,0,0,Loss
+Southampton,0,3,0,-3,0,0,Loss
+Burnley,0,1,0,-1,0,0,Loss
+Man United,1,0,3,-3,0,0,Loss
+Swansea,0,2,0,-2,0,0,Loss
+Liverpool,1,3,1,2,1,0,Win
+Hull,1,3,1,2,2,0,Win
+West Ham,0,2,3,1,3,1,Win
+Stoke,1,2,0,2,4,1,Win
+Sunderland,1,2,0,2,5,1,Win
+Everton,0,4,2,-2,0,0,Loss
+Crystal Palace,0,2,2,0,0,0,Draw
+Arsenal,0,1,0,-1,0,0,Loss
+West Brom,0,0,1,1,1,0,Win
+Watford,1,3,0,3,2,0,Win
+Man City,0,2,1,-1,0,0,Loss
+Tottenham,1,1,6,-5,0,0,Loss
+Bournemouth,1,1,1,0,0,0,Draw
+Arsenal,0,4,3,-1,0,0,Loss
+Brighton,1,2,0,2,1,0,Win
+Man United,0,2,0,-2,0,0,Loss
+Chelsea,1,1,2,-1,0,0,Loss
+Huddersfield,0,1,1,0,0,0,Draw
+Liverpool,1,2,3,-1,0,0,Loss
+Bournemouth,0,0,0,0,0,0,Draw
+West Brom,1,1,1,0,0,0,Draw
+Swansea,0,1,2,1,1,0,Win
+Everton,1,2,0,2,2,0,Win
+Stoke,0,2,2,0,0,0,Draw
+Man City,1,0,2,-2,0,0,Loss
+West Ham,0,1,1,0,0,0,Draw
+Tottenham,1,2,1,1,1,0,Win
+Burnley,1,1,0,1,2,0,Win
+Newcastle,0,2,3,1,3,1,Win
+Southampton,0,1,4,3,4,1,Win
+Crystal Palace,1,0,3,-3,0,0,Loss
+Man United,1,2,2,0,0,0,Draw
+Watford,0,2,1,-1,0,0,Loss
+Liverpool,0,2,1,-1,0,0,Loss
+Huddersfield,1,3,0,3,1,0,Win
+Chelsea,0,0,0,0,0,0,Draw
+Watford,1,2,0,2,1,0,Win
+Everton,0,2,1,-1,0,0,Loss
+Swansea,1,1,1,0,0,0,Draw
+Man City,0,5,1,-4,0,0,Loss
+Stoke,1,1,1,0,0,0,Draw
+Bournemouth,1,1,1,0,0,0,Draw
+West Brom,0,1,4,3,1,0,Win
+Brighton,0,0,2,2,2,0,Win
+Newcastle,1,1,2,-1,0,0,Loss
+Burnley,0,2,1,-1,0,0,Loss
+Southampton,1,0,0,0,0,0,Draw
+Crystal Palace,0,5,0,-5,0,0,Loss
+West Ham,1,0,2,-2,0,0,Loss
+Arsenal,1,3,1,2,1,0,Win
+Tottenham,0,5,4,-1,0,0,Loss
+Man United,0,2,1,-1,0,0,Loss
+Wolves,1,2,0,2,1,0,Win
+Southampton,0,1,2,1,2,0,Win
+Liverpool,1,1,2,-1,0,0,Loss
+Bournemouth,0,4,2,-2,0,0,Loss
+Huddersfield,1,3,1,2,1,0,Win
+Newcastle,0,0,2,2,2,0,Win
+Everton,1,1,2,-1,0,0,Loss
+Arsenal,0,3,1,-2,0,0,Loss
+West Ham,1,1,1,0,0,0,Draw
+Cardiff,0,0,1,1,1,0,Win
+Burnley,1,0,0,0,0,0,Draw
+Brighton,0,1,1,0,0,0,Draw
+Watford,1,2,0,2,1,0,Win
+Fulham,0,1,1,0,0,0,Draw
+Tottenham,1,0,2,-2,0,0,Loss
+Crystal Palace,0,1,0,-1,0,0,Loss
+Chelsea,0,0,1,1,1,0,Win
+Man City,1,2,1,1,2,0,Win
+Cardiff,1,0,1,-1,0,0,Loss
+Everton,0,0,1,1,1,0,Win
+Southampton,1,1,2,-1,0,0,Loss
+Wolves,0,4,3,-1,0,0,Loss
+Liverpool,0,1,1,0,0,0,Draw
+Man United,1,0,1,-1,0,0,Loss
+Tottenham,0,3,1,-2,0,0,Loss
+Crystal Palace,1,1,4,-3,0,0,Loss
+Brighton,1,2,1,1,1,0,Win
+Watford,0,2,1,-1,0,0,Loss
+Fulham,1,3,1,2,1,0,Win
+Burnley,0,1,2,1,2,0,Win
+Bournemouth,1,2,0,2,3,1,Win
+Huddersfield,0,1,4,3,4,1,Win
+Newcastle,1,0,1,-1,0,0,Loss
+West Ham,0,2,2,0,0,0,Draw
+Arsenal,1,3,0,3,1,0,Win
+Man City,0,1,0,-1,0,0,Loss
+Chelsea,1,0,0,0,0,0,Draw
+Wolves,1,0,0,0,0,0,Draw
+Chelsea,0,1,1,0,0,0,Draw
+Sheffield United,0,1,2,1,1,0,Win
+Bournemouth,1,3,1,2,2,0,Win
+Man United,0,1,0,-1,0,0,Loss
+Tottenham,1,2,1,1,1,0,Win
+Newcastle,1,5,0,5,2,0,Win
+Liverpool,0,2,1,-1,0,0,Loss
+Burnley,1,2,1,1,1,0,Win
+Southampton,0,0,9,9,2,0,Win
+Crystal Palace,0,0,2,2,3,1,Win
+Arsenal,1,2,0,2,4,1,Win
+Brighton,0,0,2,2,5,1,Win
+Everton,1,2,1,1,6,1,Win
+Watford,1,2,0,2,7,1,Win
+Aston Villa,0,1,4,3,8,1,Win
+Norwich,1,1,1,0,0,0,Draw
+Man City,0,3,1,-2,0,0,Loss
+Liverpool,1,0,4,-4,0,0,Loss
+West Ham,0,1,2,1,1,0,Win
+Newcastle,0,0,3,3,2,0,Win
+Southampton,1,1,2,-1,0,0,Loss
+Burnley,0,2,1,-1,0,0,Loss
+West Ham,1,4,1,3,1,0,Win
+Chelsea,1,2,2,0,0,0,Draw
+Wolves,0,0,0,0,0,0,Draw
+Man City,1,0,1,-1,0,0,Loss
+Norwich,0,1,0,-1,0,0,Loss
+Aston Villa,1,4,0,4,1,0,Win
+Watford,0,1,1,0,0,0,Draw
+Brighton,1,0,0,0,0,0,Draw
+Everton,0,2,1,-1,0,0,Loss
+Crystal Palace,1,3,0,3,1,0,Win
+Arsenal,0,1,1,0,0,0,Draw
+Bournemouth,0,4,1,-3,0,0,Loss
+Sheffield United,1,2,0,2,1,0,Win
+Tottenham,0,3,0,-3,0,0,Loss
+Man United,1,0,2,-2,0,0,Loss
+Hull,0,2,1,-1,0,0,Loss
+Arsenal,1,0,0,0,0,0,Draw
+Swansea,1,2,1,1,1,0,Win
+Liverpool,0,4,1,-3,0,0,Loss
+Burnley,1,3,0,3,1,0,Win
+Man United,0,4,1,-3,0,0,Loss
+Southampton,1,0,0,0,0,0,Draw
+Chelsea,0,3,0,-3,0,0,Loss
+Crystal Palace,1,3,1,2,1,0,Win
+Tottenham,0,1,1,0,0,0,Draw
+West Brom,1,1,2,-1,0,0,Loss
+Watford,0,2,1,-1,0,0,Loss
+Middlesbrough,1,2,2,0,0,0,Draw
+Sunderland,0,2,1,-1,0,0,Loss
+Man City,1,4,2,2,1,0,Win
+Bournemouth,0,1,0,-1,0,0,Loss
+Stoke,0,2,2,0,0,0,Draw
+Everton,1,0,2,-2,0,0,Loss
+West Ham,1,1,0,1,1,0,Win
+Middlesbrough,0,0,0,0,0,0,Draw
+Chelsea,1,0,3,-3,0,0,Loss
+Southampton,0,3,0,-3,0,0,Loss
+Burnley,0,1,0,-1,0,0,Loss
+Man United,1,0,3,-3,0,0,Loss
+Swansea,0,2,0,-2,0,0,Loss
+Liverpool,1,3,1,2,1,0,Win
+Hull,1,3,1,2,2,0,Win
+West Ham,0,2,3,1,3,1,Win
+Stoke,1,2,0,2,4,1,Win
+Sunderland,1,2,0,2,5,1,Win
+Everton,0,4,2,-2,0,0,Loss
+Crystal Palace,0,2,2,0,0,0,Draw
+Arsenal,0,1,0,-1,0,0,Loss
+West Brom,0,0,1,1,1,0,Win
+Watford,1,3,0,3,2,0,Win
+Man City,0,2,1,-1,0,0,Loss
+Tottenham,1,1,6,-5,0,0,Loss
+Bournemouth,1,1,1,0,0,0,Draw
+Wolves,1,1,0,1,1,0,Win
+West Ham,0,4,1,-3,0,0,Loss
+Norwich,0,1,2,1,1,0,Win
+Man City,1,0,1,-1,0,0,Loss
+Brighton,0,2,1,-1,0,0,Loss
+Burnley,1,2,2,0,0,0,Draw
+Crystal Palace,0,2,2,0,0,0,Draw
+Man United,1,4,2,2,1,0,Win
+Brentford,0,1,2,1,2,0,Win
+Arsenal,1,0,2,-2,0,0,Loss
+Leeds,0,1,1,0,0,0,Draw
+Chelsea,1,0,3,-3,0,0,Loss
+Watford,1,4,2,2,1,0,Win
