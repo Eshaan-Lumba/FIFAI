@@ -21,6 +21,7 @@ if (status == 'Yes'):
 else:
     st.success("No")
 
+
 # def predict(img):
 #     st.image(img, caption="Your image", use_column_width=True)
 #     pred, _, probs = learn_inf.predict(img)
