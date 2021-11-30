@@ -4,23 +4,52 @@ import requests
 import streamlit as st
 import sys
 
+st.title("Premier League Match Predictor")
+home_team = st.text_input("Select Home team: ")
 
-team = st.text_input("Select your team: ", )
+# if(st.button('Submit')):
+#     result = home_team.title()
+#     st.success(result)
 
-if(st.button('Submit')):
-    result = team.title()
-    st.success(result)
+away_team = st.text_input("Select Away team: ")
 
-status = st.radio("Win-Streak: ", ('Yes', 'No'))
+# if(st.button('Submit')):
+#     away_result = away_team.title()
+#     st.success(away_result)
+
+home_streak_status = st.radio("Home 3 Game Win-Streak: ", ('Yes', 'No'))
  
 # conditional statement to print
 # Male if male is selected else print female
 # show the result using the success function
-if (status == 'Yes'):
-    st.success("Yes")
-else:
-    st.success("No")
+# if (home_streak_status == 'Yes'):
+#     st.success("Yes")
+# else:
+#     st.success("No")
 
+away_streak_status = st.radio("Away 3 Game Win-Streak: ", ('Yes', 'No'))
+ 
+# conditional statement to print
+# Male if male is selected else print female
+# show the result using the success function
+# if (away_streak_status == 'Yes'):
+#     st.success("Yes")
+# else:
+#     st.success("No")
+
+home_win_streak_length = st.text_input("Enter current win-streak of home team:")
+
+# if(st.button('Submit')):
+#     streak = home_win_streak_length.title()
+#     st.success(streak)
+
+away_win_streak_length = st.text_input("Enter current win-streak of away team:")
+
+# if(st.button('Submit')):
+#     away_streak = away_win_streak_length.title()
+#     st.success(away_streak)
+
+referee = st.text_input("Enter referee of match: ")
 
 # def predict(img):
 #     st.image(img, caption="Your image", use_column_width=True)
