@@ -129,6 +129,10 @@ We may also attempt to increase or modify the datapoints fed into our NNs to see
 
 As an extension, we might also be able to use our model to predict the difference in the goals scored by the home and away team. 
 
+## Future Work
+
+Building upon our sucessful model, we might be interested in trying to replicate our sucess for other European soccer leagues like La Liga in Spain or Ligue 1 in France. Furthermore, a point of interest that composed a crucial part of the model was the inclusion of a team's winning streak. By adding winning streak data as a parameter, we might be able to sucessfully a general model that can be significantly more sucessful than current betting algorithms through the utilizing data pertaining to a team's momentum. 
+
 
 
 
