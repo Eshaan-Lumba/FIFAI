@@ -51,6 +51,33 @@ For our project we will mainly utilize Python and, in particular, two powerful n
 
 For our dataset we will use [Football-data](https://www.football-data.co.uk/englandm.php). By scraping the online dataset with the Python data scraping library Pandas, we will gather home and away goal results for each game in our target training seasons as well as manually calculate win streaks to train our individual team models. After our initial training and results evaluation we will consider other parameters to train our models on. By using random trees we will determine the most applicable and correlated parameters to a teams goal output and expand our models to incorporate these parameters accordingly. Since we are working with such a small dataset we will potentially need to include a high drop out rate in order to prevent our models from simply memorizing game outcomes and instead forcing the models to learn correlations from the inputs.
 
+## Methods 
+For our model, we decided to use a fully-connected model using [FastAI](https://docs.fast.ai/). We deviated from our original plan of using an RNN with LSTM. [Past researchers](https://link.springer.com/chapter/10.1007/978-981-15-9509-7_57) have already built an RNN with LSTMs and they had a few more datapoints than we had. Though we initially planned to use a combination of [Pytorch](https://pytorch.org/) and FastAI, we felt that, given our tabular data, it would be best to benefit from the best practices already implemented in the fully connected learning models built by FastAI on top of PyTorch. 
+
+
+For our model, we gathered English Premier League [data](https://www.football-data.co.uk/englandm.php) from the last 8 seasons (including the data from the first half of this season). However, we did not use all the datapoints from the dataset. We used the datapoints for a specific game that one could know beforehand. We did this because this would allow us to predict the model. Hence, we did not consider match statistics such as shots, or yellow cards in our model. If we wanted to predict a game between two random teams, we would not have these datapoints available to us before the match, so we did not feel that they would be useful to train the model on for our immediate purposes. Instead, from the dataset, we gathered the following columns of data:
+
+* HomeTeam (The team that was playing at home)
+* AwayTeam (The team that was playing away)
+* Referee (The referee for the game)
+* Results (Our dependent variable, whether the Home Team won, draw or lost)
+* B365H (Betting odds from Bet365 for the home team win)
+* B365D (Betting odds from Bet365 for a draw)
+* B365L (Betting odds from Bet365 for the home team loss)
+* BWH (Betting odds from Bet&Win for the home team win)
+* BWD (Betting odds from Bet&Win for a draw)
+* BWL (Betting odds from Bet&Win for the home team loss)
+
+Note that the last 6 datapoints from above are essentially bodding odds for the result of a game from two different betting companies chosen randomly from the dataset. In addition to the variables taken from the dataset, we also made some of our own calculations and added to the dataset. We added the following datapoints to the dataset:
+
+* HomeWinStreak (The current winning streak of the home team)
+* AwayWinStreak (The current winning streak of the away team)
+* TGSH (Whether the home team was on a winning streak or not)
+* TGSA (Whether the away team was on a winning sreak or not)
+
+Ultimately, these datapoints proved to be the most valuable in determining the result of a game. The motivation behind our creation of these datapoints was from [past researchers](https://link.springer.com/chapter/10.1007/978-981-15-9509-7_57) who had achieved 80% accuracy with RNNs and LSTMs. They felt that knowing the winning streak of a team and with that, a pattern of their results would help improve the accuracy. Furthermore, it allowed us to somewhat make use of the home and away team's "history" of results leading up to the game, to an extent mimicking the effect of RNNs. 
+
+
 <!-- #### Software
 We will use a combination of [PyTorch](https://pytorch.org/) and [FastAI](https://docs.fast.ai/). 
 
