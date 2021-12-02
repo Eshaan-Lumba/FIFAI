@@ -4,6 +4,11 @@ import requests
 import streamlit as st
 import sys
 
+# save training and inference  models to specific files
+# export model with fastai .pkl
+# import it using streamlit
+# save paramter in inference and trianing, we could up csv with results
+
 st.title("Premier League Match Predictor")
 home_team = st.text_input("Select Home team: ")
 
