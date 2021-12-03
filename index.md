@@ -26,24 +26,6 @@ Predicting soccer games using neural nets is still a relatively niche field and 
 
 From our research, we note that neural nets generally do better than available statistical methods in predicting match outcomes. Given the availability of a large volume of premier league data, we plan on coming up with a proper classification of key data points and training a neural net that can predict a winning team through percentage chance or number of expected goals.  
 
-
-## Literature Review
-
-### 1. Soccer Result Prediction Using Deep Learning and Neural Networks
-This paper compares several different score/outcome prediction strategies for various sports and leagues (including the NBA and soccer matches) and proposes an RNN (recuring neural network) architecture to predict match outcomes in the English Premier League. Taking as parameters a team's statistics from past seasons (and updating data by adding current games of a season) the RNN constructed in this paper ended up with around an 80% accuracy prediction of match outcomes. Some parameters included were points gained by the home vs. away team (1 for draw, 3 for win, 0 for loss), goals scored by the home vs. away team, winning and losing streak of the home vs. away team (a streak of >3 and >5 were tracked). This paper concludes that RNNs provide a better architecture for the problem of score prediction over other architectures and provide measurable evidence for such in soccer matches in the EPL. 
-
-### 2. Using Deep Convolutional Neural Networks to Predict Goal-scoring Opportunities in Soccer
-This paper trained a NN on Bundesliga game data to predict the chance of a goal scoring opportunity based on a given position of the game's players and the game ball. Using 2-dimensional data gathered from the Amisco multi-camera system, this network showed as a high as a 67% accuracy rate for predicting goals. This paper coul be helpful if we wanted to analyze past scoring chances, positional data, and etc... from past games played by a team in order to provide a prediction of current and future game outcomes.
-
-### 3. Predict soccer matches with 50% accuracy
-In the article, the author used the Poisson Distribution and Poisson Regression through Python to predict the results of the last 10 matches of the 2018-2019 Premier League season. It was quite clear to see that for that season at least, the Poisson distribution very clearly matched the results of the whole season. The key data points he used were, for a certain team, the likelihood that they would score, the likelihood that they would concede and the likelihoods that they would score if they were a home or away team. It resulted in a success rate of almost 50%. The author also suggested using more data points such as form, more matches and correctness of under/over underestimating results.
-
-### 4. Football Match Statistics Prediction using Artificial Neural Networks
-This paper discusses a soccer match statistics prediction NN framwork. The NN is trained with data from two Bundesliga teams (Bayern Munich and Borussia Dortmound). They analyze various input factors selected to help the Neural Net detect patterns and predict match statisitics such as the winning team, goals scored, and bookings. Their data shows that the Neural Net is able to predict the match statistics with a higher accuracy than an existing if-else case framework (Football Result Expert System (FRES) used to predict American soccer. According to their analysis, there are several key factors which affect the outcome of matches and a NN can be trained to learn from previous history to predict future outcomes. These factors include: transfer money spent by a team in a season, a team's UEFA co-effecient (for each team participating in the champions league), year of match, league rank, goals scored and conceded,  wins and losses , home advantage etc. They advice that each of these factors have certain limitations in their application and some teams generally have more data than others because of their length of participation in competitions. A few of these factors can also only be applied within a league in a single country. This paper could be useful to help guide our choices when considering the type of data we need for teams and also the labels we need to train a NN. In addition, we can learn from their backpropagation algorithm and normalization of data points for further improvement. 
-
-## Project Update 1
-
-
 ## Methods Draft 1
 We want to use a recurrent neural network along with long short-term memory since we want to keep track of patterns and form. Our inputs will be a vector of integer values tracking the goals scored by the home and away team, whether the team is at home or away and whether the team is on a winning streak. We will be performing classification. For both the home and away team we want to predict the result for, the algorithm will predict the difference in goals scored by both teams. Hence, we will have two difference of score measures. We will then subtract these scores from one another to determine the final result. A positive final value is a win for the home team, a negative final value is a win for the away team, and a value of 0 implies a draw. Our algorithm will predict the most probable result from the possible options of a draw, a win for the home team and a win for the away team. Hence, our output will be a column vector of floating point values that contains the difference in scores. 
 
@@ -53,6 +35,8 @@ For our dataset we will use [Football-data](https://www.football-data.co.uk/engl
 
 ## Methods 
 For our model, we decided to use a fully-connected model using [FastAI](https://docs.fast.ai/). We deviated from our original plan of using an RNN with LSTM. [Past researchers](https://link.springer.com/chapter/10.1007/978-981-15-9509-7_57) have already built an RNN with LSTMs and they had a few more datapoints than we had. Though we initially planned to use a combination of [Pytorch](https://pytorch.org/) and FastAI, we felt that, given our tabular data, it would be best to benefit from the best practices already implemented in the fully connected learning models built by FastAI on top of PyTorch. 
+
+We had also discussed building the model in a different way. For this, we would have 20 or so different models (1 for each Premier League team). When predicting the result of a match between two teams, we would get predictions from the home and away team's model, and then compare the predictions to output one final result prediction. However, as we gathered the data and started building the project, we felt that this was unnecessary, and it would be equivalent to simply building one model that took in all of the data, instead of having the 20 or so separate models. 
 
 
 For our model, we gathered English Premier League [data](https://www.football-data.co.uk/englandm.php) from the last 8 seasons (including the data from the first half of this season). However, we did not use all the datapoints from the dataset. We used the datapoints for a specific game that one could know beforehand. We did this because this would allow us to predict the model. Hence, we did not consider match statistics such as shots, or yellow cards in our model. If we wanted to predict a game between two random teams, we would not have these datapoints available to us before the match, so we did not feel that they would be useful to train the model on for our immediate purposes. Instead, from the dataset, we gathered the following columns of data:
@@ -82,6 +66,26 @@ Ultimately, these datapoints proved to be the most valuable in determining the r
 For our validation set, we used the last 10% of matches from our whole dataset. Since our ultimate goal was to predict this season's matches, we felt that it would be appropriate to built the validation set in this way. 
 
 Thus, our various different sets of datapoints allowed us to build multiple different models and perform different sets of analysis. 
+
+
+## Literature Review
+
+### 1. Soccer Result Prediction Using Deep Learning and Neural Networks
+This paper compares several different score/outcome prediction strategies for various sports and leagues (including the NBA and soccer matches) and proposes an RNN (recuring neural network) architecture to predict match outcomes in the English Premier League. Taking as parameters a team's statistics from past seasons (and updating data by adding current games of a season) the RNN constructed in this paper ended up with around an 80% accuracy prediction of match outcomes. Some parameters included were points gained by the home vs. away team (1 for draw, 3 for win, 0 for loss), goals scored by the home vs. away team, winning and losing streak of the home vs. away team (a streak of >3 and >5 were tracked). This paper concludes that RNNs provide a better architecture for the problem of score prediction over other architectures and provide measurable evidence for such in soccer matches in the EPL. 
+
+### 2. Using Deep Convolutional Neural Networks to Predict Goal-scoring Opportunities in Soccer
+This paper trained a NN on Bundesliga game data to predict the chance of a goal scoring opportunity based on a given position of the game's players and the game ball. Using 2-dimensional data gathered from the Amisco multi-camera system, this network showed as a high as a 67% accuracy rate for predicting goals. This paper coul be helpful if we wanted to analyze past scoring chances, positional data, and etc... from past games played by a team in order to provide a prediction of current and future game outcomes.
+
+### 3. Predict soccer matches with 50% accuracy
+In the article, the author used the Poisson Distribution and Poisson Regression through Python to predict the results of the last 10 matches of the 2018-2019 Premier League season. It was quite clear to see that for that season at least, the Poisson distribution very clearly matched the results of the whole season. The key data points he used were, for a certain team, the likelihood that they would score, the likelihood that they would concede and the likelihoods that they would score if they were a home or away team. It resulted in a success rate of almost 50%. The author also suggested using more data points such as form, more matches and correctness of under/over underestimating results.
+
+### 4. Football Match Statistics Prediction using Artificial Neural Networks
+This paper discusses a soccer match statistics prediction NN framwork. The NN is trained with data from two Bundesliga teams (Bayern Munich and Borussia Dortmound). They analyze various input factors selected to help the Neural Net detect patterns and predict match statisitics such as the winning team, goals scored, and bookings. Their data shows that the Neural Net is able to predict the match statistics with a higher accuracy than an existing if-else case framework (Football Result Expert System (FRES) used to predict American soccer. According to their analysis, there are several key factors which affect the outcome of matches and a NN can be trained to learn from previous history to predict future outcomes. These factors include: transfer money spent by a team in a season, a team's UEFA co-effecient (for each team participating in the champions league), year of match, league rank, goals scored and conceded,  wins and losses , home advantage etc. They advice that each of these factors have certain limitations in their application and some teams generally have more data than others because of their length of participation in competitions. A few of these factors can also only be applied within a league in a single country. This paper could be useful to help guide our choices when considering the type of data we need for teams and also the labels we need to train a NN. In addition, we can learn from their backpropagation algorithm and normalization of data points for further improvement. 
+
+## Project Update 1
+
+
+
 
 
 
