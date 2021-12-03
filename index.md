@@ -56,7 +56,7 @@ Ultimately, these datapoints proved to be the most valuable in determining the r
 
 <img width="1000" alt="FIFAI-data" src="https://user-images.githubusercontent.com/76584709/144357664-df819880-bcfa-4aef-8b73-2c97924801b9.png">
 
-For our validation set, we used the last 10% of matches from our whole dataset. Since our ultimate goal was to predict this season's matches, we felt that it would be appropriate to built the validation set in this way. 
+For our validation set, we used the last 10% of matches from our whole dataset. Since our ultimate goal was to predict this season's matches, we felt that it would be appropriate to build the validation set in this way. 
 
 Thus, our various different sets of datapoints allowed us to build multiple different models and perform different sets of analysis. 
 
