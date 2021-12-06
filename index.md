@@ -10,7 +10,7 @@
 4. [Discussion](#fourth-examplehttpwwwfourthexamplecom)
 5. [Reflection & Future Works](#outro) -->
 
-## Introduction Draft 1 <a name="introduction"></a>
+## Introduction <a name="introduction"></a>
 
 The English Premier League is considered one of the most exciting soccer leagues in all of the world making Premier League games some of the most watched cable events in the world. Like other mainstream sporting leagues, the Premier League attracts significant attention from the gaming industry. Currently, predicting the victor of a Premier League match with high certainty is very difficult. We will attempt to construct a comprehensive neural network to successfully predict the result of Premier League matches on a consistent basis.
 
@@ -22,7 +22,7 @@ We acknowledge that predicting the result of a Premier League match is a very di
 
 If we are able to build a successful model, we realise that it might lead to an increase in the amount of bets made on Premier League matches, leading to those consequences faced by excessive gambling. For one, the number of bets might drastically increase with people taking higher risks. Clearly, if people are aware of the result of the game from beforehand for about 70% of the time, there is a lot of money to be made. Another issue that might surface is a lack of enjoyment in watching football. If people know the result beforehand, would they still enjoy watching the game as much? These are some questions and consequences we need to consider if we end up building a successful model.
 
-## Related Works Draft 1 <a name="related-works"></a>
+## Related Works <a name="related-works"></a>
 
 Due to the high demand and market for sports betting and the surrounding fan anticipation/engagement, there have been several previous studies on the prediction of sporting events using neural networks. While much of the work produced to predict soccer outcomes has been adapted from the prediction of other sporting events, such as those of NBA and NFL games, the following papers have provided essential and extensive background knowledge on our topic for soccer matches, some of which focus entirely on the English Premier League, just as we do in our study. Here, we outline the main contributions of these works and explain the nuances and points of expansion that our study focuses on.
 
