@@ -165,8 +165,6 @@ This on average game a learning rate of around 0.00144, although it varied sligh
 
 Below are the accuracy results of changing the number of epochs and batch size for training.
 
-### Using 15 Epochs:
-
 | **Batch size** | **Number of epochs** | **Accuracy** |
 | :------------: | :------------------: | :----------: |
 |       5        |          15          |    73.02%    |
@@ -177,18 +175,10 @@ Below are the accuracy results of changing the number of epochs and batch size f
 |       30       |          30          |    78.77%    |
 |       60       |          30          |    79.13%    |
 |      124       |          30          |    76.62%    |
-
-<!-- ### Using 30 Epochs:
-
-| **Batch size** | **5**  | **30** | **60** | **124** |
-| :------------: | :----: | :----: | :----: | :-----: |
-|    Accuracy    | 75.19% | 78.77% | 79.13% | 76.62%  | -->
-
-### Using 60 Epochs:
-
-| **Batch size** | **5**  | **30** | **60** | **124** |
-| :------------: | :----: | :----: | :----: | :-----: |
-|    Accuracy    | 69.24% | 78.05% | 79.49% | 80.21%  |
+|       5        |          60          |    69.24%    |
+|       30       |          60          |    78.05%    |
+|       60       |          60          |    79.49%    |
+|      124       |          60          |    80.21%    |
 
 The accuracy increased gradually when we increased the number of epochs up to 60. From here the accuracy tended to plateau. Increasing the batch size up to 124 yielded the most consistently accurate model. Thus, the final hyperparameters used for the model included a batch size of 124 and trained on 60 epochs.
 
