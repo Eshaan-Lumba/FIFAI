@@ -12,7 +12,7 @@
 
 ## Introduction Draft 1 <a name="introduction"></a>
 
-The English Premier League is considered one of the most exciting soccer leagues in all of the world making Premier League games some of the most watched cable events in the world. Like other mainstream sporting leagues, the Premier League attracts significant attention from the gaming industry. Currently, predicting the victor of a Premier League match with high certainty is very difficult. We will attempt to construct a comprehensive neural network to successfully predict the result of Premier League matches on a consistent basis.
+The English Premier League is considered one of the most exciting soccer leagues in all of the world making Premier League games some of the most watched cable events in the world. Like other mainstream sporting leagues, the Premier League attracts significant attention from the gambling industry. Currently, predicting the victor of a Premier League match with high certainty is very difficult. We will attempt to construct a comprehensive neural network to successfully predict the result of Premier League matches on a consistent basis.
 
 To improve upon the previous [results](https://link.springer.com/chapter/10.1007/978-981-15-9509-7_57), we will try to use a more robust dataset with more pre-game and post-game datapoints such as expected goals for and against along with a more optimized algorithm. Another key modification is that their results are outdated and do not continue to learn, whereas we want to keep our model as up to date as possible. This might mean reading data in from the last 3-4 years instead of the last 7-8 years.
 
@@ -134,15 +134,9 @@ Addressing Hypothesis comments:
 
 ### Primary Model
 
-Our primary model was trained on input data given by several basic data points of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) were used as validation data, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2011-2017 EPL seasons) throughout 30 epochs (with a batch size of 80), our model was able to produce an accurate prediction of a given match result up to 75% of the time. We obtained the optimal learning rate using fastai's `li_find()` method as seen below.
+Our primary model was trained on input data given by several basic data points of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) were used as validation data, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2011-2017 EPL seasons) throughout 30 epochs (with a batch size of 80), our model was able to produce an accurate prediction of a given match result up to 75% of the time.
 
-<!-- ![Optimal Learning Rate](images/learning-rate.png) -->
-
-<p text-align="center">
-  <img width=400px src="images/learning-rate.png" />
-</p>
-
-Training again using 30 epochs increased the accuracy up to 79% of the time. By decreasing the batch size from 80 to 30, several more points of accuracy were obtained resulting in a final accuracy of up to 83%.
+Training again using 60 epochs increased the accuracy up to 79% of the time. By increasing the batch size from 80 to 124, several more points of accuracy were obtained consistenetly, resulting in a final accuracy of up to 80.21%.
 
 ![Model Results](images/main-model-results.png)
 
@@ -175,9 +169,39 @@ Similarly, training a model only using BetWay odds and another only using Bet365
 
 ### Varying Hyperparameters
 
-The accuracy increased gradually when we increased the number of epochs from 10 to 30. Varying the batch size between 32 - 100 had a lesser impact on the accuracy but the range was smaller with a batch size between 64 - 80. Although, it is noteworthy that highest accuracies were provided when a batch size of around 30 was used.
+To maximize the model's accuracy we trained it several times, varying the hyper parameters. Primarily the parameters that we altered were the batch size and number of epochs. We also obtained the optimal learning rate using fastai's `li_find()` method as seen below.
 
-### Reflection & Ethics Considerations
+<!-- ![Optimal Learning Rate](images/learning-rate.png) -->
+
+<p text-align="center">
+  <img width=400px src="images/learning-rate.png" />
+</p>
+
+This on average game a learning rate of around 0.00144, although it varied slightly depending on the batch size used.
+
+Below are the accuracy results of changing the number of epochs and batch size for training.
+
+### Using 15 Epochs:
+
+| **Batch size** | **5**  | **30** | **60** | **124** |
+| :------------: | :----: | :----: | :----: | :-----: |
+|    Accuracy    | 73.02% | 74.82% | 77.69% | 76.25%  |
+
+### Using 30 Epochs:
+
+| **Batch size** | **5**  | **30** | **60** | **124** |
+| :------------: | :----: | :----: | :----: | :-----: |
+|    Accuracy    | 75.19% | 78.77% | 79.13% | 76.62%  |
+
+### Using 60 Epochs:
+
+| **Batch size** | **5**  | **30** | **60** | **124** |
+| :------------: | :----: | :----: | :----: | :-----: |
+|    Accuracy    | 69.24% | 78.05% | 79.49% | 80.21%  |
+
+The accuracy increased gradually when we increased the number of epochs up to 60. From here the accuracy tended to plateau. Increasing the batch size up to 124 yielded the most consistently accurate model. Thus, the final hyperparameters used for the model included a batch size of 124 and trained on 60 epochs.
+
+## Reflection & Ethics Considerations
 
 Based on our results, we observed that historical data, especially a team’s win streak, is key in predicting the outcome of future matches. However, it is not always wise to rely solely on historical data. For a test example, we used our model to predict the match outcome between Chelsea and Man United, played on 28th November. Our model predicted a win for Chelsea(**\***need to confirm this), who had a significant winning streak advantage before the match. In the end, the match concluded in a draw contrary to our model’s prediction. During the match Chelsea players made some human errors, and Man United’s interim team coach opted for an ultra defensive approach on the day. All these factors weighed heavily on the final scoreline. Even at 75% accuracy, it is difficult for our model to capture several other factors that determine match outcomes and must be used with precaution especially for betting purposes.
 
