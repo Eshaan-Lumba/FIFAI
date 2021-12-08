@@ -76,7 +76,6 @@ For our project we will mainly utilize Python and, in particular, two powerful n
 
 For our dataset we will use [Football-data](https://www.football-data.co.uk/englandm.php). By scraping the online dataset with the Python data scraping library Pandas, we will gather home and away goal results for each game in our target training seasons as well as manually calculate win streaks to train our individual team models. After our initial training and results evaluation we will consider other parameters to train our models on. By using random trees we will determine the most applicable and correlated parameters to a teams goal output and expand our models to incorporate these parameters accordingly. Since we are working with such a small dataset we will potentially need to include a high drop out rate in order to prevent our models from simply memorizing game outcomes and instead forcing the models to learn correlations from the inputs. -->
 
-
 <!-- ## Project Update 1 -->
 
 <!-- #### Software
@@ -119,21 +118,9 @@ Addressing Hypothesis comments:
 
 ### Primary Model
 
-<<<<<<< HEAD
 Our primary model was trained on input data given by several basic data points of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) were used as validation data, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2014-2022 EPL seasons) throughout 30 epochs (with a batch size of 80), our model was able to produce an accurate prediction of a given match result up to 75% of the time.
 
 Training again using 60 epochs increased the accuracy up to 79% of the time. By increasing the batch size from 80 to 124, several more points of accuracy were obtained consistenetly, resulting in a final accuracy of up to 80.21%.
-=======
-Our primary model was trained on input data given by several basic data points of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) were used as validation data, thus training our model to predict such outcomes of a given match. After training on 5 seasons of matches throughout 30 epochs (with a batch size of 80), our model was able to produce an accurate prediction of a given match result up to 75% of the time. We obtained the optimal learning rate using fastai's `li_find()` method as seen below.
-
-<!-- ![Optimal Learning Rate](images/learning-rate.png) -->
-
-<p text-align="center">
-  <img width=400px src="images/learning-rate.png" />
-</p>
-
-Training again using 30 epochs increased the accuracy up to 79% of the time. We also increased accuracy around 2-3% on average by training on more match data, going further back to include the 2011-2017 EPL seasons. Additionally, by decreasing the batch size from 80 to 30, several more points of accuracy were obtained resulting in a final accuracy of up to 83%.
->>>>>>> 956a73511fa8fd67e1ea432977be0e0358ee3808
 
 ![Model Results](images/main-model-results.png)
 
@@ -180,15 +167,23 @@ Below are the accuracy results of changing the number of epochs and batch size f
 
 ### Using 15 Epochs:
 
+| **Batch size** | **Number of epochs** | **Accuracy** |
+| :------------: | :------------------: | :----------: |
+|       5        |          15          |    73.02%    |
+|       30       |          15          |    74.82%    |
+|       60       |          15          |    77.69%    |
+|      124       |          15          |    76.25%    |
+
+| 5 | 30 | 75.19% |
+| 30 | 30 | 78.77% |
+| 60 | 30 | 79.13% |
+| 124 | 30 | 76.62% |
+
+<!-- ### Using 30 Epochs:
+
 | **Batch size** | **5**  | **30** | **60** | **124** |
 | :------------: | :----: | :----: | :----: | :-----: |
-|    Accuracy    | 73.02% | 74.82% | 77.69% | 76.25%  |
-
-### Using 30 Epochs:
-
-| **Batch size** | **5**  | **30** | **60** | **124** |
-| :------------: | :----: | :----: | :----: | :-----: |
-|    Accuracy    | 75.19% | 78.77% | 79.13% | 76.62%  |
+|    Accuracy    | 75.19% | 78.77% | 79.13% | 76.62%  | -->
 
 ### Using 60 Epochs:
 
@@ -200,9 +195,9 @@ The accuracy increased gradually when we increased the number of epochs up to 60
 
 ## Reflection & Ethics Considerations
 
-Based on our results, we observed that historical data, especially a team’s win streak, is key in predicting the outcome of future matches. However, it is not always wise to rely solely on historical data. For a test example, we used our model to predict the match outcome between Chelsea and Man United, played on 28th November. Our model predicted a win for Chelsea, who had a significant winning streak advantage before the match. In the end, the match concluded in a draw contrary to our model’s prediction. During the match Chelsea players made some human errors, and Man United’s interim team coach opted for an ultra defensive approach on the day. All these factors weighed heavily on the final scoreline. Even at 75% accuracy, with our limited data, it is difficult for our model to capture several other factors that determine match outcomes and must be used with precaution especially for betting purposes. Further, it is important to note that for our models that included betting organizations data our results were worse. This could potentially be due to muddled incentives of such organizations as the ones we utilized in our study. These organizations have the sole incentive of increasing profits, not nescesarily providing the most accurate predictions of match outcomes. Thus, including such data to train models might not nly be introducing a decrease in model accuracy, but also skewed incentives of for-profit institutions. 
+Based on our results, we observed that historical data, especially a team’s win streak, is key in predicting the outcome of future matches. However, it is not always wise to rely solely on historical data. For a test example, we used our model to predict the match outcome between Chelsea and Man United, played on 28th November. Our model predicted a win for Chelsea, who had a significant winning streak advantage before the match. In the end, the match concluded in a draw contrary to our model’s prediction. During the match Chelsea players made some human errors, and Man United’s interim team coach opted for an ultra defensive approach on the day. All these factors weighed heavily on the final scoreline. Even at 75% accuracy, with our limited data, it is difficult for our model to capture several other factors that determine match outcomes and must be used with precaution especially for betting purposes. Further, it is important to note that for our models that included betting organizations data our results were worse. This could potentially be due to muddled incentives of such organizations as the ones we utilized in our study. These organizations have the sole incentive of increasing profits, not nescesarily providing the most accurate predictions of match outcomes. Thus, including such data to train models might not nly be introducing a decrease in model accuracy, but also skewed incentives of for-profit institutions.
 
-For next time, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets so see if they have an effect on the accuracy. Furthermore, building a different type/more complicated neural network might have improved our accuracy. Lastly, we we would like to build a web application (currently in progress) so that we can predict the outcome of a random game between two teams. 
+For next time, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets so see if they have an effect on the accuracy. Furthermore, building a different type/more complicated neural network might have improved our accuracy. Lastly, we we would like to build a web application (currently in progress) so that we can predict the outcome of a random game between two teams.
 
 ## Future Work <a name="outro"></a>
 
