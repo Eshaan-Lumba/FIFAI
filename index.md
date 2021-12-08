@@ -134,7 +134,7 @@ Addressing Hypothesis comments:
 
 ### Primary Model
 
-Our primary model was trained on input data given by several basic data points of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) were used as validation data, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2011-2017 EPL seasons) throughout 30 epochs (with a batch size of 80), our model was able to produce an accurate prediction of a given match result up to 75% of the time.
+Our primary model was trained on input data given by several basic data points of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) were used as validation data, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2014-2022 EPL seasons) throughout 30 epochs (with a batch size of 80), our model was able to produce an accurate prediction of a given match result up to 75% of the time.
 
 Training again using 60 epochs increased the accuracy up to 79% of the time. By increasing the batch size from 80 to 124, several more points of accuracy were obtained consistenetly, resulting in a final accuracy of up to 80.21%.
 
@@ -148,12 +148,12 @@ No further adjustments in batch size or number of epochs resulted in an increase
 
 ### Including Odds Data
 
-By including the predictions made by different betting organizations, our model reflects the general expectation of a matched outcome by sources interested in doing so. Adding predictions made by bookie odds (namely Bet365 and BetWay), the accuracy ranged between 73% - 77% and averaged around 75%. Note that the column B635H corresponds to the odds that the home team would win predicted by Bet365 while B635W corresponds to such odds for the away team. This is similarly the case with the BWH and BWA columns with regards to the predictions made by BetWay. Below is a sample batch using this data as well as the highest produced accuracy from the model.
+By including the predictions made by different betting organizations, our model reflects the general expectation of a matches outcome by bettors. Adding predictions made by bookie odds (namely Bet365 and BetWay), the accuracy ranged between 73% - 77% and averaged around 75%. Note that the column B635H corresponds to the general consensus that the home team would win, as gathered by B365, while B365A corresponds to such odds for the away team. This is similarly the case with the BWH and BWA columns with regards to the esxpectations of bettors gathered by BetWay. Below is a sample batch using this data as well as the highest produced accuracy from the model.
 
 ![Model Including Odds](images/with-odds-batch-example.png)
 ![Model Including Odds](images/with-odds-results.png)
 
-Given the high variance in predictions made by betting organizations as well as the immense uncertainty in match outcomes, these added parameters unsurprisingly did not yield significantly different results from our initial model. To complete our analysis we trained a model solely using the betting odds as inputs.
+Given the high variance in expectations made by betting organizations as well as the immense uncertainty in match outcomes, these added parameters unsurprisingly did not yield significantly different results from our initial model. Human psychology plays a large factor in the odds expressed for a given matches outcome and thus make our model more prone to humman error and bias. To complete our analysis we trained a model solely using the betting odds as inputs.
 
 ### Just Using Odds Data
 
