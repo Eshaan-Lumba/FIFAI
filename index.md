@@ -165,17 +165,22 @@ This on average game a learning rate of around 0.00144, although it varied sligh
 
 Below are the accuracy results of changing the number of epochs and batch size for training.
 
+| <b>Table 1</b>|
+
 | **Batch size** | **Number of epochs** | **Accuracy** |
 | :------------: | :------------------: | :----------: |
 |       5        |          15          |    73.02%    |
+|       15       |          15          |    75.89%    |
 |       30       |          15          |    74.82%    |
 |       60       |          15          |    77.69%    |
 |      124       |          15          |    76.25%    |
 |       5        |          30          |    75.19%    |
+|       15       |          30          |    78.77%    |
 |       30       |          30          |    78.77%    |
 |       60       |          30          |    79.13%    |
 |      124       |          30          |    76.62%    |
 |       5        |          60          |    69.24%    |
+|       15       |          60          |    75.89%    |
 |       30       |          60          |    78.05%    |
 |       60       |          60          |    79.49%    |
 |      124       |          60          |    80.21%    |
