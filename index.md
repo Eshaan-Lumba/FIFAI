@@ -166,24 +166,23 @@ This on average game a learning rate of around 0.00144, although it varied sligh
 Below are the accuracy results of changing the number of epochs and batch size for training.
 
 | <b>Table 1</b>|
-
 | **Batch size** | **Number of epochs** | **Accuracy** |
 | :------------: | :------------------: | :----------: |
-|       5        |          15          |    73.02%    |
-|       15       |          15          |    75.89%    |
-|       30       |          15          |    74.82%    |
-|       60       |          15          |    77.69%    |
-|      124       |          15          |    76.25%    |
-|       5        |          30          |    75.19%    |
-|       15       |          30          |    78.77%    |
-|       30       |          30          |    78.77%    |
-|       60       |          30          |    79.13%    |
-|      124       |          30          |    76.62%    |
-|       5        |          60          |    69.24%    |
-|       15       |          60          |  **81.65%**  |
-|       30       |          60          |    78.05%    |
-|       60       |          60          |    79.49%    |
-|      124       |          60          |    80.21%    |
+| 5 | 15 | 73.02% |
+| 15 | 15 | 75.89% |
+| 30 | 15 | 74.82% |
+| 60 | 15 | 77.69% |
+| 124 | 15 | 76.25% |
+| 5 | 30 | 75.19% |
+| 15 | 30 | 78.77% |
+| 30 | 30 | 78.77% |
+| 60 | 30 | 79.13% |
+| 124 | 30 | 76.62% |
+| 5 | 60 | 69.24% |
+| 15 | 60 | **81.65%** |
+| 30 | 60 | 78.05% |
+| 60 | 60 | 79.49% |
+| 124 | 60 | 80.21% |
 
 The accuracy increased gradually when we increased the number of epochs up to 60. From here the accuracy tended to plateau. Increasing the batch size up to 15 yielded the most consistently accurate model. Thus, the final hyperparameters used for the model included a batch size of 15 and trained on 60 epochs. It is worthy to note that increasing the batch size could result in overfitting, thus resulting in our model just encoding the data (memorizing it), rather than "learning" it. Thus, we will not increase the batch size further even though it might lead to higher accuracies.
 
