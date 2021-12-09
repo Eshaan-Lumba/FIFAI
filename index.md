@@ -120,7 +120,7 @@ Addressing Hypothesis comments:
 
 Our primary model was trained on input data given by several basic data points of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) were used as validation data, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2014-2022 EPL seasons) throughout 30 epochs (with a batch size of 80), our model was able to produce an accurate prediction of a given match result up to 75% of the time.
 
-Training again using 60 epochs increased the accuracy up to 79% of the time. By increasing the batch size from 80 to 124, several more points of accuracy were obtained consistenetly, resulting in a final accuracy of up to 80.21%.
+Training again using 60 epochs increased the accuracy up to 79% of the time. By increasing the batch size from 80 to 124, several more points of accuracy were obtained consistently, resulting in a final accuracy of up to 80.21%.
 
 ![Model Results](images/main-model-results.png)
 
@@ -153,7 +153,7 @@ Similarly, training a model only using BetWay odds and another only using Bet365
 
 ### Varying Hyperparameters
 
-To maximize the model's accuracy we trained it several times, varying the hyper parameters. Primarily the parameters that we altered were the batch size and number of epochs. We also obtained the optimal learning rate using fastai's `li_find()` method as seen below.
+To maximize the model's accuracy we trained it several times, varying the hyper parameters. Primarily the parameters that we altered were the batch size and number of epochs. We also obtained the optimal learning rate using fastai's `lr_find()` method as seen below.
 
 <!-- ![Optimal Learning Rate](images/learning-rate.png) -->
 
@@ -179,7 +179,7 @@ Below are the accuracy results of changing the number of epochs and batch size f
 | 60 | 30 | 79.13% |
 | 124 | 30 | 76.62% |
 | 5 | 60 | 69.24% |
-| 15 | 60 | **81.65%** |
+| **15** | **60** | **81.65%** |
 | 30 | 60 | 78.05% |
 | 60 | 60 | 79.49% |
 | 124 | 60 | 80.21% |
