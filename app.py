@@ -10,8 +10,10 @@ import streamlit as st
 
 home_team = st.text_input("Enter the Home Team")
 away_team = st.text_input("Enter the Away Team")
-home_win_streak = float(st.slider("Enter the winning streak of the home team", 0, 11))
-away_win_streak = float(st.slider("Enter the winning streak of the away team", 0, 11))
+home_win_streak = float(
+    st.slider("Enter the winning streak of the home team", 0, 11))
+away_win_streak = float(
+    st.slider("Enter the winning streak of the away team", 0, 11))
 TGSH = st.radio('Is the home team on a 3 game winning streak?', ['Yes', 'No'])
 is_on_TGSH = 0.0
 if (TGSH == 'Yes'):
@@ -48,11 +50,14 @@ row, clas, probs = learn.predict(predict_input)
 LDW = torch.argmax(probs)
 
 if (LDW == 0):
-    st.subheader(f"Our model predicts a win for {away_team}")
+    st.subheader(
+        f"Our model predicts a win for {away_team} with {probs[0]} accuracy")
 elif (LDW == 1):
-    st.subheader(f"Our model predicts a draw between {home_team} and {away_team}")
+    st.subheader(
+        f"Our model predicts a draw between {home_team} and {away_team} with {probs[1]} accuracy")
 else:
-    st.subheader(f"Our model predicts a win for {home_team}")
+    st.subheader(
+        f"Our model predicts a win for {home_team} with {probs[2]} accuracy")
 # -
 
 
