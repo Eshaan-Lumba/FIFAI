@@ -10,6 +10,13 @@
 4. [Discussion](#fourth-examplehttpwwwfourthexamplecom)
 5. [Reflection & Future Works](#outro) -->
 
+
+## Abstract  <a name="Abstract"></a>
+Attempts to accurately predict the outcomes of premier league soccer matches have historically drawn interest from various soccer stakeholders such as sponsors, avid fans, gamblers, and investors. Match predictions are often made using possible odds for or against teams. The most popular odds today are created mainly from statistical methods i.e the poisson distribution, or from pure human intuition. Only a few recent ones have been created using neural network models. In this paper, we trained a neural network model using available premier league data from the 2014/2015 season to the 2020/2021 season, and achieved a 70% accuracy in predicting a win, loss or draw for future matches. We implemented the model using fastai and made use of a team’s key data points including cumulative win streaks, home goals/away goals, whether they played home/away, match referee e.t.c 
+
+Keywords: fastai, win streak
+
+
 ## Introduction <a name="introduction"></a>
 
 The English Premier League is considered one of the most exciting soccer leagues in all of the world making Premier League games some of the most watched cable events in the world. Like other mainstream sporting leagues, the Premier League attracts significant attention from the gambling industry. Currently, predicting the victor of a Premier League match with high certainty is very difficult. We will attempt to construct a comprehensive neural network to successfully predict the result of Premier League matches on a consistent basis.
