@@ -191,14 +191,6 @@ Below are the accuracy results of changing the number of epochs and batch size f
 
 The accuracy increased gradually when we increased the number of epochs up to 60. From here the accuracy tended to plateau. Increasing the batch size up to 15 yielded the most consistently accurate model. Thus, the final hyperparameters used for the model included a batch size of 15 and trained on 60 epochs. It is worthy to note that increasing the number of epochs could result in overfitting, thus resulting in our model just encoding the data (memorizing it), rather than "learning" it. Thus, we will not increase the number of epochs further even though it might lead to higher accuracies.
 
-## Reflection
-
-Based on our results, we observed that historical data, especially a team’s win streak, is key in predicting the outcome of future matches. However, it is not always wise to rely solely on historical data. For a test example, we used our model to predict the match outcome between Chelsea and Man United, played on 28th November. Our model predicted a win for Chelsea, who had a significant winning streak advantage before the match. In the end, the match concluded in a draw contrary to our model’s prediction. During the match Chelsea players made some human errors, and Man United’s interim team coach opted for an ultra defensive approach on the day. All these factors weighed heavily on the final scoreline. Even at 80% accuracy, with our limited data, it is difficult for our model to capture several other factors that determine match outcomes and must be used with precaution especially for betting purposes. 
-
-We have also built a simple web application to test our model on any two Premier League teams. The 'app.py' file in our Github repository can be run using Streamlit to test it.
-
-For next time, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets so see if they have an effect on the accuracy. This would include datapoints such as expected goals scored, expected goals conceded, current position in the table and an unbeaten streak. Furthermore, building a different type/more complicated neural network might have improved our accuracy. 
-
 ## Ethics Discussion
 
 When reflecting upon the ethical angle of our project, it is important to note that for our models that included betting organizations data our results were worse off. This could potentially be due to muddled incentives of such organizations as the ones we utilized in our study. These organizations have the sole incentive of increasing profits, not nescesarily providing the most accurate predictions of match outcomes. Thus, including such data to train models might not nly be introducing a decrease in model accuracy, but also skewed incentives of for-profit institutions. By evading the usage of betting odds, we have produced a model that is more friendly toward the consumer. While we can not know for certain why gambling sites have slighlty inaccurate predictions, we understand that by introducing more nuianced and accurate models consumers can gain advantage over large gaming sites who make copious amounts of money. Therefore, a conventional sports better can rely less on speculation and more on data.
@@ -208,6 +200,15 @@ By building a successful model, we realise that it might lead to an increase in 
 ## Future Work <a name="outro"></a>
 
 Building upon our sucessful model, we might be interested in trying to replicate our success for other European soccer leagues like La Liga in Spain or Ligue 1 in France. Furthermore, a point of interest that composed a crucial part of the model was the inclusion of a team's winning streak. By adding winning streak data as a parameter, we might be able to sucessfully a general model that can be significantly more sucessful than current betting algorithms through the utilizing data pertaining to a team's momentum.
+
+
+## Reflection
+
+Based on our results, we observed that historical data, especially a team’s win streak, is key in predicting the outcome of future matches. However, it is not always wise to rely solely on historical data. For a test example, we used our model to predict the match outcome between Chelsea and Man United, played on 28th November. Our model predicted a win for Chelsea, who had a significant winning streak advantage before the match. In the end, the match concluded in a draw contrary to our model’s prediction. During the match Chelsea players made some human errors, and Man United’s interim team coach opted for an ultra defensive approach on the day. All these factors weighed heavily on the final scoreline. Even at 80% accuracy, with our limited data, it is difficult for our model to capture several other factors that determine match outcomes and must be used with precaution especially for betting purposes. 
+
+We have also built a simple web application to test our model on any two Premier League teams. The 'app.py' file in our Github repository can be run using Streamlit to test it.
+
+For next time, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets so see if they have an effect on the accuracy. This would include datapoints such as expected goals scored, expected goals conceded, current position in the table and an unbeaten streak. Furthermore, building a different type/more complicated neural network might have improved our accuracy. 
 
 <!-- ## Literature Review
 
