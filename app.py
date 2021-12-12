@@ -50,14 +50,17 @@ row, clas, probs = learn.predict(predict_input)
 LDW = torch.argmax(probs)
 
 if (LDW == 0):
+    percentage = "{:.0%}".format(probs[0])
     st.subheader(
-        f"Our model predicts a win for {away_team} with {probs[0]} accuracy")
+        f"Our model predicts a win for {away_team} with {percentage} accuracy")
 elif (LDW == 1):
+    percentage = "{:.0%}".format(probs[1])
     st.subheader(
-        f"Our model predicts a draw between {home_team} and {away_team} with {probs[1]} accuracy")
+        f"Our model predicts a draw between {home_team} and {away_team} with {percentage} accuracy")
 else:
+    percentage = "{:.0%}".format(probs[2])
     st.subheader(
-        f"Our model predicts a win for {home_team} with {probs[2]} accuracy")
+        f"Our model predicts a win for {home_team} with {percentage} accuracy")
 # -
 
 
