@@ -208,7 +208,7 @@ Based on our results, we observed that historical data, especially a team’s wi
 
 We have also built a simple web application to test our model on any two Premier League teams. The 'app.py' file in our Github repository can be run using Streamlit to test it.
 
-For next time, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets so see if they have an effect on the accuracy. This would include datapoints such as expected goals scored, expected goals conceded, current position in the table and an unbeaten streak. Furthermore, building a different type/more complicated neural network might have improved our accuracy. 
+For next time, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets to see if they have an effect on the accuracy. This would include datapoints such as expected goals scored, expected goals conceded, current position in the table and an unbeaten streak. Furthermore, building a different type/more complicated neural network might have improved our accuracy. 
 
 <!-- ## Literature Review
 
