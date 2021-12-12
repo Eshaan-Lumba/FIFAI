@@ -137,7 +137,7 @@ No further adjustments in batch size or number of epochs resulted in an increase
 
 ### Including Odds Data
 
-By including the predictions made by different betting organizations, our model reflects the general expectation of a matches outcome by bettors. Adding predictions made by bookie odds (namely Bet365 and BetWay), the accuracy ranged between 73% - 77% and averaged around 75%. Note that the column B635H corresponds to the general consensus that the home team would win, as gathered by B365, while B365A corresponds to such odds for the away team. This is similarly the case with the BWH and BWA columns with regards to the esxpectations of bettors gathered by BetWay. Below is a sample batch using this data as well as the highest produced accuracy from the model.
+By including the predictions made by different betting organizations, our model reflects the general expectation of a matches outcome by bettors. Adding predictions made by bookie odds (namely Bet365 and BetWay), the accuracy ranged between 73% - 77% and averaged around 75%. Note that the column B635H corresponds to the general consensus that the home team would win, as gathered by B365, while B365A corresponds to such odds for the away team. This is similarly the case with the BWH and BWA columns with regards to the expectations of bettors gathered by BetWay. Below is a sample batch using this data as well as the highest produced accuracy from the model.
 
 ![Model Including Odds](images/with-odds-batch-example.png)
 ![Model Including Odds](images/with-odds-results.png)
@@ -154,11 +154,11 @@ For the model only utilizing the predicted odds by the aforementioned betting or
   <img width=600px src="images/only-odds-results.png" />
 </p>
 
-Similarly, training a model only using BetWay odds and another only using Bet365 data yielded accuracies between 50-60%. Perhaps by increasing the number of betting agencies would yield different results, although this demonstrates the lack of accuracy by standard betting organizations.
+Similarly, training a model only using BetWay odds and another only using Bet365 data yielded accuracies between 50-60%. Perhaps increasing the number of betting agencies would yield different results, although this demonstrates the lack of accuracy reflected by standard betting organizations.
 
 ### Varying Hyperparameters
 
-To maximize the model's accuracy we trained it several times, varying the hyper parameters. Primarily the parameters that we altered were the batch size and number of epochs. We also obtained the optimal learning rate using fastai's `lr_find()` method as seen below.
+To maximize the model's accuracy we trained it several times, varying the hyper parameters. Primarily, the parameters that we altered were the batch size and number of epochs. We also obtained the optimal learning rate using fastai's `lr_find()` method as seen below.
 
 <!-- ![Optimal Learning Rate](images/learning-rate.png) -->
 
@@ -166,9 +166,9 @@ To maximize the model's accuracy we trained it several times, varying the hyper 
   <img width=400px src="images/learning-rate.png" />
 </p>
 
-This on average game a learning rate of around 0.00144, although it varied slightly depending on the batch size used.
+On average, this gave a learning rate of around 0.00144, although it varied slightly depending on the batch size used.
 
-Below are the accuracy results of changing the number of epochs and batch size for training.
+Below are the accuracy results of changing the number of epochs and batch size.
 
 | | <b>Table 1</b>| |
 | **Batch size** | **Number of epochs** | **Accuracy** |
@@ -189,26 +189,26 @@ Below are the accuracy results of changing the number of epochs and batch size f
 | 60 | 60 | 79.49% |
 | 124 | 60 | 80.21% |
 
-The accuracy increased gradually when we increased the number of epochs up to 60. From here the accuracy tended to plateau. Increasing the batch size up to 15 yielded the most consistently accurate model. Thus, the final hyperparameters used for the model included a batch size of 15 and trained on 60 epochs. It is worthy to note that increasing the number of epochs could result in overfitting, thus resulting in our model just encoding the data (memorizing it), rather than "learning" it. Thus, we will not increase the number of epochs further even though it might lead to higher accuracies.
+The accuracy increased gradually when we increased the number of epochs up to 60. From here the accuracy tended to plateau. Increasing the batch size up to 15 yielded the most consistently accurate model. Thus, the final hyperparameters used for the model included a batch size of 15 and trained on 60 epochs. It is worthy to note that increasing the number of epochs could result in overfitting, thus resulting in our model just encoding the data (memorizing it), rather than "learning" it. Thus, we did not increase the number of epochs further even though it might have lead to higher accuracies.
 
 ## Ethics Discussion
 
-When reflecting upon the ethical angle of our project, it is important to note that for our models that included betting organizations data our results were worse off. This could potentially be due to muddled incentives of such organizations as the ones we utilized in our study. These organizations have the sole incentive of increasing profits, not nescesarily providing the most accurate predictions of match outcomes. Thus, including such data to train models might not nly be introducing a decrease in model accuracy, but also skewed incentives of for-profit institutions. By evading the usage of betting odds, we have produced a model that is more friendly toward the consumer. While we can not know for certain why gambling sites have slighlty inaccurate predictions, we understand that by introducing more nuianced and accurate models consumers can gain advantage over large gambling sites who make copious amounts of money. Therefore, a conventional sports better can rely less on speculation and more on data.
+When reflecting upon the ethical angle of our project, it is important to note that our models that included betting organizations data produced results that significanlty worse than those without them. This could potentially be due to muddled incentives of such organizations as the ones we utilized in our study. These organizations have the sole incentive of increasing profits, not nescesarily providing the most accurate predictions of match outcomes. Thus, including such data to train models might not only be introducing a decrease in model accuracy, but also skewed incentives of for-profit institutions. By evading the usage of betting odds, we have produced a model that is more friendly toward the consumer. While we can not know for certain why gambling sites have slighlty inaccurate predictions, we understand that by introducing more nuanced and accurate models consumers can gain advantage over large gambling sites who make copious amounts of money. Therefore, a conventional sports better can rely less on speculation and more on data.
 
-By building a successful model, we realise that it might lead to an increase in the amount of bets made on Premier League matches, leading to those consequences faced by excessive gambling. For one, the number of bets might drastically increase with people taking higher risks. Clearly, if people are aware of the result of the game from beforehand for about 70-80% of the time, there is a lot of money to be made. Another issue that might surface is a lack of enjoyment in watching football. If people know the result beforehand, would they still enjoy watching the game as much? These are some questions and consequences we need to be wary off before releasing such a model to the public.
+By building a successful model, we realise that it might lead to an increase in the amount of bets made on Premier League matches, leading to those consequences faced by excessive gambling. For one, the number of bets might drastically increase with people taking higher risks. Clearly, if people are aware of the result of the game from beforehand for about 70-80% of the time, there is a lot of money to be made. Another issue that might surface is a lack of enjoyment in watching football. If people know the result beforehand, would they still enjoy watching the game as much? These are some questions and consequences we need to be wary of before releasing such a model to the public.
 
 ## Future Work <a name="outro"></a>
 
-Building upon our sucessful model, we might be interested in trying to replicate our success for other European soccer leagues like La Liga in Spain or Ligue 1 in France. Furthermore, a point of interest that composed a crucial part of the model was the inclusion of a team's winning streak. By adding winning streak data as a parameter, we might be able to sucessfully a general model that can be significantly more sucessful than current betting algorithms through the utilizing data pertaining to a team's momentum.
+Building upon our model, we are interested in trying to replicate our success for other European soccer leagues such as La Liga in Spain or Ligue 1 in France. Furthermore, a point of interest that composed a crucial part of the model was the inclusion of a team's winning streak. By adding winning streak data as a parameter, we might be able to sucessfully craft a general model that can be significantly more sucessful than current betting algorithms through utilizing data pertaining to a team's momentum. There are so many potential factors that go into a match's outcome that it is impossible to define and encode all of them in a neural network. In the future we hope to identify some of these that are lesser known or that have a greater bearing on match outcomes.
 
 
 ## Reflection
 
 Based on our results, we observed that historical data, especially a team’s win streak, is key in predicting the outcome of future matches. However, it is not always wise to rely solely on historical data. For a test example, we used our model to predict the match outcome between Chelsea and Man United, played on 28th November. Our model predicted a win for Chelsea, who had a significant winning streak advantage before the match. In the end, the match concluded in a draw contrary to our model’s prediction. During the match Chelsea players made some human errors, and Man United’s interim team coach opted for an ultra defensive approach on the day. All these factors weighed heavily on the final scoreline. Even at 80% accuracy, with our limited data, it is difficult for our model to capture several other factors that determine match outcomes and must be used with precaution especially for betting purposes. 
 
-We have also built a simple web application to test our model on any two Premier League teams. The 'app.py' file in our Github repository can be run using Streamlit to test it.
+To allow interactivity with our model we have built a simple web application to test our model on any two Premier League teams. The 'app.py' file in our Github repository can be run using Streamlit to interact with it.
 
-For next time, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets to see if they have an effect on the accuracy. This would include datapoints such as expected goals scored, expected goals conceded, current position in the table and an unbeaten streak. Furthermore, building a different type/more complicated neural network might have improved our accuracy. 
+For future work, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets to see if they have an effect on the accuracy. This would include datapoints such as expected goals scored, expected goals conceded, current position in the table and an unbeaten streak. Furthermore, building a different type/more complicated neural network might have improved our accuracy. 
 
 <!-- ## Literature Review
 
