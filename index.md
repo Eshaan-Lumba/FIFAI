@@ -123,9 +123,9 @@ Addressing Hypothesis comments:
 
 ### Primary Model
 
-Our primary model was trained on input data given by several basic datapoints of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) was used as our dependent variable, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2014-2022 EPL seasons) throughout 30 epochs (with a batch size of 80), our model was able to produce an accurate prediction of a given match result up to 75% of the time.
+Our primary model was trained on input data given by several basic datapoints of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) was used as our dependent variable, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2014-2022 EPL seasons) throughout 15 epochs (with a batch size of 30), our model was able to produce an accurate prediction of a given match result up to 75% of the time.
 
-Training again using 60 epochs increased the accuracy up to 79% of the time. By increasing the batch size from 80 to 124, several more points of accuracy were obtained consistently, resulting in a final accuracy of up to 81.65%.
+Training again using 60 epochs increased the accuracy up to 79% of the time. By decreasing the batch size from 30 to 15, several more points of accuracy were obtained consistently, resulting in a final accuracy of up to 81.65%.
 
 ![Model Results](images/main-model-results.png)
 
