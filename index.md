@@ -2,15 +2,6 @@
 
 ### By Eshaan Lumba, Kenneth Ochieng, Jett Bronstein and Aidan Garton
 
-<!-- ## Table of Contents
-
-1. [Inroduction](#introduction)
-2. [Related Works](#related-works)
-3. [Methods](#third-example)
-4. [Discussion](#fourth-examplehttpwwwfourthexamplecom)
-5. [Reflection & Future Works](#outro) -->
-
-
 ## Abstract  <a name="Abstract"></a>
 Attempts to accurately predict the outcomes of Premier League soccer matches have historically drawn interest from various soccer stakeholders such as sponsors, avid fans, gamblers, and investors. Match predictions are often made using possible odds for or against teams. The most popular odds today are created mainly from statistical methods i.e the poisson distribution, pooled bookie opinions, and other probabilistic methods. Only a few recent ones have been created using neural network models. In this paper, we trained a neural network model using available Premier League data from the 2014/2015 season to the 2021/2022 season, and achieved 81.65% accuracy in predicting a win, loss or draw for future matches. We implemented the model using FastAI and made use of a team’s key datapoints including cumulative win streaks, home goals/away goals, whether the team played at their home field, and the match referee. We recognize, however, that our model can unintentionally propagate negative social impact by encouraging compulsive gambling or diminishing the thrill of watching Premier League matches with 70% - 80% accurate pre-match predictions. 
 
@@ -73,65 +64,15 @@ For our validation set, we used the last 10% of matches from our dataset. Since 
 
 Thus, our various different sets of datapoints allowed us to build multiple different models and perform different sets of analysis.
 
-<!-- ## Methods Draft 1
-
-We want to use a recurrent neural network along with long short-term memory since we want to keep track of patterns and form. Our inputs will be a vector of integer values tracking the goals scored by the home and away team, whether the team is at home or away and whether the team is on a winning streak. We will be performing classification. For both the home and away team we want to predict the result for, the algorithm will predict the difference in goals scored by both teams. Hence, we will have two difference of score measures. We will then subtract these scores from one another to determine the final result. A positive final value is a win for the home team, a negative final value is a win for the away team, and a value of 0 implies a draw. Our algorithm will predict the most probable result from the possible options of a draw, a win for the home team and a win for the away team. Hence, our output will be a column vector of floating point values that contains the difference in scores.
-
-For our project we will mainly utilize Python and, in particular, two powerful neural network libraries--[PyTorch](https://pytorch.org/) and [FastAI](https://docs.fast.ai/). We will use FastAI to create preliminary models of each team in the EPL that we hope to create predictions for. Trained on 5 seasons of data (2015-2020), these models will predict a given outcome against another team based on the home and away goals and win streaks of each team. Once each model has output a goal prediction against the other team, we will take the difference to predict the winning team. Once we have initial models, we will transition to PyTorch to flesh out our models and experiment with different model types. Following in the footsteps of the [Sarika et al.](https://link.springer.com/chapter/10.1007/978-981-15-9509-7_57) paper, we will experiment with a recurrent neural network architecture to allow us to track and model temporal dynamic behavior.
-
-For our dataset we will use [Football-data](https://www.football-data.co.uk/englandm.php). By scraping the online dataset with the Python data scraping library Pandas, we will gather home and away goal results for each game in our target training seasons as well as manually calculate win streaks to train our individual team models. After our initial training and results evaluation we will consider other parameters to train our models on. By using random trees we will determine the most applicable and correlated parameters to a teams goal output and expand our models to incorporate these parameters accordingly. Since we are working with such a small dataset we will potentially need to include a high drop out rate in order to prevent our models from simply memorizing game outcomes and instead forcing the models to learn correlations from the inputs. -->
-
-<!-- ## Project Update 1 -->
-
-<!-- #### Software
-We will use a combination of [PyTorch](https://pytorch.org/) and [FastAI](https://docs.fast.ai/).
-
-#### Our Dataset
-We will use a combination of ["English Premier League stats 2019-2020"](https://www.kaggle.com/idoyo92/epl-stats-20192020?select=epl2020.csv), ["2021-2022 Premier League Stats"](https://fbref.com/en/comps/9/Premier-League-Stats) and ["English Premier League (football)"](https://datahub.io/sports-data/english-premier-league#readme).
-
-#### Overview of project
-We want to use a recurrent neural network along with long short-term memory since we want to keep track of patterns and form. Our inputs will be a vector of floating point values (expected goals for and expected goals against for the home team for the particular game). We will be performing classification. Our algorithm will predict the most probable scoreline out of a multitude of options. Hence, our output will be a vector of floating point values that hold the probablility of the match ending in a given scoreline.  -->
-
-<!-- ## Project Update 2
-
-What we have completed or tried to complete:
-
-- We have conclusively decided our final project goal which is to predict the result of an English Premier League (EPL) soccer match.
-  - This was changed from predicting the scoreline of an EPL soccer match.
-- We have decided to use the dataset from [Football-data](https://www.football-data.co.uk/englandm.php).
-  - This dataset is the original, up-to-date dataset that some of the other datasets sourced their information from.
-  - The dataset also contains a lot of irrelevant information that we will have to remove.
-- Completed our introduction and related works sections.
-
-Issues we have encountered:
-
-- Finding a comprehensive and up-to-date dataset containing relevant data from at least the last 4 seasons.
-- Understanding exactly what data we need for our project.
-  - We feel as though it might require trial and error and we might have to test the neural network with different datasets.
-
-Addressing Hypothesis comments:
-
-1. We have changed our project goal from predicting the soccer scoreline to predicting the result of the game. For this, we want to use an RNN since that has had the most success in the past. We also thought it made sense because it allows the network to remember previous results and hence take into consideration the form of the team.
-2. We are currently doing that and are taking a look at how to do it in PyTorch.
-3. We have formatted the links and updated the document for our introduction draft.
-4. We have added links in a consistent format for our introduction and related works draft.
-5. We briefly discussed the ethical implications of building a successful project in our last paragraph in our initial introduction outline. However, we have now added a more comprehensive discussion on it at the end our current introduction draft. -->
-
-<!-- ## Discussion Outline -->
-
 ## Discussion and Results
 
 ### Primary Model
 
 Our primary model was trained on input data given by several basic datapoints of previous EPL matches. These included the names of the home and away team and their current win or loss streaks. An extra column was included to denote if either team was on at least a three game win streak or not. The results of the match (win, loss, or draw) was used as our dependent variable, thus training our model to predict such outcomes of a given match. After training on eight seasons of matches (the 2014-2022 EPL seasons) throughout 15 epochs (with a batch size of 30), our model was able to produce an accurate prediction of a given match result up to 75% of the time.
 
-Training again using 60 epochs increased the accuracy up to 79% of the time. By decreasing the batch size from 30 to 15, several more points of accuracy were obtained consistently, resulting in a final accuracy of up to 81.65%.
+Training again using 60 epochs increased the accuracy up to 78% of the time. By decreasing the batch size from 30 to 15, several more points of accuracy were obtained consistently, resulting in a final accuracy of up to 81.65%.
 
 ![Model Results](images/main-model-results.png)
-
-<!-- <p text-align="center">
-  <img src="images/main-model-results.png" />
-</p> -->
 
 No further adjustments in batch size or number of epochs resulted in an increase in the prediction accuracy. These results match up closely with those of the study done by Sarika et al. This is fairly unsurprising given that the training data and provided inputs were the same for both models. Similar to the Sarika et al. study, we found that a batch size of around 30 was optimal to maximize our model’s prediction accuracy. From here we attempted to increase accuracy by adjusting the input parameters to include the name of the referee to account for potential bias and/or correlation between the arbiter of a given match and its outcome. Including this extra parameter ended up having little effect on the model as the average prediction accuracy leveled around 80%. This suggests that there is little to no correlation between the result of a match and the arbiter who oversaw it--an unsurprising and reassuring outcome. Given our success in producing a network that reached accuracies of previous studies, we moved forward by considering as inputs the predictions of several betting companies in order to provide insight into their effects on (and/or correlation with) premier league match outcomes.
 
@@ -159,8 +100,6 @@ Similarly, training a model only using BetWay odds and another only using Bet365
 ### Varying Hyperparameters
 
 To maximize the non-odds model's accuracy we trained it several times, varying the hyper parameters. Primarily, the parameters that we altered were the batch size and number of epochs. We also obtained the optimal learning rate using FastAI's `lr_find()` method as seen below.
-
-<!-- ![Optimal Learning Rate](images/learning-rate.png) -->
 
 <p text-align="center">
   <img width=400px src="images/learning-rate.png" />
@@ -209,21 +148,3 @@ Based on our results, we observed that historical data, especially a team’s wi
 To allow interactivity with our model, we have built a simple web application to test our model on any two Premier League teams. The 'app.py' file in our Github repository can be run using Streamlit to interact with it.
 
 For future work, we could potentially try building the model solely in PyTorch to perhaps gain a better understanding of the PyTorch framework. We could also try building our own datapoints and combining data from multiple other datasets to see if they have an effect on the accuracy. This would include datapoints such as expected goals scored, expected goals conceded, current position in the table and an unbeaten streak. Furthermore, building a different type/more complicated neural network might have improved our accuracy. 
-
-<!-- ## Literature Review
-
-### 1. Soccer Result Prediction Using Deep Learning and Neural Networks
-
-This paper compares several different score/outcome prediction strategies for various sports and leagues (including the NBA and soccer matches) and proposes an RNN (recuring neural network) architecture to predict match outcomes in the English Premier League. Taking as parameters a team's statistics from past seasons (and updating data by adding current games of a season) the RNN constructed in this paper ended up with around an 80% accuracy prediction of match outcomes. Some parameters included were points gained by the home vs. away team (1 for draw, 3 for win, 0 for loss), goals scored by the home vs. away team, winning and losing streak of the home vs. away team (a streak of >3 and >5 were tracked). This paper concludes that RNNs provide a better architecture for the problem of score prediction over other architectures and provide measurable evidence for such in soccer matches in the EPL.
-
-### 2. Using Deep Convolutional Neural Networks to Predict Goal-scoring Opportunities in Soccer
-
-This paper trained a NN on Bundesliga game data to predict the chance of a goal scoring opportunity based on a given position of the game's players and the game ball. Using 2-dimensional data gathered from the Amisco multi-camera system, this network showed as a high as a 67% accuracy rate for predicting goals. This paper coul be helpful if we wanted to analyze past scoring chances, positional data, and etc... from past games played by a team in order to provide a prediction of current and future game outcomes.
-
-### 3. Predict soccer matches with 50% accuracy
-
-In the article, the author used the Poisson Distribution and Poisson Regression through Python to predict the results of the last 10 matches of the 2018-2019 Premier League season. It was quite clear to see that for that season at least, the Poisson distribution very clearly matched the results of the whole season. The key data points he used were, for a certain team, the likelihood that they would score, the likelihood that they would concede and the likelihoods that they would score if they were a home or away team. It resulted in a success rate of almost 50%. The author also suggested using more data points such as form, more matches and correctness of under/over underestimating results.
-
-### 4. Football Match Statistics Prediction using Artificial Neural Networks
-
-This paper discusses a soccer match statistics prediction NN framwork. The NN is trained with data from two Bundesliga teams (Bayern Munich and Borussia Dortmound). They analyze various input factors selected to help the Neural Net detect patterns and predict match statisitics such as the winning team, goals scored, and bookings. Their data shows that the Neural Net is able to predict the match statistics with a higher accuracy than an existing if-else case framework (Football Result Expert System (FRES) used to predict American soccer. According to their analysis, there are several key factors which affect the outcome of matches and a NN can be trained to learn from previous history to predict future outcomes. These factors include: transfer money spent by a team in a season, a team's UEFA co-effecient (for each team participating in the champions league), year of match, league rank, goals scored and conceded, wins and losses , home advantage etc. They advice that each of these factors have certain limitations in their application and some teams generally have more data than others because of their length of participation in competitions. A few of these factors can also only be applied within a league in a single country. This paper could be useful to help guide our choices when considering the type of data we need for teams and also the labels we need to train a NN. In addition, we can learn from their backpropagation algorithm and normalization of data points for further improvement. -->
