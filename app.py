@@ -29,7 +29,7 @@ referee = st.text_input("Enter the referee")
 
 
 def load_model():
-    path = 'model/final_model.pkl'
+    path = './model/final_model.pkl'
     learn = load_learner(path, 'final_model.pkl')
     return learn
 
