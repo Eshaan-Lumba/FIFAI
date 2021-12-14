@@ -158,7 +158,7 @@ Similarly, training a model only using BetWay odds and another only using Bet365
 
 ### Varying Hyperparameters
 
-To maximize the model's accuracy we trained it several times, varying the hyper parameters. Primarily, the parameters that we altered were the batch size and number of epochs. We also obtained the optimal learning rate using fastai's `lr_find()` method as seen below.
+To maximize the model's accuracy we trained it several times, varying the hyper parameters. Primarily, the parameters that we altered were the batch size and number of epochs. We also obtained the optimal learning rate using FastAI's `lr_find()` method as seen below.
 
 <!-- ![Optimal Learning Rate](images/learning-rate.png) -->
 
